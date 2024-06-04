@@ -57,6 +57,7 @@ class Agent:
 		_prompt = DEFAULT_AGENT_SPAWN_PROMPT.format(n=self.n_agents, question=question)
 		res = self.llm.complete(_prompt).text
 		self._agent_tasks = res.split("\n")
+		print(self._agent_tasks)
 
 	def collect_reasonings(self) -> list[str]:
 		_reasonings = []
@@ -64,8 +65,19 @@ class Agent:
 			_prompt = DEFAULT_AGENT_GENERATED_REASON.format(question=self._question.question, perspective=task)
 			res = self.llm.complete(_prompt).text
 			_reasonings.append(res)
+			print(res)
 		return _reasonings
 
 	def reset(self) -> None:
 		self._agent_tasks = []
 		self._question = None
+
+if __name__ == "__main__":
+	agent = Agent()
+	question = MMLU(
+		question="What is the capital of France?",
+		answers=["Paris", "London", "Berlin", "Madrid"],
+		correct="Paris"
+	)
+	agent.question = question
+	print(agent.get_response())
