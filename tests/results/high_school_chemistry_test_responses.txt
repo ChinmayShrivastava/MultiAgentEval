@@ -1,0 +1,811 @@
+1. ------------------------
+Reasoning: London dispersion forces are weak, temporary, present in all molecules due to temporary fluctuations in electron distribution.
+Answer: A
+------------------------
+2. ------------------------
+Reasoning: The smaller atomic radius of carbon compared to larger atoms allows for stronger bonding due to the increased nuclear attraction between the positively charged nucleus and the negatively charged electrons. This results in a higher first ionization energy, as more energy is required to remove an electron from a smaller atom with a stronger bond.
+Answer: A
+------------------------
+3. ------------------------
+Reasoning: The substance is likely a covalent compound based on its high melting point, poor conductivity of electricity, and insolubility in water.
+Answer: C
+------------------------
+4. ------------------------
+Reasoning: The correct answer should involve the formation of a precipitate, which is AgBr in this case, as a result of the reaction between NH4Br and AgNO3.
+Answer: A
+------------------------
+5. ------------------------
+Reasoning: The symbol for antimony is internationally recognized as "Sb" according to the periodic table.
+Answer: B
+------------------------
+6. ------------------------
+Reasoning: To calculate the partial pressure of nitrogen in the container, we need to determine the mole fraction of nitrogen in the mixture. The mole fraction of nitrogen can be calculated by dividing the moles of nitrogen by the total moles of all gases present. Using the ideal gas law, we can then find the partial pressure of nitrogen by multiplying its mole fraction by the total pressure of the gases in the container. 
+Answer: A. 0.33 atm
+------------------------
+7. ------------------------
+Reasoning: Monatomic ions of the representative elements are formed by the loss or gain of electrons, which is a characteristic of achieving a stable electron configuration. This process is common among the representative elements in groups 1, 2, 13-18 on the periodic table.
+Answer: C
+------------------------
+8. ------------------------
+Reasoning: The correct answer should emphasize that electrons must fill each orbital singly before pairing up to minimize electron-electron repulsion and increase stability, which aligns with the principles of Hund's rule.
+Answer: D
+------------------------
+9. ------------------------
+Reasoning: The correct answer should have a different electron configuration compared to the rest of the ions mentioned in the question.
+Answer: C
+------------------------
+10. ------------------------
+Reasoning: Sulfurous acid has a lower dissociation constant (Ka) compared to sulfuric acid, meaning it only partially ionizes in water, resulting in fewer hydrogen ions being released into solution. Sulfuric acid, on the other hand, fully ionizes to produce more hydrogen ions, making it a stronger acid.
+Answer: A
+------------------------
+11. ------------------------
+Reasoning: Calculating the moles of NaOH present in the solution based on the volume used and the molarity of HCl, the correct answer should be determined by using stoichiometry and the balanced chemical equation to find the moles of NaOH. 
+Answer: C
+------------------------
+12. ------------------------
+Reasoning: Asymmetrical molecules do not have a plane of symmetry, meaning that they cannot be divided into two equal halves that are mirror images of each other. Therefore, the substance with an asymmetrical molecular structure should have different atoms or groups of atoms attached to the central atom.
+Answer: D
+------------------------
+13. ------------------------
+Reasoning: Hydrogen fluoride (HF) has stronger intermolecular forces due to hydrogen bonding compared to other hydrogen halides, resulting in a liquid state at 15°C.
+Answer: A
+------------------------
+14. ------------------------
+Reasoning: To determine the equilibrium concentration of BrCl, we need to set up an ICE table using the initial concentration of BrCl and the equilibrium constant of 15.0. By using the ICE table method, we can calculate the equilibrium concentration of BrCl.
+Answer: B
+------------------------
+15. ------------------------
+Reasoning: Boiling involves the change in state from liquid to gas, absorption of heat energy, and formation of bubbles. The correct answer should involve the breaking of intermolecular forces and not chemical bonds, which aligns with the characteristics of boiling liquid NH3.
+Answer: D
+------------------------
+16. ------------------------
+Reasoning: The correct answer should be a weak base because the student wants to prepare a buffer solution that can resist changes in pH when small amounts of acid or base are added.
+Answer: C
+------------------------
+17. ------------------------
+Reasoning: The correct answer should have a negative change in Gibbs free energy (ΔG < 0) to indicate that the reaction is spontaneous.
+Answer: C
+------------------------
+18. ------------------------
+Reasoning: The element with the highest electronegativity value will have the largest bond polarity, indicating a stronger pull on the shared electrons. Additionally, the presence of an ionic bond typically results in the largest bond polarity.
+Answer: B
+------------------------
+19. ------------------------
+Reasoning: The substance that is produced in one elementary reaction and consumed in another is called an intermediate because it plays a crucial role in linking different steps of the reaction mechanism together and contributes to the overall reaction stoichiometry.
+Answer: B
+------------------------
+20. ------------------------
+Reasoning: A substance with a shorter half-life will decay at a faster rate, leading to a quicker reduction in the amount of the substance present. This is important in determining how many half-lives it will take to reduce the initial amount to a specific level, such as 1.0 microgram in this case.
+Answer: A
+------------------------
+21. ------------------------
+Reasoning: Sulfur (S) is a reactant in the given chemical reaction, combining with oxygen to form sulfur dioxide (SO2).
+Answer: A
+------------------------
+22. ------------------------
+Reasoning: After three half-lives, the amount of the isotope remaining is 1/8 of the original quantity.
+Answer: C
+------------------------
+23. ------------------------
+Reasoning: Both reactants in option D (KOH + HClO4) will form soluble compounds when mixed together, leading to all ions canceling out in the net ionic equation.
+Answer: D
+------------------------
+24. ------------------------
+Reasoning: Nonpolar substances with strong intermolecular forces tend to be least soluble in water due to water's polar nature.
+Answer: B
+------------------------
+25. ------------------------
+Reasoning: The correct answer should involve reactants with different stoichiometric coefficients to accurately represent the relationship between reactant concentrations and reaction rates.
+Answer: C
+------------------------
+26. ------------------------
+Reasoning: Dark-colored, nonconducting liquid elements at room temperature include bromine and iodine.
+Answer: B
+------------------------
+27. ------------------------
+Reasoning: The molecule with a tetrahedral shape should have four bonded atoms arranged symmetrically around a central atom with bond angles of approximately 109.5 degrees. Among the options provided, only option D, CBr4, fits this description.
+Answer: D
+------------------------
+28. ------------------------
+Reasoning: The ideal gas law is successful for most gases because it assumes that gas particles do not interact significantly with each other, which allows for accurate predictions of gas behavior under normal conditions.
+Answer: C
+------------------------
+29. ------------------------
+Reasoning: An alpha particle is composed of two protons and two neutrons, making it a helium-4 nucleus with a positive charge. It is commonly produced during the radioactive decay of heavy elements. Additionally, alpha particles are positively charged, relatively heavy, and carry low energy. 
+Answer: B
+------------------------
+30. ------------------------
+Reasoning: The correct method to determine the enthalpy of a chemical reaction involves measuring the heat transfer, which can be done using a bomb calorimeter or a solution calorimeter. These methods directly measure the heat of the reaction, which is essential for calculating the enthalpy change accurately.
+Answer: B
+------------------------
+31. ------------------------
+Reasoning: The bond length between any two nonmetal atoms is achieved when the energy of interaction between the atoms is at its minimum value, indicating a stable bond formation.
+Answer: A
+------------------------
+32. ------------------------
+Reasoning: The oxidation number of chlorine in the perchlorate ion, ClO4–, is determined by considering the overall charge of the ion and the known oxidation numbers of the other elements present in the compound. In this case, since there are four oxygen atoms each with an oxidation number of -2, resulting in a total charge of -8, the oxidation number of chlorine must be +7 to balance out the charges and make the compound neutral.
+Answer: D
+------------------------
+33. ------------------------
+Reasoning: The molar volume of the gas, the ideal gas law equation, and the molar mass of water vapor are essential components in determining the molecular mass of the gas. The heat of formation of the gas, density of water, and mass of the displaced water are not directly related to finishing the experiment.
+Answer: D
+------------------------
+34. ------------------------
+Reasoning: Straight-chain hydrocarbons with more carbon atoms have larger molecular sizes, resulting in stronger intermolecular forces and higher melting points.
+Answer: A
+------------------------
+35. ------------------------
+Reasoning: By subtracting the mass of carbon and hydrogen from the total mass, we can find the mass of oxygen in the compound. Then, by calculating the moles of each element and determining the smallest whole number ratio, we can identify the empirical formula. 
+Answer: D
+------------------------
+36. ------------------------
+Reasoning: When considering the perspectives of different methods commonly used for burning materials, the easiest way to burn an iron nail should involve a method that requires minimal effort and resources. Using a simple lighter or matchstick to ignite the nail fits this criteria.
+Answer: A
+------------------------
+37. ------------------------
+Reasoning: An octet of electrons refers to a stable arrangement of 8 electrons in the outermost shell of an atom, typically achieved through chemical bonding. Among the options provided, PF5 has an octet of electrons around the central atom.
+Answer: C
+------------------------
+38. ------------------------
+Reasoning: By calculating the moles of H3PO4 present in 50.0 mL of 0.150 M solution and using the stoichiometry of the reaction between KOH and H3PO4, the correct answer can be determined.
+Answer: A. 30.0 mL
+------------------------
+39. ------------------------
+Reasoning: The statement "A greater distribution of reactant molecules will have high velocities" does not accurately explain how temperature affects the distribution of kinetic energies among reactant molecules because it does not consider the impact of temperature on the activation energy required for the reaction to occur.
+Answer: C
+------------------------
+40. ------------------------
+Reasoning: The Clausius-Clapeyron equation specifically relates vapor pressure to temperature and heat of vaporization, making it the most suitable choice for expressing the relationship between the vapor pressure of a liquid and the heat of vaporization.
+Answer: C
+------------------------
+41. ------------------------
+Reasoning: The second element in the pair with the larger electronegativity should be located towards the top right of the periodic table, as electronegativity generally increases from bottom left to top right. 
+Answer: B
+------------------------
+42. ------------------------
+Reasoning: The units for R, the ideal gas law equation constant, are determined by the units of pressure, volume, temperature, and the number of moles of gas involved in the specific context. R is a proportionality constant that relates the energy of a gas to its temperature and pressure, so the correct units should reflect this relationship. The correct answer should be consistent with the units of pressure times volume divided by moles times temperature (PV/nT).
+Answer: A
+------------------------
+43. ------------------------
+Reasoning: The correct answer should be a pair of liquids with significantly different intermolecular forces, as liquids with different forces tend to be immiscible.
+Answer: B
+------------------------
+44. ------------------------
+Reasoning: The emission spectrum of the elements, particularly hydrogen, provided crucial experimental evidence through detailed spectral lines, unique patterns, and quantized energy levels, which were essential in deducing the structure of the atom.
+Answer: C
+------------------------
+45. ------------------------
+Reasoning: Compounds with similar chemical structures tend to have similar properties, so the correct answer should have a structure similar to para-dichlorobenzene.
+Answer: A
+------------------------
+46. ------------------------
+Reasoning: Radon is a colorless, odorless, and tasteless radioactive gas that can seep into buildings through cracks in the foundation or gaps around pipes. When inhaled, it can increase the risk of lung cancer, making option A the correct choice.
+Answer: A
+------------------------
+47. ------------------------
+Reasoning: Each resonance form of the nitrate ion, NO3-, has 3 sigma bonds and 1 pi bond due to its trigonal planar molecular geometry, the formation of sigma bonds by head-on overlap of atomic orbitals, and the side-to-side overlap of p orbitals for pi bonds.
+Answer: D
+------------------------
+48. ------------------------
+Reasoning: The molecule that can form hydrogen bonds must contain hydrogen atoms bonded to highly electronegative atoms such as oxygen, nitrogen, or fluorine. Among the options provided, CH3NH2 (option D) fits this criteria as it contains hydrogen bonded to nitrogen.
+Answer: D
+------------------------
+49. ------------------------
+Reasoning: The functional group that represents an organic acid is the carboxyl group (-COOH), which is responsible for the acidic properties of organic acids. Among the options provided, only option C (RCOOH) contains the carboxyl group, making it the correct answer.
+Answer: C
+------------------------
+50. ------------------------
+Reasoning: The half-life of the radioactive material is 36 minutes, meaning that after each 36-minute period, half of the material will decay. Starting with 10.00 grams, after 2 hours (120 minutes), there will be 2.5 grams left based on the exponential decay formula.
+Answer: C
+------------------------
+51. ------------------------
+Reasoning: The pH of the solution can be calculated by first determining the concentration of H+ ions in the solution, which is related to the dissociation of hypochlorous acid (HClO). Given the Ka value of 3.0 × 10^-4, we can calculate the concentration of H+ ions and then convert it to pH. 
+Answer: D
+------------------------
+52. ------------------------
+Reasoning: The molar solubility of Iron(III) hydroxide will be very low due to its extremely small Ksp value of 1.6 × 10^-39. This indicates that the compound is sparingly soluble in water, leading to a low molar solubility.
+Answer: A
+------------------------
+53. ------------------------
+Reasoning: The subatomic particle with the most penetrating ability should have high energy and small size to pass through matter with minimal interaction.
+Answer: D
+------------------------
+54. ------------------------
+Reasoning: The molecules that exhibit sp2 hybridization around the central atom are the ones with a central atom having three electron domains and one pi bond, resulting in a trigonal planar geometry.
+Answer: C
+------------------------
+55. ------------------------
+Reasoning: The peak corresponding to the 1s orbital represents the core electrons of the carbon atom, which are closer to the nucleus and experience stronger attraction, resulting in lower energy levels. Since the question mentions three equally sized peaks, the peak corresponding to the 1s orbital is likely at the lowest energy level.
+Answer: A
+------------------------
+56. ------------------------
+Reasoning: The electrolysis of molten magnesium bromide is expected to produce magnesium at the cathode and bromine at the anode because positively charged magnesium ions will be attracted to the negative electrode (cathode) where they will gain electrons and form magnesium metal, while negatively charged bromide ions will be attracted to the positive electrode (anode) where they will lose electrons and form bromine gas.
+Answer: B
+------------------------
+57. ------------------------
+Reasoning: The Arrhenius equation is used to determine the activation energy of a reaction and the rate constant at various temperatures.
+Answer: D
+------------------------
+58. ------------------------
+Reasoning: Palladium should have a first ionization energy higher than Nickel but lower than Platinum, and a boiling point higher than Nickel but lower than Platinum based on trends in atomic number, atomic mass, and periodic table properties.
+Answer: C
+------------------------
+59. ------------------------
+Reasoning: The balanced half-reaction for bromate ions forming bromine involves the reduction of bromate ion (BrO3-) to bromine (Br2) in an acid solution.
+Answer: B
+------------------------
+60. ------------------------
+Reasoning: The pKa value should be lower because a lower pKa indicates a stronger acid, which would result in a lower pH for the solution when dissolved in water. Additionally, a larger volume of distilled water will dilute the acid, resulting in a higher pH measurement. Therefore, the pKa value of the weak acid should be lower to produce a pH of 4.26 in a more diluted solution.
+Answer: D
+------------------------
+61. ------------------------
+Reasoning: Potassium-40 has 19 protons and 21 neutrons in its nucleus, and since atoms are electrically neutral, it will have 19 electrons. This composition remains the same even when it is part of a compound like K2SO4.
+Answer: C
+------------------------
+62. ------------------------
+Reasoning: The reaction that involves the most complex molecules is expected to have the greatest decrease in entropy, as complex molecules have lower entropy due to their ordered structure.
+Answer: C
+------------------------
+63. ------------------------
+Reasoning: The low pH value of 2.0 indicates a high concentration of H+ ions in solution, suggesting that the weak monoprotic acid is largely ionized. Therefore, the ionization constant (Ka) will be small, indicating a strong acid.
+Answer: A
+------------------------
+64. ------------------------
+Reasoning: The vapor pressure of the mixture will be closer to the vapor pressure of solvent A (345 torr) than solvent B (213 torr) because the mole fraction of A is higher, indicating that A is the dominant component in the mixture.
+Answer: B
+------------------------
+65. ------------------------
+Reasoning: The strongest Brønsted-Lowry acid would be the one that can easily donate a proton to another molecule. Among the options provided, HBrO4 (option D) is the strongest acid as it has the highest tendency to donate a proton due to the presence of four oxygen atoms, making it more acidic compared to the other options.
+Answer: D
+------------------------
+66. ------------------------
+Reasoning: The molecule that fits the criteria of not being able to hydrogen bond with molecules identical to itself but can hydrogen bond with molecules above or below it is CH3CH2COOH, as it contains a carboxylic acid functional group that can participate in hydrogen bonding with neighboring molecules. 
+Answer: B
+------------------------
+67. ------------------------
+Reasoning: A buffer solution requires a weak acid and its conjugate base to resist changes in pH. The pair of substances that fit this requirement is HC2H3O2 (acetic acid - weak acid) and KC2H3O2 (potassium acetate - conjugate base).
+Answer: B
+------------------------
+68. ------------------------
+Reasoning: The negative end of the bond is written last to indicate the direction of electron transfer in the bond. In this case, the correct answer should be the bond where the negative end is written last, which is option B (Br—N).
+Answer: B
+------------------------
+69. ------------------------
+Reasoning: The correct answer is when the concentrations are all 1.00 molar because in order for Kp and Kc to have the same numerical value, the system must involve gases only, and the partial pressures of the gases must be directly proportional to the concentrations of the gases at equilibrium.
+Answer: C
+------------------------
+70. ------------------------
+Reasoning: Considering the properties required for a safe substitute for silver metal amalgamated with mercury, the best option would be a non-toxic, stable, and effective reducing agent. Among the given options, Na(s) (sodium metal) fits these criteria as it is non-toxic, stable, and capable of reducing substances effectively.
+Answer: B
+------------------------
+71. ------------------------
+Reasoning: When considering the information provided, the best way to manipulate the reaction to create more product is by increasing the temperature and decreasing the pressure, as an exothermic reaction with a decrease in moles of gas favors the formation of more product.
+Answer: C
+------------------------
+72. ------------------------
+Reasoning: The total heat gained by the water should be equal to the total heat lost by the liquid sample in order to reach the final temperature of 35 °C. This implies that the sample lost the same amount of heat energy as the water gained.
+Answer: B
+------------------------
+73. ------------------------
+Reasoning: The average kinetic energy of the oxygen gas molecules increases as the temperature rises, leading to higher speeds and wider distribution of speeds among the molecules.
+Answer: C
+------------------------
+74. ------------------------
+Reasoning: Calculating the molar mass of each element and using the percentages provided, the correct empirical formula should be C6H4Br3.
+Answer: B
+------------------------
+75. ------------------------
+Reasoning: The statement that the pressure in all three containers is the same is false because the pressure inside each container is directly proportional to the amount of gas it contains, which varies in this case due to the different masses of helium, nitrogen, and carbon dioxide.
+Answer: C
+------------------------
+76. ------------------------
+Reasoning: The specific heat capacity of helium gas is crucial in determining the final temperature of the gas sample. By calculating the amount of heat energy absorbed during the expansion process and using the formula Q = mcΔT, where Q is the heat added, m is the mass of the gas, c is the specific heat capacity, and ΔT is the change in temperature, we can accurately find the final temperature. 
+Answer: D
+------------------------
+77. ------------------------
+Reasoning: Substances with unpaired electrons exhibit paramagnetic behavior because unpaired electrons create a magnetic moment, causing the substance to be attracted to a magnetic field.
+Answer: B
+------------------------
+78. ------------------------
+Reasoning: The molecule expected to have the highest normal boiling point should exhibit strong intermolecular forces and have a high molecular weight. Among the given options, CH3CH2CH2CH2OH (Option B) contains an -OH group, which can participate in hydrogen bonding, leading to stronger intermolecular forces compared to the other options. Additionally, it has a higher molecular weight compared to the other options, contributing to a higher boiling point.
+Answer: B
+------------------------
+79. ------------------------
+Reasoning: The correct net ionic equation for the reaction between magnesium metal and chromium (III) nitrate should include magnesium as a reactant, show the transfer of electrons from magnesium to another element, and form magnesium nitrate and chromium metal as products.
+Answer: C
+------------------------
+80. ------------------------
+Reasoning: The conjugate acid of the H2PO4- ion should have higher acidity and a stronger tendency to donate a proton in order to stabilize the resulting molecule.
+Answer: C
+------------------------
+81. ------------------------
+Reasoning: The specific heat capacity of the solid sample can be determined by considering the heat gained by the water and the heat lost by the solid sample. In this case, the sample lost more thermal energy than the water gained because the temperature change of the sample was greater than that of the water.
+Answer: A
+------------------------
+82. ------------------------
+Reasoning: The correct answer should involve the production of a gas, a significant change in temperature or pressure, or the formation of a precipitate, as these are characteristics of irreversible reactions.
+Answer: A
+------------------------
+83. ------------------------
+Reasoning: In order to create a 1.00 L sample of a 3.0 M solution of H2SO4, the correct procedure is to use the formula (C1V1) = (C2V2) to calculate the volume of the 18.0 M stock solution needed. The calculation shows that 167 mL of the stock solution is required. Therefore, the correct answer is to add 167 mL of the stock solution to the flask, then fill the flask the rest of the way with distilled water while swirling the solution.
+Answer: A
+------------------------
+84. ------------------------
+Reasoning: Oxygen is typically found in aldehydes, alcohols, and ethers, but not in alkanes which consist of only carbon and hydrogen atoms.
+Answer: B
+------------------------
+85. ------------------------
+Reasoning: The energy involved in separating solvent molecules in step 1 is lower than separating solute molecules in step 2 because solvent molecules are typically smaller and have weaker intermolecular forces compared to solute molecules. Therefore, step 1 is likely to be endothermic, and step 2 is likely to be exothermic.
+Answer: B
+------------------------
+86. ------------------------
+Reasoning: The molecule with linear geometry would have the shortest bonds because in linear geometry, the atoms are arranged in a straight line, allowing for closer proximity between the atoms and thus shorter bond lengths.
+Answer: A
+------------------------
+87. ------------------------
+Reasoning: The reaction rate triples when the concentration of reactant A is tripled, indicating a direct proportionality. Therefore, the appropriate exponent for A in the rate law is 1.
+Answer: A
+------------------------
+88. ------------------------
+Reasoning: The simplest alkene, ethylene (C2H4), contains a carbon-carbon double bond, making it highly reactive compared to other organic compounds.
+Answer: A
+------------------------
+89. ------------------------
+Reasoning: The electrode material plays a crucial role in determining the potential of the voltaic cell. A more reactive metal will lead to a higher potential difference between the two half-cells, resulting in an increase in potential in the voltaic cell described by the given reaction.
+Answer: B
+------------------------
+90. ------------------------
+Reasoning: The decomposition of hypochlorous acid into chlorine gas can interfere with the color change indicator used to detect the endpoint of the titration, leading to inaccuracies in determining the equivalence point.
+Answer: C
+------------------------
+91. ------------------------
+Reasoning: The systematic IUPAC name for CH3CHBrCHClCH2CH3 should include proper prefixes for each substituent, correct numbering of the carbon chain, and proper use of hyphens and commas. Based on this, the correct answer is D. 2,3-bromochloropentane.
+Answer: D
+------------------------
+92. ------------------------
+Reasoning: High temperature, low pressure, and weak intermolecular forces allow gas particles to move more freely and experience less interaction with each other, leading to behavior closer to that of an ideal gas.
+Answer: B
+------------------------
+93. ------------------------
+Reasoning: The atomic number of chromium is 24, so an atom of 52Cr will have 24 protons. To determine the number of neutrons, subtract the atomic number from the atomic mass, which gives 28 neutrons. The electron configuration of chromium is 24, so it will have 24 electrons.
+Answer: D
+------------------------
+94. ------------------------
+Reasoning: The reaction involves the combination of one mole of sulfur atoms with one mole of oxygen molecules to yield one mole of sulfur dioxide molecules, which aligns with the stoichiometry of the reaction.
+Answer: B
+------------------------
+95. ------------------------
+Reasoning: The equilibrium constant (Kp) of 3.0 × 10^22 indicates that the reaction heavily favors the formation of sulfur trioxide (SO3). Since the pressure of SO3 is given as 0.789 atm Hg, the reaction has mostly converted SO2 and O2 to SO3. Therefore, the partial pressure of O2 at equilibrium will be very low.
+Answer: A. 2.88 × 10^-6 torr
+------------------------
+96. ------------------------
+Reasoning: The number of protons in an atom of Chromium (Cr) should be equal to the atomic number of Chromium, which is 24.
+Answer: C
+------------------------
+97. ------------------------
+Reasoning: During isothermal expansion of an ideal gas, the volume increases while the temperature remains constant. This means work is done by the gas, resulting in a non-zero value for work (w). Therefore, the correct answer is not B. Additionally, since the process is isothermal, there is no change in internal energy (ΔE = 0), eliminating option C. The first law of thermodynamics states that q = ΔE + w, and since ΔE = 0 and w is not zero, the correct relationship is q = -w. Hence, the correct answer is D.
+Answer: D
+------------------------
+98. ------------------------
+Reasoning: An ideal solution should be a mixture where two solvents can be dissolved in all ratios, as it provides the most comprehensive and effective approach to solving the problem. 
+Answer: A
+------------------------
+99. ------------------------
+Reasoning: Bases are substances that can accept protons (H+ ions), not donate OH- ions into solution. Strong bases dissociate completely in water to produce OH- ions, while weak bases partially dissociate, so only strong bases create solutions with OH- ions present.
+Answer: B
+------------------------
+100. ------------------------
+Reasoning: The Pauli exclusion principle states that no two electrons can have the same four quantum numbers, which is crucial in understanding the behavior of electrons in atoms and their arrangement in different energy levels.
+Answer: A
+------------------------
+101. ------------------------
+Reasoning: The molar ratio between mercury(II) oxide and oxygen gas in the decomposition reaction is 2:1. Therefore, when 4.32 g of solid mercury(II) oxide decomposes, it will produce 0.0200 mol of oxygen gas.
+Answer: C
+------------------------
+102. ------------------------
+Reasoning: Sulfur has a valence of 6, high electronegativity, and a larger atomic size compared to the other elements, making it the most likely element to form a structure with the formula XF6.
+Answer: D
+------------------------
+103. ------------------------
+Reasoning: Chlorine gas is a halogen and highly reactive due to its tendency to gain an electron to achieve a stable electron configuration. It reacts readily with substances containing hydrogen or metals.
+Answer: C
+------------------------
+104. ------------------------
+Reasoning: Ester formation typically involves the reaction between an alcohol and a carboxylic acid, resulting in the elimination of water molecules in a process known as esterification.
+Answer: C
+------------------------
+105. ------------------------
+Reasoning: The element with the lowest ionization energy would result in a peak three times higher than all other peaks in the photoelectron spectra, indicating easier removal of electrons.
+Answer: C
+------------------------
+106. ------------------------
+Reasoning: The gas is initially in a 2.0-liter container at 2.4 atmospheres pressure, and when it expands against a pressure of 0.80 atmospheres, work is done by the gas. The work done by the gas will be positive, so the correct answer is D. +14.4 L atm.
+Answer: D
+------------------------
+107. ------------------------
+Reasoning: The correct answer should be the one that does not accurately describe the compound it represents. In this case, option C, AlBr3 (aluminum tribromide), is incorrectly named because the correct name for this compound should be aluminum bromide, not aluminum tribromide.
+Answer: C
+------------------------
+108. ------------------------
+Reasoning: The standard state for redox reactions involves concentrations of soluble species being 1 molar, partial pressures of gases being 1 atmosphere, and a specified temperature, which is typically 25 °C. These conditions provide a consistent reference point for comparing redox reactions.
+Answer: D
+------------------------
+109. ------------------------
+Reasoning: Silicon carbide has a three-dimensional covalent network structure similar to diamond, which is responsible for its hardness and brittleness.
+Answer: B
+------------------------
+110. ------------------------
+Reasoning: The ion-electron method is used to balance redox reactions, where there is a transfer of electrons between reactants. Among the options provided, option D involves a redox reaction with the transfer of electrons, making it necessary to balance using the ion-electron method.
+Answer: D
+------------------------
+111. ------------------------
+Reasoning: To calculate the molarity of the solution, we need to first determine the number of moles of Ni(NO3)2 present in 30.0 grams. This can be done by converting grams to moles using the molar mass of Ni(NO3)2, which is 30.0 grams per mole. Once we have the moles of solute, we can then divide it by the volume of the solution in liters (250 mL = 0.25 L) to find the molarity. Therefore, the correct answer is B. 0.656 mol/L.
+Answer: B
+------------------------
+112. ------------------------
+Reasoning: At the equivalence point of the titration, the weak base has been completely neutralized by the strong acid, resulting in a sharp increase in pH. This is because the excess of hydrogen ions from the strong acid causes the solution to become more acidic, leading to a sudden rise in pH as the neutralization reaction is completed.
+Answer: A
+------------------------
+113. ------------------------
+Reasoning: The heat transferred between the liquid sample and the water can be calculated using the formula q = mcΔT, where q is the heat transferred, m is the mass of the substance, c is the specific heat capacity, and ΔT is the change in temperature. Since the final temperature of the mixture is closer to the initial temperature of the liquid sample, it indicates that the sample lost the same amount of heat energy as the water gained to obey the law of conservation of energy.
+Answer: D
+------------------------
+114. ------------------------
+Reasoning: The equilibrium constant is temperature-dependent according to the Van 't Hoff equation.
+Answer: C
+------------------------
+115. ------------------------
+Reasoning: As temperature increases, the translational, rotational, and vibrational degrees of freedom of diatomic gases also increase, leading to an increase in entropy because higher temperature provides more energy to the molecules, allowing them to move more freely and occupy more microstates, thus increasing the overall entropy of the system.
+Answer: B
+------------------------
+116. ------------------------
+Reasoning: The electronegativity values increase from nitrogen to phosphorus to oxygen because of the increasing nuclear charge and decreasing atomic size across the period.
+Answer: D
+------------------------
+117. ------------------------
+Reasoning: When considering the boiling points of each compound in the mixture, the compound with the lowest boiling point would be the easiest to separate via distillation.
+Answer: D
+------------------------
+118. ------------------------
+Reasoning: Increase in temperature will shift the equilibrium towards the endothermic reaction, favoring the formation of N2O4 because the forward reaction is endothermic. When temperature is increased, the equilibrium will shift towards the products side to counteract the increase in temperature, resulting in an increase in the amount of N2O4 in the reaction vessel.
+Answer: A
+------------------------
+119. ------------------------
+Reasoning: The solubility of cerium(III) sulfate decreases with increasing temperature because of the endothermic nature of the dissolution process.
+Answer: C
+------------------------
+120. ------------------------
+Reasoning: The mole fraction of sodium hydroxide can be calculated by dividing the weight percent of sodium hydroxide by the molecular weight of sodium hydroxide and then converting it to mole fraction. In this case, with a weight percent of 50%, the mole fraction would be 0.5.
+Answer: D
+------------------------
+121. ------------------------
+Reasoning: The correct answer should have high mass and contain quarks, which determine the mass of a subatomic particle.
+Answer: A
+------------------------
+122. ------------------------
+Reasoning: The pH of the resulting mixture will be determined by the concentrations of H+ and OH- ions present, which are influenced by the moles of HBr and KOH in the mixture.
+Answer: D
+------------------------
+123. ------------------------
+Reasoning: The trigonal bipyramidal geometry allows for five sigma bonds and one nonbonding pair of electrons, making it the ideal choice for a substance with these characteristics.
+Answer: C
+------------------------
+124. ------------------------
+Reasoning: The element K in K2Cr2O7 is a transition metal with variable oxidation states, requiring Roman numerals for naming to indicate the specific oxidation state of the metal in the cation.
+Answer: D
+------------------------
+125. ------------------------
+Reasoning: The heat of fusion is the correct answer as it is not a good measure of relative intermolecular attractive forces since it relates to the energy required to change a substance from a solid to a liquid state, which is more about the internal structure of the substance rather than intermolecular forces.
+Answer: A
+------------------------
+126. ------------------------
+Reasoning: The Pauli exclusion principle states that no two electrons can have the same four quantum numbers, which is crucial in understanding the behavior of electrons in atoms as fermions. This perspective highlights the importance of the principle in defining the quantum state of electrons.
+Answer: B
+------------------------
+127. ------------------------
+Reasoning: The alternative substance used for oxidizing substances should have strong oxidizing properties and be effective in removing color from compounds. Potassium permanganate (KMnO4) fits these criteria as it is a strong oxidizing agent and can effectively replace chlorine in the bleaching process.
+Answer: D
+------------------------
+128. ------------------------
+Reasoning: The overall reaction order is determined by the slow step in the mechanism, which is the rate-determining step. The fast step does not impact the overall reaction order. 
+Answer: B
+------------------------
+129. ------------------------
+Reasoning: The rate of a chemical reaction is defined as the change in concentration of a reactant or product per unit time, so the units should reflect this definition by including units of concentration divided by units of time.
+Answer: B
+------------------------
+130. ------------------------
+Reasoning: The correct procedure for diluting the 12.0 M sulfuric acid stock solution to make 100. mL of 4.0 M sulfuric acid involves adding the concentrated acid first and then diluting it with water. This ensures accurate dilution and proper mixing technique.
+Answer: B
+------------------------
+131. ------------------------
+Reasoning: Triple-distilled water is not a necessary component for preparing a buffer solution as it does not contribute to maintaining a stable pH level. 
+Answer: D
+------------------------
+132. ------------------------
+Reasoning: The correct answer should have more electronegative atoms attached to the central atom, which will stabilize the resulting conjugate base, making the acid stronger.
+Answer: C
+------------------------
+133. ------------------------
+Reasoning: The kinetic-molecular theory of gases states that the average kinetic energy of a gas particle is directly related to the Kelvin temperature, which aligns with the behavior of gas particles in constant motion and possessing kinetic energy.
+Answer: A
+------------------------
+134. ------------------------
+Reasoning: Variations in the initial concentration of phenol in the samples could lead to one sample requiring significantly more base to reach the endpoint. This discrepancy in initial concentration directly affects the amount of base needed in the titration process.
+Answer: D
+------------------------
+135. ------------------------
+Reasoning: From the perspective of determining the atomic number of a calcium atom, it should have 20 protons, which is reflected in option B.
+Answer: B
+------------------------
+136. ------------------------
+Reasoning: When considering the strength of intermolecular forces, hydrogen bonding is the strongest, followed by dipole-dipole interactions, and then London dispersion forces. Therefore, the correct order from strongest to weakest is hydrogen bond < dipole-dipole < induced dipole.
+Answer: A
+------------------------
+137. ------------------------
+Reasoning: The correct answer should consist of an acid and its corresponding base, differing by one proton (H+), as per the Brønsted-Lowry theory.
+Answer: C
+------------------------
+138. ------------------------
+Reasoning: The molecular mass of one molecule of cholesterol (C27H46O) is calculated by adding the atomic masses of all the atoms in the molecule. Since the molecular mass is 386, the correct answer should be the mass of one molecule of cholesterol, which is 3 × 10^-23 g.
+Answer: D
+------------------------
+139. ------------------------
+Reasoning: Considering the polarizability of the bond and the stability of the conjugate base, the compound that should be the strongest acid is HI because it has the most polarizable bond and forms a stable conjugate base, making it easier to dissociate the hydrogen ion.
+Answer: B
+------------------------
+140. ------------------------
+Reasoning: Mass spectrometry is a technique used to determine the mass-to-charge ratio of ions, helping identify and characterize compounds based on their molecular weight and structure.
+Answer: D
+------------------------
+141. ------------------------
+Reasoning: The dissolution of potassium perchlorate in water is an endothermic process as indicated by the decrease in temperature, meaning heat is absorbed. Therefore, the correct conclusion is that this is a spontaneous process because it is exothermic.
+Answer: D
+------------------------
+142. ------------------------
+Reasoning: Silicon carbide is known for its exceptional hardness, abrasiveness, heat resistance, and durability, making it suitable for grinding wheels.
+Answer: B
+------------------------
+143. ------------------------
+Reasoning: Sulfurous acid, H2SO3, dissociates in water to form H+, HSO3-, and SO3^2- ions. Therefore, the correct representation of the concentrations of these ions in solution would be [H2SO3] > [HSO3-] > [SO3^2-].
+Answer: B
+------------------------
+144. ------------------------
+Reasoning: In a reduction half-reaction, the species involved gains electrons, which is represented by the addition of an electron in the reaction. Therefore, the correct answer should involve the addition of an electron to a species, indicating a reduction process.
+Answer: B
+------------------------
+145. ------------------------
+Reasoning: Potassium has a larger atomic radius compared to chlorine and argon, making it easier to remove an electron due to weaker attraction between the nucleus and the outermost electron. This results in a lower first ionization energy value for potassium compared to chlorine and argon.
+Answer: D
+------------------------
+146. ------------------------
+Reasoning: The order of increasing acid strength should be based on the stability of the conjugate base formed after the acid donates a proton. In this case, H2SO3 < H2SeO3 < HClO < HBrO follows this pattern, making it the correct answer.
+Answer: D
+------------------------
+147. ------------------------
+Reasoning: The correct answer should be a nitrogen-containing compound resulting from the reduction of NO(g), which implies gaining electrons. The compound should have a lower oxidation state of nitrogen to prevent it from being oxidized. Therefore, the possible product of this reaction is B. N2(g).
+Answer: B
+------------------------
+148. ------------------------
+Reasoning: Standard conditions for temperature and pressure are 0°C (273.15 K) and 1 atmosphere pressure, which align with the ideal gas law requirements.
+Answer: B
+------------------------
+149. ------------------------
+Reasoning: The I2 electron clouds are much more polarizable than the Br2 electron clouds, resulting in much stronger London forces.
+Answer: C
+------------------------
+150. ------------------------
+Reasoning: Atoms with unpaired electrons tend to exhibit stronger magnetic moments. The element with unpaired electrons in its outer shell would have the strongest magnetic moment.
+Answer: B
+------------------------
+151. ------------------------
+Reasoning: Argon can be liquefied at low temperatures due to its weak intermolecular forces, which allow the particles to come closer together and form a liquid state at low temperatures.
+Answer: C
+------------------------
+152. ------------------------
+Reasoning: The reaction that results in fewer moles of gas in the products compared to the reactants leads to a decrease in entropy.
+Answer: B
+------------------------
+153. ------------------------
+Reasoning: The increase in volume allows the gas molecules to have more freedom of movement, leading to an increase in disorder and randomness within the system, resulting in an increase in entropy.
+Answer: D
+------------------------
+154. ------------------------
+Reasoning: The correct answer should involve reactants and/or products in different physical states or phases, indicating a heterogeneous reaction.
+Answer: C
+------------------------
+155. ------------------------
+Reasoning: By calculating the moles of KOH used in the neutralization reaction and converting the mass of the acid to moles, the molar mass of the monoprotic weak acid can be determined accurately.
+Answer: C
+------------------------
+156. ------------------------
+Reasoning: The student may have failed to account for the vapor pressure of water in the experiment, leading to lower than expected results because the presence of water vapor can affect the volume of the collected gas.
+Answer: C
+------------------------
+157. ------------------------
+Reasoning: The pH of the solution is higher than the pKa value of nitrous acid, indicating that the concentration of the conjugate base is higher than the concentration of the conjugate acid.
+Answer: B
+------------------------
+158. ------------------------
+Reasoning: The correct answer should involve the absorption of photons with energy greater than the ionization energy of the atom, allowing the electrons to overcome the binding energy and be ejected, which is essential for ionization during photoelectron spectroscopy.
+Answer: C
+------------------------
+159. ------------------------
+Reasoning: The decrease in temperature and increase in entropy caused by cooling the system with dry ice can lead to a more favorable condition for the reaction to become spontaneous. This aligns with the characteristics of ΔH < 0 and ΔS > 0.
+Answer: D
+------------------------
+160. ------------------------
+Reasoning: The correct answer should have the same number of atoms of each element on both sides of the chemical equation, satisfying the law of conservation of mass.
+Answer: B
+------------------------
+161. ------------------------
+Reasoning: The correct answer should consist of a proton donor (acid) and a proton acceptor (base) according to the Brønsted-Lowry theory.
+Answer: B
+------------------------
+162. ------------------------
+Reasoning: Electrons originally from the outermost subshell would have the highest velocity after being ejected due to their lower energy levels and weaker binding to the nucleus.
+Answer: C
+------------------------
+163. ------------------------
+Reasoning: Sulfurous acid has a lower dissociation constant (Ka) compared to sulfuric acid, indicating that it only partially ionizes in water, resulting in fewer hydrogen ions being released into solution. This suggests that sulfuric acid is a much stronger acid due to its ability to fully ionize and release more hydrogen ions.
+Answer: C
+------------------------
+164. ------------------------
+Reasoning: Radioactive elements are known for their unstable nuclei that emit radiation and undergo radioactive decay. Among the options provided, only option C, Am (Americium), fits this description as it is a radioactive element.
+Answer: C
+------------------------
+165. ------------------------
+Reasoning: Resonance structures occur when electrons can be shared in different ways within a molecule, leading to increased stability. The molecule that is expected to have two or more resonance structures is SO3 because it has delocalized electrons and multiple possible arrangements of electron distribution.
+Answer: B
+------------------------
+166. ------------------------
+Reasoning: Molecules with similar molecular masses are not required to form solutions is not directly related to the three-step process of solution formation described in the question.
+Answer: D
+------------------------
+167. ------------------------
+Reasoning: Transition metals typically have a partially filled d orbital which allows them to lose two electrons to achieve a more stable electron configuration, often resulting in an oxidation state of +2.
+Answer: D
+------------------------
+168. ------------------------
+Reasoning: By calculating the moles of chloride ions present in the sample based on the mass of the precipitate obtained and using the stoichiometry of the reaction, we can determine the percentage of chlorine in the sample. This involves converting the mass of the precipitate to moles of AgCl, relating moles of AgCl to moles of Cl-, and then calculating the percentage of chlorine in the sample using the molar mass of chlorine. 
+Answer: A
+------------------------
+169. ------------------------
+Reasoning: Nitric acid has a higher dissociation constant (Ka) value compared to nitrous acid, indicating a stronger acid.
+Answer: A
+------------------------
+170. ------------------------
+Reasoning: The equilibrium expression for the dissociation of phenol includes the concentration of H+ ions, and the Ka value of 1 × 10^-10 represents the equilibrium constant for this dissociation. Therefore, the H+(aq) concentration in the 1.0 M phenol solution can be calculated using this information.
+Answer: A
+------------------------
+171. ------------------------
+Reasoning: The balanced chemical equation for the dissociation of HI into hydrogen gas and iodine vapor shows that 2 moles of HI produce 1 mole of iodine vapor. Therefore, the molar concentration of iodine vapor can be determined by dividing the initial concentration of HI by 2. 
+Answer: A
+------------------------
+172. ------------------------
+Reasoning: The pKa of a weak acid is equal to the negative logarithm of its dissociation constant (Ka), and since the pH of the solution was measured as 4.26, the pKa can be calculated using the Henderson-Hasselbalch equation. 
+Answer: D
+------------------------
+173. ------------------------
+Reasoning: The larger size of the Cl2 molecule compared to the F2 molecule leads to stronger van der Waals forces between Cl2 molecules, resulting in a higher boiling point for chlorine because of increased intermolecular forces.
+Answer: C
+------------------------
+174. ------------------------
+Reasoning: The electrons contribute very little to the overall mass of an atom, with the majority of the mass concentrated in the nucleus made up of protons and neutrons.
+Answer: A
+------------------------
+175. ------------------------
+Reasoning: The ideal gas law equation can be used to calculate the molecular mass of a gas given its density, temperature, and pressure. By rearranging the equation and solving for molecular mass, the correct answer can be determined.
+Answer: A
+------------------------
+176. ------------------------
+Reasoning: Molecules that are best represented by multiple resonance structures typically have delocalized electrons, which results in greater stability and a more accurate representation of the molecule's structure. CO32-, NO2-, and NO3- all exhibit delocalization of electron density and multiple possible arrangements of bonds, making them best represented by multiple resonance structures.
+Answer: D
+------------------------
+177. ------------------------
+Reasoning: The unknown gas that is most likely to effuse through a pinhole 5.33 times faster than helium should have a smaller molar mass than helium, according to Graham's law of effusion.
+Answer: B
+------------------------
+178. Reasoning: When a solid melts, there is an increase in entropy as the particles gain more freedom of movement, leading to a more disordered state. Additionally, the enthalpy change is positive because energy is required to break the intermolecular forces holding the solid together and convert it into a liquid state.
+
+Answer: A
+179. ------------------------
+Reasoning: The reaction between rubidium and bromine will result in the formation of rubidium bromide, which is a stable compound that will be left in measurable amounts in the reaction vessel.
+Answer: A
+------------------------
+180. ------------------------
+Reasoning: Based on the information provided, the atomic radius of sodium is expected to be larger than that of magnesium due to its position in the periodic table. As the atomic radius increases, the ionization energy tends to decrease. Therefore, the most probable values for the ionization energy and atomic radius of sodium would be larger than those of magnesium. Option A (186 pm, 496 kJ/mol) fits this trend.
+Answer: A
+------------------------
+181. ------------------------
+Reasoning: Allotropes of carbon are well-documented and recognized in the scientific community, and the correct answer should not exhibit the typical properties of carbon allotropes.
+Answer: B
+------------------------
+182. ------------------------
+Reasoning: The strength of binary acids increases as you move down a group in the periodic table due to the increase in atomic size and decrease in electronegativity, impacting bond strength. Based on this, the correct order from strongest to weakest should be H2Se > H2S > H2O.
+Answer: D
+------------------------
+183. ------------------------
+Reasoning: Silicon (Si) is considered a metalloid as it exhibits properties of both metals and nonmetals, has intermediate conductivity, and is located along the staircase dividing metals and nonmetals on the periodic table.
+Answer: C
+------------------------
+184. ------------------------
+Reasoning: Sulfur (S) is a reactant in the chemical reaction because it is combined with oxygen (O2) to form sulfur dioxide (SO2).
+Answer: B
+------------------------
+185. ------------------------
+Reasoning: Electronegativity is a measure of an atom's ability to attract and hold onto electrons in a chemical bond. Based on the information provided, the element expected to have the highest electronegativity would be the one with the strongest ability to attract electrons.
+Answer: D
+------------------------
+186. ------------------------
+Reasoning: The larger volume of the solution will result in a more diluted solution, leading to a lower concentration of sodium ethanoate and a less acidic solution, resulting in a higher pH.
+Answer: D
+------------------------
+187. ------------------------
+Reasoning: The integrated rate law for a first-order reaction is ln([A]t/[A]0) = -kt, where [A]t is the concentration of the reactant at time t, [A]0 is the initial concentration of the reactant, k is the rate constant, and t is the time elapsed. Given the rate constant k = 86 h^-1 and the time elapsed t = 58 s, we can calculate the remaining mass of the sample using the formula. 
+Answer: B
+------------------------
+188. ------------------------
+Reasoning: The correct answer should be related to the increase in disorder or randomness of molecules during the phase change from liquid to gas, as entropy is a measure of the randomness or disorder of a system. The positive molar heat of vaporization of water (+43.9 kJ) indicates an increase in disorder, leading to a positive entropy change.
+Answer: A
+------------------------
+189. ------------------------
+Reasoning: To find the mass of the metal that reacts with one mole of hydrochloric acid, we need to first calculate the number of moles of hydrogen gas produced using the volume provided (28.3 mL = 0.0283 L) at STP. Since 1 mole of any gas at STP occupies 22.4 L, we can determine the number of moles of hydrogen gas produced. Then, using the balanced chemical equation, we can find the molar mass of the metal that reacts with one mole of hydrochloric acid.
+Answer: C. 24.7 g
+------------------------
+190. ------------------------
+Reasoning: Factors such as temperature, concentration of reactants, surface area, presence of catalysts, and pressure directly impact the frequency of collisions between reactant molecules, leading to a change in reaction rate. The rate of a chemical reaction is determined by the rate-determining or slow step of the mechanism.
+Answer: B
+------------------------
+191. ------------------------
+Reasoning: The rate constant for a first-order reaction can be calculated using the formula for the half-life of a first-order reaction, which is t1/2 = ln(2) / k. Given that the half-life is 34 minutes, we can rearrange the formula to solve for the rate constant k. Therefore, the correct answer is A. 3.4 × 10^-4 s-1.
+Answer: A
+------------------------
+192. ------------------------
+Reasoning: The reaction is nonspontaneous under standard conditions because the standard Gibbs free energy change is positive. The reaction becomes spontaneous at higher temperatures, indicating it is endothermic. Additionally, the increase in temperature leads to a positive change in entropy, making the reaction more spontaneous.
+Answer: C
+------------------------
+193. ------------------------
+Reasoning: When collecting a gas over water, it is crucial to correct for the vapor pressure of water to ensure accurate measurement of the gas collected without interference from water vapor. This correction allows for the determination of the true volume of the gas collected.
+Answer: D
+------------------------
+194. ------------------------
+Reasoning: A solution with high ionic strength and a pH that does not promote precipitation of MgCl2 would be ideal for increasing its solubility.
+Answer: C
+------------------------
+195. ------------------------
+Reasoning: Lowering the temperature will result in a slower rate of decomposition, ultimately increasing the half-life of SO2Cl2.
+Answer: A
+------------------------
+196. ------------------------
+Reasoning: Knowing the molar mass of propane (C3H8) is crucial to convert grams to moles using the formula n = m/M, where n is the number of moles, m is the mass in grams, and M is the molar mass of the substance. The molar mass of propane is 44.1 g/mol, so to find the number of moles in 6.2 g of propane, we use n = 6.2 g / 44.1 g/mol ≈ 0.14 mol.
+Answer: B
+------------------------
+197. ------------------------
+Reasoning: Buffer solutions are made by combining a weak acid and its conjugate base or a weak base and its conjugate acid in specific ratios to resist changes in pH. Mixing a solution of a weak acid with its conjugate base fits this criteria.
+Answer: D
+------------------------
+198. ------------------------
+Reasoning: The correct answer should involve high heat and oxygen to burn the copper penny effectively, as copper reacts with oxygen at high temperatures to form copper oxide.
+Answer: A
+------------------------
+199. ------------------------
+Reasoning: The correct answer should be a molecule that is highly soluble, dissociates completely into ions in water, and exhibits high electrical conductivity. Among the options provided, HBr (option D) fits these criteria as it is a strong acid that completely dissociates into H+ and Br- ions in water, leading to a high concentration of ions in solution and strong electrical conductivity.
+Answer: D
+------------------------
+200. ------------------------
+Reasoning: HClO4 is a strong acid with a high Ka value, indicating a greater tendency to ionize in water, resulting in a higher percentage of ionization.
+Answer: B
+------------------------
+201. ------------------------
+Reasoning: The collision theory of reaction rates focuses on the energy of collisions and the number of collisions per second, but does not specifically consider the orientation of each collision. 
+Answer: D
+------------------------
+202. ------------------------
+Reasoning: The oxidation state of chromium in the dichromate ion is +6, and it decreases to +3 in Cr3+, indicating reduction. Reduction involves the gain of electrons and a decrease in oxidation state.
+Answer: A
+------------------------
+203. ------------------------
+Reasoning: The rate law is first order with respect to A because the graph of 1/[A] versus time gives a straight line, indicating a first-order reaction where the rate is directly proportional to the concentration of A.
+Answer: A
+------------------------

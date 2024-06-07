@@ -1,0 +1,1510 @@
+1. ------------------------
+Reasoning: In order to solve for the value of p in the equation 24 = 2p, we need to isolate p by dividing both sides of the equation by 2. This will result in p = 12.
+Answer: C
+------------------------
+2. ------------------------
+Reasoning: Ms. Perez drove a total of 40 miles in 5 days, which means she drove an average of 8 miles each day. Since she drove the same number of miles each day, the correct answer should have consistent daily mileage to maintain this average.
+Answer: C
+------------------------
+3. ------------------------
+Reasoning: The quotient of two negative numbers is positive because when dividing two negative numbers, the negative signs cancel out each other resulting in a positive value.
+Answer: D
+------------------------
+4. ------------------------
+Reasoning: The maximum number of soccer balls that can be purchased within the budget of $90.00 can be calculated by dividing the total budget by the cost of one soccer ball. This calculation gives the maximum number of soccer balls that can be bought without exceeding the budget. Therefore, the correct answer is the quotient of $90.00 divided by $15.60, which is approximately 5 soccer balls.
+Answer: B
+------------------------
+5. ------------------------
+Reasoning: In order to accurately represent the cost of one ticket, the equation should be structured as t = 112 / 4. This equation divides the total cost of four tickets ($112) by the number of tickets (4) to find the cost of one ticket. 
+Answer: D
+------------------------
+6. ------------------------
+Reasoning: Following the order of operations (parentheses, exponents, multiplication and division from left to right, addition and subtraction from left to right), the correct value of the expression is 11.
+Answer: B
+------------------------
+7. ------------------------
+Reasoning: The correct answer should be a mixed number in simplest form, which is 1 1/11 because it accurately represents 1 and 1 over 11. 
+Answer: B
+------------------------
+8. ------------------------
+Reasoning: To find the quotient of 2.16 ÷ 0.06, we need to perform the division operation. By moving the decimal point to the right in both numbers to convert 0.06 into a whole number, the division becomes 216 ÷ 6, which equals 36. Therefore, the correct answer is A. 3.6.
+Answer: A
+------------------------
+9. ------------------------
+Reasoning: The correct answer should involve subtraction, which is the operation required to find the difference between two numbers.
+Answer: D
+------------------------
+10. ------------------------
+Reasoning: The correct answer should accurately divide 5.04 by 0.7 to find the quotient.
+Answer: D
+------------------------
+11. ------------------------
+Reasoning: The expression that adds up the estimated distances for each day, which is closest to the average distance people typically drive on similar trips, is 200 + 450 + 200.
+Answer: C
+------------------------
+12. ------------------------
+Reasoning: The remainder of 21 divided by 7 is 0 because 21 is evenly divisible by 7.
+Answer: C
+------------------------
+13. ------------------------
+Reasoning: Maddie will ride her bike for 8 miles each day because 56 miles divided by 7 days equals 8 miles per day.
+Answer: A
+------------------------
+14. ------------------------
+Reasoning: The unknown number should be 6 because when simplified, 48/88 is equal to 6/11.
+Answer: A
+------------------------
+15. ------------------------
+Reasoning: Option B offers the best value as it provides the most bars of soap for the price, making it the most cost-effective choice.
+Answer: B
+------------------------
+16. ------------------------
+Reasoning: Trish's heart rate increases by 5 beats per minute for every minute of exercise, starting from a resting heart rate of 50 beats per minute. To reach a heart rate of 120 beats per minute, she needs to increase by 70 beats (120 - 50). Since her heart rate increases by 5 beats per minute, it will take her 70 / 5 = 14 minutes to reach 120 beats per minute.
+Answer: B
+------------------------
+17. ------------------------
+Reasoning: The median is the middle value of a set of data when arranged in order. When the data set 13, 18, 23, 25, 29, 32 is arranged in ascending order, the middle value is 25.
+Answer: C
+------------------------
+18. ------------------------
+Reasoning: The correct equation to determine the number of apples, a, that Jack places into each gift basket should involve division because Jack placed the remaining apples equally into the 6 gift baskets.
+Answer: A
+------------------------
+19. ------------------------
+Reasoning: The scale of the map states that 1 inch represents 25 miles. Therefore, to find the total number of miles represented by 5 inches on the map, we multiply 5 by 25, which equals 125 miles.
+Answer: D
+------------------------
+20. ------------------------
+Reasoning: The expression (2 + 5)^2 simplifies to 49. Then, subtracting 42 from 49 gives us 7.
+Answer: A
+------------------------
+21. ------------------------
+Reasoning: Following the order of operations, multiplication and division should be performed before addition and subtraction. Therefore, the correct answer is 8.
+Answer: C
+------------------------
+22. ------------------------
+Reasoning: The actual number of runners must be a multiple of 10 when rounding to the nearest 10.
+Answer: C
+------------------------
+23. ------------------------
+Reasoning: When adding a negative number to another negative number, the result is a negative number. In this case, -4 plus -3 equals -7.
+Answer: A
+------------------------
+24. ------------------------
+Reasoning: To find the total number of stamps Mark has in all countries combined, we need to add up the number of stamps from Japan, Canada, and Mexico.
+Answer: C
+------------------------
+25. ------------------------
+Reasoning: By subtracting 2.7 from 8.4, we can isolate x and find that x = 5.7.
+Answer: B
+------------------------
+26. ------------------------
+Reasoning: The correct answer should involve a conversion factor of 1 g = 100 cg because centigrams are a smaller unit of measurement compared to grams. Therefore, the answer should be the one that reflects this relationship, indicating that 1 gram is equal to 100 centigrams.
+Answer: C
+------------------------
+27. ------------------------
+Reasoning: By applying the Distributive Property to the multiplication of 5.7 and 8, we can break it down into 5.7(5) + 5.7(3) to make the calculation easier. This results in 28.5 + 17.1 = 45.6.
+Answer: D
+------------------------
+28. ------------------------
+Reasoning: The quotient for the expression 2,314 divided by 4 should be a whole number without any remainder. This means that the correct answer should not have any remainders indicated. 
+Answer: A
+------------------------
+29. ------------------------
+Reasoning: The correct expression should involve subtraction of the total miles Rosa has run from the total goal of 100 miles to determine how many miles she has left to run after running for d days.
+Answer: A
+------------------------
+30. ------------------------
+Reasoning: The correct answer should involve the variable representing the number of cans Tom collected and be multiplied by 4 to match the word phrase "4 times as many cans as Tom collected."
+Answer: A
+------------------------
+31. ------------------------
+Reasoning: The digit 6 in the number 186,425 is in the ten thousands place. To find a number where the value of the digit 6 is exactly 10 times the value of the digit 6 in 186,425, we need to look for a number where the digit 6 is in the hundred thousands place. Among the options provided, only option A (681,452) has the digit 6 in the hundred thousands place, making it the correct answer.
+Answer: A
+------------------------
+32. ------------------------
+Reasoning: Following the order of operations (PEMDAS/BODMAS) is crucial in mathematics as it dictates the sequence in which operations should be performed. In this case, when dividing 123 by 8, it is important to first consider any multiplication, addition, or subtraction that may affect the result before carrying out the division. This ensures that the correct answer is obtained based on the rules of mathematics.
+Answer: C
+------------------------
+33. ------------------------
+Reasoning: To simplify the improper fraction 8 and 2 over 4, we need to convert it to an improper fraction first, which results in 34 over 4. Then, to simplify it to its simplest form, we divide both the numerator and denominator by their greatest common factor, which is 2. Therefore, the correct answer is C. 17 over 2.
+Answer: C
+------------------------
+34. ------------------------
+Reasoning: The correct answer should represent each digit in the number 270,240 by its place value position, with the value of the digit multiplied by the corresponding place value. Option D correctly breaks down the number into its place values of hundreds, tens, and ones.
+Answer: D
+------------------------
+35. ------------------------
+Reasoning: In this scenario, the worker's rate of production is constant at 22 parts produced in 7 hours. This means she produces 22/7 = 3.14 parts per hour. Therefore, when working for 35 hours, she would be able to produce 35 * 3.14 = 109.9 parts, which can be rounded to the nearest whole number to get the final answer.
+Answer: D
+------------------------
+36. ------------------------
+Reasoning: Adding the number 6 to the list will increase the total sum of the numbers, thus increasing the mean value.
+Answer: A
+------------------------
+37. ------------------------
+Reasoning: The expression 10 - (n + 6) simplifies to 10 - (11 + 6) = 10 - 17 = -7 when n = 11. 
+Answer: A
+------------------------
+38. ------------------------
+Reasoning: The phrase "3 fewer than a number, p" implies that we are subtracting 3 from the variable p to represent the mathematical expression.
+Answer: D
+------------------------
+39. ------------------------
+Reasoning: The expression (6 × 5) × 10^2 involves the price per ticket ($6) and the number of tickets sold (500), which are the key factors in determining the total amount of money collected by the theater for ticket sales.
+Answer: C
+------------------------
+40. ------------------------
+Reasoning: The correct answer should involve addition to solve the equation 12-9+c=12.
+Answer: B
+------------------------
+41. ------------------------
+Reasoning: The correct answer should involve subtracting the total amount spent each day ($150) from the initial amount of $2000 because the family is spending $150 each day. 
+Answer: B
+------------------------
+42. ------------------------
+Reasoning: The weight of any book chosen from the shelf must fall within the range of 2.3 ≤ w ≤ 3.2 because the weights of the books on the shelf are given as 2.5, 3.2, 2.7, and 2.3. This means that the weight of any book chosen from the shelf must be greater than or equal to 2.3 pounds and less than or equal to 3.2 pounds.
+Answer: D
+------------------------
+43. ------------------------
+Reasoning: The absolute value of a number is its distance from zero on the number line, regardless of its sign. Therefore, any number that is greater than 5 or less than -5 will have an absolute value greater than 5.
+Answer: A
+------------------------
+44. ------------------------
+Reasoning: Following the order of operations (PEMDAS), we first solve the exponents, then the multiplication and subtraction. 
+Answer: A
+------------------------
+45. ------------------------
+Reasoning: The terms in Gwen's pattern are increasing by a constant difference of 4, indicating an arithmetic sequence.
+Answer: A. 15, 17
+------------------------
+46. ------------------------
+Reasoning: The cost per can of pears is $0.79, so to find out how many cans can be bought for $9.48, we divide the total cost by the cost per can ($9.48 / $0.79 = 12 cans).
+Answer: B
+------------------------
+47. ------------------------
+Reasoning: The correct order from greatest to least is 3.18, 3.8, 3, 3 and 1 over 8.
+Answer: D
+------------------------
+48. ------------------------
+Reasoning: According to the order of operations (PEMDAS), division should be done before addition. Therefore, the correct answer is the result of 22 / 2 + 9, which is 20.
+Answer: C
+------------------------
+49. ------------------------
+Reasoning: Rounding the population of the city to the nearest ten thousand would result in 840,000, as it is the closest multiple of ten thousand to 836,527.
+Answer: D
+------------------------
+50. ------------------------
+Reasoning: The product of 5 multiplied by -9 results in a negative number due to the arithmetic rule that states multiplying a positive number by a negative number yields a negative product.
+Answer: D
+------------------------
+51. ------------------------
+Reasoning: If Keiko counted a total of 76 birds and there were 34 more birds counted in the morning than in the afternoon, we can set up the equation: x + (x + 34) = 76, where x represents the number of birds counted in the afternoon. Solving this equation gives x = 21, which means Keiko counted 21 birds in the afternoon.
+Answer: A
+------------------------
+52. ------------------------
+Reasoning: Following the order of operations (PEMDAS), we need to perform multiplication before addition. Resolving the expression step by step, we get: 5 + 2 * 15 + (12 * 4) = 5 + 30 + 48 = 83.
+Answer: B
+------------------------
+53. ------------------------
+Reasoning: The fraction 20/8 can be simplified to 5/2, which is the simplest form. This implies that a total quantity of 20 is being divided into 8 equal parts, resulting in each part being 5. Therefore, the correct answer is not A, C, or D, as they do not represent the scenario described by the fraction 20/8. The correct answer is B, where Mr. Kramer's 8 grandchildren shared 20 crackers equally, meaning each grandchild received 5 crackers.
+Answer: B
+------------------------
+54. ------------------------
+Reasoning: Distance = Speed x Time, so the correct answer is the product of 20 miles per hour and 6 hours, which is 120 miles.
+Answer: A
+------------------------
+55. ------------------------
+Reasoning: In order to find the value of "a" in the equation 6a = 72, one needs to isolate the variable by performing the inverse operation of multiplication, which is division. Therefore, the correct step is to divide both sides by 6.
+Answer: B
+------------------------
+56. ------------------------
+Reasoning: The correct answer should be 7 because the total number of non-white soccer balls is 21 (30 total balls - 9 white balls) and since there is an equal number of blue, pink, and green balls, each color should have 7 soccer balls.
+Answer: A
+------------------------
+57. ------------------------
+Reasoning: The correct equation to find the initial temperature at 6 P.M. is 84°F - 11°F = t; t = 73°F. Therefore, the correct answer is A. 
+Answer: A
+------------------------
+58. ------------------------
+Reasoning: The correct answer should involve a division operation to determine the number of marbles Theresa put into each group. Dividing the total number of marbles (72) by the number of groups (9) is the appropriate way to find the number of marbles in each group.
+Answer: A
+------------------------
+59. ------------------------
+Reasoning: Considering the average number of days in a month (around 30), Rob would use approximately 6 boxes of cat food per month (30 days / 5 days per box = 6 boxes).
+Answer: D
+------------------------
+60. ------------------------
+Reasoning: The least common multiple of 4 and 10 is calculated by considering their prime factors. The prime factorization of 4 is 2^2 and the prime factorization of 10 is 2 * 5. The least common multiple is the product of the highest power of each prime factor present in the numbers, which results in 2^2 * 5 = 20.
+Answer: B
+------------------------
+61. ------------------------
+Reasoning: The correct answer should involve finding a common denominator before adding the numerators together to accurately combine the fractions.
+Answer: D
+------------------------
+62. ------------------------
+Reasoning: A decade is commonly defined as a period of 10 years in various fields such as history, economics, and culture.
+Answer: B
+------------------------
+63. ------------------------
+Reasoning: The total number of push-ups Michelle did in January can be calculated by multiplying the number of days in January (31) by the number of push-ups she did each day (45), resulting in 31 x 45 = 1395 push-ups.
+Answer: C
+------------------------
+64. ------------------------
+Reasoning: The correct pair of numbers should be a pair of factors of 60 that are less than or equal to 12, with a greatest common factor of 2. The pair that satisfies these conditions is 6 and 10.
+Answer: A
+------------------------
+65. ------------------------
+Reasoning: The negative sign in front of the expression −2(x − 3) indicates that the entire expression should be multiplied by -1, and when x = 2 is substituted into the expression, it simplifies to -4.
+Answer: A
+------------------------
+66. ------------------------
+Reasoning: The calorie content remains the same regardless of the serving size, indicating a consistent calorie density per ounce.
+Answer: A
+------------------------
+67. ------------------------
+Reasoning: The sum of 711 + 497 is 1208, which falls between the range of 750 and 1,000.
+Answer: C
+------------------------
+68. ------------------------
+Reasoning: The total number of roses remaining after selling 96 would be 56. When divided equally among 8 vases, each vase would have 7 roses.
+Answer: A
+------------------------
+69. ------------------------
+Reasoning: Rounding 32 to 30 and 68 to 70 makes the calculation easier and provides a good estimate of the product.
+Answer: C
+------------------------
+70. ------------------------
+Reasoning: The prime factorization of 77 is 7^1 * 11^1 because 77 can be broken down into its prime factors of 7 and 11, each raised to the power of 1 to show their presence in the factorization.
+Answer: C
+------------------------
+71. ------------------------
+Reasoning: To calculate the total cost of 4 magazines at $2.99 each, we multiply the cost of one magazine by the quantity of magazines purchased. Similarly, to calculate the total cost of 3 books at $6.99 each, we multiply the cost of one book by the quantity of books purchased. Adding these two totals together gives us the overall cost of purchasing 4 magazines and 3 books.
+Answer: B
+------------------------
+72. ------------------------
+Reasoning: The common difference between each number in the pattern is 20 because each subsequent number is obtained by adding 20 to the previous number.
+Answer: C
+------------------------
+73. ------------------------
+Reasoning: The decimal representation of 7 over 33 is a repeating decimal because the denominator is not a factor of 10.
+Answer: A
+------------------------
+74. ------------------------
+Reasoning: The correct way to find the total cost of the uniforms is by multiplying the cost per uniform ($46) by the number of uniforms (12). This is represented in option C: (40 × 12) + (6 × 12) = 480 + 72.
+Answer: C
+------------------------
+75. ------------------------
+Reasoning: The cost of the used car Manuel bought is six thousand forty-nine dollars, which is represented numerically as $6,049. This numerical value accurately reflects the amount paid for the car in a concise format.
+Answer: B
+------------------------
+76. ------------------------
+Reasoning: The group representing the strawberries should consist of numbers that are multiples of 2, which are even numbers. The group representing the apples should consist of odd numbers. The total number of fruits should be an odd number when an even number (strawberries) is added to an odd number (apples).
+Answer: D
+------------------------
+77. ------------------------
+Reasoning: The total cost of a 6-lb bag of cat food at $.47/lb can be calculated by multiplying the price per pound by the weight of the bag, which results in $2.82.
+Answer: A
+------------------------
+78. ------------------------
+Reasoning: The prime factorization of 60 is 2^2 * 3 * 5 and the prime factorization of 72 is 2^3 * 3^2. By identifying common factors in the prime factorization of 60 and 72, we can simplify the fraction. The correct answer is A. 4 over 6, which simplifies to 2/3.
+Answer: A
+------------------------
+79. ------------------------
+Reasoning: When converting the ratio of 2 cups to 3 quarts to the same unit, we need to ensure that the units are consistent. From the perspective of "How many cups are in a quart?", we know that 1 quart equals 4 cups. Therefore, 2 cups to 3 quarts can be written as 2/12, which simplifies to 1/6.
+Answer: D
+------------------------
+80. ------------------------
+Reasoning: The best estimate of how many more books the Mills Library has than the Springvale Library can be determined by subtracting the number of books in the Springvale Library from the number of books in the Mills Library. This provides the precise numerical difference between the two libraries.
+Answer: D
+------------------------
+81. ------------------------
+Reasoning: The number of bounces in 150 seconds can be calculated by multiplying the number of bounces in 30 seconds by 5 since the total time is 5 times longer. Therefore, the correct answer is 25 * 5 = 125.
+Answer: B
+------------------------
+82. ------------------------
+Reasoning: When adding two negative numbers, the sum will be negative. In this case, the sum of -9 + (-8) will be -17 because the negative sign is retained and the absolute value of the sum is equal to the sum of the absolute values of the numbers.
+Answer: A
+------------------------
+83. ------------------------
+Reasoning: To solve for y in the equation y/4 = 8, we need to isolate y by multiplying both sides of the equation by 4 to undo the division by 4.
+Answer: C
+------------------------
+84. ------------------------
+Reasoning: An improper fraction is a fraction where the numerator is greater than the denominator. To write 4 and 4 over 5 as an improper fraction, we need to convert it to a single fraction. The correct answer should have the numerator greater than the denominator.
+Answer: C
+------------------------
+85. ------------------------
+Reasoning: The weight of an object on the moon is q times less than the weight on Earth, indicating a direct proportionality. The correct equation should reflect this relationship, making option B the most suitable choice.
+Answer: B
+------------------------
+86. ------------------------
+Reasoning: Following the order of operations (PEMDAS), division should be performed before addition. Therefore, the correct answer is 10.
+Answer: C
+------------------------
+87. ------------------------
+Reasoning: In order to solve for y in the equation y + 2.9 = 11, we need to isolate y by subtracting 2.9 from both sides of the equation. Therefore, the correct answer is A. 8.1.
+Answer: A
+------------------------
+88. ------------------------
+Reasoning: Supplement angles are two angles that add up to 180°. The supplement of a 40° angle would be 140°.
+Answer: C
+------------------------
+89. ------------------------
+Reasoning: Rounding each individual time to the nearest one-tenth of a second before adding them together will provide a more accurate estimate of Kerri's total time for all four races.
+Answer: B
+------------------------
+90. ------------------------
+Reasoning: When solving for x in the equation 3/4 * x = 24, you need to isolate x by multiplying both sides by the reciprocal of 3/4, which is 4/3. This will give you x = 24 * 4/3 = 32.
+Answer: B
+------------------------
+91. ------------------------
+Reasoning: Basic addition is the most appropriate method for accurately calculating the sum of 110 and 70 because it is a fundamental arithmetic operation that involves combining the two numbers to find the total.
+Answer: C
+------------------------
+92. ------------------------
+Reasoning: The individual ratio of toucans to parrots in the zoo is 1:4, as for every 1 toucan, there are 4 parrots. 
+Answer: C
+------------------------
+93. ------------------------
+Reasoning: The greatest common factor of 36 and 90 is calculated by identifying the common prime factors, which are 2 and 3, and multiplying them together.
+Answer: A
+------------------------
+94. ------------------------
+Reasoning: Following the order of operations correctly, we first need to solve the division inside the parentheses: 24 ÷ (8 − 5) = 24 ÷ 3 = 8. Then, we multiply this result by 6 to get the final answer. 
+Answer: A
+------------------------
+95. ------------------------
+Reasoning: The greatest common factor of 42 and 84 is found by identifying the common prime factors, which are 2 and 3. The highest power of each prime factor that appears in both numbers is 2 x 3 = 6.
+Answer: B
+------------------------
+96. ------------------------
+Reasoning: The total length of rope needed for one student in the gym class is 5 feet 8 inches, and Ms. Gutierrez has 32 students. To find the total length of rope needed, we multiply the length needed for one student by the number of students, which is 32. Therefore, the total length of rope needed is 5 feet 8 inches * 32 = 176 feet 8 inches. 
+Answer: B
+------------------------
+97. ------------------------
+Reasoning: The total cost of the puzzles sold can be calculated by multiplying the number of puzzles sold (934) by the price of each puzzle ($6). This results in a total cost of $6 * 934 = $5,604.
+Answer: C
+------------------------
+98. ------------------------
+Reasoning: The measure of the angle is 1 degree because a circle is divided into 360 degrees and each degree represents 1/360 of the circle's total angle measure.
+Answer: A
+------------------------
+99. ------------------------
+Reasoning: The correct conversion factor from millimeters to decimeters is 0.1, which means the number should be smaller than 1. Therefore, the answer is A. 0.261.
+Answer: A
+------------------------
+100. ------------------------
+Reasoning: When combining 2 parts vinegar with 5 parts oil, the total number of parts in the salad dressing mixture is 7. To find out how many ounces of oil should be mixed with 9 ounces of vinegar, we need to maintain the ratio of 2 parts vinegar to 5 parts oil. Therefore, when 9 ounces of vinegar are used, 5 parts of oil should be mixed with it.
+Answer: C
+------------------------
+101. ------------------------
+Reasoning: Kim rode an average of 15 miles per week, while Eric rode an average of 17 miles per week. Therefore, Kim rode 2 miles less per week than Eric.
+Answer: A
+------------------------
+102. ------------------------
+Reasoning: x = -1 is the value that satisfies the equation 5x - 5 = -10.
+Answer: A
+------------------------
+103. ------------------------
+Reasoning: To find the distance between the two trees on the model, we need to use the scale factor of 1.5 centimeters to 50 meters. Since the actual distance between the trees is 150 meters, we can calculate the distance on the model by dividing the actual distance by the scale factor. Therefore, the distance on the model would be 150 meters / 50 meters = 3 centimeters. 
+Answer: A
+------------------------
+104. ------------------------
+Reasoning: The correct equation should involve addition to account for the stickers Elizabeth has initially, and multiplication to distribute the stickers equally among herself and her two friends. This is because the total number of stickers is the combination of the stickers she starts with and the stickers she divides among her friends.
+Answer: D
+------------------------
+105. ------------------------
+Reasoning: When considering the exact distance Stephanie flew from Los Angeles to New York City, the correct answer should be 2,448 miles.
+Answer: B
+------------------------
+106. ------------------------
+Reasoning: The pair of ratios that can form a proportion must have equal cross products, which is a fundamental property of proportions.
+Answer: A
+------------------------
+107. ------------------------
+Reasoning: By applying the ratio of 2 out of 5 seniors attending graduate school to the total number of seniors (750), we can calculate the expected number of seniors who would attend graduate school. Multiplying 750 by 2/5 gives us 300 seniors.
+Answer: C
+------------------------
+108. ------------------------
+Reasoning: The common difference between each consecutive number in the pattern is +4 because each number increases by 4.
+Answer: C
+------------------------
+109. ------------------------
+Reasoning: The correct expression should involve adding the total number of strawberries picked by Max and Jonathon before subtracting the number of strawberries eaten to find the remaining strawberries. Therefore, the correct answer is D. 
+Answer: D
+------------------------
+110. ------------------------
+Reasoning: The number of boys can be calculated by subtracting 20 from the total number of girls, as there are 20 more girls than boys at West Elementary School.
+Answer: B
+------------------------
+111. ------------------------
+Reasoning: The time taken to fill more bottles will be longer as the machine fills a certain number of bottles in a specific time frame. Since the machine fills 200 bottles in 12 minutes, it fills approximately 16.67 bottles per minute. Therefore, it will take 30 minutes to fill 500 bottles of soda.
+Answer: C
+------------------------
+112. ------------------------
+Reasoning: In order to calculate the number of white eggs used last week, the equation w = 231 - 46 can be used because the total number of eggs used last week (231) minus the number of brown eggs used (46) will give the number of white eggs used.
+Answer: B
+------------------------
+113. ------------------------
+Reasoning: The total number of shipping boxes needed can be calculated by dividing the total number of shirts ordered (81) by the capacity of each shipping box (9 shirts per box). This results in 9 boxes needed to accommodate all the shirts ordered.
+Answer: B
+------------------------
+114. ------------------------
+Reasoning: The correct answer involves borrowing/regrouping, aligning digits properly, and subtracting each place value starting from the right. In this case, borrowing is necessary from the thousands place to subtract 9 from 6, making the correct answer 687.
+Answer: A
+------------------------
+115. ------------------------
+Reasoning: The time taken to read the book is directly proportional to the number of pages in the book because Jerry's reading speed remains consistent.
+Answer: C
+------------------------
+116. ------------------------
+Reasoning: To find the number that when multiplied by 4 equals 36, you need to divide 36 by 4. Therefore, the correct answer is the number that results from this division, which is 9.
+Answer: D
+------------------------
+117. ------------------------
+Reasoning: The conversion factor between liters and centiliters is 1 liter = 100 centiliters. To convert 18 centiliters to liters, we divide by 100. Therefore, 34 liters + (18 cL / 100) = 34.18 liters.
+Answer: A
+------------------------
+118. ------------------------
+Reasoning: Flow rate is calculated by dividing the total volume of the tank by the time taken to fill it. In this case, the tank holds 50 gallons and needs to be filled in 20 seconds. Therefore, the flow rate required is 50 gallons / 20 seconds = 2.5 gallons per second.
+Answer: B
+------------------------
+119. ------------------------
+Reasoning: To find out how long it will take Tara to develop 8 rolls of film, we need to consider that she takes 18 minutes to develop 2 rolls. Since 8 rolls is 4 times the amount of 2 rolls, we can multiply the time taken for 2 rolls by 4. Therefore, it will take Tara 72 minutes to develop 8 rolls of film.
+Answer: A. 42 minutes
+------------------------
+120. ------------------------
+Reasoning: A cylinder has 2 faces (top and bottom), no vertices, and can roll due to its circular shape. Therefore, based on the properties mentioned in the riddle, the answer to Tisha's riddle is most likely a cylinder.
+Answer: B
+------------------------
+121. ------------------------
+Reasoning: The total amount of money earned for working 3.5 hours at the local concert should be $49 because the equation provided states that 3.5 times the hourly rate equals $49. Therefore, the total amount earned for 3.5 hours of work would be $49.
+Answer: B
+------------------------
+122. ------------------------
+Reasoning: The digit 5 appears 1 time in the number 357.
+Answer: C
+------------------------
+123. ------------------------
+Reasoning: When distributing the 5 to both terms inside the parentheses in the expression 5(4x + 3), it results in 20x + 15. Combining this with the subtraction of 2x, the equivalent expression is 18x + 15.
+Answer: A
+------------------------
+124. ------------------------
+Reasoning: The correct expression should involve multiplying the number of bags by the sum of black and red pens in each bag because each bag contains a certain number of black and red pens, and there are multiple bags in total.
+Answer: B
+------------------------
+125. ------------------------
+Reasoning: To find out how much money Negin initially had before buying the sandals, we need to subtract the cost of the sandals from the total amount Negin and Sonia had together. This calculation gives us the initial amount Negin had before the purchase.
+Answer: C
+------------------------
+126. ------------------------
+Reasoning: The number 18,096 can be expressed in expanded form as 10,000 + 8,000 + 90 + 6, representing the thousands, hundreds, tens, and ones places respectively.
+Answer: C
+------------------------
+127. ------------------------
+Reasoning: The correct answer should be a unit of measurement that is not equivalent to gallons, which is 3 and 3/4 gal.
+Answer: C
+------------------------
+128. ------------------------
+Reasoning: To find out how many baskets Jess made, we need to divide her total score of 18 points by the points awarded for each basket, which is 2 points. Therefore, Jess made 9 baskets during the game.
+Answer: C
+------------------------
+129. ------------------------
+Reasoning: The total number of groups must be a factor of 56, and the number of marbles in each group must also be a factor of 56.
+Answer: B
+------------------------
+130. ------------------------
+Reasoning: The expression 2,816 x 7 involves multiplication, which means adding 2,816 seven times. Therefore, the correct answer is the product of 2,816 and 7.
+Answer: D
+------------------------
+131. ------------------------
+Reasoning: The value of the 4 in the tenths place is 10 times greater than the value of the 4 in the hundredths place.
+Answer: D
+------------------------
+132. ------------------------
+Reasoning: The unit rate is calculated by dividing the total distance by the total time, which in this case is 308 km divided by 4 h, resulting in 77 km/h.
+Answer: D
+------------------------
+133. ------------------------
+Reasoning: When comparing the length of a city's swimming pool to standard Olympic-sized swimming pools, the most reasonable estimate would be close to 50 meters.
+Answer: B
+------------------------
+134. ------------------------
+Reasoning: The total length of the music showcase can be calculated by adding the durations of each set and the breaks between them. There are 3 sets of 20 minutes each, totaling 60 minutes, and 1 set of 40 minutes. The breaks between each set are 10 minutes each. Therefore, the total length is 3(20 + 10) + 40 = 110 minutes.
+Answer: B
+------------------------
+135. ------------------------
+Reasoning: By applying the concept of divisibility rules and identifying the common factors between 24 and 36, we can determine that the LCM is 12, which is the smallest number divisible by both 24 and 36.
+Answer: C
+------------------------
+136. ------------------------
+Reasoning: Chesa made 32 one-cup servings of soup last year, and this year she will make two times that amount, which equals 64 servings. 
+Answer: A
+------------------------
+137. ------------------------
+Reasoning: Surveying a group of people standing in line for tickets will provide the most accurate results as it directly captures the preferences of individuals present at the game and their intention to support a specific team by purchasing tickets.
+Answer: C
+------------------------
+138. ------------------------
+Reasoning: The company makes 5 blue cars for every 3 white cars it produces. If 15 white cars are made in one day, the ratio of blue cars to white cars is 5:3. Therefore, the number of blue cars made can be calculated by multiplying the ratio by the number of white cars made, resulting in 25 blue cars.
+Answer: D
+------------------------
+139. ------------------------
+Reasoning: The volume of a rectangular prism is calculated by multiplying the length, width, and height of the prism. Using the formula V = l x w x h, the volume of one baseball card case can be calculated as 12 cm x 6.5 cm x 1.25 cm = 97.5 cubic centimeters.
+Answer: B
+------------------------
+140. ------------------------
+Reasoning: The total revenue collected from selling roses should equal the total amount collected, which means the number of bunches sold can be calculated by dividing the total amount by the price per bunch.
+Answer: C
+------------------------
+141. ------------------------
+Reasoning: If 48 vanilla milkshakes accounted for 40% of the total sales, then the total number of milkshakes sold that day must be higher than 48 in order to make up the remaining 60% of the sales.
+Answer: D
+------------------------
+142. ------------------------
+Reasoning: Substituting the values of a = 5, b = 3, and c = 2 into the expression (c^2 − b^2)^2 + a^2 results in (2^2 - 3^2)^2 + 5^2. Simplifying further, we get (4 - 9)^2 + 25 = (-5)^2 + 25 = 25 + 25 = 50.
+Answer: C
+------------------------
+143. ------------------------
+Reasoning: To solve for x in the equation x − 3 = 6, we need to isolate x by performing the inverse operation of subtraction, which is addition. Therefore, x = 6 + 3, which gives x = 9.
+Answer: D
+------------------------
+144. ------------------------
+Reasoning: Joe finished the race 4 minutes before Mike, who finished at 4:02 p.m. Therefore, Joe finished the race at 3:58 p.m.
+Answer: A
+------------------------
+145. ------------------------
+Reasoning: The question mentions two cardboard strips, one measuring 5/6 ft and the other measuring 2/3 ft. To estimate the combined width, we need to add the widths of both strips.
+Answer: B
+------------------------
+146. ------------------------
+Reasoning: The area of one right triangle can be calculated using the formula 1/2 * base * height. Since each right triangle has a base of 4 cm and a height of 5 cm, the area of one triangle is 1/2 * 4 * 5 = 10 square cm. The total area of the shape can be found by multiplying the area of one triangle by the total number of triangles, which is 12. Therefore, the total area is 10 * 12 = 120 square cm.
+Answer: C
+------------------------
+147. ------------------------
+Reasoning: The ratio of low-fat milk to chocolate milk in the Tranquility Inn's weekly order is 8:3 based on the quantities provided.
+Answer: D
+------------------------
+148. ------------------------
+Reasoning: The equation that represents the relationship between the number of students in Mr. Clark's class and the total number of students in the fourth grade, considering the ratio of 5:1, is 20 x 5 = n.
+Answer: C
+------------------------
+149. ------------------------
+Reasoning: The expression 4x + 9 simplifies to 4(4) + 9, which equals 16 + 9, resulting in a final value of 25.
+Answer: C
+------------------------
+150. ------------------------
+Reasoning: The Distributive Property states that a(b + c) = ab + ac. Therefore, when applying this property to the expression 4(3 + 2), it can be restated as 4 times 3 plus 4 times 2, which is equivalent to 4(3) + 4(2).
+Answer: B
+------------------------
+151. ------------------------
+Reasoning: The correct equation should involve multiplication or division because the number of pennies in a stack is directly proportional to its height. This means that as the height of the stack increases, the number of pennies in the stack also increases in a consistent manner.
+Answer: C
+------------------------
+152. ------------------------
+Reasoning: Rounding 4,286 to 4,300 and 390 to 400 makes the multiplication process easier and more manageable, allowing for a quicker estimation of the product.
+Answer: C
+------------------------
+153. ------------------------
+Reasoning: By plugging in the given values of length, width, and height into the formula S = 2(lw + wh + hl), we can calculate the surface area of the prism accurately. Substituting l = 12, w = 9, and h = 2 into the formula gives S = 2(12*9 + 9*2 + 2*12) = 2(108 + 18 + 24) = 2(150) = 300 square inches.
+Answer: A
+------------------------
+154. ------------------------
+Reasoning: To ensure the survey provides a representative sample of the people who shop at the mall, it is essential to conduct the survey at the entrance to the mall. This location allows for capturing shoppers from various demographics, shopping frequencies, and preferences, ensuring a diverse representation of the mall's customer base.
+Answer: C
+------------------------
+155. ------------------------
+Reasoning: The elevation gain from Salt Flats to Talon Bluff is calculated by subtracting the initial elevation (-55 feet) from the final elevation (620 feet), resulting in a positive value representing the difference in elevation between the two points.
+Answer: A
+------------------------
+156. ------------------------
+Reasoning: To find the original number of students in the class, we need to reverse engineer the process. Since there are 8 students remaining in the class at the end, we know that half of the remaining students went to the computer lab, which means there were 16 students before that. Before that, half of the students went to the library, so the original number of students in the class was 32.
+Answer: D
+------------------------
+157. ------------------------
+Reasoning: The pattern increases by 15 each time, so the correct answer should also have an increase of 15 between each number.
+Answer: D
+------------------------
+158. ------------------------
+Reasoning: When looking at the total number of stickers in all three packages combined, the correct answer should be the total number of stickers (162) divided by the number of students (27).
+Answer: A. 6 stickers
+------------------------
+159. ------------------------
+Reasoning: The correct order from least to greatest is -9, -6, -3, 7, 11.
+Answer: A
+------------------------
+160. ------------------------
+Reasoning: 7% is typically used in finance to represent interest rates or investment returns, so the correct answer should be related to that context.
+Answer: B. 0.07
+------------------------
+161. ------------------------
+Reasoning: The ratio that can form a proportion with 6 over 9 is 2 over 3 because it is equivalent to 6/9.
+Answer: C
+------------------------
+162. ------------------------
+Reasoning: The total number of photos Bella has can be found by multiplying the number of photo books (8) by the number of photos in each book (25) to get the total count of unique photos.
+Answer: D
+------------------------
+163. ------------------------
+Reasoning: The product of 32 x 67 can be calculated by multiplying the two numbers together, which results in 2,144.
+Answer: D
+------------------------
+164. ------------------------
+Reasoning: The conversion factor between dollars and gallons is 1 dol = 1 gal, so setting up a proportion and solving for the unknown variable is necessary. Rounding to the nearest hundredth is important for accuracy in monetary values. 
+Answer: A
+------------------------
+165. ------------------------
+Reasoning: Rounding 117.83 to 118 and 5.67 to 6 makes the division process simpler and quicker, aligning with the concept of using compatible numbers for estimation.
+Answer: A
+------------------------
+166. ------------------------
+Reasoning: Since Marguerite earned a score between 75 and 89 on all of her previous spelling tests, the average score should fall within that range as well. However, her score of 100 on the next test will increase the mean as it is higher than the previous scores.
+Answer: B
+------------------------
+167. ------------------------
+Reasoning: The sum is greater than 153 and less than 197 when considering the minimum possible sum and the range of possible sums for adding 153 and 44.
+Answer: A
+------------------------
+168. ------------------------
+Reasoning: The set of values that make the inequality 2x - 1 < 10 true are the ones that result in a y value less than 10 when substituted into the equation. Graphically, these values should fall below the line representing y = 10 on a coordinate plane.
+Answer: B
+------------------------
+169. ------------------------
+Reasoning: Erin made 12 pints of juice, which is equivalent to 24 cups of juice. Since Erin drinks 3 cups of juice each day, we can calculate the number of days she will take to finish all the juice by dividing the total cups of juice by the cups she drinks each day. Therefore, Erin will take 8 days to drink all the juice she made.
+Answer: C
+------------------------
+170. ------------------------
+Reasoning: Darius has 12 cookies because he has 3 times as many cookies as Sara, who has 6 cookies (2 more than John who has 4 cookies).
+Answer: B
+------------------------
+171. ------------------------
+Reasoning: The numbers should be arranged in ascending order from least to greatest, which is 0.25, 1.0, 1.6.
+Answer: C
+------------------------
+172. ------------------------
+Reasoning: The opposite of a number is the number that, when added to the original number, results in zero. In this case, the opposite of -7 would be 7, as -7 + 7 equals zero.
+Answer: A
+------------------------
+173. ------------------------
+Reasoning: To calculate the number of hours Mai needs to work to earn $132, we can divide the total amount by her hourly wage of $5.50. This will give us the number of hours required to reach the earnings goal.
+Answer: A
+------------------------
+174. ------------------------
+Reasoning: The number must have 7 in the ones place and fall between 71 and 79 because it meets the criteria of having 7 in the ones place and being less than 80 but greater than 70.
+Answer: C
+------------------------
+175. ------------------------
+Reasoning: The expression inside the parentheses should be evaluated first before multiplying by -7 when y = 8.
+Answer: A
+------------------------
+176. ------------------------
+Reasoning: Rounding 794 to the nearest hundred involves looking at the digit in the tens place, which is 9. Since 9 is 5 or greater, we round up to the nearest hundred, making it 800.
+Answer: C
+------------------------
+177. ------------------------
+Reasoning: The expression that involves division to accurately calculate the total number of days of work missed over the 3-week vacation is dividing the total number of days in 3 weeks (21 days) by the number of days she works in a week (5 days).
+Answer: A
+------------------------
+178. ------------------------
+Reasoning: 720 is a product of 9 and 80, so the correct expression should involve these numbers multiplied together.
+Answer: C
+------------------------
+179. ------------------------
+Reasoning: Both fractions have a denominator of 14, so in order to add them together, we can simply add the numerators while keeping the denominator the same.
+Answer: B
+------------------------
+180. ------------------------
+Reasoning: The application of the Associative Property of Multiplication allows us to rearrange the factors in the expression without changing the result. By regrouping the factors as (8 • -7) • -1, we can simplify the expression to get a positive 56 as the final result.
+Answer: B
+------------------------
+181. ------------------------
+Reasoning: The correct equation to find the number of boxes needed should involve subtracting the number of muffins sent to the hotel from the total number of muffins, and then dividing by the capacity of each box. Therefore, the correct equation is (232 - 190)/6=b.
+Answer: A
+------------------------
+182. ------------------------
+Reasoning: The resulting number will be one hundredth of the initial number because each division by 10 reduces the number by a factor of 10.
+Answer: A
+------------------------
+183. ------------------------
+Reasoning: The correct answer should involve adding the numbers together in the correct order of operations to ensure accuracy.
+Answer: B
+------------------------
+184. ------------------------
+Reasoning: To calculate the number of gallons needed to travel 144 miles at 24 miles per gallon, we divide the total distance by the miles per gallon. Therefore, 144 miles / 24 miles per gallon = 6 gallons.
+Answer: B
+------------------------
+185. ------------------------
+Reasoning: The pair of expressions that are equivalent for any variable value greater than zero should involve only multiplication and division operations, without any addition or subtraction. This ensures that the sign of the result remains consistent regardless of the variable value.
+Answer: C
+------------------------
+186. ------------------------
+Reasoning: The correct answer should consider factors such as water conservation initiatives in place in West Valley to reduce the total water usage by homes. 
+Answer: A
+------------------------
+187. ------------------------
+Reasoning: The total number of people who can sit in the baseball park is the sum of the seating capacities of the red, blue, and green sections. The red section seats 200 people, the blue section seats 180 people (20 fewer than the red section), and the green section seats 360 people (2 times as many as the blue section). Therefore, the total number of people who can sit in the baseball park is 200 + 180 + 360 = 740.
+Answer: D
+------------------------
+188. ------------------------
+Reasoning: The correct equation representing the relationship between the points scored in the first and second game is y = x + 4, where x is the points scored in the first game (18 points) and y is the points scored in the second game. By substituting x = 18 into the equation, we find y = 18 + 4 = 22, indicating that the player scored 22 points in his second game.
+Answer: B
+------------------------
+189. ------------------------
+Reasoning: Solving the equation -6x = -36 by isolating x gives x = 6. Substituting x = 6 back into the original equation results in -6(6) = -36, which is true. Therefore, the correct answer is x = 6.
+Answer: B
+------------------------
+190. ------------------------
+Reasoning: The mean is calculated by adding up all the values in the data set and dividing by the total number of values, regardless of repetition. 
+Answer: B
+------------------------
+191. ------------------------
+Reasoning: The average number of square miles per county in Georgia can be calculated by dividing the total square miles of Georgia by the number of counties, which is 58056 / 159 ≈ 365. Rounding to the nearest whole number, the average is 365 square miles per county.
+Answer: D
+------------------------
+192. ------------------------
+Reasoning: The average temperature on Mars should be calculated by considering both the high and low extremes, which are 27°C during the day and -125°C at night. By averaging these temperatures, the correct answer is D. -76°C.
+Answer: D
+------------------------
+193. ------------------------
+Reasoning: The relationship between the numbers in the equation 14 × 3 = 42 demonstrates the concept of multiplication, where 14 is the multiplicand, 3 is the multiplier, and 42 is the product. This understanding is crucial in interpreting the expression correctly.
+Answer: D
+------------------------
+194. ------------------------
+Reasoning: Following the order of operations (PEMDAS/BODMAS), we need to calculate the exponentiation operation (3^2) first before performing addition and multiplication. 
+Answer: B
+------------------------
+195. ------------------------
+Reasoning: The total distance covered by the Hiking Club members can be calculated by multiplying the time spent hiking (2.4 hours) by the distance covered each hour (2.5 miles), resulting in a total distance of 6 miles.
+Answer: C
+------------------------
+196. ------------------------
+Reasoning: The value of x should fall within the range of 0.0051 and 0.038, and the value should be closer to 0.0051 than to 0.038. Among the given options, 0.0261 is the only value that satisfies these conditions.
+Answer: B
+------------------------
+197. ------------------------
+Reasoning: The best estimate for the weight of the cat should fall within the range of 8-10 pounds, which is the typical weight range for an average domestic cat of similar size and breed.
+Answer: B
+------------------------
+198. ------------------------
+Reasoning: The expression that involves division, which is necessary to distribute the total number of students into 5 equal groups, is 30/5.
+Answer: B
+------------------------
+199. ------------------------
+Reasoning: The pattern rule is to add 14 to the previous number each time, making it an arithmetic sequence with a common difference of 14. This means that all the numbers in the pattern can be divided equally by 7, as 14 is divisible by 7.
+Answer: D
+------------------------
+200. ------------------------
+Reasoning: In order to solve for x, you need to isolate x on one side of the equation by adding 10.5 to both sides, which results in x = -1.1.
+Answer: D
+------------------------
+201. ------------------------
+Reasoning: The ratio 60 over 135 simplifies to 4 over 9, which is equivalent to 8 over 18. Therefore, it cannot form a proportion with 8 over 18.
+Answer: C
+------------------------
+202. ------------------------
+Reasoning: Each test score is given equal weight in calculating the average score.
+Answer: C
+------------------------
+203. ------------------------
+Reasoning: The GCD of 25 and 55 is 5 because it is the largest positive integer that divides both numbers without leaving a remainder. 
+Answer: A
+------------------------
+204. ------------------------
+Reasoning: To find 60% of 30, you need to multiply 30 by 0.60 because to calculate a percentage of a number, you convert the percentage to a decimal and multiply it by the original number.
+Answer: B
+------------------------
+205. ------------------------
+Reasoning: Point B is located to the left of point A because it is 5 units less than point A on the number line.
+Answer: D
+------------------------
+206. ------------------------
+Reasoning: Simplifying the equation 1.2 = 0.4y to whole numbers or fractions makes it easier to perform mental calculations. By simplifying 0.4 to 2/5, we can then multiply both sides by 5 to get rid of the fraction and divide by 2 to isolate the variable y. This simplification process aligns with mental math strategies.
+Answer: C
+------------------------
+207. ------------------------
+Reasoning: The correct expression to find the total number of books Ty will read should involve dividing the total number of weeks by the number of weeks it takes to read each book.
+Answer: A
+------------------------
+208. ------------------------
+Reasoning: The base number in the exponential notation for 343 should be 7 because 7^3 = 343.
+Answer: B
+------------------------
+209. ------------------------
+Reasoning: Conor made 3 additional shapes using the 15 extra straws, as each shape requires 5 straws. To calculate the total number of straws used to make all the shapes, we need to consider both the initial 9 shapes and the additional 3 shapes made with the extra straws. Therefore, the total number of straws used is 9 shapes * 5 straws per shape + 3 additional shapes * 5 straws per shape = 45 straws.
+Answer: C
+------------------------
+210. ------------------------
+Reasoning: When multiplying two negative numbers, the result is always positive. In this case, -8 multiplied by -4 will result in a positive product.
+Answer: C
+------------------------
+211. ------------------------
+Reasoning: The ratio 24 over 64 can be simplified to 3 over 8, making it equivalent and forming a proportion with 3 over 8.
+Answer: C
+------------------------
+212. ------------------------
+Reasoning: The length of the new picture should increase by the same factor as the width when a picture is enlarged proportionally. The scale factor for the width is 10/4 = 2.5, so the length should also increase by 2.5 times. Therefore, the length of the new picture is 6 cm x 2.5 = 15 cm.
+Answer: C
+------------------------
+213. ------------------------
+Reasoning: 56 is a multiple of 7 because it can be divided evenly by 7 without leaving a remainder.
+Answer: C
+------------------------
+214. ------------------------
+Reasoning: Rounding to the nearest hundredth involves looking at the digit in the thousandth place and rounding up if it is 5 or more, and rounding down if it is less than 5, ensuring the most precise approximation of the original number.
+Answer: D
+------------------------
+215. ------------------------
+Reasoning: The increase in Peter's weekly gross pay is $32.30 because his previous weekly earnings were $275.50 and after the raise, it increased to $307.80, resulting in an increase of $32.30.
+Answer: A
+------------------------
+216. ------------------------
+Reasoning: The missing number should be a factor of 35 because the division of 35 by that number should result in 7.
+Answer: A
+------------------------
+217. ------------------------
+Reasoning: To find the total amount spent on lunch during a 5-day work week, Maria multiplies her daily spending of $9 by the number of work days in a week (5). This calculation results in $45, which is the correct answer.
+Answer: B
+------------------------
+218. ------------------------
+Reasoning: The correct method to solve the equation −17.02 = −2.3y involves isolating the variable y by dividing both sides by -2.3. By performing this operation, we can find the value of y. To check the answer, we need to substitute this value back into the original equation to verify if it satisfies the equation.
+Answer: B
+------------------------
+219. ------------------------
+Reasoning: The most appropriate unit for expressing the weight of a pencil is a unit commonly used for measuring small objects like grams or ounces.
+Answer: B
+------------------------
+220. ------------------------
+Reasoning: When calculating the total profit earned during the week, we should only consider the profits made on Tuesday and Thursday, which are $18 and $7 respectively. Therefore, the total profit is $18 + $7 = $25.
+Answer: C
+------------------------
+221. ------------------------
+Reasoning: To determine the total number of apple pies that can be made, we need to calculate the total number of apples available first. There are 15 boxes of apples, with each box containing 18 apples, resulting in a total of 15 * 18 = 270 apples. Since each pie requires 7 apples, we can divide the total number of apples by the number of apples used per pie to find out how many pies can be made: 270 / 7 = 38.57. However, since we can't make a fraction of a pie, the maximum number of apple pies that can be made is 38.
+Answer: B
+------------------------
+222. ------------------------
+Reasoning: Keri spent 3 hours on her homework and spent equal amounts of time on all subjects. Since she spent 1/2 hour on science, this means she must have spent 1/2 hour on each of the other subjects as well. Therefore, if she spent a total of 3 hours on homework and 1/2 hour on each subject, she must have studied 2 subjects in total.
+Answer: B
+------------------------
+223. ------------------------
+Reasoning: The correct answer should involve adding the number of youth tickets sold to the total number of tickets sold to calculate the total number of tickets sold for the event.
+Answer: C
+------------------------
+224. ------------------------
+Reasoning: The correct answer should involve the division operation because when dividing the total number of CDs by the number of groups, you can find the number of CDs in each group. This is a basic mathematical operation used to distribute a total quantity equally among a certain number of groups.
+Answer: A
+------------------------
+225. ------------------------
+Reasoning: To find the number of students on each team, we need to divide the total number of students (762) by the number of teams (6). This calculation results in 127 students on each team.
+Answer: C
+------------------------
+226. ------------------------
+Reasoning: Following the order of operations correctly and considering the significance of the negative signs in the expression, the correct answer is obtained by subtracting 16 from 13 first, then subtracting 33 from the result.
+Answer: D
+------------------------
+227. ------------------------
+Reasoning: The total cost of salads can be calculated by multiplying the number of salads (d) by the cost of each salad ($3.99), and the total cost of soups can be calculated by multiplying the number of soups (p) by the cost of each soup ($2.99). Therefore, the expression for the total costs of the soup and salads should include both 3.99d and 2.99p.
+Answer: A
+------------------------
+228. ------------------------
+Reasoning: The correct answer should involve the inverse operation of division, which is multiplication, to find the number of rolls of paper towels, t, for each room. Therefore, the number sentence that aligns with this requirement is 4 × t = 12.
+Answer: D
+------------------------
+229. ------------------------
+Reasoning: When solving the equation −47 = g + 24, we need to isolate g on one side by subtracting 24 from both sides, which results in g = -71.
+Answer: A
+------------------------
+230. ------------------------
+Reasoning: To convert meters to millimeters, you need to multiply by 1000 since there are 1000 millimeters in a meter. Therefore, the correct answer is 48 meters x 1000 = 48,000 millimeters.
+Answer: A
+------------------------
+231. ------------------------
+Reasoning: The next time Bus A and Bus B will leave the bus station at the same time is when the current time is a multiple of both 75 minutes (Bus A's interval) and 15 minutes (Bus B's interval) because this is the point where both buses will align in their departure times.
+Answer: C
+------------------------
+232. ------------------------
+Reasoning: Calculating the unit cost per lemon based on the total weight of the bag is crucial to accurately determine the cost. 
+Answer: C
+------------------------
+233. ------------------------
+Reasoning: The prime factorization of 48 is 2^4 * 3, where 2 is raised to the power of 4 and 3 is included as a prime factor.
+Answer: D
+------------------------
+234. ------------------------
+Reasoning: To find the number of 8-ounce servings in a 28-pound bag of dog food, we need to convert pounds to ounces (28 pounds = 448 ounces) and then divide by the size of each serving (8 ounces). This will give us the total number of 8-ounce servings in the bag.
+Answer: D
+------------------------
+235. ------------------------
+Reasoning: To simplify the division process and ensure accuracy, the decimal point in the divisor should be moved to the right until it becomes a whole number. This will help in obtaining the correct quotient.
+Answer: C
+------------------------
+236. ------------------------
+Reasoning: Rounding each month's rainfall to the nearest whole number and then adding them together to estimate the total rainfall for the three months, we get 8 in. + 4 in. + 0 in. = 12 in.
+Answer: D
+------------------------
+237. ------------------------
+Reasoning: The ratio 4 : 32 can be simplified to 1 : 8 by dividing both numbers by their greatest common factor, which is 4. 
+Answer: A
+------------------------
+238. ------------------------
+Reasoning: Perry needs to have 158 more baseball cards to have the same number as Samantha.
+Answer: A
+------------------------
+239. ------------------------
+Reasoning: The result of dividing 7,285 by 4 should be a whole number because division is the process of distributing a quantity into equal parts.
+Answer: C
+------------------------
+240. ------------------------
+Reasoning: The coin with a similar material and thickness to a dime would have a circumference measurement closest to that of a dime.
+Answer: B
+------------------------
+241. ------------------------
+Reasoning: The correct expression to find the number of teams in the tournament should involve division, as the total number of players needs to be divided by the number of players on each team to determine the number of teams. Therefore, the correct answer is D. 393 ÷ 3.
+Answer: D
+------------------------
+242. ------------------------
+Reasoning: By isolating w on one side of the equation, we can subtract 23 from both sides to find that w is equal to -9.
+Answer: B
+------------------------
+243. ------------------------
+Reasoning: Kim sits 2 seats to the left of Tonya based on the given information that Hector sits 2 seats to the right of Kim and Tonya sits 3 seats to the right of Hector.
+Answer: A
+------------------------
+244. ------------------------
+Reasoning: The correct expression to find the total number of shirts should involve adding the number of packages in each box, as the question asks for the total number of packages in all 3 boxes combined.
+Answer: A. 12 × 3
+------------------------
+245. ------------------------
+Reasoning: The total number of miles driven in 5 days should be a multiple of 5 due to the rounding method applied to Abby's daily round trip distance. Rounding each day to the nearest 5 miles may slightly overestimate the total distance driven in 5 days.
+Answer: C
+------------------------
+246. ------------------------
+Reasoning: The correct answer should be within +/- 5,000 of the rounded population of 4,530,000 when considering the margin of error associated with rounding to the nearest 10,000.
+Answer: C
+------------------------
+247. ------------------------
+Reasoning: To calculate the time it took Marcus to wash his car, we need to divide the total amount spent ($3.25) by the value of one quarter (which operates the car wash for 60 seconds). This gives us 13 quarters used, which translates to 13 * 60 seconds = 780 seconds or 13 minutes.
+Answer: B
+------------------------
+248. ------------------------
+Reasoning: The prime factorization of 27 is 3^3 and the prime factorization of 36 is 2^2 * 3^2. By dividing both the numerator and denominator by their greatest common factor, which is 3, we get 9 over 12. Further simplifying by dividing both by 3 again, we get 3 over 4. Therefore, the correct answer is A. 3 over 4.
+Answer: A
+------------------------
+249. ------------------------
+Reasoning: The difference between 999 and 103 is 896. This falls between the numbers 700 and 900.
+Answer: C
+------------------------
+250. ------------------------
+Reasoning: The correct answer should represent the prime factorization of a number by listing the prime factors multiplied together. Option D, 2 • 2 • 2 • 3 • 11, clearly shows the prime factorization of the number by breaking it down into its prime factors.
+Answer: D
+------------------------
+251. ------------------------
+Reasoning: Addition involves combining the number of months in each year over the 4 years, which is an alternative way to find the total number of months lived in Ms. Ling's home.
+Answer: B
+------------------------
+252. ------------------------
+Reasoning: In order to solve for x in the equation x + 71 = -22, you need to isolate x on one side of the equation by subtracting 71 from both sides, which results in x = -93.
+Answer: A
+------------------------
+253. ------------------------
+Reasoning: The correct expression should involve multiplication by 4 applied to the quantity obtained by subtracting 22 from x, which is represented as 4*(x-22).
+Answer: A
+------------------------
+254. ------------------------
+Reasoning: The correct answer should involve adding the digits in each place value column starting from the rightmost column and carrying over any excess to the next column to the left, following the standard method for adding multi-digit numbers in mathematics.
+Answer: A
+------------------------
+255. ------------------------
+Reasoning: The correct answer should result in m = 48/5 when solving the equation 5/8 * m = 6 by isolating m. 
+Answer: B
+------------------------
+256. ------------------------
+Reasoning: The final price should be $99.89 because the discount is calculated by multiplying the original price by 0.10 (10%) and then subtracting that amount from the original price. In this case, $110.99 * 0.10 = $11.10, so $110.99 - $11.10 = $99.89.
+Answer: A
+------------------------
+257. ------------------------
+Reasoning: The correct operation to find the number of tennis balls in each bucket is to divide the total number of tennis balls by the number of buckets. Therefore, the correct answer is 56 divided by 8, which is represented by the number sentence 56 ÷ 8 = t.
+Answer: A
+------------------------
+258. ------------------------
+Reasoning: The expression (6 × 8) × 12 indicates that the multiplication operation should be done in the order of 6 multiplied by 8 first, then the result multiplied by 12 to find the total number of markers needed.
+Answer: D
+------------------------
+259. ------------------------
+Reasoning: To find out how many more miles the humpback whales would have traveled than the gray whales if they had traveled for 32 days, we first need to calculate the average speed of the humpback whales in miles per day. This can be done by dividing the total distance traveled by the number of days taken. Therefore, the humpback whales' average speed is 80 miles per day. Multiplying this by 32 days gives us a total of 2560 miles. The gray whales' average speed is 74 miles per day, resulting in a total of 2368 miles traveled in 32 days. The difference between the two distances is 192 miles.
+Answer: B
+------------------------
+260. ------------------------
+Reasoning: The expression that represents 8 groups of 6 items each, which is another way to show 8 x 6, is (2x4)x6.
+Answer: D
+------------------------
+261. ------------------------
+Reasoning: The total number of pieces of candy in Lily's bag must be divisible by 5, 3, and 2 to ensure that she can give an equal number of pieces of candy to 5, 3, or 2 people. The least common multiple of 5, 3, and 2 is 30, so the correct answer is 30.
+Answer: C
+------------------------
+262. ------------------------
+Reasoning: The volume of a cube with a side length of 2.3 centimeters can be calculated by raising the side length to the power of 3, as per the formula V = s^3. Therefore, the correct answer is obtained by calculating 2.3^3.
+Answer: D
+------------------------
+263. ------------------------
+Reasoning: Marshall must type at a speed of at least 22 words per minute because if he has 550 words left to type and only 25 minutes before class starts, he needs to type at a speed of 22 words per minute to finish on time (550 words / 25 minutes = 22 words per minute).
+Answer: C
+------------------------
+264. ------------------------
+Reasoning: Involves multiplying the number of pages by the time taken to read one page, which aligns with Susan's reading rate of 1 page every 3 minutes.
+Answer: C
+------------------------
+265. ------------------------
+Reasoning: The number sentence should represent the total number of pies baked for all the school fund-raisers combined, which involves multiplication and addition. 
+Answer: C
+------------------------
+266. ------------------------
+Reasoning: The number that could not be the number before it was rounded to the nearest hundred must be closer to 450 than to 550 when rounded to the nearest hundred. Additionally, the number must end in 5 to be rounded up to 500. Considering these characteristics, the number that fits these criteria is 547.
+Answer: C
+------------------------
+267. ------------------------
+Reasoning: When adding a positive number to a negative number, the result will have the sign of the number with the greater absolute value. In this case, the absolute value of -71 is greater than 14, so the result will be negative. The magnitude of the result will be the difference between the two numbers, which is 71 - 14 = 57.
+Answer: B
+------------------------
+268. ------------------------
+Reasoning: The result of dividing 942 by 3 is 314, which is a whole number without any remainder.
+Answer: C
+------------------------
+269. ------------------------
+Reasoning: Cross multiplying the terms in the proportion equation 13/4 = x/7 gives us x = 91/4 = 22.75.
+Answer: A
+------------------------
+270. ------------------------
+Reasoning: When ordering numbers from least to greatest, it is important to consider the significance of negative numbers. Negative numbers are less than positive numbers on the number line, so they should be placed in descending order before positive numbers. In this case, the correct order would be -4, -3, -1, 6, 8. This ensures that the negative numbers are correctly positioned before the positive numbers in the sequence.
+Answer: B
+------------------------
+271. ------------------------
+Reasoning: The correct answer can be found by adding the width and length of the yard together, then multiplying by 2 to account for the two pairs of equal sides in a rectangle.
+Answer: B
+------------------------
+272. ------------------------
+Reasoning: The weight of a professional football player in pounds is the measurement that best fits the criteria for rounding to the nearest thousand as it has the last three digits being zeros.
+Answer: D
+------------------------
+273. ------------------------
+Reasoning: The average time spent on each arithmetic problem should be less than 15 seconds to finish within the given time limit of 5 minutes for 20 problems.
+Answer: D
+------------------------
+274. ------------------------
+Reasoning: The total number of minutes Sanjay watched television last weekend can be calculated by adding the minutes from the 3 television shows (3 shows * 30 minutes each = 90 minutes) and the movie (90 minutes). Therefore, the total is 90 minutes + 90 minutes = 180 minutes.
+Answer: D
+------------------------
+275. ------------------------
+Reasoning: The correct answer should involve subtracting the discount amount from the original price to calculate the new price after a 15% markdown.
+Answer: C
+------------------------
+276. ------------------------
+Reasoning: The correct answer should be an odd number that is not divisible by 2, as Lucy is counting by 2s and would skip any number that is not divisible by 2.
+Answer: A
+------------------------
+277. ------------------------
+Reasoning: The correct answer should have numbers that are between 1,450 and 1,549 because when rounding to the nearest hundred, any number between 1,450 and 1,549 will round to 1,500.
+Answer: B
+------------------------
+278. ------------------------
+Reasoning: The result of subtracting 301 from 800 should be the difference between the two numbers, which is 499.
+Answer: C
+------------------------
+279. ------------------------
+Reasoning: By dividing the total number of cows (72) by the ratio of cows to horses (6), we can determine the number of horses Gary has on his farm.
+Answer: A
+------------------------
+280. ------------------------
+Reasoning: The total cost of the lunch before the tip was added should be $44 because that was the initial cost of the lunch. The tip amount should be 20% of the total bill as mentioned in the question.
+Answer: C
+------------------------
+281. ------------------------
+Reasoning: By adding 26 to both sides of the equation v − 26 = 68, we can isolate the variable v and find its value, which is v = 94.
+Answer: C
+------------------------
+282. ------------------------
+Reasoning: The number 179,912 should be written as "One hundred seventy-nine thousand nine hundred twelve" in word form according to standard English conventions, specific rules for writing numbers, common journalistic practices, and adherence to style guides.
+Answer: D
+------------------------
+283. ------------------------
+Reasoning: The volume of the triangular prism tank can be calculated by multiplying the base area (116 square feet) by the height of the tank (30 feet). Therefore, the correct answer is the one that results from this calculation.
+Answer: C. 3480 ft^3
+------------------------
+284. ------------------------
+Reasoning: The total number of red folders can be calculated by multiplying the number of boxes by the number of folders in each box (5 boxes * 36 folders/box = 180 red folders). The total number of blue folders can be calculated by multiplying the number of boxes by the number of folders in each box (6 boxes * 32 folders/box = 192 blue folders). Adding these two totals together gives the closest number to the total number of red and blue folders that the teacher buys.
+Answer: C
+------------------------
+285. ------------------------
+Reasoning: The numbers should be arranged in ascending order from smallest to largest when listing them from least to greatest.
+Answer: A
+------------------------
+286. ------------------------
+Reasoning: The probability of picking a blue chip is higher when there are more blue chips in the bag. Since there are 5 blue chips out of a total of 15 chips, the chances of picking a blue chip are 5 out of 15.
+Answer: D
+------------------------
+287. ------------------------
+Reasoning: By rounding 11.7 to 12, 3.4 to 3, and 6.3 to 6, the mental calculation simplifies to 12 + 3 + 6, which equals 21.
+Answer: C
+------------------------
+288. ------------------------
+Reasoning: The common denominator between 1/6 and 1/8 is 24, so both fractions need to be converted to have a denominator of 24 before adding them together.
+Answer: A
+------------------------
+289. ------------------------
+Reasoning: The correct ratio for the American flag's width and length is 10 to 19, as specified by official regulations.
+Answer: D
+------------------------
+290. ------------------------
+Reasoning: Rounding 2,448 to the nearest thousand would result in 2,000 based on standard mathematical rounding rules.
+Answer: A
+------------------------
+291. ------------------------
+Reasoning: The expression 6 x 2 involves the operation of multiplication, which means combining 6 groups of 2 items each. Among the given options, the situation that aligns with this multiplication operation is B. Rocco had six baseballs and gave away two of them, representing the concept of combining 6 groups of 2 items each.
+Answer: B
+------------------------
+292. ------------------------
+Reasoning: To convert 4.95 into a mixed number, we need to represent it as a whole number combined with a proper fraction. In this case, 4 is the whole number, and 0.95 can be represented as 95/100. Simplifying 95/100 gives us 19/20. Therefore, the correct answer is A. 4 and 19 over 20.
+Answer: A
+------------------------
+293. ------------------------
+Reasoning: The correct expression to find the number of rows in Ron's garden should involve division, as the total number of plants needs to be divided by the number of plants in each row to determine the number of rows.
+Answer: A
+------------------------
+294. ------------------------
+Reasoning: The original number can be calculated using the formula N = 4Q + R, where N is the original number, Q is the quotient, and R is the remainder. In this case, the original number would be 4(160) + 2 = 642.
+Answer: D
+------------------------
+295. ------------------------
+Reasoning: When multiplying 0.3 by 427, the correct answer is 128.1. This is because the product of 0.3 and 427 is 128.1, which is obtained by multiplying the whole numbers first and then adjusting the decimal point accordingly.
+Answer: D
+------------------------
+296. ------------------------
+Reasoning: The correct answer should be the whole number result of dividing 1,248 by 7, which is 178.
+Answer: C
+------------------------
+297. ------------------------
+Reasoning: The base number in the expression is 11 because it is the number being multiplied repeatedly.
+Answer: D
+------------------------
+298. ------------------------
+Reasoning: The total number of sheets of craft paper can be calculated by multiplying the number of packages (5) by the number of sheets in each package (80). Therefore, the correct answer is 5 packages * 80 sheets = 400 sheets.
+Answer: C
+------------------------
+299. ------------------------
+Reasoning: The number of floors in the building can be calculated by dividing the total height of the building by the height of each story. In this case, 185.9 feet divided by 14.3 feet equals approximately 13 floors.
+Answer: B
+------------------------
+300. ------------------------
+Reasoning: The mode is the number that appears most frequently in a set of numbers. In this case, the number 22 appears twice, which is more than any other number in the list. Therefore, the mode is 22.
+Answer: A
+------------------------
+301. ------------------------
+Reasoning: The quotient of 1,224/9 represents the result of dividing 1,224 by 9, which is 136.
+Answer: B
+------------------------
+302. ------------------------
+Reasoning: The pair of expressions that are equivalent are 4(2x — 6) and 8x — 24 because they both simplify to 8x - 24 when the distributive property is applied.
+Answer: C
+------------------------
+303. ------------------------
+Reasoning: The final price of the share of stock at the end of Friday is the sum of all the daily changes from the initial price of $24.75. Adding up the gains and losses throughout the week, the correct answer is $29.25.
+Answer: C
+------------------------
+304. ------------------------
+Reasoning: The correct answer should be 63 because when solving for the missing number in the fraction 14/x to make the statement true, the denominator should be 63 based on cross multiplication.
+Answer: D
+------------------------
+305. ------------------------
+Reasoning: The cost of a bucket of 100 golf balls is double the cost of a bucket of 40 golf balls, so it would be $8.00. 
+Answer: D
+------------------------
+306. ------------------------
+Reasoning: Simplifying the ratio of 96 runners to 216 swimmers in simplest form (2:3) helps in comparing the relative proportions of each group by providing a clear and concise representation of the relationship between the two groups.
+Answer: C
+------------------------
+307. ------------------------
+Reasoning: The formula to calculate the area of a trapezoid is (1/2) * (sum of the lengths of the bases) * (height). In this case, the shorter base is 130 yards, the longer base is 390 yards, and the distance between them is 75 yards. By plugging these values into the formula, the correct answer can be determined.
+Answer: B
+------------------------
+308. ------------------------
+Reasoning: In order to find the value of p in the equation 3 + p = 15, we need to isolate p by performing the inverse operation of addition, which is subtraction. Therefore, p = 15 - 3, which simplifies to p = 12.
+Answer: C
+------------------------
+309. ------------------------
+Reasoning: Roya paid $48 for 12 cartons of orange juice, so the unit rate per carton of orange juice is $48 / 12 = $4.
+Answer: B
+------------------------
+310. ------------------------
+Reasoning: The total points earned in the first level and bonus round are simply the sum of the points earned in each individual level, without any resetting or accumulation of points between levels.
+Answer: A
+------------------------
+311. ------------------------
+Reasoning: Molly's final cost would be the sum of the haircut cost and the tip amount. The tip was calculated as 15% of the initial $25 haircut cost, which is $3.75. Therefore, the final cost would be $25 (haircut) + $3.75 (tip) = $28.75.
+Answer: D
+------------------------
+312. ------------------------
+Reasoning: The correct answer should focus on enhancing educational opportunities for students and providing additional time for instruction and learning, considering the benefits of additional instructional time.
+Answer: D
+------------------------
+313. ------------------------
+Reasoning: When distributing the 5 to both terms inside the parentheses in the expression 5(6x + 3y), we get 30x + 15y.
+Answer: D
+------------------------
+314. ------------------------
+Reasoning: Based on the information provided, Dani has 45 marbles and she has 5 times as many marbles as Joe. To calculate the number of marbles Joe has, we need to divide Dani's marbles by 5, since Joe has 1/5 of the number of marbles Dani has. Therefore, Joe has 45/5 = 9 marbles.
+Answer: C
+------------------------
+315. ------------------------
+Reasoning: The correct answer should be a multiple of 4 because Mrs. Kinney bought the batteries in packs of 4.
+Answer: C
+------------------------
+316. ------------------------
+Reasoning: Rounding 836 to the nearest 10 involves looking at the digit in the tens place, which is 3. Since the digit in the ones place is 6, which is greater than 5, the number should be rounded up. Therefore, 836 rounded to the nearest 10 is 840.
+Answer: C
+------------------------
+317. ------------------------
+Reasoning: A complete circle is defined as 360 degrees, so when an angle turns through 3/4 of a complete circle, it would be equivalent to 3/4 of 360 degrees, which is 270 degrees.
+Answer: D
+------------------------
+318. ------------------------
+Reasoning: The total number of liters of water in all the fish tanks can be calculated by multiplying the number of fish tanks (8) by the volume of water in each tank (40 liters). This gives us 8 * 40 = 320 liters.
+Answer: D
+------------------------
+319. ------------------------
+Reasoning: The best estimate of the distance between the lowest and highest points on Earth is obtained by adding the depth of the Mariana Trench to the height of Mt. Everest, resulting in a total vertical distance of 64,868 feet.
+Answer: C
+------------------------
+320. ------------------------
+Reasoning: To find out how much farther was walked in the morning than in the afternoon, we need to subtract the distance walked in the afternoon from the distance walked in the morning. Therefore, the correct answer is the difference between 7 over 9 mi and 5 over 12 mi.
+Answer: A. 13 over 36
+------------------------
+321. ------------------------
+Reasoning: The correct answer should involve multiplying two numbers together and should be expressed as a decimal number.
+Answer: A
+------------------------
+322. ------------------------
+Reasoning: In order to accurately compare the 0.5 of Mr. Paulson’s class that ate pizza to the 0.5 of Ms. Hugo’s class that ate hamburgers, we need to know the total number of students in each class. Without this information, it is impossible to determine the actual number of students who ate pizza or hamburgers in each class, making it crucial for a valid comparison.
+Answer: B
+------------------------
+323. ------------------------
+Reasoning: The correct equation to determine the distance, d, that Lee threw the ball should involve multiplication or division of the distance thrown by Jean because Lee threw the ball 3 times as far as Jean.
+Answer: A
+------------------------
+324. ------------------------
+Reasoning: When rounding numbers to the nearest tenth, we consider the digit in the hundredths place. Since the digit in the hundredths place is 9, we round up the digit in the tenths place, resulting in an estimated sum of 43.3.
+Answer: B
+------------------------
+325. ------------------------
+Reasoning: All hexagons are not triangles, as hexagons have 6 sides while triangles have 3 sides. Option A is incorrect. All octagons are polygons, as polygons are shapes with at least 3 sides, so this statement is true. Option B is correct.
+Answer: B
+------------------------
+326. ------------------------
+Reasoning: Liters, milliliters, gallons, and fluid ounces are commonly used units for measuring capacity, providing accuracy and precision. 
+Answer: B
+------------------------
+327. ------------------------
+Reasoning: The total distance Gabriella flew on Saturday is the sum of all the individual distances she covered in each show, as each distance represents a different launch angle or force applied to her during the performances.
+Answer: B
+------------------------
+328. ------------------------
+Reasoning: To find the total fraction of cans that are either tomato or chicken noodle in Rolando's cupboard, we need to add the fractions representing tomato and chicken noodle soup cans. The common denominator for 1/2 and 2/5 is 10. Adding 1/2 and 2/5 gives us 7/10, which means 7 out of 10 cans are either tomato or chicken noodle.
+Answer: C
+------------------------
+329. ------------------------
+Reasoning: The numbers should be arranged in ascending order based on their numerical values.
+Answer: B
+------------------------
+330. ------------------------
+Reasoning: To isolate the variable z in the equation 6.73 = z/7.74, we need to multiply both sides by 7.74 to get rid of the denominator. This results in z = 6.73 * 7.74, which simplifies to z = 52.002. 
+Answer: A
+------------------------
+331. ------------------------
+Reasoning: The false statement in this case is when the comparison is not accurate or contradicts the established order of numbers. In this case, -3 is not greater than -5, so option D is false.
+Answer: D
+------------------------
+332. ------------------------
+Reasoning: The total square footage of the office building is 305,610 square feet, which is the sum of all the individual measurements in standard form.
+Answer: D
+------------------------
+333. ------------------------
+Reasoning: The pair of ratios in option D (4 over 5 and 20 over 30) cannot form a proportion because when cross multiplied, the values are not equal.
+Answer: D
+------------------------
+334. ------------------------
+Reasoning: When subtracting a negative number, it is equivalent to adding a positive number. In this case, -25 - (-11) is the same as -25 + 11, which results in a negative number. This is because subtracting a negative number essentially means moving in the positive direction on the number line.
+Answer: B
+------------------------
+335. ------------------------
+Reasoning: To find three fifths of 100, you would multiply 100 by 3/5, which results in 60.
+Answer: D
+------------------------
+336. ------------------------
+Reasoning: The total area covered by all 30 square pieces of paper is 30 square feet because each piece of paper has side lengths of 1 foot, making the area of each piece 1 square foot. Therefore, the total area covered by all 30 pieces would be 30 square feet.
+Answer: D
+------------------------
+337. ------------------------
+Reasoning: The point (-5, 7) falls in the second quadrant because it has negative x-coordinate and positive y-coordinate.
+Answer: B
+------------------------
+338. ------------------------
+Reasoning: The correct height for a doorway should comply with building codes and regulations to ensure accessibility and safety for residents. Additionally, it should be slightly taller than the average height of individuals in a specific region to allow for comfortable passage without the risk of hitting one's head.
+Answer: C
+------------------------
+339. ------------------------
+Reasoning: Option C provides the best value as it offers 9 bottles of juice for $20.25, which is the most cost-effective option among the choices provided.
+Answer: C
+------------------------
+340. ------------------------
+Reasoning: Following the order of operations (PEMDAS), we should first perform the multiplication (6 * 2) before adding 52 to the result.
+Answer: C
+------------------------
+341. ------------------------
+Reasoning: The median is the middle value of a set of data when arranged in ascending order. When we arrange the given data in ascending order ($17.88, $19.88, $21.88, $29.88, $79.88), the middle value is $21.88.
+Answer: C
+------------------------
+342. ------------------------
+Reasoning: By distributing the 9 outside the parentheses to both terms inside, the correct answer should have the terms inside the parentheses multiplied by 9.
+Answer: B
+------------------------
+343. ------------------------
+Reasoning: The relationship between the numerator and denominator in the given statement 12 over 18 and the unknown number over 9 should be that the numerator is half of the denominator to make the statement true.
+Answer: B
+------------------------
+344. ------------------------
+Reasoning: The probability of rolling a specific number on a six-sided cube can be calculated by dividing the number of favorable outcomes (rolling a three) by the total number of possible outcomes (six). In this case, there is only one favorable outcome (rolling a three) out of six possible outcomes, resulting in a probability of 1/6 or approximately 16.67%.
+Answer: C
+------------------------
+345. ------------------------
+Reasoning: The number of packages should be rounded up to the nearest whole number because you cannot buy a fraction of a package of balloons.
+Answer: B
+------------------------
+346. ------------------------
+Reasoning: Kelly's mystery number must be a factor of 38, meaning it can divide 38 evenly without leaving a remainder.
+Answer: A
+------------------------
+347. ------------------------
+Reasoning: The total number of loads needed to move the entire pile of rocks can be calculated by dividing the total number of rocks (120) by the number of rocks Rita can carry in one load (h). Therefore, the correct expression is 120/h.
+Answer: D
+------------------------
+348. ------------------------
+Reasoning: The expression 7 x 2 indicates a multiplication operation, which is typically used to find a total or outcome. In the context of a basketball game, this total could represent the combined score of two teams, points scored by a player, or any other relevant numerical value related to the game.
+Answer: A
+------------------------
+349. ------------------------
+Reasoning: The dial starts at 0 degrees since Rami turned it 10 times, each time moving it 1 degree. The total number of degrees moved can be calculated by multiplying the number of turns by the degrees moved per turn (10 * 1 = 10).
+Answer: A
+------------------------
+350. ------------------------
+Reasoning: The number that was rounded to 47,000 should be between 46,500 and 47,499 when rounded to the nearest thousand.
+Answer: A
+------------------------
+351. ------------------------
+Reasoning: The formula for the circumference of a circle is C = πd, where C represents the circumference, π is a constant approximately equal to 3.14159, and d is the diameter of the circle. This formula is specifically designed to calculate the distance around a circular object, making it the most appropriate equation to use in this scenario.
+Answer: B
+------------------------
+352. ------------------------
+Reasoning: The cost per stamp is $0.46, so buying 12 stamps would cost Sam 12 * $0.46 = $5.52.
+Answer: D
+------------------------
+353. ------------------------
+Reasoning: The number should be greater than 2,329,500 and less than 2,598,100 to fall within the specified range.
+Answer: B
+------------------------
+354. ------------------------
+Reasoning: The correct answer should be the result of dividing the total number of balloons by the number of balloons in each bouquet without any remainder, ensuring all balloons are used in complete bouquets.
+Answer: A
+------------------------
+355. ------------------------
+Reasoning: The total number of necklaces made by Ken and Tami would be the sum of the necklaces Ken made (25) and the additional necklaces Tami made (m). Therefore, the correct expression is 25 + m.
+Answer: C
+------------------------
+356. ------------------------
+Reasoning: The product of 5 x 2 is even because both of the factors are even.
+Answer: A
+------------------------
+357. ------------------------
+Reasoning: The correct equation should involve subtracting 36 from the variable y to equal 13, which is represented by the equation y - 36 = 13.
+Answer: A
+------------------------
+358. ------------------------
+Reasoning: When simplifying 5^3, it involves multiplying 5 by itself three times, which results in 125. This calculation can be easily done mentally by breaking it down into simpler parts.
+Answer: B
+------------------------
+359. ------------------------
+Reasoning: To calculate the total number of chairs, we multiply the number of rows (6) by the number of chairs per row (8). 6 * 8 = 48.
+Answer: C
+------------------------
+360. ------------------------
+Reasoning: To calculate the total number of T-shirts sold, we need to divide the total amount collected ($5,144) by the selling price of each T-shirt ($8). This will give us the total number of T-shirts sold. 
+Answer: A
+------------------------
+361. ------------------------
+Reasoning: Each table seats exactly 8 people, so the total number of guests that can be seated at a single circular table is 8. To accommodate all 190 guests, the number of tables needed should be rounded up to the nearest whole number. In order to minimize the number of tables used efficiently, the least number of circular tables required is essential.
+Answer: A
+------------------------
+362. ------------------------
+Reasoning: The correct number sentence to find the total number of gift baskets Lucy can make with 24 apples is 24 ÷ 3 = b, where b represents the total number of gift baskets. This is because the total number of gift baskets is determined by dividing the total number of apples by the number of apples in each basket.
+Answer: C
+------------------------
+363. ------------------------
+Reasoning: By understanding basic multiplication and division facts, it is clear that 8 multiplied by 7 equals 56. Therefore, the value of y in the equation 8y = 56 is 7.
+Answer: B
+------------------------
+364. ------------------------
+Reasoning: The correct answer should involve multiplication as indicated by the expression 28 x 42, which means the two numbers are being multiplied together. Therefore, the correct answer should be the product of 28 and 42.
+Answer: D
+------------------------
+365. ------------------------
+Reasoning: The ratio of pears to apples in the fruit salad is 1:3, as Simon used 3 pears and 9 apples. 
+Answer: A
+------------------------
+366. ------------------------
+Reasoning: In order to subtract fractions with different denominators, we need to find a common denominator. Converting the fractions to have a common denominator will allow us to subtract them easily by subtracting the numerators while keeping the denominator the same. 
+Answer: A
+------------------------
+367. ------------------------
+Reasoning: The correct answer should have a denominator of 8 to represent the total number of dogs in the ratio of 3 dogs to 5 dogs.
+Answer: B
+------------------------
+368. ------------------------
+Reasoning: The value of p is 11 because when subtracting 18 from 29, we get 11, which satisfies the equation 18 + p = 29.
+Answer: C
+------------------------
+369. ------------------------
+Reasoning: The correct description of 2m+7 should involve the variable m being multiplied by 2 and then added to 7. Option A fits this criteria as it states "7 more than 2 times m."
+Answer: A
+------------------------
+370. ------------------------
+Reasoning: Each puzzle has 1,250 pieces and the student has 3 puzzles, so to find the total number of pieces, we multiply 1,250 by 3.
+Answer: B
+------------------------
+371. ------------------------
+Reasoning: The fraction that is greater than 2 over 5 should have a numerator larger than the denominator, indicating a value greater than 1. 
+Answer: D
+------------------------
+372. ------------------------
+Reasoning: The correct expression should account for the total number of cookies Paul ate in both weeks by multiplying the number of cookies eaten per day by the number of days for each week and then adding the results together.
+Answer: C
+------------------------
+373. ------------------------
+Reasoning: The correct answer is the sum of 365 and 56, which is 421.
+Answer: D
+------------------------
+374. ------------------------
+Reasoning: The total number of coins in Kate's collection can be determined by calculating 95% of the coins she keeps in the box. Since 7 coins represent 5% of her entire collection, the total number of coins in her collection would be 7 / 5 * 100 = 140.
+Answer: D
+------------------------
+375. Reasoning: The correct answer should represent the fraction of students on the dance team who do not take tap lessons, as the question specifies that 4 over 9 students take tap lessons.
+Answer: B
+376. ------------------------
+Reasoning: When predicting the number of votes candidate A should receive in the upcoming election based on the survey results, it is crucial to take into account the margin of error to understand the range of potential outcomes. This helps in making a more informed decision and considering the uncertainty associated with the survey results.
+Answer: A
+------------------------
+377. ------------------------
+Reasoning: The median is the middle value of a set of data when arranged in numerical order. When the data set 8, 10, 10, 13, 22, 24, 26, 32, 35 is arranged in ascending order, the middle value is 22.
+Answer: C
+------------------------
+378. ------------------------
+Reasoning: When calculating the number of boats needed to accommodate all 25 people in the group, the correct approach is to divide the total number of people by the number of people in each boat. This method ensures that all individuals are accounted for and that the boats are filled to capacity. 
+Answer: B
+------------------------

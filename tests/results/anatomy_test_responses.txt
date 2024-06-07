@@ -1,0 +1,540 @@
+1. ------------------------
+Reasoning: The compression of the facial nerve at the stylomastoid foramen would lead to ipsilateral facial weakness due to paralysis of the muscles innervated by the facial nerve.
+Answer: A
+------------------------
+2. ------------------------
+Reasoning: A "dished face" profile typically refers to a facial structure where the middle portion of the face appears to be pushed inwards, creating a concave shape with a prominent forehead and a receding chin. This aligns with the description of a recessive maxilla due to failure of elongation of the cranial base.
+Answer: B
+------------------------
+3. ------------------------
+Reasoning: The structure that directly collects urine from the kidneys and transports it to the bladder is the ureter.
+Answer: C
+------------------------
+4. ------------------------
+Reasoning: Ectomesenchyme is derived from neural crest cells during embryonic development and gives rise to structures such as teeth, bones of the skull, and connective tissues of the head. Among the given options, skeletal muscles do not originate from ectomesenchyme. Melanocytes are derived from the neural crest but are not specifically associated with ectomesenchyme. Sweat glands are not derived from ectomesenchyme. Therefore, the correct answer is B. Skeletal muscles.
+Answer: B
+------------------------
+5. ------------------------
+Reasoning: The cluster of blood capillaries found in each nephron in the kidney responsible for filtering blood and removing waste products is known as the glomerulus.
+Answer: B
+------------------------
+6. ------------------------
+Reasoning: Damage to the spinal cord at the level of the sixth cervical vertebra can lead to impaired motor function in the upper and lower extremities, potential loss of sensation below the level of injury, and difficulty breathing. This indicates that the patient will likely be unable to breathe without life support due to the impact on respiratory function.
+Answer: A
+------------------------
+7. ------------------------
+Reasoning: The epigastric region is the specific anatomical term for the region of the abdomen just distal to the sternum.
+Answer: A
+------------------------
+8. ------------------------
+Reasoning: The human body's defense mechanism against environmental bacteria involves white blood cells, antibodies, and the skin working together to identify and neutralize harmful bacteria. Mucous membranes play a crucial role in this process by trapping and preventing the entry of bacteria into the body.
+Answer: B
+------------------------
+9. ------------------------
+Reasoning: The fusion of the palatine processes typically begins around the age of 9-12 years, which aligns with the completion of growth and development in this area. 
+Answer: D
+------------------------
+10. ------------------------
+Reasoning: The primary motor cortex is responsible for planning, executing, and controlling voluntary movements, which directly impact the contraction of limb musculature.
+Answer: B
+------------------------
+11. ------------------------
+Reasoning: Enlarged submandibular lymph nodes typically drain lymph from areas such as the mouth, throat, and neck. Therefore, potential infection sites in the head and neck region should be considered when looking for the underlying cause of the enlargement.
+Answer: C
+------------------------
+12. ------------------------
+Reasoning: The third cranial nerve controls the muscles responsible for eyelid elevation, eye movement, and pupil constriction. Damage to this nerve can lead to ptosis, diplopia, and mydriasis. Therefore, the correct answer is pupillary dilatation and a lateral strabismus.
+Answer: D
+------------------------
+13. ------------------------
+Reasoning: The temporomandibular joint does have an articular disc of fibrocartilage, not hyaline cartilage.
+Answer: A
+------------------------
+14. ------------------------
+Reasoning: Recurrent laryngeal nerve damage disrupts the normal innervation of vocal fold muscles, leading to lack of coordination between adduction and abduction muscles. This results in the affected vocal fold being tensed and in an intermediate position. The cricothyroid muscle being paralyzed but the interarytenoids being fully active would explain this presentation.
+Answer: C
+------------------------
+15. ------------------------
+Reasoning: Proper nutrition and overall health are crucial factors that impact the growth of the mandible. Adequate intake of essential nutrients such as calcium, vitamin D, and protein is necessary for proper bone development, including the mandible. The condylar growth cartilage ceases activity at puberty, which is crucial for mandibular growth.
+Answer: B
+------------------------
+16. ------------------------
+Reasoning: The pupillary light reflex involves the contraction of the iris muscles in response to light stimulation, making it a protective mechanism to regulate the amount of light entering the eye for optimal vision.
+Answer: C
+------------------------
+17. ------------------------
+Reasoning: The diaphragm and external intercostal muscles are primarily responsible for expanding the thoracic cavity during quiet inspiration, allowing air to flow into the lungs.
+Answer: B
+------------------------
+18. ------------------------
+Reasoning: The testes are the primary organs responsible for the production of male hormones such as testosterone and androstenedione, which are crucial for male characteristics and reproductive functions.
+Answer: D
+------------------------
+19. ------------------------
+Reasoning: The pulmonary veins are the main blood vessels responsible for carrying oxygenated blood from the lungs to the heart.
+Answer: D
+------------------------
+20. ------------------------
+Reasoning: The trachea is the anatomical structure in the respiratory system that allows air to pass into the lungs.
+Answer: C
+------------------------
+21. ------------------------
+Reasoning: The sinoatrial node is typically located in the right atrium near the opening of the superior vena cava, allowing for efficient coordination of the heart's rhythm.
+Answer: C
+------------------------
+22. ------------------------
+Reasoning: The intercostal nerve typically runs between the internal and innermost intercostal muscles along the inferior border of each rib.
+Answer: C
+------------------------
+23. ------------------------
+Reasoning: The tip of the tongue is primarily drained by the submental lymph nodes, located beneath the chin.
+Answer: A
+------------------------
+24. ------------------------
+Reasoning: Gastrulation is the process by which the three germ layers (ectoderm, mesoderm, endoderm) are formed during early embryonic development. The correct answer should involve the formation of these layers.
+Answer: C
+------------------------
+25. ------------------------
+Reasoning: The spheno-occipital synchondrosis is a cartilaginous joint that connects the sphenoid bone and the occipital bone in the skull, allowing for growth and expansion of the skull during childhood. This joint is a primary site of growth in the skull where ossification occurs, leading to the elongation of the skull and the formation of the cranial base.
+Answer: C
+------------------------
+26. ------------------------
+Reasoning: In exhaled air, the substance found in greater quantity is carbon dioxide as it is a waste product of metabolic processes in the body.
+Answer: A
+------------------------
+27. ------------------------
+Reasoning: The condition characterized by the presence of kidney stones (renal calculi) is Nephrolithiasis, as kidney stones typically present with symptoms such as severe pain in the back, side, or lower abdomen, blood in the urine, frequent urination, and nausea/vomiting. 
+Answer: C
+------------------------
+28. ------------------------
+Reasoning: The pulse on a patient's face is typically felt where blood vessels are closest to the skin's surface, such as the temporal artery. This artery is easily accessible and provides valuable information about the patient's blood flow and overall health.
+Answer: C
+------------------------
+29. ------------------------
+Reasoning: The spleen is located in the left upper abdomen and is highly vascular, making it more susceptible to injury from severe blunt trauma. It is a large organ that is commonly affected in such cases.
+Answer: C
+------------------------
+30. ------------------------
+Reasoning: The atrioventricular bundle is formed of autonomic nerve processes and is the only electrical connection between the atria and the ventricles, accurately describing its position and function in the heart's conduction system.
+Answer: A
+------------------------
+31. ------------------------
+Reasoning: The term that describes the motion of bending the forearm toward the body is flexion, which is the anatomical term for this specific movement.
+Answer: C
+------------------------
+32. ------------------------
+Reasoning: The epiglottis is responsible for covering the opening of the larynx during swallowing to prevent food from entering the airway. Additionally, the closure of the vocal cords further protects the airway during swallowing. 
+Answer: B
+------------------------
+33. ------------------------
+Reasoning: Bile enters the digestive tract at the duodenum to aid in the digestion of fats by emulsifying them, increasing the surface area for enzymes to act on.
+Answer: B
+------------------------
+34. ------------------------
+Reasoning: The prone position is the correct answer as it is the position where a patient lies face down, allowing for proper drainage or access to specific areas of the body in medical procedures or conditions.
+Answer: D
+------------------------
+35. ------------------------
+Reasoning: Complete bilateral cleft palate is due to the failure of fusion of the palatal shelves during embryonic development.
+Answer: A
+------------------------
+36. ------------------------
+Reasoning: The auditory tube is responsible for maintaining proper air pressure in the middle ear, connecting it to the nasopharynx to allow for pressure equalization.
+Answer: A
+------------------------
+37. ------------------------
+Reasoning: The spleen is a lymphoid organ that acts as a reservoir for red blood cells and filters organisms from the blood.
+Answer: D
+------------------------
+38. ------------------------
+Reasoning: The diaphragm separates the thoracic and abdominal cavities in the human body.
+Answer: C
+------------------------
+39. ------------------------
+Reasoning: Bronchioles are smaller airways responsible for regulating airflow in the lungs, and the presence of smooth muscle and elastic fibers in their walls allows for constriction and dilation to control airflow. 
+Answer: D
+------------------------
+40. ------------------------
+Reasoning: The liver is responsible for removing bilirubin from the blood, manufacturing plasma proteins like albumin and globulins, and producing clotting factors such as prothrombin and fibrinogen. 
+Answer: C
+------------------------
+41. ------------------------
+Reasoning: The symptoms associated with incompetence of the esophageal sphincter include difficulty swallowing, regurgitation of food or liquid, heartburn, chest pain, and coughing. These symptoms are commonly seen in patients with esophageal sphincter incompetence.
+Answer: C
+------------------------
+42. ------------------------
+Reasoning: The muscles of the soft palate are innervated by branches of cranial nerve V (trigeminal nerve), cranial nerve VII (facial nerve), and cranial nerve X (vagus nerve) which are crucial for controlling the movements of the soft palate during functions like swallowing and speech production.
+Answer: C
+------------------------
+43. ------------------------
+Reasoning: The bone described is large, located superior to the patella and inferior to the ischium, fitting the characteristics of the femur.
+Answer: B
+------------------------
+44. ------------------------
+Reasoning: The correct answer should result in anaesthesia of the lower teeth, lower lip, and chin because the inferior alveolar nerve supplies sensation to these areas.
+Answer: B
+------------------------
+45. ------------------------
+Reasoning: The mucosa of the upper larynx is innervated by the internal branch of the superior laryngeal nerve and the recurrent laryngeal nerve, providing sensory innervation to the area.
+Answer: A
+------------------------
+46. ------------------------
+Reasoning: The bones of the viscerocranium, such as the maxilla, mandible, zygomatic bones, and nasal bones, develop through intramembranous ossification directly from mesenchymal cells without a cartilage precursor, unlike the bones of the neurocranium. This mode of ossification is specific to the development of the viscerocranium.
+Answer: C
+------------------------
+47. ------------------------
+Reasoning: The fibula is a bone located in the lower leg, running parallel to the tibia. An X-ray study of the fibula would focus on this specific bone in the lower leg.
+Answer: B
+------------------------
+48. ------------------------
+Reasoning: Mature red blood cells, also known as erythrocytes, do not have a nucleus to make more space for hemoglobin, which is essential for oxygen transport in the blood.
+Answer: C
+------------------------
+49. ------------------------
+Reasoning: The coronal suture is located at the top of the skull where the frontal bone meets the two parietal bones.
+Answer: A
+------------------------
+50. ------------------------
+Reasoning: Palpating the anterior midline of the neck from chin to sternal notch should allow for the palpation of the hyoid bone, thyroid cartilage, and cricoid cartilage in that order. 
+Answer: C
+------------------------
+51. ------------------------
+Reasoning: The bony structures that may be palpated in a live patient should be prominent, easily accessible, and close to the surface for accurate and comfortable palpation. The supraorbital foramen, infraorbital foramen, and mental foramen are not typically bony structures that are palpated during a physical examination. Therefore, the correct answer is D. All of the above.
+Answer: D
+------------------------
+52. ------------------------
+Reasoning: The structures that accompany the oesophagus through the diaphragm should include the esophageal hiatus, which is the opening in the diaphragm through which the oesophagus passes.
+Answer: D
+------------------------
+53. ------------------------
+Reasoning: The correct sequence for systemic circulation involves the flow of oxygenated blood from the left ventricle through the aorta, into the arteries, through the capillaries for gas exchange, and then back to the heart through the veins. Option B aligns with this description.
+Answer: B
+------------------------
+54. ------------------------
+Reasoning: The spinal canal is located within the vertebral column, specifically within the spinal column, providing protection for the spinal cord and nerve roots. It runs from the base of the skull to the sacrum and is situated in the center of the vertebral column.
+Answer: B
+------------------------
+55. ------------------------
+Reasoning: The parotid duct runs from the parotid gland, crosses the masseter muscle, pierces the buccinator muscle, and enters the mouth, which aligns with option A.
+Answer: A
+------------------------
+56. ------------------------
+Reasoning: Foot abduction refers to movement away from the midline of the body.
+Answer: B
+------------------------
+57. ------------------------
+Reasoning: The infraorbital nerve emerges from the maxillary nerve and provides sensory innervation to the lower eyelid, upper lip, and part of the nose, making option A the correct choice.
+Answer: A
+------------------------
+58. ------------------------
+Reasoning: Peristalsis involves the contraction of specific stomach muscles to propel food through the digestive tract, which aligns with the process described in the question.
+Answer: C
+------------------------
+59. ------------------------
+Reasoning: The correct answer should involve the transmission of impulses between neurons through the release of neurotransmitters at the synaptic cleft.
+Answer: D
+------------------------
+60. ------------------------
+Reasoning: The masseter and temporalis muscles are the primary muscles responsible for initiating the elevation of the mandible. They work together to close the jaw and elevate the mandible during activities like chewing and speaking.
+Answer: A
+------------------------
+61. ------------------------
+Reasoning: The pancreas is the accessory organ of the gastrointestinal system responsible for secreting insulin, which helps regulate blood sugar levels and aids in the absorption of glucose into cells.
+Answer: D
+------------------------
+62. ------------------------
+Reasoning: The glossopharyngeal nerve is responsible for taste sensation in the posterior third of the tongue, so damage to this nerve by a malignant tumor would result in loss of taste over the posterior third of the tongue.
+Answer: C
+------------------------
+63. ------------------------
+Reasoning: Damage to the third cranial nerve by trauma to the orbit can lead to symptoms such as ptosis (drooping eyelid), diplopia (double vision), and anisocoria (unequal pupil size), which are commonly associated with this type of injury.
+Answer: B
+------------------------
+64. ------------------------
+Reasoning: The right ventricle of the heart pumps deoxygenated blood to the lungs for oxygenation before it is returned to the left side of the heart, so the correct structure blood flows into from the right ventricle is the pulmonary arteries.
+Answer: C
+------------------------
+65. ------------------------
+Reasoning: The accessory nerve in the posterior triangle innervates the trapezius muscle, responsible for shoulder shrugging. Therefore, testing the patient's ability to lift their shoulders against resistance would help assess the function of this nerve.
+Answer: C
+------------------------
+66. ------------------------
+Reasoning: The muscles derived from the first brachial arch are primarily responsible for mastication and facial expression, making the correct answer the one that includes muscles involved in these functions.
+Answer: B
+------------------------
+67. ------------------------
+Reasoning: The carotid pulse can be accurately located on the anterior side of the neck, along the side of the trachea, just below the angle of the jaw. This location is crucial for proper assessment and palpation of the carotid pulse.
+Answer: D
+------------------------
+68. ------------------------
+Reasoning: The pathways for skilled motor movements decussate in the pyramids, which are crucial for controlling voluntary movements and maintaining posture and balance.
+Answer: C
+------------------------
+69. ------------------------
+Reasoning: The isthmus of the thyroid gland is typically located below the cricoid cartilage in the respiratory tract.
+Answer: C
+------------------------
+70. ------------------------
+Reasoning: The nerve that innervates the labial alveolar mucosa of the lower right lateral incisor tooth is crucial for providing sensory innervation to this specific area, making it necessary to anesthetize for a pain-free biopsy.
+Answer: A
+------------------------
+71. ------------------------
+Reasoning: The major concentrations of proprioceptive receptors providing information about the position of the TMJ are located in the capsule and ligaments of the TMJ and the medial pterygoid muscle.
+Answer: A
+------------------------
+72. ------------------------
+Reasoning: Acetylcholine is a neurotransmitter that aids in the transmission of nerve impulses to muscles by transmitting signals across synapses from neurons to muscle cells. It plays a crucial role in enhancing communication between nerve cells and muscle cells, ultimately leading to muscle contraction in response to nerve signals.
+Answer: A
+------------------------
+73. ------------------------
+Reasoning: Motor neuron cell bodies are typically located in the ventral horn of the spinal cord, responsible for transmitting signals from the central nervous system to muscles for voluntary movement.
+Answer: D
+------------------------
+74. ------------------------
+Reasoning: Based on the action of muscles in the mandible, the correct answer would involve the displacement of the fragments by specific muscles. The digastric muscle primarily acts to open the mouth and depress the mandible, so it would not displace the anterior fragment downwards. The lateral pterygoid muscle is responsible for protrusion and lateral movement of the mandible, not anterior displacement of the posterior fragment. The temporalis muscle aids in closing the jaw and retracting the mandible, so it would not displace the anterior fragment backwards. The medial pterygoid muscle is involved in elevating the mandible and closing the jaw, not displacing the posterior fragment medially. Therefore, the correct answer is B. 
+Answer: B
+------------------------
+75. ------------------------
+Reasoning: Damage to the medial rectus muscle or the oculomotor nerve can lead to medially directed strabismus, as they are responsible for controlling eye movement towards the nose.
+Answer: A
+------------------------
+76. ------------------------
+Reasoning: The muscles normally innervated by the peripheral motor nerve will show signs of atrophy after 6 months if the nerve does not regenerate, leading to weakness and potential fasciculations due to lack of proper nerve stimulation.
+Answer: C
+------------------------
+77. ------------------------
+Reasoning: Damage to the left internal capsule, which contains motor fibers that control movement on the opposite side of the body, will result in weakness or paralysis in the right leg.
+Answer: A
+------------------------
+78. ------------------------
+Reasoning: The fragment of a fractured tooth is small and sharp, making it more likely to be inhaled into the respiratory tract, potentially causing complications like aspiration pneumonia or airway obstruction. 
+Answer: A
+------------------------
+79. ------------------------
+Reasoning: Calcium, potassium, and sodium are essential electrolytes in the body that play crucial roles in maintaining proper cellular function and overall health. They are important for muscle contraction, nerve function, fluid balance, and various other biological processes, indicating that they are classified as electrolytes.
+Answer: C
+------------------------
+80. ------------------------
+Reasoning: Noradrenaline is released by the sympathetic nervous system and is involved in the "fight or flight" response, making it the neurotransmitter between sympathetic pre- and post-ganglionic neurons.
+Answer: B
+------------------------
+81. ------------------------
+Reasoning: The mucus-producing glands located on each side of the vaginal opening are specifically known as Bartholin's glands, responsible for producing mucus to lubricate the vaginal area and aid in sexual intercourse.
+Answer: B
+------------------------
+82. ------------------------
+Reasoning: When considering the need for immediate airway access in emergency situations where traditional methods have failed, the cricothyroid membrane should be pierced immediately as it is easily accessible and allows for quick airway access. 
+Answer: A
+------------------------
+83. ------------------------
+Reasoning: The correct answer should involve the circulation of cerebrospinal fluid between the ventricles and the subarachnoid space to support brain health by removing waste products, regulating temperature, and providing nutrients to the brain.
+Answer: C
+------------------------
+84. ------------------------
+Reasoning: The epiglottis and vocal cords are crucial in closing and sealing off the lower airway during swallowing to prevent food or liquid from entering the trachea.
+Answer: B
+------------------------
+85. ------------------------
+Reasoning: The orbital floor is the weakest and most susceptible to collapse under force, making it the most likely to be affected in a blow out fracture.
+Answer: B
+------------------------
+86. ------------------------
+Reasoning: The walls of the maxillary sinus are related to the floor of the orbit, upper posterior teeth, and the infratemporal fossa. These structures are in close proximity to the maxillary sinus and can influence the characteristics of its walls.
+Answer: C
+------------------------
+87. ------------------------
+Reasoning: The correct statement about the postnatal growth of the maxilla is that the zygomaticomaxillary sutures contribute to an increase in height and length of the maxilla. This is accurate information regarding the growth pattern of the maxilla postnatally.
+Answer: C
+------------------------
+88. ------------------------
+Reasoning: The seventh cranial nerve, also known as the facial nerve, is primarily involved in controlling the muscles of facial expression, carrying taste sensations from the anterior two-thirds of the tongue, and playing a role in tear and salivary gland function. Based on this information, the correct answer should be related to muscles of the face and taste sensation.
+Answer: B
+------------------------
+89. ------------------------
+Reasoning: The paranasal sinuses that open into the middle meatus are the frontal sinus, anterior ethmoidal sinus, and maxillary sinus, allowing for proper drainage and ventilation.
+Answer: C
+------------------------
+90. ------------------------
+Reasoning: Collagen is a fibrous protein that provides strength and support to the skin, maintaining its integrity and elasticity.
+Answer: A
+------------------------
+91. ------------------------
+Reasoning: Understanding the bony structure of the palatine shelf and its role in palate elevation indicates that the correct answer is not related to descent of the tongue or hydrophilic molecules increasing turgor pressure. Changes in flexure of the developing brain are not directly linked to palatine shelf elevation. Therefore, the most plausible option is that a combination of these three processes contributes to palatine shelf elevation.
+Answer: D
+------------------------
+92. ------------------------
+Reasoning: Patients with poor oral hygiene are more likely to have plaque buildup on surfaces that are difficult to clean effectively, such as the back molars and in between teeth. Surfaces with rough textures or crevices provide ideal conditions for plaque accumulation.
+Answer: A
+------------------------
+93. ------------------------
+Reasoning: Understanding the anatomy of the larynx and the localization of edema above the vocal folds, the correct answer should mention the unique structure of the larynx and the specific areas that are more prone to swelling, such as the supraglottic region. The presence of the epiglottis, aryepiglottic folds, and false vocal cords in this area makes it more susceptible to edema. Additionally, the role of the lymphatic drainage system in the larynx contributes to the confinement of edema above the vocal folds.
+Answer: D
+------------------------
+94. ------------------------
+Reasoning: The coronary arteries arise from the ascending aorta and fill during systole, providing oxygenated blood to the heart muscle, which is crucial for its proper function.
+Answer: B
+------------------------
+95. ------------------------
+Reasoning: The lateral pterygoid muscle is the primary muscle responsible for the lateral excursion of the mandible.
+Answer: B
+------------------------
+96. ------------------------
+Reasoning: The phrenic nerves are responsible for controlling the movement of the diaphragm, which is the primary muscle involved in breathing.
+Answer: A
+------------------------
+97. ------------------------
+Reasoning: Parasympathetic preganglionic nerves exit the central nervous system from the brainstem and sacral spinal cord, making the correct answer D. sixth cranial nerves.
+Answer: D
+------------------------
+98. ------------------------
+Reasoning: The mucosa covering the alveolar process supporting the mandibular teeth in a patient with a normal healthy mouth should appear pink in color, firm in texture, and tightly adherent to the underlying bone. This indicates good blood supply, proper tissue integrity, and absence of inflammation or disease.
+Answer: A
+------------------------
+99. ------------------------
+Reasoning: Macrostomia results from the failure of fusion of facial prominences during embryonic development, which includes the maxillary and mandibular processes.
+Answer: A
+------------------------
+100. ------------------------
+Reasoning: Infections such as viral or bacterial infections, obstructions such as salivary stones, or inflammation such as sialadenitis are the most common causes of an enlarged submandibular salivary gland in patients. Therefore, the correct answer should be related to one of these common causes.
+Answer: A
+------------------------
+101. ------------------------
+Reasoning: Osteoclasts are known for their role in bone resorption and breaking down bone tissue during the remodeling process.
+Answer: D
+------------------------
+102. ------------------------
+Reasoning: The lateral pterygoid muscle is attached to the condylar process and protrudes the mandible, which is essential for jaw movement and chewing activities.
+Answer: D
+------------------------
+103. ------------------------
+Reasoning: The ductus arteriosus in a fetus connects the pulmonary artery to the aorta, allowing blood to bypass the lungs. 
+Answer: C
+------------------------
+104. ------------------------
+Reasoning: The correct answer should involve bones that develop through endochondral ossification, which is the process by which most bones develop in the body from a cartilage model.
+Answer: C
+------------------------
+105. ------------------------
+Reasoning: The hard palate mucosa is keratinized to provide protection against mechanical stress, making option A the correct choice.
+Answer: A
+------------------------
+106. ------------------------
+Reasoning: The head of the sixth rib articulates with the inferior articular facet of T5 and the superior articular facet of T6, based on the specific shape and location of the rib head.
+Answer: A
+------------------------
+107. ------------------------
+Reasoning: The spleen is an organ located beneath the diaphragm in the left upper quadrant of the abdominal cavity.
+Answer: C
+------------------------
+108. ------------------------
+Reasoning: Proprioceptive nerve endings in synovial joints are crucial for detecting changes in joint position and movement, contributing to joint stability and coordination. The correct locations for these nerve endings are in the joint capsule and ligaments.
+Answer: C
+------------------------
+109. ------------------------
+Reasoning: The thoracic cage is primarily responsible for facilitating respiration by protecting the heart and lungs, allowing for expansion during inhalation, and supporting respiratory muscles.
+Answer: D
+------------------------
+110. ------------------------
+Reasoning: The extravasated blood detected between the skull bones and dura mater is indicative of an extradural hemorrhage, which is typically caused by trauma to the head leading to a rupture of the middle meningeal artery. This location aligns with the characteristics of an extradural hemorrhage.
+Answer: A
+------------------------
+111. ------------------------
+Reasoning: The infraorbital nerve block targets the infraorbital nerve as it exits the infraorbital foramen to provide anesthesia to the area innervated by this nerve, which includes the lower eyelid, side of the nose, upper lip, and cheek. Understanding the anatomical landmarks and techniques involved is crucial for the successful administration of the block.
+Answer: C
+------------------------
+112. ------------------------
+Reasoning: The sphenoid bone contains multiple foramina for the passage of important structures such as nerves and blood vessels.
+Answer: C
+------------------------
+113. ------------------------
+Reasoning: The disorder characterized by uncontrollable episodes of falling asleep during the day is narcolepsy, which is associated with symptoms like uncontrollable daytime sleepiness, sudden muscle weakness (cataplexy), sleep paralysis, hallucinations, and disrupted nighttime sleep. Among the given options, only option D, Narcolepsy, aligns with these symptoms.
+Answer: D
+------------------------
+114. ------------------------
+Reasoning: The correct answer should have thin walls, large surface area, and rich blood supply to facilitate efficient gas exchange in the lungs. Alveoli possess all these characteristics, making them the site for gas exchange in the lungs.
+Answer: A
+------------------------
+115. ------------------------
+Reasoning: The fracture described where the radius is bent but not displaced, and the skin is intact is characteristic of a greenstick fracture, which is common in children. 
+Answer: A
+------------------------
+116. ------------------------
+Reasoning: Fertilization typically occurs in the fallopian tube where the ovum meets the spermatozoon, making it the structure where the process takes place.
+Answer: B
+------------------------
+117. ------------------------
+Reasoning: The ectoderm gives rise to structures such as the nervous system, epidermis, hair, nails, and lens of the eye during embryonic development.
+Answer: D
+------------------------
+118. ------------------------
+Reasoning: The structure located at the neck of the bladder and surrounding the urethra in men, responsible for controlling the flow of urine, is the prostate gland.
+Answer: B
+------------------------
+119. ------------------------
+Reasoning: The right atrioventricular valve prevents backflow of blood from the right ventricle to the right atrium during ventricular contraction to maintain proper circulation.
+Answer: B
+------------------------
+120. ------------------------
+Reasoning: The cerebellum is supplied by branches of the subclavian arteries, specifically the vertebral arteries, which play a crucial role in providing blood to the posterior part of the brain. This area is essential for coordination and balance, making it a significant brain region supplied by the subclavian arteries.
+Answer: D
+------------------------
+121. ------------------------
+Reasoning: Villi and microvilli are essential structures in the small intestine that increase surface area for nutrient absorption.
+Answer: C
+------------------------
+122. ------------------------
+Reasoning: The needle ideally passes just above the mandibular foramen to deposit the anesthetic solution close to the inferior alveolar nerve for successful anesthesia.
+Answer: A
+------------------------
+123. ------------------------
+Reasoning: Pernicious anemia causes a deficiency in vitamin B-12 absorption, leading to symptoms that require injections for treatment.
+Answer: C
+------------------------
+124. ------------------------
+Reasoning: The bone that has a process that joins with the zygomatic bone to form the zygomatic arch is the temporal bone, specifically the zygomatic process of the temporal bone articulates with the temporal process of the zygomatic bone to create the zygomatic arch.
+Answer: B
+------------------------
+125. ------------------------
+Reasoning: Parasympathetic preganglionic axons are responsible for regulating rest and digest functions in the body, and they leave the CNS with cranial nerves or the sacral spinal cord.
+Answer: D
+------------------------
+126. ------------------------
+Reasoning: The signs and symptoms related to Horner's syndrome, such as pupillary constriction, vasodilation of facial vessels, increased facial sweating, and decreased lacrimation, are indicative of damage to the cervical sympathetic chain.
+Answer: D
+------------------------
+127. ------------------------
+Reasoning: The olfactory nerve, or cranial nerve I, is responsible for the sense of smell, carrying sensory information from the olfactory receptors in the nasal cavity to the brain. It is unique among the cranial nerves in its function related to smell.
+Answer: C
+------------------------
+128. ------------------------
+Reasoning: The vital centers in the brainstem are responsible for controlling essential bodily functions such as breathing, heart rate, and blood pressure, which are crucial for maintaining life. These functions are specifically regulated by the medulla oblongata, pons, and midbrain.
+Answer: C
+------------------------
+129. ------------------------
+Reasoning: The enzyme present in saliva that acts upon nutrients is amylase, which specifically targets carbohydrates.
+Answer: A
+------------------------
+130. ------------------------
+Reasoning: The cricopharyngeus muscle is responsible for opening the upper esophageal sphincter during swallowing to allow food to pass from the throat to the esophagus. This muscle contraction is a crucial step in the swallowing process.
+Answer: B
+------------------------
+131. ------------------------
+Reasoning: The dorsal roots of spinal nerves are responsible for carrying sensory information from the body to the spinal cord, therefore they contain sensory neuronal processes.
+Answer: A
+------------------------
+132. ------------------------
+Reasoning: The master gland of the endocrine system controls and regulates the functions of other endocrine glands, secretes important hormones that affect various bodily functions, and plays a key role in maintaining homeostasis by coordinating the body's hormonal activities and responses.
+Answer: D
+------------------------
+133. ------------------------
+Reasoning: The lingual nerve, a branch of the mandibular division of the trigeminal nerve (CN V3), provides sensory innervation to the anterior two-thirds of the tongue. Damage to this nerve can result in loss of somatic sensation in this specific region of the tongue.
+Answer: A
+------------------------
+134. ------------------------
+Reasoning: The urethra is the primary site of infection for gonorrhea in men, making it the most reliable location for detecting the presence of the bacteria through culture.
+Answer: C
+------------------------
+135. ------------------------
+Reasoning: Based on the information provided, the structures that should be visible on a dental panoramic radiograph include teeth, jaws, temporomandibular joints, and maxillary sinuses. Among the options given, the mandibular canal, maxillary sinus, hard palate, and zygomatic arch are not typically visible on a panoramic radiograph. Therefore, the correct answer is A. The mandibular canal.
+Answer: A
+------------------------

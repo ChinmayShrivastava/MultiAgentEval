@@ -1,0 +1,563 @@
+1. ------------------------
+Reasoning: The Barkhausen criterion states that for sustained oscillations to occur in an electronic circuit, the loop gain must be equal to or greater than unity and there must be a 360-degree phase shift around the feedback loop at the oscillation frequency. Therefore, the correct answer is D, as it includes both conditions mentioned in the criterion.
+Answer: D
+------------------------
+2. ------------------------
+Reasoning: The potentiometer method of DC voltage measurement is more accurate than direct measurement using a voltmeter because it allows for more precise adjustments, eliminates errors due to resistance in the circuit, provides stable readings, and does not load the circuit at all.
+Answer: D
+------------------------
+3. ------------------------
+Reasoning: Universal gates are logic gates that can perform all basic logic operations and are capable of implementing any Boolean function. The set of logic gates that fit this description is NOR and NAND gates.
+Answer: A
+------------------------
+4. ------------------------
+Reasoning: The firing angle control range decreases as the load counter emf decreases, requiring less control to regulate power flow in the circuit.
+Answer: C
+------------------------
+5. ------------------------
+Reasoning: A box which tells the effect of inputs on control sub system is typically represented in block diagrams in control systems to visually show the relationship between inputs and outputs. Therefore, the correct answer is not Data Box, Logical Box, or State Box, but Decision Box.
+Answer: C
+------------------------
+6. ------------------------
+Reasoning: The electric field strength between two parallel plates is directly proportional to the surface charge density on the plates and inversely proportional to the distance between the plates. As the plates are infinite and have equal surface charge density, the electric field in the gap between them will be constant and uniform, making it the same as that produced by one plate.
+Answer: A
+------------------------
+7. ------------------------
+Reasoning: The resistance in the circuit of the moving coil of a dynamometer wattmeter should be low because it allows for accurate measurement of power consumption.
+Answer: A
+------------------------
+8. ------------------------
+Reasoning: The necessary requirements of an oscillator include amplitude stability and frequency stability, as these components are crucial for generating and sustaining oscillations in the circuit.
+Answer: D
+------------------------
+9. ------------------------
+Reasoning: Based on the typical voltage ranges used in directional heating systems falling within 120-240 volts for residential heating applications, the most suitable option is 15 KV.
+Answer: B
+------------------------
+10. ------------------------
+Reasoning: LC oscillators are designed to provide a variable frequency output within a specific range by adjusting the inductance and capacitance values, while maintaining a stable and reliable waveform. The combination of inductors and capacitors allows for adjustable resonance frequencies, providing a wide range of frequency options. The ability to adjust the values of the inductor and capacitor directly affects the resonant frequency of the oscillator, impacting the stability and accuracy of the frequency range it can produce.
+Answer: B
+------------------------
+11. ------------------------
+Reasoning: A working diode must have a low resistance when forward biased, while high resistance when reverse biased, to allow current flow in one direction and block it in the other.
+Answer: B
+------------------------
+12. ------------------------
+Reasoning: Zinc sulphide is a fluorescent material known for emitting red color fluorescence when excited by a light source, making it the correct choice for this question.
+Answer: C
+------------------------
+13. ------------------------
+Reasoning: Each decimal digit is represented by a 4-bit binary code in BCD.
+Answer: D
+------------------------
+14. ------------------------
+Reasoning: The commutator in a DC generator is used to convert AC armature current into DC by ensuring unidirectional current flow. 
+Answer: D
+------------------------
+15. ------------------------
+Reasoning: F is the symbol used to represent force in the International System of Units (SI), so the theoretical equality of F should be based on the definition of force.
+Answer: A
+------------------------
+16. ------------------------
+Reasoning: The truth table of a 3 input NAND gate will have 8 entries because each input can have 2 possible states (0 or 1) and with 3 inputs, the total number of combinations is 2^3 = 8.
+Answer: C
+------------------------
+17. ------------------------
+Reasoning: The Most Significant Digit (MSD) in a decimal number system is the first digit from left to right, as it holds the highest place value and has the most significant impact on the overall value of the number.
+Answer: A
+------------------------
+18. ------------------------
+Reasoning: GAL (Generic Array Logic) is a type of programmable logic device commonly used in digital logic designs, known for its flexibility and reprogrammability. It is specifically designed to provide a more efficient and flexible solution compared to other programmable logic devices.
+Answer: D
+------------------------
+19. Reasoning: The ALE signal in the Intel 8085A microprocessor is used to latch the address present on the address bus into the external latch.
+Answer: B
+20. ------------------------
+Reasoning: The gate source resistance should be calculated based on the given values of triggered source volume and allowable gate power dissipation, taking into account the straight line characteristic of 130 for the SCR gate cathode.
+Answer: A. 111.9 ohm
+------------------------
+21. ------------------------
+Reasoning: V/f control of inverters driving induction motors results in improved efficiency, better speed control, and reduced motor heating, allowing for optimal speed control and torque production while maintaining high efficiency.
+Answer: A
+------------------------
+22. ------------------------
+Reasoning: The formula for calculating energy stored in a magnetic field in a solenoid is 0.5 * L * I^2, where L is the inductance of the solenoid and I is the current flowing through it. Given the values provided in the question, the correct answer can be determined using this formula.
+Answer: B
+------------------------
+23. ------------------------
+Reasoning: The AC motor requires variable voltage in order to adjust proportionally to frequency changes to maintain a constant magnetic flux for optimal performance.
+Answer: C
+------------------------
+24. ------------------------
+Reasoning: Armature winding and field winding are essential components in all DC machines for the generation of electromagnetic fields and the conversion of electrical energy into mechanical energy.
+Answer: A. closed winding
+------------------------
+25. ------------------------
+Reasoning: Relaxation voltage controlled oscillators rely on the charging and discharging of non-linear elements like capacitors or inductors to generate oscillations. Triangular and sawtooth waves are commonly produced by these oscillators due to their unique waveform generation capabilities.
+Answer: D
+------------------------
+26. ------------------------
+Reasoning: High frequency supply is typically employed for high frequency eddy current heating because it allows for better control of the heating depth within the material being heated, minimizes power losses, and induces faster and more efficient heating.
+Answer: D
+------------------------
+27. ------------------------
+Reasoning: In the toggle mode of a JK flip-flop, the output toggles on every clock pulse when both J and K inputs are high (1), making the correct answer option B. J = 1, K = 1.
+Answer: B
+------------------------
+28. ------------------------
+Reasoning: Electric drive technology is becoming more popular due to its environmental benefits, cost-effectiveness, and advancements in technology. The correct answer should focus on long-term savings, potential government incentives, and improved battery technology to address key factors contributing to the increasing popularity of electric drive vehicles.
+Answer: B
+------------------------
+29. ------------------------
+Reasoning: In a step-up chopper, the duty cycle needs to be greater than 0.5 to achieve an output voltage higher than the input voltage. This is because during the ON time of the chopper, energy is stored in the inductor, and a duty cycle greater than 0.5 ensures more energy is stored, resulting in a higher output voltage.
+Answer: B
+------------------------
+30. ------------------------
+Reasoning: A binary number system consists of only two digits, 0 and 1, making the correct answer 2.
+Answer: C
+------------------------
+31. ------------------------
+Reasoning: The presence of a pole at or near the origin resulting in the lowest critical frequency indicates that the network is likely a low-pass filter, allowing low frequencies to pass through while attenuating higher frequencies.
+Answer: A
+------------------------
+32. ------------------------
+Reasoning: Open loop control systems are advantageous due to their simplicity, cost-effectiveness, and reliability compared to closed loop systems.
+Answer: A
+------------------------
+33. ------------------------
+Reasoning: The correct representation of the voltage induced in an inductor is given by the formula V = L(di/dt) according to Faraday's law of electromagnetic induction.
+Answer: D
+------------------------
+34. Reasoning: Each hexadecimal digit represents 4 bits in the binary number system.
+Answer: C
+35. ------------------------
+Reasoning: Induction heating relies on the principle of electromagnetic induction to create eddy currents within the material, resulting in heat generation. It requires the material to be conductive and have high magnetic permeability for efficient heat generation.
+Answer: D
+------------------------
+36. ------------------------
+Reasoning: The average pitch in a lap winding dc machine is calculated by dividing the total number of conductors by the number of parallel paths. In this case, with 100 conductors and 10 parallel paths, the average pitch would be 100/10 = 10.
+Answer: A
+------------------------
+37. ------------------------
+Reasoning: The unit of magnetic flux is measured in Weber (Wb), which is the standard SI unit for magnetic flux and is crucial in practical applications such as designing magnetic circuits or electromagnetic devices.
+Answer: C
+------------------------
+38. ------------------------
+Reasoning: The reciprocity theorem in bridge circuits states that the ratio of the bridge arms remains the same regardless of the interchange of source and detector positions, ensuring the bridge remains balanced. This principle aligns with the scenario described in the question.
+Answer: A
+------------------------
+39. ------------------------
+Reasoning: A transparent D-flip-flop allows the input to pass through to the output when the clock signal is high, resulting in an immediate change in output based on the input.
+Answer: D
+------------------------
+40. ------------------------
+Reasoning: The frequency of the vertical input signal will be a multiple of the frequency of the horizontal input signal based on the number of horizontal and vertical tangencies in the Lissajous pattern.
+Answer: B
+------------------------
+41. ------------------------
+Reasoning: Speed control by variation of field flux results in direct impact on the speed of the system as the field flux influences the electromagnetic forces, leading to precise speed control, energy efficiency, and reduced wear and tear on the motor. 
+Answer: A
+------------------------
+42. ------------------------
+Reasoning: The memory unit that uses one transistor and one capacitor as the basic memory unit is DRAM.
+Answer: B
+------------------------
+43. ------------------------
+Reasoning: The total luminous flux needed to achieve an average illuminance of 50 lux in a 4m * 3m rectangular room can be calculated using the formula Total Luminous Flux = Illuminance × Area. Given that each lamp has 300 lumens, the total luminous flux required can be calculated and then divided by the luminous flux of each lamp to determine the number of lamps needed.
+Answer: C
+------------------------
+44. ------------------------
+Reasoning: The system described in the question exhibits feedback behavior where the output affects the input quantity, indicating the presence of feedback mechanisms or control systems. This dynamic relationship between input and output suggests that the system is a closed-loop control system.
+Answer: B
+------------------------
+45. ------------------------
+Reasoning: A sinusoidal signal is analog because it has positive as well as negative values, varying continuously over time in a smooth manner.
+Answer: D
+------------------------
+46. ------------------------
+Reasoning: From the historical origin, common understanding in different industries, technology, broadcasting, and communication, and relevance to the context of radio broadcasting, the correct answer is B. frequency modulation.
+Answer: B
+------------------------
+47. ------------------------
+Reasoning: The term "stack" in the context of data structures follows the Last In First Out (LIFO) principle, making option C. LIFO memory the correct choice.
+Answer: C
+------------------------
+48. ------------------------
+Reasoning: The lower limit of speed in the Ward-Leonard system is determined by factors such as the voltage of the generator and the resistance of the motor. This allows for precise control over the speed range, making the armature resistance the correct answer.
+Answer: B
+------------------------
+49. Reasoning: The Colpitts oscillator is a type of LC oscillator that uses a combination of inductors and capacitors in its feedback network, providing high frequency stability and ease of tuning, making it widely used in radio frequency applications.
+Answer: B
+50. ------------------------
+Reasoning: The surge current rating for one full cycle is typically double the half cycle surge current rating. Since the SCR has a half cycle surge current rating of 3000 A, the surge current for one full cycle would be 6000 A.
+Answer: B
+------------------------
+51. ------------------------
+Reasoning: The ALU and control section of the CPU both utilize registers as special purpose storage locations to hold temporary data for arithmetic and logic operations, store control signals and instructions, and coordinate data sharing within the CPU.
+Answer: D
+------------------------
+52. ------------------------
+Reasoning: Systematic errors are identifiable patterns or biases in the data collection or measurement process, leading to consistent inaccuracies in the results.
+Answer: D
+------------------------
+53. ------------------------
+Reasoning: The disadvantages of an open loop control system include inaccuracy, unreliability, and susceptibility to external disturbances due to the lack of a feedback mechanism. 
+Answer: C
+------------------------
+54. ------------------------
+Reasoning: When a diode (p-n junction) is reverse biased, it acts as an "Off Switch" because it prevents current flow in the circuit due to the widening of the depletion region.
+Answer: D
+------------------------
+55. ------------------------
+Reasoning: The piezoelectric effect is based on the ability of certain materials to generate an electric charge in response to applied mechanical stress. Crystal filters are known for their piezoelectric properties, making them suitable for carrying out the piezoelectric effect.
+Answer: B
+------------------------
+56. ------------------------
+Reasoning: The resistivity of the conductor depends on the type of material used to make the conductor because different materials have different inherent resistivities.
+Answer: C
+------------------------
+57. ------------------------
+Reasoning: When considering the perspective of sensitivity of the instrument, the correct answer should have high sensitivity to detect even the smallest change in the measured variable.
+Answer: D
+------------------------
+58. ------------------------
+Reasoning: "AM" stands for "Amplitude Modulation" in electronic communications, which involves varying the amplitude of a carrier wave in relation to the signal being transmitted.
+Answer: C
+------------------------
+59. ------------------------
+Reasoning: An automatic control system is characterized by the use of feedback, continuous monitoring and adjustment of output, and operation without human intervention. This aligns with the features of a closed-loop control system.
+Answer: B
+------------------------
+60. ------------------------
+Reasoning: The correct answer should have both a fixed AND array and a programmable OR array, as these are key characteristics of a combinational PLD with a fixed AND array and a programmable OR array.
+Answer: D
+------------------------
+61. ------------------------
+Reasoning: Null type instruments are known for their higher accuracy and precision due to the balancing of known and unknown quantities, making them more sensitive in measurements.
+Answer: A
+------------------------
+62. ------------------------
+Reasoning: When the length of the cable is doubled, the capacitance C will decrease because capacitance is inversely proportional to the length of the cable according to the formula for capacitance.
+Answer: A
+------------------------
+63. ------------------------
+Reasoning: Electrons in p-type material are referred to as majority carriers and play a crucial role in the conductivity and electrical properties of the semiconductor.
+Answer: C
+------------------------
+64. ------------------------
+Reasoning: The impurity that is most detrimental in magnetic materials is the one with a high concentration and the ability to disrupt the alignment of magnetic domains. Among the options provided, Nitrogen fits these characteristics best.
+Answer: D
+------------------------
+65. ------------------------
+Reasoning: Voltage controlled oscillators are commonly used in electronic devices or systems where precise frequency control is required, and they need to be versatile in frequency range and high stability. The correct answer should have a variety of frequency ranges, different modulation capabilities, and compatibility with various electronic systems, making option D the most suitable choice.
+Answer: D
+------------------------
+66. ------------------------
+Reasoning: Low frequency supply allows for deeper penetration of the heat into the core material, resulting in improved efficiency and reduced core losses.
+Answer: A
+------------------------
+67. ------------------------
+Reasoning: Damping in moving coil-meters is essential for stabilizing the pointer quickly and accurately without excessive oscillations, leading to more precise measurements. The damping vane in the airtight chamber is designed to absorb energy and reduce oscillations effectively.
+Answer: D
+------------------------
+68. ------------------------
+Reasoning: The analogous quantity for mass element in force-voltage analogy should represent inertia or resistance to change in the system, similar to how an inductor behaves in electrical circuits.
+Answer: B
+------------------------
+69. ------------------------
+Reasoning: Sensitive latches are ideal for security purposes as they can quickly detect and respond to changes in their environment, making them secure and easy to use.
+Answer: A
+------------------------
+70. ------------------------
+Reasoning: The protective fuse or circuit breaker is designed to interrupt the flow of current when it exceeds a certain threshold, preventing damage to the SCR from over current.
+Answer: A
+------------------------
+71. ------------------------
+Reasoning: The errors mainly caused by human mistakes such as lack of attention to detail, miscommunication, and procrastination are observational errors.
+Answer: C
+------------------------
+72. ------------------------
+Reasoning: The correct answer should be analogous to resistance in an electrical circuit because both components dissipate energy and resist the flow of current, similar to how a dash-pot resists changes in velocity in mechanical systems.
+Answer: A
+------------------------
+73. ------------------------
+Reasoning: A high CRI value is crucial for accurate color representation and natural color rendering, which is preferred by customers and essential for tasks requiring color accuracy.
+Answer: A
+------------------------
+74. ------------------------
+Reasoning: An ideal inductor has no resistance, so it does not dissipate any power.
+Answer: C
+------------------------
+75. ------------------------
+Reasoning: Considering the need for flexibility in operation, quick heating and cooling capabilities, and energy efficiency for intermittent work, the most suitable furnace would be a Coreless furnace.
+Answer: A
+------------------------
+76. ------------------------
+Reasoning: The electrode material in electrical resistance welding should have high electrical conductivity and heat resistance to ensure efficient welding and a strong bond between materials.
+Answer: A
+------------------------
+77. ------------------------
+Reasoning: Passive elements do not generate energy or actively control the system's behavior, but instead respond to external stimuli or inputs. Examples of passive elements include resistors, capacitors, inductors, and diodes.
+Answer: C
+------------------------
+78. ------------------------
+Reasoning: The main advantage of dielectric heating is that it directly heats the material by applying an electric field, resulting in high efficiency and minimal heat loss compared to other heating methods like conduction or convection.
+Answer: A
+------------------------
+79. ------------------------
+Reasoning: Materials with high thermal conductivity are essential for efficient heat transfer in heat sinks.
+Answer: A
+------------------------
+80. ------------------------
+Reasoning: The principle of electromagnetic induction describes the phenomenon where a conductor experiences an induced electromotive force (emf) when exposed to a changing magnetic field. This aligns with the characteristics mentioned in the information provided.
+Answer: B
+------------------------
+81. Reasoning: The correct answer should have a higher short circuit level due to the lower subtransient reactance value, higher rated alternators, increased output power from parallel operation, and considering the total MVA capacity of the alternators in parallel.
+Answer: A
+82. ------------------------
+Reasoning: The Bohr model states that electrons can only gain or lose energy by jumping from one allowed orbit to another, which involves discrete transitions between energy levels.
+Answer: B
+------------------------
+83. ------------------------
+Reasoning: The correct answer should have clear, distinct, and well-defined output states, which are easily distinguishable from each other. The states should be related to the functionality of a three-state buffer.
+Answer: A
+------------------------
+84. ------------------------
+Reasoning: Mechanical translational systems require elements that can convert rotary motion into linear motion, which is essential for achieving linear movement.
+Answer: D
+------------------------
+85. ------------------------
+Reasoning: The equivalent capacitance of capacitors connected in parallel is the sum of the individual capacitances. In this case, with four capacitors each of 40 µF connected in parallel, the total capacitance would be 160 µF.
+Answer: A
+------------------------
+86. ------------------------
+Reasoning: When the diameter of a conductor is halved, its cross-sectional area is reduced by a factor of 4, leading to a decrease in resistance. Additionally, when the length of the conductor is doubled, the resistance will be halved. Therefore, combining these effects, the overall resistance will decrease.
+Answer: A
+------------------------
+87. ------------------------
+Reasoning: A resistive load is ideal for load commutation mode in a single phase full bridge inverter as it allows for easier commutation of the load current.
+Answer: A
+------------------------
+88. ------------------------
+Reasoning: The ALU is the Arithmetic Logic Unit of a microprocessor, responsible for performing arithmetic and logical operations on data. It is a crucial component that carries out the core processing tasks within the microprocessor.
+Answer: A
+------------------------
+89. ------------------------
+Reasoning: A higher permittivity value allows for more charge to be stored in the capacitor for a given voltage, leading to a higher capacitance value.
+Answer: C
+------------------------
+90. ------------------------
+Reasoning: Deflection method direct measurements are most widely used because they are cost-effective and simple to execute compared to other measurement approaches. These measurements typically require minimal equipment and expertise, making them a practical choice for many applications.
+Answer: C
+------------------------
+91. Reasoning: Purely mechanical instruments are not suitable for dynamic measurements due to their high inertia, higher response time, and large time constant, which limit their ability to respond quickly to changes in the measured quantity.
+Answer: D
+92. ------------------------
+Reasoning: Higher transmission voltage results in reduced power loss due to lower current flow, leading to increased efficiency and reduced line losses.
+Answer: D
+------------------------
+93. ------------------------
+Reasoning: The impedance offered by the voltage clamping device under overvoltage conditions should be low to effectively protect the system by diverting excess voltage away from sensitive components.
+Answer: B
+------------------------
+94. ------------------------
+Reasoning: The maximum electric stress occurs at the point closest to the conductor due to the concentration of electric field lines in that region.
+Answer: B
+------------------------
+95. ------------------------
+Reasoning: In a 6 pole wave winding configuration in a DC machine, each pole will have two parallel paths. This is because in a wave winding, the winding starts from one pole, goes to the adjacent pole of the same polarity, then returns to the starting pole through the next adjacent pole of opposite polarity. This creates two parallel paths for the current to flow through, resulting in 2 parallel paths in total for a 6 pole wave winding.
+Answer: C
+------------------------
+96. ------------------------
+Reasoning: A digital device operates using discrete data values represented by binary digits (0s and 1s), processes information electronically, and can store and transmit data in digital format. Among the options provided, a microphone fits these characteristics as it converts sound waves into electrical signals which are then processed digitally.
+Answer: B
+------------------------
+97. Reasoning: The instantaneous power in an inductor is directly proportional to the square of the current flowing through it, as per the formula for instantaneous power in an inductor. 
+Answer: B
+98. ------------------------
+Reasoning: A variable displacement transducer is a potentiometer as it can change its output based on the amount of displacement being measured.
+Answer: B
+------------------------
+99. ------------------------
+Reasoning: When capacitors are connected in series, the equivalent capacitance is calculated as the reciprocal of the sum of the reciprocals of individual capacitances. In this case, with five capacitors each of 5 µF, the equivalent capacitance will be less than 5 µF.
+Answer: C
+------------------------
+100. ------------------------
+Reasoning: Susceptibility to negative outcomes is typically higher for diamagnetic substances due to their lack of response to magnetic fields, making them more vulnerable to negative influences.
+Answer: B
+------------------------
+101. ------------------------
+Reasoning: The primary function of an oscillator is to generate sustained oscillations at a constant amplitude and specific frequency, which involves producing a periodic waveform and maintaining oscillations with feedback.
+Answer: C
+------------------------
+102. ------------------------
+Reasoning: The metal surfaces for electrical resistance welding must be clean to ensure proper heat transfer and electrical conductivity during the welding process.
+Answer: B
+------------------------
+103. ------------------------
+Reasoning: The holding current should be lower than the latching current to ensure the SCR remains in the on state once triggered.
+Answer: C
+------------------------
+104. ------------------------
+Reasoning: Charge (q) is the electrical quantity that is analogous to displacement in the force-current analogy, representing the movement of electric charge in the circuit.
+Answer: A
+------------------------
+105. ------------------------
+Reasoning: The feedback circuit in an oscillator is typically achieved by any one or combinations of the above methods, which include resistive, capacitive, and inductive coupling between input and output. This allows for sustaining oscillations by providing the necessary phase shift and gain required for continuous oscillation.
+Answer: D
+------------------------
+106. ------------------------
+Reasoning: The network that exhibits low-pass characteristics and has zeros at or near the origin resulting in the lowest critical frequency is an LC circuit.
+Answer: A
+------------------------
+107. ------------------------
+Reasoning: The dielectric constant of air is approximately 1 due to its low density and few polar molecules, resulting in a weak response to an electric field.
+Answer: C
+------------------------
+108. ------------------------
+Reasoning: Temperature variation is dependent on factors such as latitude, altitude, proximity to large bodies of water, and prevailing winds, which directly impact the amount of solar radiation received, air pressure, and humidity levels in a particular area, ultimately affecting temperature variation. This makes it an analog quantity influenced by various environmental factors.
+Answer: B
+------------------------
+109. ------------------------
+Reasoning: The candle power of the lamp is directly proportional to the illumination at a certain distance from the light source, and the illumination at a point 5 meters below the lamp is 6 lux. Therefore, the candle power of the lamp can be calculated by considering the relationship between illumination and candle power.
+Answer: C
+------------------------
+110. ------------------------
+Reasoning: The shunt resistance should be high and the armature resistance should be low to control the speed and efficiency of the DC machine.
+Answer: B
+------------------------
+111. ------------------------
+Reasoning: The change in cross-sectional area of a conductor affects the resistance and current flow in the conductor. When the cross-sectional area is increased, the resistance decreases, leading to higher current flow. Conversely, when the cross-sectional area is decreased, the resistance increases, resulting in lower current flow. 
+Answer: B
+------------------------
+112. ------------------------
+Reasoning: A snubber circuit is designed to absorb the high rate of change of voltage (dV / dt) that can occur during switching of the SCR, with a capacitor to absorb voltage spikes and a resistor to dissipate energy, effectively protecting the SCR from high dV / dt.
+Answer: A
+------------------------
+113. Reasoning: The sets of commands in a program which are not translated into machine instructions during the assembly process are typically directives or pseudo-operations that provide instructions to the assembler rather than the CPU.
+
+Answer: B
+114. Reasoning: The correct answer should reflect the high speed capabilities of a 4G network, which is designed to offer faster data transmission speeds compared to previous generations.
+Answer: C
+115. ------------------------
+Reasoning: Active elements are those that can undergo chemical reactions or participate in electrical processes, leading to a change in their properties. Therefore, both voltage source and current source can be considered active elements.
+Answer: C
+------------------------
+116. ------------------------
+Reasoning: The electrical analogous quantity for the spring element (K) in force-voltage analogy is used to represent the stiffness of the element in an electrical system, similar to how the spring constant determines the stiffness in a mechanical system. This makes the correct answer D. C, which is capacitance, as it stores energy and exhibits similar behavior to the spring element.
+Answer: D
+------------------------
+117. ------------------------
+Reasoning: A quartz crystal oscillator consists of a quartz crystal, an amplifier, and a feedback network working together to generate a stable frequency.
+Answer: C
+------------------------
+118. ------------------------
+Reasoning: LC oscillators are commonly used for low frequency applications due to their ability to produce frequencies in the range of 1 Hz to 1 MHz, which is suitable for low frequency requirements.
+Answer: A
+------------------------
+119. ------------------------
+Reasoning: The solid angle can be calculated by dividing the area of the shape by the square of the radius of the sphere. By converting the given area of 2400 cm^2 to square meters and using the radius of the sphere (0.6 m), the solid angle in steradians can be determined.
+Answer: A
+------------------------
+120. ------------------------
+Reasoning: Relative error is the ratio of the absolute error to the true value, making it a measure of accuracy compared to the actual value being measured.
+Answer: A
+------------------------
+121. Reasoning: The latching current should be higher than the holding current to ensure the thyristor remains in the on state once triggered.
+Answer: A
+122. ------------------------
+Reasoning: The first machine cycle in the Intel 8085A microprocessor is responsible for fetching the opcode of the instruction from memory, which is crucial for determining the operation to be performed. This step is essential for the processor to know which operation it needs to execute next.
+Answer: A
+------------------------
+123. ------------------------
+Reasoning: The disadvantages of a closed loop control system include reduced overall gain, complexity, cost, oscillatory response, instability, sensitivity to parameter variations, and limitations in adapting to dynamic and unpredictable environments.
+Answer: D
+------------------------
+124. ------------------------
+Reasoning: The alternating arrangement of poles and zeros on the negative real axis indicates that the network is a bandpass filter.
+Answer: A
+------------------------
+125. ------------------------
+Reasoning: Ferromagnetic materials exhibit hysteresis behavior, resulting in a non-linear relationship between magnetization and applied field.
+Answer: B
+------------------------
+126. ------------------------
+Reasoning: Thin laminations are used in a machine to reduce eddy current losses and hysteresis losses, leading to improved efficiency and performance.
+Answer: C
+------------------------
+127. ------------------------
+Reasoning: The total outward electric displacement normal to the surface of the cube is determined by the total charge enclosed within the surface and the geometry of the enclosing shape. Since the metal surface acts as a perfect conductor, the electric field terminates on the surface of the metal and does not penetrate into the cube, resulting in a total outward electric displacement of zero.
+Answer: D
+------------------------
+128. ------------------------
+Reasoning: The first digit (bit) in a binary number system is called the Least Significant Bit (LSB) because it holds the smallest weight in determining the overall value of the number.
+Answer: A, LSB, Least Significant Bit
+------------------------
+129. ------------------------
+Reasoning: In the two wattmeter method of power measurement, using two wattmeters allows for the measurement of both the active and reactive power components in a system. When the total power is measured by only one wattmeter, it means that the second wattmeter is not able to measure the reactive power component. This results in an inaccurate measurement of the power factor of the system. As a result, the power factor of the system is leading because the second wattmeter is not able to account for the reactive power component, leading to an incorrect calculation of the power factor.
+Answer: B
+------------------------
+130. ------------------------
+Reasoning: The limiting error is 1.5% because the guaranteed accuracy of 2% of full scale reading means that the actual error can be up to 2% of the full scale reading, which in this case would be 100 V. Therefore, the limiting error would be 2% of 75 V, which is 1.5%.
+Answer: D
+------------------------
+131. ------------------------
+Reasoning: The correct answer should involve methods that use capacitors or inductors for reactive power compensation, which are commonly used to maintain voltage stability in electrical systems.
+Answer: D
+------------------------
+132. ------------------------
+Reasoning: The characteristics of being non-volatile and permanent, programmed during manufacturing process, and not modifiable after manufacturing align with the definition of PROM (Programmable Read-Only Memory).
+Answer: B
+------------------------
+133. ------------------------
+Reasoning: The 16-bit registers in the 8085 microprocessor are specifically designed to handle larger data values and calculations that require more precision and range compared to the 8-bit registers commonly found in other microprocessors.
+Answer: C
+------------------------
+134. ------------------------
+Reasoning: Incorporating power system stabilizers, using flexible AC transmission systems (FACTS), and implementing wide-area monitoring systems (WAMS) can significantly increase the stability of a transmission line by providing better control and monitoring capabilities.
+Answer: D
+------------------------
+135. ------------------------
+Reasoning: A snubber circuit is used with an SCR to reduce voltage spikes and minimize false triggering, which is achieved by providing a path for transient energy to dissipate. This function is best served when the snubber circuit is connected in parallel with the SCR.
+Answer: B
+------------------------
+136. ------------------------
+Reasoning: The number of rings in the Bohr model corresponds to the number of electron shells in the atom, as each ring represents an energy level where electrons can orbit. Therefore, the number of rings is determined by the number of electrons in the atom, which is based on the atomic number.
+Answer: D
+------------------------
+137. ------------------------
+Reasoning: Silicon and Germanium are both semiconducting elements widely used in the field of semiconductor technology.
+Answer: D
+------------------------
+138. ------------------------
+Reasoning: The standard number of output pins in 8085 microprocessors is 40, allowing for effective communication with external devices and peripherals.
+Answer: B
+------------------------
+139. ------------------------
+Reasoning: The power in a delta connected system will be higher than the power in a star connected system due to the configuration where each load receives the full line voltage, resulting in higher power output.
+Answer: B
+------------------------
+140. ------------------------
+Reasoning: The relaxation oscillator is easy to fabricate in a monolithic IC due to its simple structure, low component count, and compatibility with standard IC fabrication processes.
+Answer: D
+------------------------
+141. ------------------------
+Reasoning: The excitation must be a linear combination of independent sources for the superposition theorem to hold in a network with linear elements.
+Answer: C
+------------------------
+142. ------------------------
+Reasoning: The feedback factor in a Wien bridge oscillator using Op-Amp is determined by the ratio of resistors in the feedback network, which plays a crucial role in determining the stability and frequency of oscillation. A feedback factor greater than 1 can lead to instability. The correct answer should be less than 1, making option A (1/3) the most suitable choice.
+Answer: A
+------------------------
+143. ------------------------
+Reasoning: Wait states are always inserted between T2 and T3 to ensure proper synchronization and timing in the bus cycle of the processor.
+Answer: B
+------------------------
+144. ------------------------
+Reasoning: The relaxation oscillator is not a sinusoidal oscillator as it does not produce a smooth, continuous sinusoidal waveform. Instead, relaxation oscillators generate non-sinusoidal waveforms like square waves or sawtooth waves.
+Answer: C
+------------------------
+145. ------------------------
+Reasoning: The magnetic field around each portion of the wire in the circular loop will be perpendicular to the direction of current flow due to the right-hand rule.
+Answer: B
+------------------------

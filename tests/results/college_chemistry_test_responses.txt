@@ -1,0 +1,400 @@
+1. ------------------------
+Reasoning: In a zero-order chemical reaction, the rate is independent of the concentration of the reactant. Therefore, the correct answer should not include the concentration of the reactant. The rate expression for a zero-order reaction is simply the rate constant, k.
+Answer: D
+------------------------
+2. ------------------------
+Reasoning: Different functional groups absorb infrared radiation at characteristic frequencies, allowing for their identification.
+Answer: C
+------------------------
+3. ------------------------
+Reasoning: The maximum number of phases that can be at equilibrium with each other in a three component mixture is 3 because each component can exist in its own phase, resulting in a total of 3 phases in equilibrium.
+Answer: B
+------------------------
+4. ------------------------
+Reasoning: Balancing the equation requires considering the changes in oxidation states of each element. In this case, the Mn in MnO4- goes from +7 to +2, indicating a reduction, while the I in I- goes from -1 to +5, indicating an oxidation. Therefore, the MnO4- : I- ratio should be 1:5, which corresponds to option B.
+Answer: B
+------------------------
+5. ------------------------
+Reasoning: The equation ΔH = ΔU + PΔV is applicable for constant pressure processes, where there is a change in volume at constant pressure, as it relates the change in enthalpy to the change in internal energy and work done by the system.
+Answer: B
+------------------------
+6. ------------------------
+Reasoning: When considering the significance of the unpaired electron being coupled to two equivalent nitrogen nuclei in nitronyl nitroxides, the EPR spectrum of a rigid nitronyl nitroxide diradical with J << a will show a single line due to the delocalization of the unpaired electron over both nitrogen atoms, resulting in equivalent hyperfine couplings.
+Answer: A
+------------------------
+7. ------------------------
+Reasoning: Cobalt-60 is typically produced by bombarding cobalt-59 with neutrons in a nuclear reactor, which is the most efficient and pure method. 
+Answer: A
+------------------------
+8. ------------------------
+Reasoning: Paramagnetism occurs when materials have unpaired electrons that align with an external magnetic field, and the same is true for ferromagnetism. Both phenomena require the presence of unpaired electrons.
+Answer: D
+------------------------
+9. ------------------------
+Reasoning: The ratio of the concentrations [DMSO]:[AN] should be 1:3 because the relative intensities of the lines in the 1H NMR spectrum are directly proportional to the number of protons contributing to each signal. The intensities α and 3α suggest that there are 1 proton from DMSO and 3 protons from AN contributing to the signals.
+Answer: B
+------------------------
+10. ------------------------
+Reasoning: T1, unlike T2, is sensitive to interactions with other nuclei or molecules in the molecular environment, leading to longer relaxation times. This difference in sensitivity explains why T1 can sometimes be longer than T2.
+Answer: A
+------------------------
+11. ------------------------
+Reasoning: The chemical shift of trifluoroacetic acid can be calculated using the formula: Δδ = (Δν / ν) x 10^6. Since the 1H Larmor frequency of benzene exceeds that of trifluoroacetic acid by 1.656 kHz on a 400 MHz spectrometer, and the chemical shift of benzene is 7.16 ppm, the chemical shift of trifluoroacetic acid can be calculated as follows: Δδ = (1.656 / 400) x 10^6 = 4.14 ppm. Therefore, the correct answer is B. 5.03 ppm.
+Answer: B
+------------------------
+12. ------------------------
+Reasoning: The time it takes for the polarization to reach a value equal to twice the thermal equilibrium polarization is determined by the T1 relaxation time. Since T1 = 5.0 s, the correct answer should consider this value. Option A provides the correct formula for the exponential relaxation of polarization over time, which is essential in determining the required time.
+Answer: A
+------------------------
+13. ------------------------
+Reasoning: The assumption of the radical being flat and the significance of the HCH angle of 115° in determining the β-hyperfine value for the cyclobutyl radical suggest that the correct answer should be influenced by the spatial arrangement of atoms and the spin density distribution within the molecule.
+Answer: C
+------------------------
+14. ------------------------
+Reasoning: The ratio of line intensities in an EPR spectrum is determined by the number of equivalent nuclei that are coupled to the unpaired electron. In the case of the t-Bu radical (CH3)3C•, the three equivalent methyl groups attached to the central carbon atom will influence the line intensities. Therefore, the correct answer is the one that reflects this symmetry, which is option B. 
+Answer: B
+------------------------
+15. ------------------------
+Reasoning: The correct answer should reflect the fact that spin trapping allows for the stabilization and detection of short-lived free radicals by forming more stable radical adducts, making it a valuable tool in studying reactive species.
+Answer: C
+------------------------
+16. ------------------------
+Reasoning: The magnetic moment (μI) of a nucleus is calculated using the formula μI = γ * I, where γ is the gyromagnetic ratio and I is the nuclear spin quantum number. Since the nuclear spin quantum number of a 13C nucleus is 1/2, the correct answer should consider this value. Therefore, the correct answer is A. 6.1445 x 10^-27 J T-1.
+Answer: A
+------------------------
+17. ------------------------
+Reasoning: The normal modes of a carbon dioxide molecule that are infrared-active include bending, symmetric stretching, and asymmetric stretching. Bending is not infrared-active, but symmetric stretching and asymmetric stretching are, as they involve changes in the dipole moment of the molecule.
+Answer: D
+------------------------
+18. ------------------------
+Reasoning: The presence of achiral ligands in a complex does not introduce asymmetry in the complex structure, which is necessary for optical isomerism to occur.
+Answer: B
+------------------------
+19. ------------------------
+Reasoning: Protons and neutrons possess both orbital and spin angular momentum.
+Answer: A
+------------------------
+20. ------------------------
+Reasoning: The Larmor frequency is determined by the product of the gyromagnetic ratio of a proton and the strength of the magnetic field. The gyromagnetic ratio for a proton is 42.58 MHz/T. Therefore, the correct answer should be in line with this value.
+Answer: B
+------------------------
+21. ------------------------
+Reasoning: The correct answer should be an element doped with arsenic to introduce extra electrons into the crystal lattice structure, creating an excess of electrons and allowing for the conduction of electricity through negatively charged electrons.
+Answer: D
+------------------------
+22. ------------------------
+Reasoning: The molecule 12CHCl3 is symmetrical because of the presence of three identical hydrogen atoms attached to the central carbon atom, resulting in only one unique chemical environment for the hydrogen atoms, leading to a singlet in the 1H NMR spectrum.
+Answer: A
+------------------------
+23. ------------------------
+Reasoning: The solubility product, K_sp, for lead iodide at 25°C is dependent on the temperature and the maximum amount of PbI2 that can be dissolved in 1.00 L of pure water at 25°C is 1.0 mmol. Since the solubility of a compound generally increases with temperature, the solubility product for lead iodide at 25°C would be higher than at lower temperatures. Therefore, the correct answer should be higher than 1.0 × 10^-3.
+Answer: D
+------------------------
+24. ------------------------
+Reasoning: The isomer that will have lines with five distinct chemical shifts in the 13C spectrum should have a high degree of structural complexity and symmetry breaking, leading to distinct carbon environments. This indicates branching or asymmetry in the carbon chain, resulting in non-equivalent carbon environments and distinct chemical shifts.
+Answer: D
+------------------------
+25. ------------------------
+Reasoning: Silicon dioxide (SiO2) is the most common naturally-occurring form of silicon found in the Earth's crust, making up about 59% of it. It is found in minerals like quartz, sand, and granite.
+Answer: D
+------------------------
+26. ------------------------
+Reasoning: The nuclide with a higher gyromagnetic ratio will have a higher NMR frequency in a magnetic field, so the correct answer must have a high gyromagnetic ratio to match the given NMR frequency at 20.0 T.
+Answer: D
+------------------------
+27. ------------------------
+Reasoning: The correct answer should include statement I, which states that the partial pressure of each component at equilibrium is proportional to its mole fraction in the liquid mixture, as this is a fundamental principle of Raoult's law. Additionally, statement III should also be included, which states that intermolecular interactions in the mixture are identical to intermolecular interactions in the pure components, as Raoult's law assumes ideal behavior where interactions are the same. 
+Answer: C. I and III only
+------------------------
+28. ------------------------
+Reasoning: When the pH of the solution equals the pKa of H2PO4‾, the chemical shift will be closer to the chemical shift of H2PO4‾ (3.42 ppm) due to the equilibrium between H2PO4‾ and HPO42– forms. 
+Answer: A
+------------------------
+29. ------------------------
+Reasoning: The pH of the analyte and titrant solutions should be the same because the conditional formation constant of EDTA is influenced by pH. The stability of the metal-EDTA complex is highly dependent on the pH of the solution, making it crucial to buffer both solutions at the same pH for accurate and consistent results in EDTA titrations.
+Answer: A
+------------------------
+30. ------------------------
+Reasoning: The concentration of dissolved CO2 is directly proportional to the partial pressure of CO2 in the vessel according to Henry's law.
+Answer: C
+------------------------
+31. ------------------------
+Reasoning: The titration results are precise but not accurate because the mean result is consistently higher than the actual concentration of the titrated solution.
+Answer: B
+------------------------
+32. ------------------------
+Reasoning: The hyperfine splitting is directly proportional to the giso value, and the hyperfine splitting in field units of mT is directly proportional to the separation between each line. The correct answer should have a hyperfine splitting of 500 MHz = 0.185 mT and a hyperfine coupling of 0.29842 cm-1.
+Answer: A
+------------------------
+33. ------------------------
+Reasoning: The reaction with the higher oxidation-reduction potential is more likely to occur as substances with higher oxidation-reduction potentials are more likely to undergo oxidation or reduction reactions.
+Answer: B
+------------------------
+34. ------------------------
+Reasoning: Most organic compounds do not contain silicon atoms, which is not a reason why tetramethylsilane is used as a 1H chemical shift reference.
+Answer: D
+------------------------
+35. ------------------------
+Reasoning: The g value can be calculated using the formula g = (ΔB/hν) + 1/2, where ΔB is the difference in resonant field positions between adjacent hyperfine lines, h is the Planck constant, and ν is the frequency of the EPR radiation. The X-band frequency (9.5 GHz) directly affects the resonant field positions of the hyperfine lines, making it crucial in determining the g value of the Na atom in the EPR spectrum.
+Answer: A. g = 2.002
+------------------------
+36. ------------------------
+Reasoning: The spin angular momentum of 43Ca can be calculated using the formula I = √(I(I+1))ħ, where I = 7⁄2. Plugging in the value of I into the formula will give the correct spin angular momentum value.
+Answer: B
+------------------------
+37. ------------------------
+Reasoning: The correct answer should be a value that is strong enough to cause the desired polarization of 2.5 x 10^-6 for 13C at 298 K. A higher magnetic field strength can align the nuclear spins of the 13C atoms more effectively, leading to a higher degree of polarization.
+Answer: B
+------------------------
+38. ------------------------
+Reasoning: The linewidth is inversely proportional to the T2 relaxation time, so a longer T2 relaxation time of 15 ms would result in a narrower linewidth.
+Answer: A
+------------------------
+39. ------------------------
+Reasoning: The maximum value of the z-component of the spin angular momentum for a nucleus with a nuclear spin quantum number (I) is equal to I * h-bar / 2. For 43Ca with I = 7/2, the maximum value would be 7/2 * h-bar / 2, which simplifies to 7/4 * h-bar. Therefore, the correct answer is 3.691 x 10^-34 J s.
+Answer: A
+------------------------
+40. ------------------------
+Reasoning: Compounds with weaker intermolecular forces tend to have lower melting points. Among the options provided, CCl4 (D) has weaker intermolecular forces due to its nonpolar nature and simple molecular structure, resulting in the lowest melting point.
+Answer: D
+------------------------
+41. ------------------------
+Reasoning: The statement suggesting that the nuclei of heavy elements have more neutrons than protons in order to provide sufficient binding energy to hold the nuclei together is factually incorrect because the stability of heavy nuclei is achieved through a balance of protons and neutrons, not an excess of neutrons.
+Answer: D
+------------------------
+42. ------------------------
+Reasoning: The hyperfine value for the EPR spectrum of fully deuteriated benzene radical anion C6D6•- will be influenced by isotropic hyperfine coupling constants, the number of equivalent protons, and the electron density distribution around the radical center. Deuteration alters the magnetic environment and electron density, leading to changes in hyperfine interactions with nearby nuclei.
+Answer: C
+------------------------
+43. ------------------------
+Reasoning: The correct answer should be a species that has high solubility in liquid ammonia, can dissociate completely in the medium, and is stable in the ammonia solution, making it a strong base in this specific environment.
+Answer: B
+------------------------
+44. ------------------------
+Reasoning: The populations of the 1H energy levels will change after the 5.0 μs pulse, with a decrease in the higher energy level (nβ) and an increase in the lower energy level (nα) due to the effect of the pulse on the energy levels.
+Answer: A
+------------------------
+45. ------------------------
+Reasoning: A narrower resonator bandwidth results in a higher Q-factor, indicating better performance and efficiency in storing and releasing energy in the cavity.
+Answer: A
+------------------------
+46. ------------------------
+Reasoning: Benzene has a higher 13C NMR frequency compared to chloroform due to the presence of delocalized pi electrons in the aromatic ring, leading to a higher chemical shift value.
+Answer: B
+------------------------
+47. ------------------------
+Reasoning: The solution with a higher concentration of ions with higher charges will have the highest ionic strength because ionic strength is directly proportional to the concentration of ions and their charges.
+Answer: C
+------------------------
+48. ------------------------
+Reasoning: The strength (B1) of a pulse is directly proportional to the flip angle it produces because the flip angle is determined by the product of the strength of the pulse and its duration. A 90° pulse of duration 1 μs would require a specific strength to achieve the desired flip angle.
+Answer: D
+------------------------
+49. ------------------------
+Reasoning: Planck's quantum theory explained the observations related to blackbody radiation, which were not adequately addressed by classical physics theories.
+Answer: A
+------------------------
+50. ------------------------
+Reasoning: The remaining activity of the radioactive isotope will decrease by half every 6.0 hours due to its half-life, resulting in a significant reduction in activity over 24 hours. Therefore, the correct answer is not the initial activity of 150 mCi, but rather a fraction of it.
+Answer: B
+------------------------
+51. ------------------------
+Reasoning: The orbital angular momentum quantum number, l, of the electron that is most easily removed when ionizing ground-state aluminum should be low due to the shielding effect, making electrons with lower values of l easier to remove.
+Answer: D
+------------------------
+52. ------------------------
+Reasoning: The solution with the highest concentration of a strong acid will have the lowest pH value. 
+Answer: B
+------------------------
+53. ------------------------
+Reasoning: The splitting in the EPR spectrum of a silyl radical is directly related to the hyperfine coupling constant, which is influenced by the interactions with nearby nuclei. The splitting in units of mT, Gauss, and cm-1 can be calculated based on the hyperfine coupling constant and the magnetic field strength. The larger the hyperfine coupling constant, the greater the splitting observed in the EPR spectrum, indicating stronger interactions with nearby nuclei. This information can provide insights into the molecular environment and interactions of the silyl radical. Additionally, the conversion from MHz to mT, Gauss, and cm-1 can be done by dividing the splitting in MHz by the g value of the silyl radical, multiplying by 10 for Gauss, and multiplying by 33.356 for cm-1.
+Answer: A
+------------------------
+54. ------------------------
+Reasoning: Elements with partially filled 4f or 5f orbitals are typically found in the lanthanide and actinide series of the periodic table. Therefore, the element that does not have partially filled 4f or 5f orbitals would be Cu, which is not part of these series.
+Answer: A
+------------------------
+55. ------------------------
+Reasoning: A higher hyperfine value for the α-hydrogen atom indicates a higher spin density on the central carbon atom in malonic acid radical. This stronger interaction between the unpaired electron on the central carbon atom and the α-hydrogen atom leads to a higher spin density on the central carbon atom.
+Answer: A
+------------------------
+56. ------------------------
+Reasoning: The quantum yield (Φ_f) is defined as the number of photons emitted divided by the number of photons absorbed, making option C the correct choice.
+Answer: C
+------------------------
+57. ------------------------
+Reasoning: The statement that aligns with the characteristics of being factually accurate and supported by evidence is option C. It mentions that a large deviation of g from ge is expected when λ is large and the energy difference between the SOMO and the lowest lying excited state is small.
+Answer: C
+------------------------
+58. ------------------------
+Reasoning: The magnetic moment of an atom is primarily determined by the total spin of its electrons, specifically the number of unpaired electrons and their spin orientations. Thallium-205 has an atomic number of 81 and an electron configuration of [Xe] 4f14 5d10 6s2 6p1, which indicates one unpaired electron in the 6p orbital. Therefore, the correct answer should reflect the contribution of this unpaired electron to the overall magnetic moment.
+Answer: A
+------------------------
+59. ------------------------
+Reasoning: The magnetic field at which protons in the molecule have the fastest spin-lattice relaxation should be inversely proportional to the rotational correlation time, allowing for faster relaxation of spins due to increased molecular motion.
+Answer: D
+------------------------
+60. ------------------------
+Reasoning: Lattice enthalpy is directly proportional to the charge of ions and inversely proportional to the size of ions. Among the options, MgO has the highest charge on ions (Mg2+ and O2-) and the smallest ionic radius, making it the substance with the greatest lattice enthalpy.
+Answer: A
+------------------------
+61. ------------------------
+Reasoning: The compound that fits the description of having a 1H resonance approximately 1.55 kHz away from TMS due to its unique chemical environment and electronic effects is CH3Cl.
+Answer: B
+------------------------
+62. ------------------------
+Reasoning: The equilibrium polarization of 13C nuclei in a 20.0 T magnetic field at 300 K can be calculated using the gyromagnetic ratio of 13C nuclei, the temperature, and the magnetic field strength. Based on these factors, the correct answer is B. 4.11 x 10^-5.
+Answer: B
+------------------------
+63. ------------------------
+Reasoning: The magnetic moment (μI) is directly proportional to the nuclear spin, and the given nuclear spin is 1. The unknown nuclide has a magnetic moment of 2.884 x 10^-27 J T-1, which matches the characteristics of 19F (Fluorine).
+Answer: C
+------------------------
+64. ------------------------
+Reasoning: Analyte molecules are converted to gaseous ions (I) and the ions are separated according to their mass-to-charge ratio (II) in mass spectrometry. In addition, mass spectra can be utilized to determine precise isotopic masses and isotopic ratios (III). Therefore, all three statements are characteristic of mass spectrometry.
+Answer: D
+------------------------
+65. ------------------------
+Reasoning: Light-scattering spectroscopy involves the interaction of light with matter leading to the scattering of light in different directions, making it a valuable tool for studying the size, shape, and composition of particles in a sample. Among the given options, Raman spectroscopy is a light-scattering technique commonly used for this purpose.
+Answer: C
+------------------------
+66. ------------------------
+Reasoning: The particle in the lowest energy level of a one-dimensional box has the most well-defined position and momentum, leading to minimized uncertainty. Therefore, the correct answer is A. Momentum is known exactly, but no information about position can be known.
+Answer: A
+------------------------
+67. ------------------------
+Reasoning: The dissociation energy for a hydrogen-bromine bond is the energy required to break the bond between hydrogen and bromine atoms. The correct reaction should involve the breaking of the hydrogen-bromine bond, resulting in the formation of hydrogen and bromine atoms. Additionally, the change in enthalpy for this reaction should be negative, as breaking a bond requires energy input, leading to a decrease in enthalpy.
+Answer: A
+------------------------
+68. ------------------------
+Reasoning: The magnetogyric ratio is directly related to the NMR frequency and the magnetic field strength, with an inverse relationship between the NMR frequency and the magnetogyric ratio. Since 23Na has an NMR frequency of 198.52 MHz in a 750 MHz NMR spectrometer, the magnetogyric ratio should be higher than the options provided.
+Answer: A. 101.1 x 10^7 T-1 s-1
+------------------------
+69. ------------------------
+Reasoning: The Schrödinger equation for the helium atom involves a non-separable Hamiltonian due to the interaction between two electrons, making it impossible to obtain exact solutions. This complexity requires the use of numerical methods or approximations.
+Answer: D
+------------------------
+70. ------------------------
+Reasoning: At high temperatures, a gas-phase diatomic molecule behaves like a linear molecule and follows the equipartition theorem, predicting a molar heat capacity of 5R for diatomic molecules.
+Answer: A
+------------------------
+71. ------------------------
+Reasoning: The +1 oxidation state is more stable than the +3 oxidation state for group 13 elements due to the electronic configurations. Group 13 elements typically have three valence electrons, making it easier for them to lose one electron to achieve a stable octet configuration in the +1 oxidation state. On the other hand, achieving a stable configuration in the +3 oxidation state would require losing three electrons, which is less favorable due to increased electron-electron repulsions. Therefore, the +1 oxidation state is more stable for group 13 elements.
+Answer: B
+------------------------
+72. ------------------------
+Reasoning: The correct answer should highlight the differences in the masses of the isotopes of hydrogen and deuterium because isotopic mass directly impacts the vibrational frequencies of molecules. In the case of DCl and HCl, the shift in the infrared absorption frequency is a result of the difference in mass between hydrogen and deuterium isotopes, leading to a distinct vibrational frequency for each molecule.
+Answer: D
+------------------------
+73. ------------------------
+Reasoning: The number of allowed energy levels for the 55Mn nuclide is dependent on the number of protons in the nucleus, which determines the atomic number and affects the arrangement of electrons, leading to a specific number of energy levels.
+Answer: C
+------------------------
+74. ------------------------
+Reasoning: Carbonic acid is a naturally occurring substance that is non-toxic and commonly found in water sources, making it not generally considered a toxic pollutant.
+Answer: A
+------------------------
+75. ------------------------
+Reasoning: Proteins typically absorb light in the ultraviolet region due to the presence of aromatic amino acids like tryptophan and tyrosine, which can absorb light around 190 nm. This excitation corresponds to a π → π* transition in the protein molecule.
+Answer: B
+------------------------
+76. ------------------------
+Reasoning: The rotational correlation time (τc) is directly proportional to the radius of the spherical object immersed in the liquid, and since the relative molecular mass (Mr) is assumed to be proportional to the molecular volume, an increase in Mr would result in a larger molecular size and therefore a larger radius. As the molecular mass increases, the rotational correlation time also increases. Therefore, for a small protein with Mr = 8400, the estimated τc would be greater than that of a small molecule with Mr = 100.
+Answer: A. 420 ns
+------------------------
+77. ------------------------
+Reasoning: Gas chromatographic separation on a capillary column followed by electron capture detection provides high sensitivity and selectivity, making it suitable for measuring trace amounts of CFCs in air samples at sub-ppb levels.
+Answer: A
+------------------------
+78. ------------------------
+Reasoning: The principal allotropes of elemental boron, such as α-rhombohedral boron and β-rhombohedral boron, are known to consist of B12 icosahedra and/or B2 dumbbells as their basic structural units. These units are arranged in different ways to form the unique solid-state structures of each allotrope. Therefore, the correct answer should mention the presence of B12 icosahedra and/or B2 dumbbells to reflect the fundamental building blocks of boron allotropes.
+Answer: A
+------------------------
+79. ------------------------
+Reasoning: The pH of the buffer solution remains relatively constant because the Ka value determines the extent of dissociation of the weak acid and its conjugate base, which helps maintain the pH.
+Answer: A
+------------------------
+80. ------------------------
+Reasoning: A conjugate acid-base pair is formed when a substance donates or accepts a proton, resulting in the formation of a new substance with one more or one less proton. Among the options provided, H3O+ (hydronium ion) and H2O (water) differ by one proton, making them a conjugate acid-base pair.
+Answer: B
+------------------------
+81. ------------------------
+Reasoning: Based on the properties required for a metal ion to act as a paramagnetic quencher, the correct answer should be the metal ion that has unpaired electrons in its d-orbital. Among the options provided, Fe3+ is the only metal ion with unpaired electrons in its d-orbital, making it suitable for paramagnetic quenching.
+Answer: C
+------------------------
+82. ------------------------
+Reasoning: The ratio of the equilibrium polarizations of the electron and proton in a 1.0 T magnetic field is influenced by their charge and mass differences, resulting in different responses to the magnetic field. 
+Answer: A
+------------------------
+83. ------------------------
+Reasoning: The value of T2 is related to the rate at which the amplitude of the free induction decay signal drops over time due to exponential relaxation processes. Given that the amplitude drops to 25% of its initial intensity after 1.0 s, the correct value for T2 can be calculated based on this information.
+Answer: C
+------------------------
+84. ------------------------
+Reasoning: The presence of a lone pair on the central sulfur atom in thionyl chloride, SOCl2, causes the molecular geometry to be trigonal pyramidal.
+Answer: D
+------------------------
+85. ------------------------
+Reasoning: Signal averaging and averaging the results from multiple samples are both systematic approaches that involve taking multiple measurements to reduce random errors. Internal standards provide a reference point for comparison and help in accounting for variations in measurement conditions. Therefore, options I and III are effective procedures for minimizing the influence of random errors on measured results.
+Answer: D
+------------------------
+86. ------------------------
+Reasoning: The resonant field positions in an EPR spectrum are directly proportional to the g-factor (giso). With a g-factor of 2.005 for the PO3- radical and a frequency separation of 280 MHz, the expected resonant field positions for the two lines can be calculated using the formula ΔB = (Δν) / (giso * ν). Therefore, the correct answer should have resonant field positions that are 140 MHz apart due to the frequency separation.
+Answer: A. Bres for mI = -½ = 325.0 mT; Bres for mI = +½ = 335.0 mT
+------------------------
+87. ------------------------
+Reasoning: The correct answer should involve the formula for calculating relative occupancies of α and β spin energy levels in a radical species with g = 2.05 at L- and W-band frequencies. The relative occupancies will be affected by the temperature of 300 K, with a higher population of the higher energy β spin state compared to the lower energy α spin state. Additionally, the relative occupancy of the α spin energy level should be higher at L-band frequencies compared to W-band frequencies, while the relative occupancy of the β spin energy level should be higher at W-band frequencies compared to L-band frequencies due to different energy transitions and population distributions at the two frequencies.
+Answer: A
+------------------------
+88. ------------------------
+Reasoning: The primary standard for use in standardizing bases should have high purity, stability, and the ability to be easily prepared in a reproducible manner. Potassium hydrogen phthalate fits these criteria, making it the correct choice.
+Answer: D
+------------------------
+89. ------------------------
+Reasoning: The correct answer should have higher atomic number, larger atomic radius, and higher atomic mass for argon compared to neon, leading to a lower value for the property being compared.
+Answer: D
+------------------------
+90. ------------------------
+Reasoning: The chemical shift of [Ru(NH3)6]2+ can be determined by considering the electronic excitation energies of the different complexes and their corresponding chemical shifts, as the chemical shift differences are dominated by paramagnetic currents. This means that the chemical shift of [Ru(NH3)6]2+ will be influenced by the electronic excitation energy of the complex.
+Answer: C
+------------------------
+91. ------------------------
+Reasoning: The higher the offset frequency Ω, the faster the spinning system precesses through an angle. Therefore, a higher offset frequency would result in a shorter delay time. 
+Answer: A
+------------------------
+92. ------------------------
+Reasoning: The correct answer should involve an increase in entropy, as this is a characteristic of all spontaneous processes.
+Answer: C
+------------------------
+93. ------------------------
+Reasoning: The EPR spectrum of a solution of a rigid nitronyl nitroxide diradical with two equivalent nitrogen nuclei will show 2 lines due to the restricted motion of the molecule.
+Answer: A
+------------------------
+94. ------------------------
+Reasoning: Metals that can easily transition between different oxidation states are ideal for redox enzyme catalysis because they can efficiently accept and donate electrons during the catalytic process. This ability allows for the cyclic oxidation and reduction of metal ions, which is essential for the functioning of redox enzymes in facilitating electron transfer reactions.
+Answer: A
+------------------------
+95. ------------------------
+Reasoning: The R-branch of the spectrum represents transitions where the molecule loses energy by emitting a photon, resulting in a decrease in energy levels. Therefore, the correct answer should involve transitions from higher to lower energy levels.
+Answer: B
+------------------------
+96. ------------------------
+Reasoning: Based on the definition of electron affinity as the energy released when an atom gains an electron, the atom with the lowest electron affinity would be the one with the least tendency to gain an electron.
+Answer: D
+------------------------
+97. ------------------------
+Reasoning: The ion with the highest positive charge will have the smallest radius due to increased nuclear attraction pulling the electrons closer to the nucleus.
+Answer: C
+------------------------
+98. ------------------------
+Reasoning: The NMR frequency of 31P is directly proportional to the magnetic field strength, so in a 20.0 T magnetic field, the NMR frequency will increase. 
+Answer: D
+------------------------
+99. ------------------------
+Reasoning: The molecule dimethylnitroxide (CH3)2NO• contains three unique hydrogen atoms from the methyl groups, each contributing a separate line to the EPR spectrum. Therefore, the number of lines in the EPR spectrum should be 3.
+Answer: B
+------------------------
+100. ------------------------
+Reasoning: Among the options provided, MgCl2 is least likely to behave as a Lewis acid because magnesium typically forms stable ionic compounds with a filled valence shell, making it less likely to accept electron pairs.
+Answer: B
+------------------------

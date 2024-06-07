@@ -1,0 +1,1084 @@
+1. ------------------------
+Reasoning: The patient's symptoms of tingling and numbness in the left thigh are indicative of nerve damage, which can be a complication of prolonged hospitalization and medical conditions like pulmonary embolism and retroperitoneal hemorrhage.
+Answer: C
+------------------------
+2. ------------------------
+Reasoning: The scenario describes a sudden decrease in the frequency and intensity of contractions during active labor in a 25-year-old gravida 3 para 2 female, ruling out obstructed labor, intact membranes, normal fetal heart tones, and cervical dilation of 7 cm. This suggests that the decrease in contractions is not due to mechanical obstruction or fetal distress but rather other factors like inadequate uterine contractions.
+Answer: C
+------------------------
+3. ------------------------
+Reasoning: The p-value of 0.04 indicates a statistically significant difference between the mean time for resolution of symptoms for patients receiving the new drug compared to those receiving the placebo. This suggests that the findings are statistically significant.
+Answer: A
+------------------------
+4. ------------------------
+Reasoning: The presence of mild cardiomegaly with left ventricular prominence and left ventricular hypertrophy in a 9-year-old boy indicates underlying heart abnormalities that can affect cardiovascular health, potentially leading to complications such as heart failure, arrhythmias, or sudden cardiac death.
+Answer: B
+------------------------
+5. ------------------------
+Reasoning: The symptoms described, including numbness and tingling in the right ring and small fingers, severe pain with palpation of the right elbow, and decreased sensation in specific areas, are indicative of ulnar nerve entrapment at the elbow.
+Answer: D
+------------------------
+6. ------------------------
+Reasoning: Malonyl-CoA is a potent inhibitor of carnitine palmitoyltransferase-1 (CPT-1), which is the rate-limiting enzyme in fatty acid oxidation.
+Answer: A
+------------------------
+7. ------------------------
+Reasoning: The most appropriate next step in management for this patient, who is experiencing significant emotional distress and symptoms of major depressive disorder, would be to assess for suicidal ideation. This is crucial in ensuring the patient's safety and providing appropriate support and intervention for her mental health needs.
+Answer: B
+------------------------
+8. ------------------------
+Reasoning: The symptoms of irritability, palpitations, heat intolerance, frequent bowel movements, weight loss, along with an enlarged thyroid gland with abnormal uptake patterns on a 131I scan, are indicative of hyperthyroidism. Given the long-standing neck mass for more than 10 years, the most likely diagnosis is multinodular goiter, which can lead to hyperthyroidism and present with these symptoms.
+Answer: C
+------------------------
+9. ------------------------
+Reasoning: The submental lymph nodes are the most common site of metastasis in tongue cancer due to their proximity to the anterior tongue, which is where the mass is located in this patient with squamous cell carcinoma. 
+Answer: D
+------------------------
+10. ------------------------
+Reasoning: The most appropriate pharmacotherapy in this case would be a Na+ -Cl- symport inhibitor, as it targets the underlying cause of hypercalciuria by reducing calcium excretion in the urine, which is essential for preventing the formation of renal calculi.
+Answer: B
+------------------------
+11. ------------------------
+Reasoning: Elderly patients with congestive heart failure are often prescribed medications like furosemide and digoxin, which can lead to electrolyte imbalances such as hypokalemia and hypomagnesemia. These imbalances can cause symptoms like nausea and loss of appetite. Therefore, it is important to assess for electrolyte imbalances as a potential cause of the patient's symptoms in this specific clinical scenario.
+Answer: C
+------------------------
+12. ------------------------
+Reasoning: The most appropriate initial pharmacotherapy for a previously healthy 24-year-old woman with symptoms suggestive of a viral respiratory infection would focus on supportive care rather than antibiotics. Therefore, the correct answer should not be an antibiotic. 
+Answer: A
+------------------------
+13. ------------------------
+Reasoning: The presence of cysts and trophozoites in the cerebrospinal fluid analysis indicates an infection by a protozoan parasite, which is likely the cause of the patient's symptoms. Considering the possible entry routes of pathogens into the central nervous system, the most likely portal in this case would be through contaminated water or soil, which aligns with the patient's recent return from summer camp. 
+Answer: D
+------------------------
+14. ------------------------
+Reasoning: The supraspinatus muscle is commonly involved in shoulder pain in individuals who perform repetitive overhead activities, making it likely to be the cause of the patient's condition based on the information provided.
+Answer: D
+------------------------
+15. ------------------------
+Reasoning: The symptoms of foot drop and lack of fluid motion during gait analysis suggest nerve dysfunction, which is commonly associated with trauma to the common peroneal nerve. The intact cruciate and collateral knee ligaments indicate that the issue is not related to the knee joint itself. 
+Answer: C
+------------------------
+16. ------------------------
+Reasoning: The most appropriate approach towards confirming the underlying diagnosis of PTSD in this patient would involve assessing his history of the motor vehicle collision, any previous trauma he may have experienced, personal or family history of mental health disorders, and current stressors in his life. These risk factors are important to consider as they can contribute to the development of PTSD after a motor vehicle collision. By understanding these factors in relation to the patient's presentation, a more accurate diagnosis can be made.
+Answer: B
+------------------------
+17. ------------------------
+Reasoning: The patient's history of recurrent severe pneumonia episodes and the failure of neutrophils to undergo an oxidative burst when exposed to Staphylococcus aureus indicate an underlying immune system dysfunction, potentially chronic granulomatous disease (CGD). This genetic disorder affects the neutrophils' ability to kill certain bacteria, leading to increased susceptibility to infections. 
+Answer: C
+------------------------
+18. ------------------------
+Reasoning: The technician most likely used the Polymerase Chain Reaction (PCR) technique to determine the presence of cytomegalovirus (CMV) DNA in the blood sample. PCR involves repetitive cycles of heating and cooling to amplify specific DNA sequences, which aligns with the process described in the question. Gel electrophoresis is used to detect the reaction product, indicating the presence or absence of CMV DNA in the patient's blood.
+Answer: B
+------------------------
+19. ------------------------
+Reasoning: Given the presentation of a 2-year-old child with respiratory distress, inspiratory stridor, and low oxygen saturation levels, along with the initial treatment not fully resolving the symptoms, the most appropriate next step would be to administer oral dexamethasone therapy to reduce airway inflammation associated with croup, which is a common cause of stridor in children. This step would help improve the child's symptoms and prevent further respiratory compromise.
+Answer: D
+------------------------
+20. ------------------------
+Reasoning: The most likely organism to be found in the peritoneal fluid of a patient with a perforated appendix is anaerobic bacteria, specifically Bacteroides fragilis, due to contamination of the peritoneal cavity with normal gut flora upon perforation.
+Answer: B
+------------------------
+21. ------------------------
+Reasoning: Considering the patient's history of leiomyomata uteri and previous surgical intervention, the most appropriate next step in diagnosis would be to perform a Pelvic ultrasonography to assess for any potential complications or sequelae from the hysterectomy that may be causing her symptoms.
+Answer: C
+------------------------
+22. ------------------------
+Reasoning: The most appropriate next step in diagnosis for a 42-year-old woman with irregular vaginal bleeding, a history of regular menstrual cycles, a family history of colon cancer and breast cancer, a BMI of 29 kg/m2, and inconsistent condom use with her male partner should involve investigating for hormonal imbalances, structural abnormalities, genetic predisposition to certain cancers, and potential sexually transmitted infections. Given these considerations, the best option for further evaluation would be an Endometrial biopsy to assess for endometrial abnormalities, hormonal imbalances, and potential malignancies.
+Answer: D
+------------------------
+23. ------------------------
+Reasoning: Individuals with Turner syndrome are typically infertile due to ovarian failure, so the most appropriate reproductive options for them would be adoption or assisted reproductive technologies. 
+Answer: A
+------------------------
+24. ------------------------
+Reasoning: Imaging studies such as a noncontrast head CT or MRI of the brain are crucial in this case because they can provide valuable information about the presence of a stroke or other structural abnormalities in the brain that may be causing the patient's symptoms. Given the patient's age, medical history, and presentation of focal neurological deficits, it is important to rule out a stroke as a potential cause of his symptoms.
+Answer: B
+------------------------
+25. ------------------------
+Reasoning: The most important next step in management should focus on monitoring for signs of postpartum hemorrhage and ensuring appropriate management to prevent potential adverse outcomes for both the mother and the baby, considering the estimated third-stage blood loss of 500 mL during delivery.
+Answer: B
+------------------------
+26. ------------------------
+Reasoning: The patient's normal spirometry results with an FEV1:FVC ratio of 90% and FEV1 of 90% of predicted, along with the absence of other respiratory symptoms like chest pain or palpitations, suggest that asthma is unlikely. Considering the patient's exercise-induced cough and nasal congestion, the most likely diagnosis would be a condition other than asthma. 
+Answer: C
+------------------------
+27. ------------------------
+Reasoning: Increased fibroblast activity is crucial for the formation of granulation tissue in wound healing, which is necessary for tissue repair after burns. Among the options provided, vascular endothelial growth factor (VEGF) is known to stimulate fibroblast proliferation and migration, promoting angiogenesis and tissue repair.
+Answer: D
+------------------------
+28. ------------------------
+Reasoning: Duchenne muscular dystrophy (DMD) is inherited in an X-linked recessive manner, meaning that carrier females have a 50% chance of passing the mutated gene to their offspring. The patient's family history of DMD suggests a high likelihood of her being a carrier, which indicates a 50% risk of having a child with DMD.
+Answer: A
+------------------------
+29. ------------------------
+Reasoning: The 3-year-old girl has a positive PPD skin test result with 10 mm of induration, indicating exposure to tuberculosis. Given her living situation in a homeless shelter and her parents' history of being squatters in vacant buildings, she is at high risk for tuberculosis. Therefore, the most appropriate step would be further evaluation with a chest radiograph to assess for active disease and initiation of treatment with isoniazid.
+Answer: B
+------------------------
+30. ------------------------
+Reasoning: The combination of aphasia, right-sided hemiparesis, and urinary incontinence in the absence of urinary tract infection or prior history of urinary pathology suggests a neurological condition affecting the central nervous system. The correct answer should be related to a condition that can cause both neurological symptoms and urinary incontinence.
+Answer: C
+------------------------
+31. ------------------------
+Reasoning: Ordering an MRI solely based on the patient's emotional distress and without any clinical indication may not be the most appropriate course of action. The physician should prioritize patient communication and empathy, explain the rationale behind not ordering the MRI at this time, and offer alternative strategies for managing her pain and addressing her fears.
+Answer: B
+------------------------
+32. ------------------------
+Reasoning: The bulbar urethra is the most fixed portion of the male urethra and is more prone to injury due to its lack of mobility and proximity to the bony pelvis. In cases of pelvic fractures, the bulbar urethra is at the greatest risk for injury.
+Answer: B
+------------------------
+33. ------------------------
+Reasoning: The legal concept invoked by the patient, where negligence is established based on the fact that the sponge could not have been left unless there was negligence, aligns with the definition of res ipsa loquitur.
+Answer: C
+------------------------
+34. ------------------------
+Reasoning: The most likely cause of the patient's symptoms is the worsening of musculoskeletal symptoms due to glucocorticoid therapy, which can lead to muscle weakness and bone loss.
+Answer: A
+------------------------
+35. ------------------------
+Reasoning: The patient's vital signs indicate orthostatic hypotension, which is common in Parkinson's disease. Adjusting medications accordingly to prevent hemodynamic instability is crucial. Failure to address this issue can lead to complications. 
+Answer: B
+------------------------
+36. ------------------------
+Reasoning: The patient's symptoms, history of smoking, weight loss, and imaging findings are highly suggestive of a malignant process, indicating the presence of cancer. The risk factors for lung cancer, such as smoking and alcohol consumption, along with chronic inflammation from asthma, contribute to the development of the lung mass. The characteristics of the lung mass on imaging studies align with features of malignancy. Considering these factors, the most likely histopathological finding in the biopsy specimen of the lung mass would be Non-small cell lung carcinoma.
+Answer: D
+------------------------
+37. ------------------------
+Reasoning: Given the patient's history of increased glandularity in the upper outer quadrant of the right breast, the presentation of black discharge from the right nipple, and the need for further evaluation to rule out potential malignancy, the most appropriate next step in diagnosis would be a ductogram or galactography to identify the source of the discharge and any underlying abnormalities in the breast ducts.
+Answer: A
+------------------------
+38. ------------------------
+Reasoning: Considering the patient's recent trips to Asia, her occupation as a flight attendant, her low CD4+ T-lymphocyte count, and her diagnosis of AIDS, the most likely causal organism would be an opportunistic pathogen commonly found in Asia and affecting immunocompromised individuals, such as Cryptosporidium parvum.
+Answer: A
+------------------------
+39. ------------------------
+Reasoning: The involvement of glycogenolysis in the liver is crucial for maintaining blood glucose levels during fasting periods. Glycogen stored in the liver can be broken down into glucose and released into the bloodstream to prevent hypoglycemia. This process helps in ensuring that the man's serum glucose concentration remains within the reference range even after fasting for 12 hours.
+Answer: C
+------------------------
+40. ------------------------
+Reasoning: The symptoms and findings described in the question, such as recent viral illness, bitemporal hyperintensities on MRI, confusion, short-term memory deficits, difficulty naming objects, and literal paraphasic errors, are indicative of viral encephalitis.
+Answer: C
+------------------------
+41. ------------------------
+Reasoning: The combination of clitoral enlargement, temporal balding, coarse dark hair on the upper lip and chin, along with increased serum testosterone concentration and a 12-cm ovarian mass, suggests an androgen-secreting ovarian tumor like a Sertoli-Leydig tumor.
+Answer: C
+------------------------
+42. ------------------------
+Reasoning: The presence of radiation of the murmur into the neck is characteristic of aortic stenosis, which is a common cause of syncope in elderly patients due to decreased cardiac output and impaired cerebral perfusion.
+Answer: B
+------------------------
+43. ------------------------
+Reasoning: The most appropriate treatment would involve intravenous antibiotics targeting common pathogens in cellulitis, such as Staphylococcus aureus and Streptococcus species, along with surgical consultation for possible debridement of necrotic tissue in the affected foot because the patient's symptoms of cellulitis in the midfoot, febrile state, and confusion could indicate a systemic infection that requires immediate treatment to prevent further complications.
+Answer: A
+------------------------
+44. ------------------------
+Reasoning: The positive straight-leg raise test and loss of right ankle reflex indicate nerve compression or irritation, suggesting involvement of the nerve roots in the lower back. This aligns with the characteristics of displacement of the nucleus pulposus, which is a common cause of radiating leg pain in cases of lumbar disc herniation.
+Answer: A
+------------------------
+45. ------------------------
+Reasoning: The primary mechanism of the development of edema in this patient is likely due to the release of inflammatory mediators such as histamine or bradykinin in response to the trauma, which increase vascular permeability leading to fluid leakage into the tissues.
+Answer: A
+------------------------
+46. ------------------------
+Reasoning: Considering the increased risk of breast cancer due to family history, the most appropriate health maintenance recommendation at this time would be mammography to screen for any potential abnormalities early on.
+Answer: C
+------------------------
+47. ------------------------
+Reasoning: The patient's decision to file a malpractice suit may be influenced by his unrealistic expectations about the recovery process and outcomes of the Dupuytren contracture repair surgery, as he is upset that his hand has not fully healed. 
+Answer: D
+------------------------
+48. ------------------------
+Reasoning: From the information provided, constriction of the efferent arteriole would lead to an increased glomerular capillary hydrostatic pressure due to decreased outflow of blood. This increase in pressure would affect the filtration process.
+Answer: D
+------------------------
+49. ------------------------
+Reasoning: The physician recommends administration of Rho(D) immune globulin to prevent the development of antibodies against Rh-positive blood cells, reducing the risk of Rh isoimmunization and its associated complications, such as hemolytic disease of the newborn. This is crucial in pregnancies where the mother is Rh-negative and the father is Rh-positive to prevent Rh incompatibility issues.
+Answer: A
+------------------------
+50. ------------------------
+Reasoning: The patient's symptoms of severe substernal chest pain described as tearing in quality and radiating to the neck, along with the history of similar but less severe chest pain one week earlier, suggest aortic dissection as the most likely underlying cause for his worsening symptoms. Marfan syndrome is associated with aortic root dilation and increased risk of aortic dissection.
+Answer: C
+------------------------
+51. ------------------------
+Reasoning: The correct answer should be a beta-blocker like metoprolol, which targets beta-1 receptors in the heart to decrease heart rate and is commonly used for rate control in atrial fibrillation. Weight-based dosing is important, and metoprolol was already administered with some effect, making it the appropriate choice for further management.
+Answer: D
+------------------------
+52. ------------------------
+Reasoning: The symptoms described in the question, such as decreased sensation to vibration and position in all extremities, more prominent in the lower extremities than in the upper extremities, exaggerated knee and ankle deep tendon reflexes, weakness of extensor and flexor muscles of the lower extremities, are characteristic of a vitamin B12 deficiency. Vitamin B12 deficiency can lead to neurological symptoms such as peripheral neuropathy, which can manifest as weakness and tingling in the arms and legs, along with the other neurological findings mentioned.
+Answer: D
+------------------------
+53. ------------------------
+Reasoning: The study described focuses on monitoring treatment efficacy through detailed assessments of complete blood counts and bone marrow evaluations, which are crucial in evaluating the response to the tyrosine kinase inhibitor. This indicates that the study is an open-labeled clinical trial where patients are aware of the treatment they are receiving.
+Answer: C
+------------------------
+54. ------------------------
+Reasoning: The most appropriate additional pharmacotherapy to initiate at this time should target vasoconstriction and sympathetic stimulation to help alleviate the symptoms caused by cocaine use, which includes addressing potential cardiovascular complications. 
+Answer: C
+------------------------
+55. ------------------------
+Reasoning: The correct answer should address the potential presence of confounding variables or biases in the study that may have influenced the results of the vaccine efficacy analysis among African American subjects. Failing to account for these factors could lead to inaccurate conclusions regarding the vaccine's effectiveness in this specific population.
+Answer: C
+------------------------
+56. ------------------------
+Reasoning: The most appropriate next step would be to relieve the physician of duty and alert the hospital's patient safety officer. This action focuses on ensuring patient safety, addressing the potential impairment of the physician, and following established protocols to handle situations involving impaired healthcare professionals.
+Answer: C
+------------------------
+57. ------------------------
+Reasoning: The most likely cause of the painless left scrotal mass since childhood in a 22-year-old man is a congenital hydrocele, which is a common cause of such masses in young adults.
+Answer: A
+------------------------
+58. ------------------------
+Reasoning: The most appropriate pharmacotherapy for this patient would be Vancomycin as it targets methicillin-resistant Staphylococcus aureus (MRSA) due to the presence of mecA-positive organisms, provides coverage against gram-positive cocci, and is effective against the characteristics of the infection described in the patient's presentation.
+Answer: D
+------------------------
+59. ------------------------
+Reasoning: The most important consideration in the care of this patient is to avoid latex exposure due to his history of anaphylaxis. Given the risk of severe allergic reactions, it is crucial to prioritize the use of latex-free alternatives to prevent any potential triggers that could lead to life-threatening complications. 
+Answer: D
+------------------------
+60. ------------------------
+Reasoning: The potential risks and complications associated with delaying the repair of an inguinal hernia in a 6-month-old infant, such as risk of incarceration and strangulation leading to bowel obstruction and ischemia, indicate that herniorrhaphy should be scheduled at the earliest convenient time to prevent life-threatening situations.
+Answer: C
+------------------------
+61. ------------------------
+Reasoning: The most appropriate next step in management for the patient, considering the symptoms of dizziness upon standing, significant drop in blood pressure, and pulse rate differences between the right and left arms, would be to perform a tilt-table test to confirm the diagnosis of orthostatic hypotension and identify the underlying cause.
+Answer: B
+------------------------
+62. ------------------------
+Reasoning: The correct answer should be associated with low body weight and low BMI due to intense physical activity leading to energy deficiency, resulting in amenorrhea. The patient's emaciated appearance, low weight, and low BMI are indicative of this energy deficiency caused by intense physical activity.
+Answer: B
+------------------------
+63. ------------------------
+Reasoning: The patient's presentation with delayed speech development, behavioral abnormalities like irritability and hand flapping, along with a family history of cognitive disabilities and learning difficulties, suggests a neurodevelopmental disorder like autism spectrum disorder. The growth parameters being at different percentiles also point towards a genetic or developmental disorder affecting both physical and cognitive development.
+Answer: D
+------------------------
+64. ------------------------
+Reasoning: The most likely test to confirm the diagnosis based on the symptoms described, including purulent sputum, decreased exercise tolerance, wheezing, rhonchi, hyperinflation on chest x-ray, and decreased FEV1:FVC ratio, would be the Sweat Chloride Test to evaluate for cystic fibrosis, a genetic condition that can affect both the respiratory and reproductive systems.
+Answer: C
+------------------------
+65. ------------------------
+Reasoning: The presence of jugular venous distention indicates elevated right heart pressures and right heart failure, which are common in pulmonary arterial hypertension. This sign is more specific to pulmonary arterial hypertension than other signs and can help differentiate between the two conditions.
+Answer: A
+------------------------
+66. ------------------------
+Reasoning: Severe amniotic fluid embolism can present with sudden onset of respiratory distress, cyanosis, hypotension, and coagulopathy leading to bleeding from multiple sites, which aligns with the symptoms described in the scenario.
+Answer: A
+------------------------
+67. ------------------------
+Reasoning: Having an oxygen saturation of 70% on room air indicates severe hypoxemia, which can lead to tissue damage and organ failure. The patient requires immediate administration of supplemental oxygen to improve oxygenation and prevent further complications.
+Answer: C
+------------------------
+68. ------------------------
+Reasoning: This patient is at increased risk for preterm birth due to her previous history of delivering her first child at 34 weeks' gestation. This history indicates a potential risk factor for preterm birth in subsequent pregnancies, especially in the case of a twin pregnancy.
+Answer: D
+------------------------
+69. ------------------------
+Reasoning: The drug that inhibits tumor necrosis factor α (TNF-α) has been shown to be effective in treating ankylosing spondylitis in patients who have not responded to conventional treatments. Targeting TNF-α is a specific pathway involved in the pathogenesis of the disease, which can lead to better outcomes for the patient.
+Answer: D
+------------------------
+70. ------------------------
+Reasoning: The symptoms of chronic achiness, stiffness, and fatigue, along with the presence of multiple bilateral tender points in the trapezius, gluteal, and suboccipital muscle groups, are characteristic of fibromyalgia. Additionally, normal radiograph findings and laboratory study results suggest that other potential causes have been ruled out, making fibromyalgia the most likely diagnosis.
+Answer: B
+------------------------
+71. ------------------------
+Reasoning: The patient's presentation with signs such as jugular venous distention, muffled heart sounds, and hemodynamic instability following a stab wound to the chest is highly suggestive of cardiac tamponade, a life-threatening condition. Therefore, the most appropriate next step in management would be to perform pericardiocentesis to relieve the cardiac tamponade and improve the patient's hemodynamics.
+Answer: D
+------------------------
+72. ------------------------
+Reasoning: The correct answer should involve a nerve that is associated with the pancreas and liver because the elevated serum amylase and γ-glutamyltransferase levels indicate potential pancreatic and liver involvement in the patient's presentation.
+Answer: C
+------------------------
+73. Reasoning: The causal organism in this case is likely Clostridium perfringens, which is known for causing gas gangrene. Gas gangrene is characterized by the production of toxins that cause tissue necrosis and gas formation, leading to crepitant bullae and profuse serous drainage.
+Answer: D
+74. ------------------------
+Reasoning: The symptoms described (fever, lymphadenopathy, arthralgias, and erythema on hands and feet) are consistent with a serum sickness-like reaction, which can occur as an immune response to foreign proteins like rabbit antithymocyte globulin. This type of reaction typically presents within 7-21 days after exposure to the foreign protein, making it the most likely cause of the patient's symptoms.
+Answer: C
+------------------------
+75. ------------------------
+Reasoning: The patient's symptoms of diminished breath sounds, tachycardia, and restlessness, along with the development of a pneumothorax and air leak, are indicative of a potential tension pneumothorax. This condition can lead to a mediastinal shift, impaired cardiac output, and ultimately cardiovascular collapse if not promptly recognized and treated. Therefore, addressing a tension pneumothorax should be the top priority in this situation to prevent further deterioration of the patient's condition.
+Answer: C
+------------------------
+76. ------------------------
+Reasoning: The correct answer should reflect the typical histologic findings of interstitial fibrosis and fibroblastic foci in systemic sclerosis (scleroderma) related lung involvement.
+Answer: A
+------------------------
+77. ------------------------
+Reasoning: The outbreak in the migrant worker camp involving individuals who were not immunized suggests the pathogen causing the epidemic can be prevented by vaccination. Additionally, the symptoms presented align with a respiratory infection, and the isolation of a gram-positive rod from the respiratory tracts of 7 patients indicates a bacterial infection. Therefore, the most likely cause of the outbreak is a bacterium known to cause respiratory infections in humans, which is commonly found in crowded living conditions.
+Answer: B
+------------------------
+78. ------------------------
+Reasoning: The patient's symptoms of pounding heart, poor sleep, restlessness, inability to concentrate, worries about work responsibilities, and increased sick days are indicative of an underlying anxiety disorder, specifically adjustment disorder with anxious mood. These symptoms align with the common manifestations of stress and anxiety related to major life changes like relocation and increased job responsibilities.
+Answer: A
+------------------------
+79. ------------------------
+Reasoning: Sensitivity is calculated as the proportion of true positive results out of all individuals who actually have the condition. In this case, the sensitivity of the test would be determined by knowing the number of men with prostate cancer who underwent biopsy procedures, which is essential to calculate the true positive results.
+Answer: B
+------------------------
+80. ------------------------
+Reasoning: The patient's behavior, being polite to the physician but berating the nurses and staff, as well as making negative comments about his missing child, suggests underlying psychological factors such as stress, anxiety, or personality disorders. This behavior is indicative of deeper issues affecting his interactions with others.
+Answer: C
+------------------------
+81. ------------------------
+Reasoning: The most appropriate pharmacotherapy for the 37-year-old woman with severe anxiety symptoms, shortness of breath, palpitations, and numbness in her hands and feet, would be an SSRI or SNRI based on evidence-based guidelines for treating generalized anxiety disorder in adults.
+Answer: D
+------------------------
+82. ------------------------
+Reasoning: The laboratory finding that would most likely support the hypothesis that stress of studying for examinations adversely affects the immune system in medical students is an increased lymphocyte count. Stress-induced immune responses often involve decreased levels of immune cells like lymphocytes, making individuals more susceptible to infections.
+Answer: D
+------------------------
+83. ------------------------
+Reasoning: The symptoms described by the patient, such as anxiety, hyperactivity, insomnia prior to menses, followed by depression, anorexia, irritability, and lethargy at the onset of menses, are characteristic of premenstrual dysphoric disorder (PMDD). Given the cyclical nature of her symptoms related to her menstrual cycle, PMDD is the most likely diagnosis.
+Answer: B
+------------------------
+84. ------------------------
+Reasoning: Recent antibiotic use leading to disruption of normal vaginal flora and the presence of a thick white vaginal discharge with a pH of 4 suggest a yeast infection, most likely Candidiasis.
+Answer: B
+------------------------
+85. ------------------------
+Reasoning: The organism causing the reinfection must have the ability to evade the immune response, as indicated by the repeated episodes of urethritis despite previous exposure. This suggests that the organism can persist in the body and cause reinfection.
+Answer: A
+------------------------
+86. ------------------------
+Reasoning: Genetic polymorphism in the CYP2D6 gene can lead to poor metabolism of codeine, resulting in inadequate pain relief. Patients who are poor metabolizers of codeine due to genetic variations in the CYP2D6 gene will not experience adequate pain relief from codeine, explaining the therapeutic failure in this case.
+Answer: B
+------------------------
+87. ------------------------
+Reasoning: The combination of a grade 2/6 systolic ejection murmur, widely split S2, and soft mid-diastolic murmur in a 4-year-old girl points towards the diagnosis of atrial septal defect (ASD). The systolic ejection murmur along the upper left sternal border is characteristic of increased flow across the pulmonary valve due to the left-to-right shunt seen in ASD. The widely split S2 is due to delayed closure of the pulmonic valve, which is common in ASD. The soft mid-diastolic murmur along the lower left sternal border is caused by increased flow across the tricuspid valve. Therefore, the presence of these specific findings helps narrow down the likely diagnosis to ASD in this case.
+Answer: B
+------------------------
+88. ------------------------
+Reasoning: The most likely diagnosis for a 75-year-old woman with band-like, burning pain in the right upper abdomen extending to the back, normal gallbladder ultrasound, and normal serum amylase concentration would be related to conditions more common in older individuals, particularly women. Age and gender play a significant role in the likelihood of certain diagnoses, as older individuals, especially women, are more prone to certain diseases due to age-related changes in the body.
+Answer: B
+------------------------
+89. ------------------------
+Reasoning: Ordering an urgent brain MRI is necessary to investigate the cause of the headaches and optic disc abnormalities, as blurring of the optic disc margins bilaterally can indicate increased intracranial pressure due to serious conditions like a brain tumor.
+Answer: B
+------------------------
+90. ------------------------
+Reasoning: Stimulation of the sebaceous glands by androgens is a common cause of acne in adolescents, especially in cases of early puberty. Androgens play a significant role in sebum production, leading to acne development.
+Answer: D
+------------------------
+91. ------------------------
+Reasoning: The symptoms and physical examination findings suggest involvement of the maxillary and frontal sinuses, indicating a bacterial infection as the likely underlying mechanism. 
+Answer: B
+------------------------
+92. ------------------------
+Reasoning: The statistical power in this study was determined based on the probabilities set by the investigators for wrongly finding the effectiveness of Drug X compared to the standard therapy. A high statistical power is crucial in this scenario to ensure that the study has a low probability of failing to detect a true difference between the two treatments. Therefore, the most accurate estimate of the statistical power in this study should be high to ensure reliable results.
+Answer: D
+------------------------
+93. ------------------------
+Reasoning: The patient presents with symptoms of congestive heart failure, such as fatigue, ankle swelling, crackles in the lungs, S3 gallop, jugular venous distension, and edema bilaterally. These findings suggest congestive heart failure, which would likely show an increased pulmonary capillary wedge pressure on further evaluation.
+Answer: A
+------------------------
+94. ------------------------
+Reasoning: Enalapril commonly causes cough as a side effect by inhibiting the breakdown of bradykinin, leading to increased levels of bradykinin which can cause cough.
+Answer: D
+------------------------
+95. ------------------------
+Reasoning: The patient's behaviors in the classroom, forgetfulness, excessive activity, and history of risky behaviors such as climbing trees and falling off a trampoline are indicative of impulsivity, hyperactivity, and inattention, which are consistent with a diagnosis of attention-deficit/hyperactivity disorder (ADHD). Additionally, the physical examination findings of repeated injuries and trauma support this diagnosis.
+Answer: A
+------------------------
+96. ------------------------
+Reasoning: The patient's presentation of a weak popliteal pulse and a cool, pulseless foot post femoral-popliteal bypass grafting surgery raises concern for acute limb ischemia. Immediate evaluation and intervention are crucial to restore blood flow to the affected limb. Therefore, the most appropriate management would be bedside compartment pressure measurements to assess for acute limb ischemia.
+Answer: A
+------------------------
+97. ------------------------
+Reasoning: The physical examination findings of purple-red discoloration over the cheeks and upper eyelids, periorbital edema, erythematous plaques and scales over the elbows and knees, flat-topped red papules over all knuckles, generalized weakness, and atrophy of the proximal muscles are classic signs of dermatomyositis, an autoimmune disorder affecting both skin and muscles.
+Answer: A
+------------------------
+98. ------------------------
+Reasoning: The symptoms described, including fever, chills, malaise, pain of the vulva, vulvar pustule with satellite lesions, and inguinal and femoral lymphadenopathy, along with the positive smear establishing the diagnosis, are indicative of herpes simplex virus (HSV) infection. HSV commonly presents with these characteristics in sexually active individuals.
+Answer: B
+------------------------
+99. ------------------------
+Reasoning: Vincristine is a chemotherapy drug known to cause peripheral neuropathy, which can lead to symptoms such as numbness, weakness, and areflexia in the hands and feet. This aligns with the patient's presentation of progressive numbness and weakness in the extremities after receiving chemotherapy for non-Hodgkin lymphoma.
+Answer: D
+------------------------
+100. ------------------------
+Reasoning: A sleep study can help diagnose conditions such as obstructive sleep apnea, which is likely the cause of the patient's symptoms based on his history of loud snoring, choking or gasping for breath while sleeping, and excessive daytime sleepiness.
+Answer: C
+------------------------
+101. ------------------------
+Reasoning: The symptoms described, along with the risk factors of hypertension, smoking, use of hydrochlorothiazide, and left ventricular hypertrophy, are all indicative of aortic dissection. The presence of a grade 3/6 diastolic blowing murmur and decreased femoral pulses further support this diagnosis.
+Answer: B
+------------------------
+102. ------------------------
+Reasoning: Pre-medication with an antihistamine and observation for at least 30 minutes after vaccination can help mitigate allergic reactions and allow for prompt intervention if needed.
+Answer: A
+------------------------
+103. ------------------------
+Reasoning: The patient's sudden loss of vision in the right eye, optic disk pallor, lack of diplopia, and normal external ocular movements suggest optic neuritis, which is a common symptom of multiple sclerosis. Demyelination of the optic nerve can lead to inflammation and damage, resulting in vision loss.
+Answer: C
+------------------------
+104. ------------------------
+Reasoning: The patient's presentation with lower abdominal pain, fever, malodorous vaginal discharge, cervical motion tenderness, and bilateral adnexal tenderness is highly suggestive of pelvic inflammatory disease (PID). The most appropriate pharmacotherapy for PID is a combination of intramuscular ceftriaxone and oral doxycycline to provide broad-spectrum coverage for likely pathogens causing PID.
+Answer: D
+------------------------
+105. ------------------------
+Reasoning: The fluid from the rupture of an ectopic pregnancy in the ampulla is most likely to be found in the cul-de-sac, which is the Pouch of Douglas. This location is common for fluid accumulation in cases of ruptured ectopic pregnancies in the ampulla.
+Answer: C
+------------------------
+106. ------------------------
+Reasoning: Smoking is a major risk factor for coronary artery disease (CAD) and quitting smoking is one of the most effective ways to reduce the risk of developing CAD. In the case of the 36-year-old female advertising executive with a family history of early CAD, who has been smoking one pack of cigarettes daily for the past 20 years, implementing smoking cessation strategies should be the most essential step in preventing CAD. This is because smoking contributes to the development and progression of atherosclerosis, which is a key underlying process in CAD. By quitting smoking, the patient can significantly reduce her risk of CAD and improve her overall cardiovascular health.
+Answer: C
+------------------------
+107. ------------------------
+Reasoning: The presence of a 1-cm exophytic mass lateral to the cervical os at the nine o'clock position is a significant finding that raises concerns for a possible cervical malignancy or other serious pathology, requiring immediate attention and further evaluation.
+Answer: D
+------------------------
+108. ------------------------
+Reasoning: The symptoms described in the patient's presentation, including exophthalmos, inflammation of the periorbital tissue and conjunctivae, a heart rate of 140/min, and warm, velvety skin, are indicative of hyperthyroidism, specifically Graves' disease. Therefore, an MRI of the head and orbits would most likely reveal findings consistent with Graves' disease or hyperthyroidism.
+Answer: B
+------------------------
+109. ------------------------
+Reasoning: Given the patient's age, gender, lack of trauma history, and elevated blood pressure, the most appropriate next step in management would involve addressing potential underlying medical conditions like hypertension, coagulopathy, or vascular abnormalities. Cauterization of the bleeding site is a common and effective method to stop anterior epistaxis, especially when the bleeding is originating from the septal mucosa of the right naris in an emergency room setting.
+Answer: A
+------------------------
+110. ------------------------
+Reasoning: The blisters in this patient are most likely the result of adhesion failure involving the basement membrane, which is responsible for anchoring the epidermis to the dermis. Adhesion failure at this level can lead to blister formation.
+Answer: A
+------------------------
+111. ------------------------
+Reasoning: The symptoms described in the case of the 4-year-old boy are classic signs of Kawasaki disease, which requires treatment with intravenous immunoglobulin (IVIG) to prevent complications such as coronary artery aneurysms.
+Answer: A
+------------------------
+112. ------------------------
+Reasoning: The patient's symptoms, along with the elevated creatine kinase and lactate dehydrogenase levels, suggest muscle damage or inflammation, which align with conditions like polymyositis or dermatomyositis.
+Answer: C
+------------------------
+113. ------------------------
+Reasoning: The patient's presentation with easy bruising, bleeding from the gums, and numerous bruises in various stages of resolution suggests a bleeding disorder, likely due to malabsorption of fat-soluble vitamins like vitamin K in cystic fibrosis. The sudden-onset swelling of the right knee without trauma indicates a joint pathology. Therefore, the correct answer should address both bleeding disorder and joint pathology aspects, making malabsorption of vitamins A, D, E, and K the most likely explanation for these findings.
+Answer: D
+------------------------
+114. ------------------------
+Reasoning: The most effective intervention for the skin lesion over the sacrum in this quadriplegic patient with multiple sclerosis and pneumonia should focus on addressing pressure ulcers and implementing prevention strategies due to the patient's immobility and impaired sensation, which puts them at high risk for skin breakdown.
+Answer: A
+------------------------
+115. ------------------------
+Reasoning: In classic hemophilia, the gene responsible for the disorder is located on the X chromosome. Since the fetus is XY, it means that the father has passed on his Y chromosome to the fetus. Therefore, the infant will inherit the X chromosome from the mother, which carries a 50% chance of inheriting hemophilia from the father.
+Answer: B
+------------------------
+116. ------------------------
+Reasoning: The most appropriate initial test to order for this 20-year-old female with nausea, vomiting, and blood in vomit should focus on identifying the source of bleeding in the gastrointestinal tract. Considering the potential causes related to stress, dietary habits, and medical history, a non-invasive test that can help determine if the blood is coming from an upper or lower gastrointestinal source is crucial. Therefore, the most suitable initial test would be a urine pregnancy test to rule out pregnancy-related complications that could present with similar symptoms.
+Answer: D
+------------------------
+117. ------------------------
+Reasoning: The patient is presenting with symptoms of hypocalcemia, which can occur post-thyroidectomy due to potential hypoparathyroidism. The patient is also receiving intravenous fluids with potassium, which can further exacerbate hypocalcemia. Therefore, signs of hypocalcemia such as Chvostek sign are more likely to be present on additional physical examination.
+Answer: B
+------------------------
+118. ------------------------
+Reasoning: The relative risk ratio of 1.2 with a 95% confidence interval of 1.1 to 1.8 indicates that the effect of regular exercise on the risk for hip fracture is statistically significant overall increase in risk. The lower bound of the confidence interval is above 1, suggesting an increased risk of hip fractures among elderly women who exercise regularly.
+Answer: D
+------------------------
+119. ------------------------
+Reasoning: The correct answer should involve a vessel that is anatomically related to the parathyroid glands because the patient's postoperative findings suggest hypocalcemia and elevated parathyroid hormone levels, indicating damage to the parathyroid glands or their blood supply. The inferior thyroid artery supplies blood to the parathyroid glands, which regulate calcium levels in the blood. Damage to this artery during a thyroidectomy can lead to hypoparathyroidism and subsequent hypocalcemia.
+Answer: C
+------------------------
+120. ------------------------
+Reasoning: The correct answer should be related to a potential neurological or vascular complication of rheumatoid arthritis because the patient's history of drop attacks, weakness, loss of feeling in her legs, and incontinence suggest that there may be an underlying condition or complication related to her arthritis that is contributing to these symptoms.
+Answer: C
+------------------------
+121. ------------------------
+Reasoning: Respecting patient autonomy, honoring the patient's wishes, and ensuring that the decision is made voluntarily and with full understanding of the implications, the most appropriate next step would be to offer insulin but allow the patient to refuse it.
+Answer: C
+------------------------
+122. ------------------------
+Reasoning: The outbreak of similar symptoms among other campers and camp volunteers indicates a contagious agent present at the summer camp, suggesting an infectious cause.
+Answer: A
+------------------------
+123. ------------------------
+Reasoning: Immediate endotracheal intubation is necessary to protect the airway in case of further bleeding and aspiration. Octreotide can help reduce portal pressure and decrease the risk of rebleeding in patients with esophageal varices, which is crucial in managing the patient's condition in this emergency situation.
+Answer: C
+------------------------
+124. ------------------------
+Reasoning: The correct answer should be a drug that can cause central nervous system depression, leading to a blank stare, flat facial expression, and catatonic appearance, as well as sympathetic nervous system activation, resulting in rigidity, hostility, and assaultive behavior. These effects combined can explain the patient's presentation of a pulse rate of 72/min and blood pressure of 104/68 mm Hg.
+Answer: D
+------------------------
+125. ------------------------
+Reasoning: From the psychological evaluation perspective, the correct answer should focus on assessing anxiety and panic symptoms related to flying and examinations. A psychological evaluation can help determine if the symptoms are primarily due to anxiety, guiding appropriate treatment strategies.
+Answer: A
+------------------------
+126. ------------------------
+Reasoning: The most appropriate management for a healthy 2-year-old girl with mild bowlegs (10-degree genu varum) is no treatment needed at this time, as it is considered normal in children under the age of 2 and typically resolves on its own as the child grows.
+Answer: D
+------------------------
+127. ------------------------
+Reasoning: The patient's slow pulse rate of 40/min, evidence of cannon a waves on physical examination, and the dissociation between the P-wave rate and R-wave rate on ECG suggest a heart block. Given the symptoms of fainting and fatigue in a patient with a history of myocardial infarction, the most likely diagnosis is Third-degree atrioventricular block.
+Answer: D
+------------------------
+128. ------------------------
+Reasoning: Engaging in a romantic relationship with a former patient, especially one who was previously hospitalized for a mental health condition like major depressive disorder, can be seen as exploitative, harmful, and a breach of trust. Therefore, the medical student should decline the patient's invitation for dinner to maintain professionalism and ethical boundaries.
+Answer: D
+------------------------
+129. ------------------------
+Reasoning: The patient's presentation is consistent with acute stress disorder or post-traumatic stress disorder following the recent traumatic event of being robbed at knifepoint in a parking lot. Symptoms of anxiety, irritability, difficulty concentrating, and increased stress levels are indicative of acute stress disorder.
+Answer: A
+------------------------
+130. ------------------------
+Reasoning: Considering the patient's weight, BMI, daily exercise routine, and occupation involving prolonged sitting, the most appropriate next step would be to recommend beginning a weight loss program to address the potential strain on the lower back due to excess weight and poor posture from prolonged sitting.
+Answer: D
+------------------------
+131. ------------------------
+Reasoning: Considering the patient's symptoms of abdominal pain and constipation, it is important to assess the color, caliber, and frequency of bowel movements to understand the nature of her gastrointestinal issues and potential causes.
+Answer: A
+------------------------
+132. ------------------------
+Reasoning: The patient's history of fatigue, irritability, feelings of hopelessness, social withdrawal, and lack of motivation to adhere to his diabetic regimen all point towards a potential underlying mood disorder such as depression. It is important to address these mental health issues in order to improve the patient's overall well-being and treatment outcomes.
+Answer: C
+------------------------
+133. ------------------------
+Reasoning: The infant's persistent watery diarrhea, history of enteritis and dehydration, slightly distended abdomen, and dry mucous membranes suggest an underlying gastrointestinal issue or malabsorption disorder contributing to the ongoing symptoms.
+Answer: D
+------------------------
+134. ------------------------
+Reasoning: The patient is already in active labor with significant cervical dilation and effacement, indicating good progress towards delivery. Therefore, the most appropriate management would be to support the natural progression of labor rather than interventions to speed up the process.
+Answer: D
+------------------------
+135. ------------------------
+Reasoning: In this scenario, the most appropriate step prior to evaluating the patient's rectal problem would be to determine if the 15-year-old girl meets the criteria for emancipation. Emancipation is the legal process by which a minor is granted the rights and responsibilities of an adult. Since the patient has moved away from home, has a child, and is not supported by her parents, it is important to establish if she has the legal right to consent to medical treatment without parental involvement. This step is crucial in ensuring that the correct procedures are followed when treating a minor in this situation.
+Answer: A
+------------------------
+136. ------------------------
+Reasoning: The patient's elevated serum creatine kinase activity of 10,300 U/L indicates significant muscle damage, likely due to rhabdomyolysis from prolonged immobility while unconscious. The combination of opiates and cocaine in her system increases the risk of rhabdomyolysis, which can lead to kidney damage. Additionally, the presence of pigmented granular casts and rare erythrocytes in her urine indicates renal damage, specifically acute tubular necrosis. Therefore, the patient is at increased risk for acute tubular necrosis (ATN) over the next 24 hours.
+Answer: B
+------------------------
+137. ------------------------
+Reasoning: The presence of a serous effusion on examination of the left tympanic membrane could indicate a possible serious underlying condition such as mastoiditis or meningitis, which require immediate further evaluation.
+Answer: A
+------------------------
+138. ------------------------
+Reasoning: The girl's behavior of engaging in risky sexual activities without protection, smoking cigarettes, disobeying curfew, and being truant from school can be attributed to acting out behaviors, which are common defense mechanisms used by adolescents to cope with stress and emotional turmoil, especially in the context of her parents' recent separation.
+Answer: A
+------------------------
+139. ------------------------
+Reasoning: The patient's history of inconsistent condom use and multiple sexual partners puts him at a higher risk for sexually transmitted infections (STIs). The presence of penile lesions that turn white on application of acetic acid suggests genital warts caused by human papillomavirus (HPV). Therefore, the most appropriate next step would be to recommend further testing for STIs to properly diagnose and treat any potential infections.
+Answer: A
+------------------------
+140. ------------------------
+Reasoning: The patient's presentation with low blood pressure, tachycardia, cool extremities, delayed capillary refill, confusion, and low oxyhemoglobin saturation is consistent with hypovolemic shock. The underlying conditions of diuretic use and mild hypertension can exacerbate fluid loss, leading to decreased blood volume and subsequent shock.
+Answer: C
+------------------------
+141. ------------------------
+Reasoning: The potential risk for hypersensitivity reaction is posed by a vaccine that contains egg protein, as egg allergy is a common cause of allergic reactions in young children and infants. Vaccines with egg protein can trigger allergic reactions in individuals with egg allergies, leading to symptoms like urticaria, swelling of the lips, and difficulty breathing.
+Answer: B
+------------------------
+142. ------------------------
+Reasoning: Linear, nondepressed basal skull fractures can affect the posterior pituitary gland responsible for antidiuretic hormone (ADH) secretion. The patient's presentation of polyuria and polydipsia, along with the response to desmopressin, indicates dysfunction in ADH secretion.
+Answer: A
+------------------------
+143. ------------------------
+Reasoning: The most appropriate form of nutritional support for this patient would be parenteral nutrition due to the severity of the postoperative course, complications from cholecystitis, prolonged inability to eat, and the need for immediate and complete nutritional support.
+Answer: A
+------------------------
+144. ------------------------
+Reasoning: The correct answer should involve testing for insulin levels and C-peptide levels to differentiate between insulinoma and factitious hypoglycemia, considering the patient's recurrent hypoglycemic episodes and the need to identify the underlying cause.
+Answer: D
+------------------------
+145. ------------------------
+Reasoning: Trigeminal neuralgia is characterized by sudden, severe, electric shock-like or shooting pain triggered by activities like cold air, chewing, tactile stimulation, and brushing teeth. Carbamazepine is a medication that targets neuropathic pain, making it the most appropriate choice for this patient's symptoms.
+Answer: A
+------------------------
+146. ------------------------
+Reasoning: The discrepancy between the patient's home fingerstick blood glucose concentrations and his hemoglobin A1c levels can be attributed to his inconsistent compliance with insulin and dietary regimens, leading to variability in blood glucose levels.
+Answer: A
+------------------------
+147. ------------------------
+Reasoning: The most appropriate osteopathic manipulative technique for this patient's spine should be gentle, non-invasive, and focused on improving mobility and reducing pain without causing further harm due to her history of breast cancer recurrence and metastatic carcinoma to the bone.
+Answer: B
+------------------------
+148. ------------------------
+Reasoning: The most appropriate pharmacotherapy to increase the patient's leukocyte count in this scenario is Filgrastim. Filgrastim is a granulocyte colony-stimulating factor that stimulates the bone marrow to produce more neutrophils, which are essential in fighting infections. Given the patient's leukopenia after chemotherapy for small cell carcinoma of the lung, the need to increase neutrophil count to prevent infections is crucial.
+Answer: C
+------------------------
+149. ------------------------
+Reasoning: The symptoms presented by the patient, along with the laboratory findings of eosinophilia, suggest a possible parasitic infection. The most appropriate diagnostic test to identify parasitic infections would be a microscopic examination of the stool to detect any potential parasites causing the symptoms.
+Answer: D
+------------------------
+150. ------------------------
+Reasoning: Respecting patient confidentiality and privacy is crucial in this situation, especially considering the legal implications and the patient's request not to disclose his diagnosis to anyone. The diagnosis should only be disclosed to his probation officer, who is involved in his legal matters and can potentially provide support and guidance related to his treatment for cocaine dependency.
+Answer: B
+------------------------
+151. ------------------------
+Reasoning: Physiological gynecomastia is a common condition in adolescent boys, characterized by the development of breast tissue due to hormonal changes during puberty. In this case, the normal serum concentrations of gonadotropic hormones, estrogens, and testosterone indicate that there is no hormonal imbalance causing the breast enlargement. Therefore, the most likely cause of this patient's breast enlargement is physiological gynecomastia.
+Answer: D
+------------------------
+152. ------------------------
+Reasoning: The negative straight-leg raising test indicates no nerve root involvement, ruling out the need for immediate imaging studies like X-rays or MRI. Given the patient's history of similar episodes and the presence of bilateral paravertebral muscle spasm, focusing on conservative management to address muscle spasm and prevent future occurrences is the most appropriate next step.
+Answer: B
+------------------------
+153. ------------------------
+Reasoning: The most appropriate diagnostic study in this case would be a transvaginal ultrasound to assess the pelvic organs for any signs of infection, inflammation, or abnormalities, which can help identify conditions such as PID, ectopic pregnancy, or ovarian cysts.
+Answer: C
+------------------------
+154. ------------------------
+Reasoning: The patient's presentation of an expressionless face, flexed posture, and limited mouth opening, along with the family history of Parkinson's disease in the grandmother, raises concern for a potential underlying neurological disorder. Therefore, further evaluation for Parkinson disease is indicated in this patient.
+Answer: A
+------------------------
+155. ------------------------
+Reasoning: Considering the risk factors for thyroid cancer and the need for further evaluation of a solid thyroid nodule, the most appropriate next step would be fine-needle aspiration of the nodule.
+Answer: B
+------------------------
+156. ------------------------
+Reasoning: In order to determine whether any contraindications exist for the DtaP immunization, it is crucial to question the child's medical history, including any previous adverse reactions to vaccines or medical conditions that may affect the safety of the vaccine. Allergy to eggs is an important consideration as some vaccines, including DtaP, may contain traces of egg proteins, which can trigger an allergic reaction in individuals with egg allergies.
+Answer: A
+------------------------
+157. ------------------------
+Reasoning: Meconium-stained amniotic fluid can lead to meconium aspiration syndrome (MAS) in neonates. MAS occurs when the neonate inhales meconium-stained amniotic fluid into the lungs, leading to airway obstruction, inflammation, and chemical pneumonitis. The clinical presentation of respiratory difficulty, mild subcostal and intercostal retractions, and prominent pulmonary vascular markings on chest x-ray are consistent with MAS. Additionally, the risk factors for MAS in this case include the presence of meconium-stained amniotic fluid, fetal distress necessitating cesarean delivery, and maternal smoking during pregnancy. Therefore, the most likely diagnosis in this scenario is MAS.
+Answer: B
+------------------------
+158. ------------------------
+Reasoning: With a smaller sample size of 500 patients, there is a higher likelihood of not detecting a true difference between the new drug and standard treatment, leading to an increased chance of a Type II error.
+Answer: B
+------------------------
+159. ------------------------
+Reasoning: Vertebral artery dissection is a serious condition that can occur spontaneously or due to trauma, such as sudden neck movements. Painting involves repetitive neck movements and could potentially lead to this condition in susceptible individuals, especially older adults. The symptoms of confusion, nausea, and vertigo are concerning for a vascular event like vertebral artery dissection, which can be triggered by certain neck movements. Therefore, this should be considered as a potential cause of the patient's symptoms.
+Answer: A
+------------------------
+160. ------------------------
+Reasoning: The relative risk of death from this type of cancer in individuals who take Drug X compared to those who do not take it can be calculated by comparing the risk of death in the exposed group (those who received Drug X) to the risk in the unexposed group (those who did not receive the drug). In this case, since 100 individuals who received Drug X died of the specific type of cancer and 100 individuals who did not receive the drug also died of the same type of cancer, the relative risk would be 1 (100/100), indicating that individuals who take Drug X have an equal risk of dying from this type of cancer as compared to those who do not take it.
+Answer: A
+------------------------
+161. ------------------------
+Reasoning: The patient's symptoms of chronic diarrhea, intermittent crampy lower abdominal pain relieved with defecation, and urgent need to use the bathroom align with the criteria for irritable bowel syndrome (IBS). Since the patient has no serious illness, negative laboratory findings, and absence of occult blood in the stool or antigliadin antibodies, the most appropriate pharmacotherapy would target the symptoms of IBS to improve the patient's quality of life.
+Answer: B
+------------------------
+162. ------------------------
+Reasoning: This study design involves treating all children with chronic headaches with acupuncture in addition to their usual therapy, allowing for a comparison of outcomes with and without acupuncture treatment. It evaluates the effectiveness of acupuncture as a complementary therapy.
+Answer: B
+------------------------
+163. ------------------------
+Reasoning: Bilateral wheezing in this patient indicates bronchoconstriction, which is a common symptom of severe allergic reactions such as anaphylaxis. Bronchodilators are the most appropriate pharmacotherapy in this case as they help to open up the airways and improve breathing by relaxing the muscles around the airways. This can help alleviate the wheezing and improve the patient's respiratory status.
+Answer: D
+------------------------
+164. ------------------------
+Reasoning: The buzzing sensation adjacent to the scar, loud murmur heard on auscultation, and presence of dilated varicose veins with incompetent valves in the lower leg suggest venous insufficiency or arteriovenous fistula as the most likely diagnosis, which can result from a gunshot wound leading to vascular complications over time.
+Answer: B
+------------------------
+165. ------------------------
+Reasoning: Pericarditis is the most likely cause of the patient's condition based on the clinical presentation, involving injury to the pericardium.
+Answer: D
+------------------------
+166. ------------------------
+Reasoning: The warm and moist environment of a cruise ship pool and hot tub, combined with high levels of chlorine used for disinfection, create an ideal breeding ground for bacteria and fungi to thrive. Pseudomonas aeruginosa is a common bacterium found in water sources like pools and hot tubs, known to cause skin infections. Given the patient's recent travel history to the Caribbean and activities involving swimming in the ship's pool and hot tub, it is likely that the infectious agent causing the rash is Pseudomonas aeruginosa, which would proliferate in the dermis.
+Answer: B
+------------------------
+167. ------------------------
+Reasoning: The information provided suggests that further evaluation for testicular cancer is important in this age group with painless testicular swelling. Therefore, conservative management with close observation and follow-up is the most appropriate approach.
+Answer: A
+------------------------
+168. ------------------------
+Reasoning: The infectious agent causing the symptoms in the 10-month-old boy is likely to be highly contagious, easily transmitted through respiratory droplets, and capable of causing lower respiratory tract symptoms, which are common in crowded settings like day-care centers. This suggests that the correct answer should be an infectious agent that is highly contagious and easily transmitted through respiratory droplets.
+Answer: D
+------------------------
+169. ------------------------
+Reasoning: Carbamazepine is known to induce hepatic enzymes, leading to increased metabolism of vitamin D, potentially resulting in lower levels of vitamin D in the body. This can impact bone health, especially in individuals with a family history of osteoporosis. Therefore, the physician's recommendation to increase vitamin D intake is likely due to the potential of carbamazepine to affect vitamin D levels.
+Answer: D
+------------------------
+170. ------------------------
+Reasoning: The defect in cell cycle arrest in the G1 phase is most likely responsible for the progressive tumor growth despite irradiation therapy due to the mutation in the p53 gene, which plays a crucial role in G1 phase cell cycle arrest.
+Answer: B
+------------------------
+171. ------------------------
+Reasoning: The most appropriate pharmacotherapy for the 87-year-old woman with progressive memory loss, considering her medical history, current medications, and Mini-Mental State Examination score, should address potential drug-induced cognitive impairment. Given that she is on medications that can cause cognitive side effects, such as hydrochlorothiazide and levothyroxine, a cholinesterase inhibitor would be the most suitable option to help improve her cognitive function and memory.
+Answer: B
+------------------------
+172. ------------------------
+Reasoning: The absence of a urethral opening in a stillborn male fetus is commonly associated with bilateral renal agenesis due to the lack of urine production, leading to oligohydramnios. This condition is likely to be present in this case.
+Answer: C
+------------------------
+173. ------------------------
+Reasoning: The percentage of offspring with a two-gene deletion will be 25% because the inheritance of α-thalassemia follows an autosomal recessive pattern, and when both parents have a two-gene deletion in trans, there is a 25% chance that the offspring will inherit both deletions.
+Answer: B
+------------------------
+174. ------------------------
+Reasoning: The presence of leukocyte esterase, WBCs, and rare gram-negative rods in the urine dipstick and urinalysis results indicate a potential urinary tract infection (UTI) in a pregnant woman. Prompt treatment with antibiotics is crucial to prevent complications for both the mother and the baby. Therefore, the most appropriate next step in management would be initiating antibiotic therapy.
+Answer: B
+------------------------
+175. ------------------------
+Reasoning: The patient's clinical presentation, including joint hypermobility, recurrent injuries, chest pain with exertion, and a family history of connective tissue disorders, suggests a possible genetic connective tissue disorder such as Ehlers-Danlos syndrome. Therefore, genetic testing for Ehlers-Danlos syndrome would be the most appropriate next step in diagnosis.
+Answer: A
+------------------------
+176. ------------------------
+Reasoning: The characteristics of the pain described, along with the lack of relief from antacids, suggest gallbladder involvement. Given the patient's symptoms and risk factors, the most appropriate next step would be to investigate for gallbladder-related issues.
+Answer: A
+------------------------
+177. ------------------------
+Reasoning: The positive culture on hektoen enteric agar indicates the presence of Salmonella species, which are commonly associated with antibiotic-associated diarrhea in young adults. Antibiotics can disrupt the normal gut flora, allowing opportunistic pathogens like Salmonella to cause infection and diarrhea.
+Answer: D
+------------------------
+178. ------------------------
+Reasoning: The characteristics described in the information provided match those of a pilonidal abscess, including the history of fall, low-grade fever, erythematous, fluctuant, elevated mass with midline pores, and absence of induration or pain on rectal examination.
+Answer: D
+------------------------
+179. ------------------------
+Reasoning: Considering the patient's expressed wishes to die at home, her advance directive, and the availability of support at home, the most appropriate step would be to arrange for consultation with a home hospice team. This option aligns with the patient's preferences for end-of-life care and ensures that she receives appropriate support and symptom management in a setting that respects her autonomy.
+Answer: B
+------------------------
+180. ------------------------
+Reasoning: The most likely causal organism in this scenario would be a bacterial organism due to the presence of purulent nasal discharge, tenderness to palpation over the left cheek, and no transillumination over the left maxillary sinus, indicating a possible sinus infection.
+Answer: D
+------------------------
+181. ------------------------
+Reasoning: The most appropriate next step in management should address the patient's hemodynamic instability and respiratory distress, aiming to stabilize the patient's condition quickly. The presence of greenish fluid in the chest tube suggests a diaphragmatic injury, which requires urgent surgical intervention. Therefore, considering the possibility of diaphragmatic injury and the need for immediate surgical repair, the correct answer is D. Laparotomy.
+Answer: D
+------------------------
+182. ------------------------
+Reasoning: The symptoms of irregular menstrual periods, weight gain, acne, hirsutism, and enlarged uterus and ovaries in a young woman, along with the family history of similar symptoms in a sibling, suggest a potential diagnosis of Polycystic Ovarian Syndrome (PCOS).
+Answer: D
+------------------------
+183. ------------------------
+Reasoning: The most appropriate initial method to investigate the 2-cm freely movable mass in the lower left lobe of the thyroid in a 44-year-old female would be ultrasonography of the thyroid gland. This imaging modality is non-invasive, cost-effective, and can provide detailed information about the characteristics of the nodule, helping differentiate between benign and malignant nodules.
+Answer: D
+------------------------
+184. ------------------------
+Reasoning: The patient's symptoms of cold symptoms, progressive fatigue, elevated temperature, and increased urea nitrogen and creatinine concentrations are indicative of a possible allograft rejection. Considering the immunosuppressed state of the patient due to the kidney transplant and medications, the infection is likely an opportunistic pathogen. Among the options, BK virus is commonly associated with kidney transplant recipients and can cause nephropathy, which aligns with the patient's presentation.
+Answer: B
+------------------------
+185. ------------------------
+Reasoning: The anal mass is located below the dentate line, indicating lymphatic drainage to the inguinal region. Additionally, considering the common symptoms and risk factors associated with malignant anal masses in men over 50 years old, the most appropriate lymph nodes to evaluate for possible metastasis would be the inguinal lymph nodes.
+Answer: D
+------------------------
+186. ------------------------
+Reasoning: To address potential confounding variables that could affect the study results, it is crucial to select a comparison group that had chest x-rays to ensure similar demographic characteristics, work history, and asbestos exposure levels. This helps in minimizing the impact of confounding factors and obtaining more reliable results.
+Answer: A
+------------------------
+187. ------------------------
+Reasoning: The patient's presentation with symptoms of fluid retention, including swelling in the legs, weight gain, periorbital edema, and pitting edema in the lower extremities, along with signs of ascites on physical examination, suggests abnormalities related to fluid accumulation. Given the history of chronic smoking and alcohol consumption, the most likely study to be abnormal in this patient would be the Urine protein concentration, indicating potential kidney dysfunction and fluid retention.
+Answer: D
+------------------------
+188. ------------------------
+Reasoning: The patient's history of HIV infection, along with the presence of anal pain and fleshy lesions around the perianal area, suggests potential opportunistic infections or conditions related to HIV infection in the gastrointestinal system. The most appropriate pharmacotherapy at this time should target these potential opportunistic infections or conditions to alleviate the anal pain and improve the patient's quality of life.
+Answer: D
+------------------------
+189. ------------------------
+Reasoning: The patient's history of hypertension, previous strokes, cognitive impairment, and abnormal vital signs, specifically the elevated blood pressure, suggest a potential underlying neurological condition such as vascular dementia or sequelae from previous strokes. These factors indicate the need for further neurological assessments and imaging studies to determine the extent of the patient's cognitive impairment and identify any underlying neurological conditions.
+Answer: D
+------------------------
+190. ------------------------
+Reasoning: The most likely explanation for the 17-year-old girl's lack of menstrual periods, normal external genitalia, refusal of pelvic or rectal examination, and absence of secondary sexual characteristics points towards a condition related to delayed puberty or primary amenorrhea. Among the options provided, Androgen insensitivity fits the description as it can present with normal female body habitus, breast development, and external genitalia, along with delayed puberty. 
+Answer: A
+------------------------
+191. ------------------------
+Reasoning: The patient's presentation of fever, headache, nausea, altered mental status, elevated protein level in the cerebrospinal fluid, and pleocytosis all point towards an infectious etiology, such as bacterial meningitis. Among the options provided, Streptococcus pneumoniae is a common cause of bacterial meningitis in older adults and fits the clinical picture described.
+Answer: D
+------------------------
+192. ------------------------
+Reasoning: The sympathetic innervation for the viscera involved in this patient's condition originates from the thoracolumbar spinal cord, which is represented by option C (T7-L2). The sympathetic nervous system controls the fight or flight response, which can lead to changes in gastrointestinal motility and function, such as diarrhea or constipation. Stress, like during final exam week, can activate the sympathetic nervous system, impacting gut motility and secretion.
+Answer: C
+------------------------
+193. ------------------------
+Reasoning: The presence of human papillomavirus (HPV) infection and smoking history are known risk factors for the development of squamous cell carcinoma in the cervix and vagina. Therefore, the correct answer should involve these risk factors.
+Answer: B
+------------------------
+194. Reasoning: The patient's history of rheumatic fever puts her at risk for developing rheumatic heart disease, which commonly leads to mitral stenosis. The physical exam findings of an opening snap followed by a low-pitched diastolic murmur at the third left intercostal space, left atrial enlargement on chest x-ray, and pulmonary venous engorgement are all consistent with mitral stenosis. Additionally, the radiographic findings of left atrial enlargement, straight left cardiac border, and pulmonary venous engorgement are indicative of mitral stenosis.
+Answer: D
+195. ------------------------
+Reasoning: The patient's high temperature of 39.1°C (102.5°F) and the seizure occurring after a fever suggest a fever-related seizure as the cause. 
+Answer: C
+------------------------
+196. ------------------------
+Reasoning: The most appropriate management for a 7-year-old male with obstructive sleep apnea should involve addressing the underlying cause of the obstruction in the upper airway to effectively manage the condition in children.
+Answer: D
+------------------------
+197. ------------------------
+Reasoning: The patient's presentation with symptoms of headache, stiff neck, sensitivity to light, lethargy, petechiae, positive Kernig and Brudzinski signs, CSF analysis showing gram-negative cocci, and decreased glucose concentration indicates bacterial meningitis. The appropriate pharmacotherapy for bacterial meningitis is antibiotics, with ceftriaxone being a commonly used broad-spectrum antibiotic for this condition.
+Answer: A
+------------------------
+198. ------------------------
+Reasoning: β-adrenergic blocking agents decrease myocardial oxygen demand by reducing heart rate, contractility, and blood pressure, which can help improve symptoms of chest pain in patients with a history of myocardial infarction. This aligns with the patient's condition and history.
+Answer: A
+------------------------
+199. ------------------------
+Reasoning: The patient's symptoms of shortness of breath and fatigue during exercise, along with the presence of a late systolic murmur and history of coronary artery disease, suggest the need for further evaluation for possible heart failure. Given the patient's age and medical history, heart failure could be a potential cause of his symptoms. Therefore, the most appropriate next step in management would be to investigate for heart failure to determine the underlying cause of his symptoms and provide appropriate treatment.
+Answer: D
+------------------------
+200. ------------------------
+Reasoning: The patient's recent use of fluoxetine for coping with the death of her husband can potentially exacerbate tremor symptoms due to serotonin syndrome caused by the selective serotonin reuptake inhibitor (SSRI) properties of fluoxetine.
+Answer: A
+------------------------
+201. ------------------------
+Reasoning: The patient's symptoms, history of unprotected sexual intercourse with multiple partners, and examination findings suggest a sexually transmitted infection (STI) and potential pelvic inflammatory disease (PID). The most appropriate antimicrobial therapy for this scenario would target common STI pathogens like Chlamydia trachomatis and Neisseria gonorrhoeae, which are commonly associated with PID. 
+Answer: B
+------------------------
+202. ------------------------
+Reasoning: Considering the potential impact of the patient's diabetes mellitus on his sleep patterns and insomnia, investigating the possibility of nocturnal hypoglycemia as a cause of early awakening is crucial.
+Answer: A
+------------------------
+203. ------------------------
+Reasoning: Ambulatory blood pressure monitoring is the most appropriate next step in management to differentiate between white coat hypertension, masked hypertension, and sustained hypertension in the 15-year-old girl with elevated blood pressure readings but no symptoms.
+Answer: A
+------------------------
+204. ------------------------
+Reasoning: Considering the potential infectious, inflammatory, and traumatic causes of the symptoms in a previously healthy 14-year-old girl, the most appropriate next step would be to perform arthrocentesis to evaluate for septic arthritis, which could be a complication following the knee injury sustained while playing soccer.
+Answer: D
+------------------------
+205. ------------------------
+Reasoning: The combination of symptoms including sore throat, fever, cervical lymphadenopathy, pharyngeal erythema with a creamy exudate, and recent sexual activity suggests a likely diagnosis of infectious mononucleosis, which can be transmitted through saliva during sexual activity.
+Answer: C
+------------------------
+206. ------------------------
+Reasoning: The most appropriate next step in this scenario, considering the need to assess the extent of burns and tissue damage, would be to order a burn depth assessment to guide further management decisions.
+Answer: C
+------------------------
+207. ------------------------
+Reasoning: The patient's symptoms, abnormal laboratory findings, and biopsy results are suggestive of cytomegalovirus (CMV) infection, which is a common complication in transplant patients. The most appropriate next step in management would be to reduce or discontinue immunosuppressive therapy to help the patient's immune system fight off the infection.
+Answer: A
+------------------------
+208. ------------------------
+Reasoning: A decrease in heart rate during the last minute of exercise compared to before the session suggests improved cardiovascular fitness and efficiency in the participants.
+Answer: A
+------------------------
+209. ------------------------
+Reasoning: The trajectory of the bullet passing through the abdomen and potentially causing damage to internal organs indicates the need to address the source of bleeding and stabilize the patient's condition promptly.
+Answer: D
+------------------------
+210. ------------------------
+Reasoning: The presence of a grade 3/6, low-pitched, diastolic, rumbling murmur audible at the apex with a distinct snapping sound preceding it, along with an irregularly irregular rhythm on cardiac examination, is indicative of mitral stenosis. This condition can worsen during pregnancy due to increased blood volume and heart rate, leading to symptoms such as dyspnea, wheezing, and coughing up bloodstreaked sputum. The findings in this patient are consistent with mitral stenosis complicated by atrial fibrillation.
+Answer: D
+------------------------
+211. ------------------------
+Reasoning: The patient's presentation of sudden onset severe occipital headache, stiff neck, and hypertension, along with the absence of other symptoms, normal neurologic examination, and stable vital signs, is most indicative of a subarachnoid hemorrhage.
+Answer: D
+------------------------
+212. ------------------------
+Reasoning: In the context of Marfan syndrome diagnosis, pathogenic mutations in the FBN1 gene typically result in changes to the amino acid sequence, leading to the characteristic features of the syndrome. Since the single nucleotide change in the patient and her mother does not alter the amino acid at that locus and is also found in individuals without Marfan syndrome, it is more likely to be a common variant in the general population rather than a pathogenic mutation associated with the syndrome.
+Answer: B
+------------------------
+213. ------------------------
+Reasoning: The patient in the scenario exhibits a long history of varying physical symptoms, dramatic and exaggerated descriptions of symptoms, conflicting statements about her history, and multiple hospitalizations without definitive causes being found. These characteristics align with somatic symptom disorder, where physical symptoms are linked to psychological distress.
+Answer: D
+------------------------
+214. ------------------------
+Reasoning: The most appropriate next step in management for the 5-year-old boy who has been diagnosed with toxoplasmosis and has a habit of eating dirt would be to refer the patient to a child psychiatrist. This step is crucial in addressing any underlying behavioral or psychological issues that may be contributing to the habit of eating dirt, as well as providing support and interventions to help the child overcome this behavior.
+Answer: D
+------------------------
+215. ------------------------
+Reasoning: Genetic testing for Klinefelter syndrome is the most appropriate test to establish the underlying cause of this couple's infertility, given the husband's presentation of gynecomastia, small, firm testicles, and absence of sperm on semen analysis.
+Answer: A
+------------------------
+216. ------------------------
+Reasoning: Combining nicotine patch and bupropion therapy in a patient with a history of childhood febrile seizures can increase the risk of seizures due to the potential interaction between bupropion and the patient's seizure history.
+Answer: A
+------------------------
+217. ------------------------
+Reasoning: Given the patient's history of AIDS, low CD4 count, symptoms of odynophagia, gastroesophageal reflux, hematemesis, and positive occult blood in the stool, the most appropriate initial step in this patient's management would be to investigate for possible opportunistic infections or malignancies that could be causing his symptoms. Therefore, the correct answer is D. referral for an upper endoscopy with biopsy.
+Answer: D
+------------------------
+218. ------------------------
+Reasoning: Increased peripheral vascular resistance can further increase the patient's blood pressure levels due to the constriction of blood vessels, leading to more pressure on the vessel walls.
+Answer: D
+------------------------
+219. ------------------------
+Reasoning: The amygdala is known to be involved in processing emotions, including fear, and its stimulation can lead to intense emotional responses. Given that the patient experienced a sudden, intense feeling of overwhelming fear during the operation, it is likely that the amygdala was stimulated at that time.
+Answer: A
+------------------------
+220. ------------------------
+Reasoning: The patient's history of recurrent infections with different pathogens, growth of Staphylococcus aureus in a previous culture, presence of Serratia marcescens in the current bone aspirate culture, and negative Nitroblue tetrazolium test all point towards an impaired phagocytic oxidative metabolism, which is essential for killing certain bacteria. This deficiency in reactive oxygen species production can explain the susceptibility to various bacterial infections and the current presentation of fever and painful swelling of the left ankle.
+Answer: D
+------------------------
+221. ------------------------
+Reasoning: Lowering the alpha level from 0.05 to 0.01 reduces the likelihood of a Type I error, making it harder to achieve statistical significance. Therefore, the most likely result is that significant findings can be reported with greater confidence.
+Answer: A
+------------------------
+222. ------------------------
+Reasoning: The symptoms described in the question, such as fever, severe muscle pain, diffuse painful swelling, black maculae, and an erythematous, tender mass draining blood and necrotic material, are indicative of necrotizing fasciitis caused by bacteria like Group A Streptococcus or Staphylococcus aureus. Antibiotics targeting cell wall synthesis, like beta-lactams or glycopeptides, are effective in treating such infections.
+Answer: D
+------------------------
+223. ------------------------
+Reasoning: Clindamycin provides coverage against common pathogens in cellulitis, such as Staphylococcus aureus and Streptococcus species, without cross-reactivity with erythromycin or penicillin, which is important for this patient with known allergies. Additionally, clindamycin does not have significant drug interactions with antiretroviral therapy.
+Answer: D
+------------------------
+224. ------------------------
+Reasoning: The combination of symptoms described, including acute onset rotatory vertigo, imbalance, decreased hearing, tinnitus, sense of fullness in the ear, vomiting, and mild hearing loss in the affected ear, are classic signs of Meniere's disease. This condition is more common in women and typically presents in the 30-50 age range, making it the most likely diagnosis in this case.
+Answer: D
+------------------------
+225. ------------------------
+Reasoning: The patient's symptoms and physical exam findings are consistent with a peritonsillar abscess, which is often caused by bacterial infection. Antibiotic therapy is the most appropriate management for this condition.
+Answer: A
+------------------------
+226. ------------------------
+Reasoning: The presence of a left adrenal mass suggests the possibility of an adrenal tumor, such as a pheochromocytoma, which commonly produces excess catecholamines and their metabolites, metanephrines. Therefore, measuring levels of metanephrines and catecholamines in the urine would be the most helpful assay in establishing the diagnosis in this patient.
+Answer: D
+------------------------
+227. ------------------------
+Reasoning: Fractures affecting the mandibular nerve can result in sensory deficits along the distribution of the nerve, leading to symptoms such as absent sensation over the right side of the face anterior to the right ear, extending down along the full extent of the mandible to the chin, as well as absent sensation over the right side of the tongue. Therefore, fractures involving the mandibular nerve can explain the findings in the patient described in the question.
+Answer: B
+------------------------
+228. ------------------------
+Reasoning: Given the presentation of white lesions in the mouth of a 3-week-old infant, the most appropriate pharmacotherapy would be to address oral thrush, a common fungal infection in infants. Nystatin is the appropriate antifungal medication used to treat oral thrush, as it is effective against Candida infections in the mouth.
+Answer: C
+------------------------
+229. ------------------------
+Reasoning: The patient's pain is reproduced when asked to externally rotate the shoulder against resistance, indicating possible inflammation of the teres minor tendon responsible for this movement.
+Answer: A
+------------------------
+230. ------------------------
+Reasoning: The patient's history of lung cancer treated with radiation therapy raises concerns about radiation-induced thrombocytopenia, which can lead to low platelet counts and easy bruising. Considering the negative serum antiplatelet antibody assay ruling out immune thrombocytopenic purpura (ITP), the most appropriate next step would be to perform a bone marrow aspiration to assess for radiation-induced bone marrow suppression as a potential cause of the patient's symptoms.
+Answer: D
+------------------------
+231. ------------------------
+Reasoning: Given the potential seriousness of meningococcal meningitis and the fact that the patient is at risk due to close contact with an infected individual, the most appropriate intervention would be to recommend prophylactic antibiotics to prevent the development of the disease.
+Answer: C
+------------------------
+232. ------------------------
+Reasoning: The expected physical finding in a 19-year-old woman with a history of intravenous drug use presenting with a systolic heart murmur is likely to be an increased intensity of the murmur with deep inspiration, which is characteristic of infective endocarditis. 
+Answer: B
+------------------------
+233. ------------------------
+Reasoning: The most appropriate management for the 26-year-old male police officer with asthma exacerbation, based on the information provided, would be the initiation of a daily corticosteroid inhaler. This is because he is experiencing symptoms of wheezing and chest tightness, indicating the need for anti-inflammatory treatment to control his asthma. Additionally, considering his medical history of atopic allergies and cold/exercise-induced asthma, a daily corticosteroid inhaler would help manage his symptoms effectively and prevent future exacerbations.
+Answer: D
+------------------------
+234. ------------------------
+Reasoning: The symptoms described in the scenario, along with the patient's presentation after engaging in physical activity in hot weather, are highly suggestive of heat stroke. Immediate cooling measures and intravenous fluid resuscitation are crucial in managing heat stroke to prevent further complications and organ damage.
+Answer: C
+------------------------
+235. ------------------------
+Reasoning: Killed vaccines are safer as they do not contain live virus particles that can potentially cause the disease, making them a more appropriate choice for a new severe respiratory illness caused by a newly identified virus.
+Answer: A
+------------------------
+236. ------------------------
+Reasoning: The presence of fluctuance, greenish fluid drainage, erythema with red streaks, and a high leukocyte count suggest a deep soft tissue infection that requires urgent surgical debridement to prevent further complications and potential limb loss.
+Answer: A
+------------------------
+237. ------------------------
+Reasoning: The patient is experiencing symptoms of mania, such as increased energy, decreased need for sleep, distractibility, and impulsivity, along with a history of substance abuse. The absence of current psychotic symptoms points towards a diagnosis of bipolar disorder.
+Answer: C
+------------------------
+238. ------------------------
+Reasoning: The symptoms presented by the patient, such as shortness of breath, crackles at lung bases, a soft S3, and a holosystolic murmur, all point towards heart failure. Echocardiography is a diagnostic test that can confirm the presence of heart failure by assessing cardiac function and fluid status.
+Answer: D
+------------------------
+239. ------------------------
+Reasoning: The most likely diagnosis for a 32-year-old jackhammer operator with pain and swelling in his right arm exacerbated by exertion is likely to be exertional compartment syndrome due to the repetitive and strenuous arm movements involved in his occupation. This condition fits the symptoms of pain, swelling, erythema, and moderate edema, exacerbated by exertion, which are indicative of inflammation and increased blood flow to the affected area.
+Answer: A
+------------------------
+240. ------------------------
+Reasoning: The patient most likely experienced significant blood loss during surgery, leading to hypovolemic shock, which is exacerbated by inadequate fluid resuscitation and potential internal bleeding, possibly from a vascular structure, resulting in the reported findings.
+Answer: C
+------------------------
+241. ------------------------
+Reasoning: The presence of the G551D mutation in one allele of the CFTR gene contributes to the patient's symptoms of abdominal pain, recurrent upper respiratory tract infections, sinusitis, and pancreatitis, indicating a milder form of cystic fibrosis. The thick nasal secretions and salty sweat are classic manifestations of cystic fibrosis, supporting the diagnosis. 
+Answer: A
+------------------------
+242. ------------------------
+Reasoning: The patient's symptoms of confusion, agitation, diaphoresis, muscle rigidity, tachycardia, and hypertension are consistent with sympathomimetic toxicity, which can be caused by substances such as amphetamines. 
+Answer: A
+------------------------
+243. ------------------------
+Reasoning: The presence of an air-fluid level in the left side of the chest, partial lung collapse, and elevation of the stomach bubble on x-ray are indicative of traumatic injury to the chest cavity. Based on these findings, the most likely diagnosis would involve a pneumothorax, hemothorax, or diaphragmatic injury.
+Answer: C
+------------------------
+244. ------------------------
+Reasoning: The patient is at high risk for deep venous thrombosis due to advanced age, history of coronary artery disease, low ejection fraction, and immobility associated with fentanyl use. Considering these factors, the most appropriate prophylactic regimen would be a combination of mechanical and pharmacologic prophylaxis. Among the options provided, subcutaneous enoxaparin is a low molecular weight heparin that would be the most beneficial in preventing thrombotic events in this patient.
+Answer: D
+------------------------
+245. ------------------------
+Reasoning: The patient in the question presents with classic symptoms of hypothyroidism, including fatigue, dry skin, brittle hair, weight gain, cold intolerance, bradycardia, and an enlarged thyroid gland. These symptoms and signs are indicative of an underactive thyroid gland, leading to a diagnosis of hypothyroidism.
+Answer: A
+------------------------
+246. ------------------------
+Reasoning: The most appropriate next step should involve attempting to identify the father's physician and working with that physician to obtain chromosome studies on the father. This approach respects the father's rights, maintains confidentiality, and prioritizes the child's health and well-being, considering legal and ethical implications, potential impact on the child's health, and exploring alternative ways to contact the father.
+Answer: A
+------------------------
+247. ------------------------
+Reasoning: The symptoms described, such as displaced ear, edema and tenderness behind the ear, red and dull tympanic membrane that does not move, along with the recent history of otitis media treatment, are indicative of mastoiditis, which is a complication of untreated or inadequately treated otitis media.
+Answer: D
+------------------------
+248. ------------------------
+Reasoning: Bisphosphonates work by inhibiting bone resorption through decreased osteoclast activity, leading to increased bone mineral density. This mechanism of action is crucial in treating osteoporosis and compression fractures.
+Answer: B
+------------------------
+249. ------------------------
+Reasoning: Timolol is known to have respiratory side effects, which can be exacerbated in elderly patients with a history of smoking, potentially leading to shortness of breath in this patient.
+Answer: D
+------------------------
+250. ------------------------
+Reasoning: Given the patient's presentation and the need to respect the patient's autonomy in refusing lumbar puncture, the most appropriate next step would be to obtain a CT scan of the head to further evaluate the patient's condition without invasive procedures.
+Answer: C
+------------------------
+251. ------------------------
+Reasoning: The most appropriate initial action by the physician would be to address the patient's concerns about addiction while ensuring adequate pain control. This involves providing education on the difference between physical dependence and addiction, discussing alternative pain management options, and involving a pain management specialist if needed. 
+Answer: B
+------------------------
+252. ------------------------
+Reasoning: The patient's symptoms, history of heavy alcohol consumption, weight loss, foul-smelling stools, low serum calcium concentration, and the presence of Chvostek and Trousseau signs all point towards hypocalcemia, likely due to malabsorption and hypoparathyroidism caused by chronic alcohol abuse.
+Answer: B
+------------------------
+253. ------------------------
+Reasoning: Considering the patient's distance from the nearest dialysis facility and access to medical care is crucial in determining the most appropriate long-term treatment option for her, as it will greatly impact her treatment outcomes.
+Answer: D
+------------------------
+254. ------------------------
+Reasoning: The presence of mature-appearing lymphocytes and immunohistochemical stains demonstrating B-cell origin in the peripheral blood smear indicates chronic lymphocytic leukemia (CLL), which is more common in older adults. Given the patient's age, fatigue, and elevated leukocyte count, CLL is the most likely diagnosis.
+Answer: C
+------------------------
+255. ------------------------
+Reasoning: Considering the differential diagnosis of Bartholin gland abscess, the patient's inconsistent condom use and sexual activity increasing the risk of STIs, potential complications associated with a tender, fluctuant mass, and the need for prompt surgical drainage, the most appropriate next step in management is incision and drainage.
+Answer: D
+------------------------
+256. ------------------------
+Reasoning: The symptoms described in the case, along with the negative urease breath test and normal endoscopy results, suggest that the patient's issues are likely related to functional gastrointestinal disorders triggered by stress. Therefore, the most appropriate pharmacotherapy would be one targeting these disorders, such as Lubiprostone, which is used for constipation predominant irritable bowel syndrome (IBS-C).
+Answer: C
+------------------------
+257. ------------------------
+Reasoning: The most appropriate course of action for a 22-year-old woman with urticaria and no abnormalities found during history and physical examination would be to treat the symptoms. Since this is her first episode and there are no concerning findings, symptomatic treatment with antihistamines would be the initial step to manage the condition effectively.
+Answer: D
+------------------------
+258. ------------------------
+Reasoning: The neurological findings in the 72-year-old man are most likely due to a lesion involving the presynaptic neuromuscular junction, which can be affected by chronic alcohol consumption and smoking, leading to muscle weakness and absent reflexes.
+Answer: D
+------------------------
+259. ------------------------
+Reasoning: The presence of a brown, irregular mass behind the tympanic membrane in a 4-year-old boy with a history of chronic recurrent otitis media, who recently completed a 10-day course of antibiotics, suggests a fungal infection as antibiotics would not be effective against fungal infections.
+Answer: A
+------------------------
+260. ------------------------
+Reasoning: The physician's recommendation for the patient to inform his wife of his HIV positive status is based on the ethical principles of beneficence and non-maleficence, prioritizing the well-being of the patient's wife and preventing harm.
+Answer: C
+------------------------
+261. ------------------------
+Reasoning: The most appropriate recommendation to prevent future morbidity and mortality from severe allergic reactions to bee stings, especially in individuals with a history of increasing sensitivity, is to carry self-injectable epinephrine. This is crucial for immediate treatment in case of severe allergic reactions, such as anaphylaxis.
+Answer: D
+------------------------
+262. ------------------------
+Reasoning: The symptoms described in the case, such as stupor, cool damp skin, pinpoint pupils, and decreased level of consciousness, are indicative of opioid toxicity. Opioids like heroin can cause central nervous system depression leading to decreased respiratory rate, pinpoint pupils, and hypotension. Additionally, opioids typically do not significantly affect the pulse rate, which aligns with the patient's presentation. 
+Answer: D
+------------------------
+263. ------------------------
+Reasoning: The most likely cause of greenish discharge from the nipple in this 52-year-old female without a history of recent pregnancy, oral contraceptives, or hormone replacement therapy is mammary duct ectasia, as it is commonly associated with green discharge in older women.
+Answer: C
+------------------------
+264. ------------------------
+Reasoning: Changes in social interactions or emotional well-being can provide insights into potential underlying psychological issues contributing to the patient's symptoms of fatigue and irritability.
+Answer: B
+------------------------
+265. ------------------------
+Reasoning: The most appropriate next step in management would be to perform an ultrasound to accurately assess the gestational age and evaluate for multiple gestation or fetal anomalies, given the increased maternal serum α-fetoprotein (MSAFP) concentration. This step will help determine the underlying cause of the elevated MSAFP and guide further management decisions.
+Answer: C
+------------------------
+266. ------------------------
+Reasoning: The correct answer should be related to estrogen and progesterone receptors or signaling pathways because these hormones play a key role in regulating the menstrual cycle phases, including the proliferative phase characterized by cell proliferation in the endometrium. 
+Answer: B
+------------------------
+267. ------------------------
+Reasoning: The presence of positively birefringent rhomboids observed under polarized light microscopy in the synovial fluid obtained via joint aspiration indicates the deposition of calcium pyrophosphate crystals, which is characteristic of pseudogout. This aligns with the clinical presentation of sudden onset pain, swelling, warmth, and erythema in the knee joint of a 63-year-old woman without a history of injury.
+Answer: C
+------------------------
+268. ------------------------
+Reasoning: The combination of symptoms described, including slurred speech, tongue wasting and fasciculation, decreased deep tendon reflexes in the left lower extremity, and hyperactive deep tendon reflexes in the left upper extremity, are classic signs of motor neuron disease, specifically Amyotrophic Lateral Sclerosis (ALS).
+Answer: A
+------------------------
+269. ------------------------
+Reasoning: Postoperative delirium or cognitive dysfunction are common complications following surgery and anesthesia, especially in older adults. These conditions can present with symptoms such as agitation, confusion, altered mental status, and disorientation. In this case, the patient's symptoms of agitation, confusion, and refusal to answer questions could be indicative of delirium or cognitive dysfunction as a result of the recent surgery and anesthesia. Additionally, the absence of focal neurologic findings on examination and normal CT scan of the head suggest a functional rather than structural cause for his symptoms.
+Answer: B
+------------------------
+270. ------------------------
+Reasoning: The most appropriate initial step in treatment for this patient should focus on addressing her depressive symptoms and suicidal ideation, as well as considering the potential need for psychiatric evaluation and intervention. Given the patient's reported changes in mood, loss of interest in activities, and suicidal ideation, it is crucial to prioritize her safety and well-being by addressing these symptoms effectively. Therefore, the correct answer is D. Paroxetine therapy.
+Answer: D
+------------------------
+271. ------------------------
+Reasoning: Given the high risk of complications such as perforation associated with a 4-cm nail ingestion, prompt surgical intervention is necessary to prevent serious consequences. This aligns with the need for immediate removal to avoid potential harm to the patient.
+Answer: C
+------------------------
+272. ------------------------
+Reasoning: The drug that increases nitric oxide concentration is most appropriate as it targets coronary artery vasodilation, which can help improve blood flow to the heart muscle and relieve chest pain, which is crucial in this scenario of chest pain radiating to the jaw in a 52-year-old man.
+Answer: B
+------------------------

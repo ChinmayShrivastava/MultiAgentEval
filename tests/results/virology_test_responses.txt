@@ -1,0 +1,664 @@
+1. ------------------------
+Reasoning: The correct answer should mention that there are currently 13 known human polyomaviruses because each of these viruses can cause different symptoms and diseases in humans.
+Answer: C
+------------------------
+2. ------------------------
+Reasoning: AIDS activism in the U.S. resulted in significant reforms by the Food and Drug Administration, easier access to investigational drugs, and changes in the way medicine was practiced in the U.S. This activism led to improvements in government policies, increased funding for research and treatment, reduced stigma, and better access to healthcare and resources for individuals affected by HIV/AIDS.
+Answer: D
+------------------------
+3. ------------------------
+Reasoning: Considering the information provided, the most common causes of death globally across different age groups include cardiovascular diseases, infectious diseases, cancer, respiratory diseases, and injuries. Among the options given, respiratory infections, malaria, and tuberculosis are more prevalent in developing countries due to limited healthcare access and resources, while diarrheal diseases are also significant but not as common globally. Therefore, the correct answer is A. Respiratory infections.
+Answer: A
+------------------------
+4. ------------------------
+Reasoning: The incubation period is the time between exposure to a pathogen and the appearance of symptoms, during which the virus is replicating and spreading throughout the body without causing symptoms. This period can vary in duration depending on the specific disease or condition.
+Answer: B
+------------------------
+5. ------------------------
+Reasoning: Newborn infants in countries with limited access to safe water and low levels of education are at a higher risk of waterborne diseases and infections due to their fragile immune systems. Therefore, they should be exclusively breastfed for six months to minimize the risk of exposure to contaminated water sources and ensure optimal nutrition and protection against infections.
+Answer: B
+------------------------
+6. ------------------------
+Reasoning: Government involvement plays a crucial role in setting regulations, allocating funds, and implementing programs that can drive impactful change within a community.
+Answer: A
+------------------------
+7. ------------------------
+Reasoning: Contingency management involves providing rewards or incentives for desired behaviors, such as abstinence from drugs, which aligns with the concept of paying drug users for negative urine specimens.
+Answer: B
+------------------------
+8. ------------------------
+Reasoning: Astroviruses primarily affect the gastrointestinal system, leading to symptoms such as diarrhea, vomiting, and abdominal pain. These symptoms are more prevalent in children infected with astroviruses compared to adults.
+Answer: B
+------------------------
+9. ------------------------
+Reasoning: The most special characteristic of the adaptive immune system is its ability to generate immunological memory, allowing for a faster and more effective response upon re-exposure to specific pathogens.
+Answer: C
+------------------------
+10. ------------------------
+Reasoning: Chemotherapy regimens typically include a combination of drugs targeting specific types of cancer cells with minimal side effects to improve outcomes and reduce resistance.
+Answer: C
+------------------------
+11. ------------------------
+Reasoning: The statement about no new cases of Ebola virus in the United States from January 1, 1997 through January 1, 1998 fits the definition of descriptive epidemiology as it provides information about the absence of new cases within a specific time period, which is crucial for understanding disease occurrence in a population.
+Answer: D
+------------------------
+12. ------------------------
+Reasoning: Considering the historical timeline of key scientific discoveries leading to the identification of retroviruses, the involvement of Howard Temin and David Baltimore in the discovery of retroviruses in humans, and the importance of understanding the sequence of events in the discovery process, the correct answer is A. In chickens as Rous sarcoma.
+Answer: A
+------------------------
+13. ------------------------
+Reasoning: Most surveillance systems use cohort study designs to track individuals over time and observe trends and patterns in data.
+Answer: A
+------------------------
+14. ------------------------
+Reasoning: Comprehensive vaccination programs, global coordination efforts, and surveillance systems are key components in the successful eradication of polio.
+Answer: D
+------------------------
+15. ------------------------
+Reasoning: Public health ethics is focused on promoting the health and well-being of the population as a whole, prioritizing prevention and intervention strategies, considering social determinants of health, and balancing individual rights with the common good.
+Answer: B
+------------------------
+16. ------------------------
+Reasoning: Based on the information provided, the most accurate estimate for the number of people globally infected with hepatitis B is 350 million.
+Answer: A
+------------------------
+17. ------------------------
+Reasoning: The study design described in the question involves observing a group of people exposed to an environmental toxin over time without any intervention or treatment, which aligns with the characteristics of a prospective cohort study.
+Answer: D
+------------------------
+18. ------------------------
+Reasoning: Polyomaviruses are known to predominantly cause kidney infections, which aligns with their pathogenic properties targeting the urinary tract and causing diseases such as nephropathy.
+Answer: D
+------------------------
+19. ------------------------
+Reasoning: The correct answer should involve the coordination and interaction of B cells, T cells, and antigen-presenting cells in stimulating antibody production. B cells are responsible for producing antibodies, T cells help activate B cells, and antigen-presenting cells present antigens to initiate the immune response. 
+Answer: B
+------------------------
+20. ------------------------
+Reasoning: The commitment of the participants is crucial for the success of the Multicenter AIDS Cohort (MACS) study as the quality and diversity of participants selected play a significant role in the study's outcomes.
+Answer: C
+------------------------
+21. ------------------------
+Reasoning: Picornavirus replication involves the virion RNA acting as mRNA, which is then directly translated into a single large polyprotein within the host cell, leading to rapid replication and high mutation rates.
+Answer: C
+------------------------
+22. ------------------------
+Reasoning: Recent advancements in technology, such as deep sequencing, have allowed for the identification of the astrovirus genome, leading to their recent recognition as significant enteric viruses for humans.
+Answer: A
+------------------------
+23. ------------------------
+Reasoning: HIV was first identified through laboratory testing rather than clinical observation due to the need for specialized tests to detect the virus accurately.
+Answer: A
+------------------------
+24. ------------------------
+Reasoning: The U.S. health care system is often criticized for its high costs and inefficiencies compared to other countries, so the particular quality would be its ability to provide cost-effective care while maintaining quality standards.
+Answer: A
+------------------------
+25. ------------------------
+Reasoning: The three key intervention strategies according to Professor Shoptaw are likely to be evidence-based and specific, focusing on effective approaches in the field of substance abuse interventions.
+Answer: A
+------------------------
+26. ------------------------
+Reasoning: Vaccination campaigns, herd immunity, and surveillance systems are key components in controlling the spread of measles. The MMR vaccine is a crucial tool in preventing measles outbreaks by increasing immunity in the population, creating herd immunity, and allowing for early detection of cases through surveillance systems.
+Answer: B
+------------------------
+27. ------------------------
+Reasoning: Comprehensive public health measures, including surveillance, quarantine, and contact tracing, as well as education and awareness campaigns targeting at-risk populations have been proven effective in containing outbreaks and preventing further transmission of filoviruses.
+Answer: C
+------------------------
+28. ------------------------
+Reasoning: Based on historical origins of past pandemics caused by influenza viruses from animals, the animal that is in close proximity to humans and has the ability to pass on the virus effectively is likely to be the source. Bats and wild birds are not typically in close contact with humans, and humans are not the source of the virus. Pigs, on the other hand, are in close proximity to humans and have been known to transmit influenza viruses effectively, making them a likely source of pandemics.
+Answer: A
+------------------------
+29. ------------------------
+Reasoning: PreP is an effective strategy for reducing the incidence of HIV in both women and drug users. Pregnant women can also benefit from PreP to prevent mother-to-child transmission of HIV. Therefore, the correct answer is D. a. and b. above.
+Answer: D
+------------------------
+30. ------------------------
+Reasoning: The replication of hepatitis B virus involves the conversion of relaxed circular viral DNA into covalently closed circular (CCC) DNA in the nucleus, which is a crucial stage in the replication process.
+Answer: B
+------------------------
+31. ------------------------
+Reasoning: The papilloma family of viruses causes cancer by replicating in dividing cells and encoding three oncogenic proteins E5, E6, and E7, which disrupt normal cellular processes and lead to uncontrolled cell growth and tumor formation.
+Answer: A
+------------------------
+32. ------------------------
+Reasoning: Noroviruses typically cause gastrointestinal symptoms such as vomiting, diarrhea, and stomach cramps.
+Answer: C
+------------------------
+33. ------------------------
+Reasoning: When considering the information provided, deep nucleotide sequencing (NGS) being cheap enough for general application but needing to ensure accuracy and reliability of results, the main usefulness of the technique would be in identifying genetic variation. This is crucial for various fields such as healthcare, research, and diagnostics, where accurate genetic information is essential.
+Answer: B
+------------------------
+34. ------------------------
+Reasoning: The viral RNA level of the infected person directly impacts the likelihood of acquiring an HIV infection, making option A the correct choice.
+Answer: A
+------------------------
+35. ------------------------
+Reasoning: Next generation sequencing (NGS) technology is versatile, high-throughput, and cost-effective, making it ideal for various industries with large-scale sequencing needs.
+Answer: D
+------------------------
+36. ------------------------
+Reasoning: HPV types 16 and 18 are the most common and responsible for the majority of cervical cancer cases, along with other high-risk types like 31, 33, 45, 52, and 58. 
+Answer: B
+------------------------
+37. ------------------------
+Reasoning: The parainfluenza virus is the most common paramyxovirus known to cause croup, making it the likely culprit for serious cases of this condition.
+Answer: B
+------------------------
+38. ------------------------
+Reasoning: Stigma attached to the disease, machismo, and drug abuse are all cultural barriers that contribute to fear, shame, and discrimination surrounding HIV testing among the Latino population. These factors can create delays in seeking testing and treatment.
+Answer: D
+------------------------
+39. ------------------------
+Reasoning: Togaviruses are known to have an enveloped spherical structure with an icosahedral symmetry, which includes spike glycoproteins.
+Answer: A
+------------------------
+40. ------------------------
+Reasoning: A good surveillance system should provide information about who is being infected, where the infected individuals are, and how rapidly infection is spreading to ensure comprehensive coverage, real-time monitoring, and effective response to incidents.
+Answer: D
+------------------------
+41. ------------------------
+Reasoning: Lack of access to vaccines in remote or conflict-affected areas can hinder successful vaccination campaigns, allowing the poliovirus to persist and spread.
+Answer: A
+------------------------
+42. ------------------------
+Reasoning: The exception from the diseases caused by the family should be one that does not commonly exhibit similar symptoms or transmission patterns as the others. Among the options provided, "Serious pneumonia" stands out as it does not align with the typical characteristics of diseases caused by the family in question.
+Answer: D
+------------------------
+43. ------------------------
+Reasoning: Acyclovir is known to inhibit herpes simplex virus type 1 (HSV-1) and herpes simplex virus type 2 (HSV-2) by targeting their DNA polymerase enzyme, preventing viral replication and spread.
+Answer: B
+------------------------
+44. ------------------------
+Reasoning: Considering the factors of high rates of drug use, limited access to healthcare and harm reduction services, high rates of poverty and inequality, the countries with the most drug injectors are likely to be Afghanistan, Iraq, and Myanmar.
+Answer: C
+------------------------
+45. ------------------------
+Reasoning: The control group should consist of children not exposed to the chemical waste from the nearby factory to allow for a direct comparison of the effects of the chemicals on leukemia incidence.
+Answer: B
+------------------------
+46. ------------------------
+Reasoning: Both Lassa and Ebola viruses are believed to have originated from animals, specifically rodents for Lassa virus and bats for Ebola virus. Therefore, the correct answer is the animal reservoirs, which are fruit bats in this case.
+Answer: C
+------------------------
+47. ------------------------
+Reasoning: Antivirals used prophylactically aim to prevent viral infections before they occur, so the correct answer should be the option that allows for early administration to prevent the onset of infection. Option B, if used within 48 hours of first clinical signs, aligns with this characteristic.
+Answer: B
+------------------------
+48. ------------------------
+Reasoning: Papillomaviruses are primarily transmitted through direct skin-to-skin contact or sexual contact, entering through microabrasions in the skin or mucous membranes, and increasing the risk with behaviors like multiple sexual partners. 
+Answer: C
+------------------------
+49. ------------------------
+Reasoning: The serotype of adenovirus that causes severe respiratory infections, such as pneumonia or bronchitis, and has a higher mortality rate would have the most important clinical impact due to the significant impact on public health and the need for immediate medical attention.
+Answer: C
+------------------------
+50. ------------------------
+Reasoning: Detailed genetic sequencing and analysis are crucial in understanding the genetic makeup of new polyomaviruses, which is essential for identifying new strains and studying their potential impact on human health.
+Answer: C
+------------------------
+51. ------------------------
+Reasoning: The YF vaccine is a live attenuated virus vaccine produced by direct mutation of the virus genome, which stimulates the immune system to produce antibodies and provides long-lasting immunity against yellow fever.
+Answer: C
+------------------------
+52. ------------------------
+Reasoning: The biggest risk factor for infection with Ebola is being in close proximity to regions where Ebola outbreaks have occurred in the past or are currently ongoing, as the virus is primarily transmitted through direct contact with bodily fluids of infected individuals. Attending a funeral of a victim outside increases the risk of exposure to these fluids, making it the correct answer.
+Answer: B
+------------------------
+53. ------------------------
+Reasoning: Targeted vaccination programs, strict hygiene protocols, and regular monitoring of symptoms are effective measures in preventing the spread of the influenza virus in high-risk sectors.
+Answer: B
+------------------------
+54. ------------------------
+Reasoning: The scenario described indicates the presence of an interaction effect between smoking and alcohol consumption on the risk of developing lung cancer, as the association between alcohol consumption and lung cancer disappears when the study subjects are divided into smokers and non-smokers. This highlights the importance of considering interaction effects in epidemiological research.
+Answer: B
+------------------------
+55. ------------------------
+Reasoning: Arenaviruses are primarily spread through direct contact with infected rodents or their droppings, making option C, aerosols of urine from infected small mammals, the most likely mode of transmission.
+Answer: C
+------------------------
+56. ------------------------
+Reasoning: The correct answer should be D as island nations, UK, NZ, and Australia have successfully implemented strict vaccination programs, comprehensive surveillance systems, and effective control measures to eradicate rabies and maintain a rabies-free status.
+Answer: D
+------------------------
+57. ------------------------
+Reasoning: The risk of perinatal transmission of HIV-1 infection during breastfeeding is increased due to mixed feeding and very early introduction of solids, both of which can lead to higher chances of HIV-1 transmission from mother to child through breast milk.
+Answer: C
+------------------------
+58. ------------------------
+Reasoning: The development of vaccines and antiviral drugs has been shown to effectively reduce the spread and impact of parvovirus infections.
+Answer: B
+------------------------
+59. ------------------------
+Reasoning: The discovery of the first virus required a deep understanding of microbiology and the ability to differentiate viruses from other pathogens, which aligns with the characteristics of a virologist like Jonas Salk.
+Answer: D
+------------------------
+60. ------------------------
+Reasoning: Structural interventions typically target policies, the environment, and availability to address underlying social, economic, and environmental factors that contribute to health disparities, making D. All of the above the correct answer.
+Answer: D
+------------------------
+61. ------------------------
+Reasoning: The main clinical picture of hepatitis A typically includes jaundice, abdominal discomfort, fatigue, loss of appetite, nausea, and sometimes vomiting, which are all related to liver dysfunction caused by the viral infection.
+Answer: C
+------------------------
+62. ------------------------
+Reasoning: The human norovirus cannot be cultured in cell cultures, so alternative methods such as animal models, volunteer studies, and replicon systems are essential for studying the virus.
+Answer: A
+------------------------
+63. ------------------------
+Reasoning: The correct answer should be related to biases in study design, such as selection bias, information bias, or confounding, which can result in a mistaken estimate of an exposure's effect on the risk of disease.
+Answer: B
+------------------------
+64. ------------------------
+Reasoning: The coronavirus structure is characterized by club-shaped glycoprotein spikes protruding through a lipid bilayer, which is crucial for understanding its molecular components and developing targeted treatments and vaccines.
+Answer: A
+------------------------
+65. ------------------------
+Reasoning: Zoonotic viruses are those that originate in animals and can be transmitted to humans. SARS is described as a zoonotic virus because it can jump from animals to humans, highlighting the importance of understanding the transmission of diseases between animals and humans.
+Answer: C
+------------------------
+66. ------------------------
+Reasoning: The coronavirus that has caused thousands of deaths around the world as an 'emergent' virus is likely to have high transmission rate, severe symptoms, and significant impact on human health. Among the options provided, MERS (Middle East Respiratory Syndrome) and SARS (Severe Acute Respiratory Syndrome) fit these criteria, but SARS is the correct answer as it has caused thousands of deaths globally as an emergent virus.
+Answer: B
+------------------------
+67. ------------------------
+Reasoning: Clinical infection by an arenavirus is characterized by flu-like symptoms such as fever, muscle aches, and fatigue, as well as more severe symptoms like hemorrhagic fever and neurological symptoms. Therefore, the correct answer is not B. Signs of malaria or C. Short (2-3 days) incubation. Hepatitis is not a common characteristic of arenavirus infections. The closest match is A. Pantropic infection, which aligns with the symptoms associated with arenavirus infections.
+Answer: A
+------------------------
+68. ------------------------
+Reasoning: Understanding the specific mechanisms by which the rubella virus crosses the placenta and infects the developing fetus is crucial in preventing and treating rubella-associated fetal abnormalities.
+Answer: A
+------------------------
+69. ------------------------
+Reasoning: The RNAs all terminate in a common 3´ and produce nested set transcripts is an unusual feature of the replication cycle in coronaviruses, setting them apart from other viruses.
+Answer: A
+------------------------
+70. ------------------------
+Reasoning: The correct answer should be D, replicates in the nucleus, as this replication strategy is paralleled by some other viruses. Viruses often evolve similar strategies for replication in order to efficiently infect host cells and reproduce, making replication in the nucleus a common strategy among certain viruses.
+Answer: D
+------------------------
+71. ------------------------
+Reasoning: A generalized epidemic is characterized by high rates in a large population, multiple sources of infection, and potential for exponential growth. Among the given options, high rates in STD clinic attendees align with these characteristics as it indicates widespread transmission across a large population and multiple sources of infection.
+Answer: D
+------------------------
+72. ------------------------
+Reasoning: The updated version of classification shows the parvovirus family as having two genera based on genetic and structural differences observed between them.
+Answer: A
+------------------------
+73. ------------------------
+Reasoning: Based on the information provided, the correct answer should be determined by the population size of the Latino community in the U.S. Therefore, the largest Latino community in the U.S. is most likely the Mexican community due to its significant population size.
+Answer: B
+------------------------
+74. ------------------------
+Reasoning: Vaccination programs, high vaccine coverage rates, and proven efficacy in preventing astrovirus infections have been effective in controlling epidemics of astrovirus.
+Answer: A
+------------------------
+75. ------------------------
+Reasoning: The study design involves following a specific group of women over a 5-year period, comparing the development of colorectal cancer between vegetarians and non-vegetarians, and ensuring accurate reporting of meat consumption. This indicates a cohort study design.
+Answer: B
+------------------------
+76. ------------------------
+Reasoning: Based on the factors contributing to the risk of HIV transmission from an infected mother to her fetus/infant, the area with limited access to healthcare, high prevalence of HIV, lack of prenatal care services, and poor maternal health education is Africa, making it the highest risk area for transmission.
+Answer: A
+------------------------
+77. ------------------------
+Reasoning: Mutation of the RNA genome at only a few positions can lead to genetic mutations that enhance viral replication or evasion of host immune response, potentially increasing virulence.
+Answer: A
+------------------------
+78. ------------------------
+Reasoning: The characteristics of a virus like influenza that emerges suddenly and spreads globally include the ability to mutate rapidly and high transmissibility, allowing it to adapt quickly to new environments and spread easily among populations.
+Answer: C
+------------------------
+79. ------------------------
+Reasoning: Factors such as temperature, humidity, and air quality directly impact the survival and transmission of viruses, making environmental conditions crucial for virus spread and infection.
+Answer: D
+------------------------
+80. ------------------------
+Reasoning: Calcivirus family viruses interact with host cells to replicate their RNA genome and produce viral proteins using the host cell's machinery, leading to the assembly of new virus particles within the host cell.
+Answer: B
+------------------------
+81. ------------------------
+Reasoning: Parvoviruses are known to have a single-stranded DNA genome, which sets them apart from other viruses.
+Answer: B
+------------------------
+82. ------------------------
+Reasoning: Filoviruses are known for their long, filamentous shape with a lipid envelope and surface glycoproteins, making them distinct from other viruses.
+Answer: B
+------------------------
+83. ------------------------
+Reasoning: In the context of a cell's function and processes, knowledge is transferred from DNA to RNA to proteins, which is essential for the cell to carry out its functions effectively.
+Answer: C
+------------------------
+84. ------------------------
+Reasoning: Using multiple drugs with different mechanisms of action can target the virus at multiple points in its life cycle, reducing the likelihood of resistance development and improving treatment outcomes.
+Answer: A
+------------------------
+85. ------------------------
+Reasoning: An overactive immune response can lead to tissue damage and inflammation, contributing to immune pathology during virus infections.
+Answer: A
+------------------------
+86. ------------------------
+Reasoning: David Baltimore is well-known for his work on retroviruses and his discovery of reverse transcriptase was a significant contribution to the field of molecular biology.
+Answer: C
+------------------------
+87. ------------------------
+Reasoning: The most commonly used diagnostic technique in virus laboratories should be non-invasive, cost-effective, and have high sensitivity and specificity for efficient and accurate diagnosis of viral infections.
+Answer: C
+------------------------
+88. ------------------------
+Reasoning: The major risk group for HIV infection among Latinos is men who have sex with men due to the stigma and discrimination faced by this group within the Latino community, which may prevent them from accessing proper healthcare and prevention services.
+Answer: B
+------------------------
+89. ------------------------
+Reasoning: Starting antiretroviral therapy early in HIV-associated tuberculosis cases can help strengthen the immune system, leading to better control of both infections, improved treatment outcomes, reduced risk of disease progression, and overall better prognosis for the patient.
+Answer: C
+------------------------
+90. ------------------------
+Reasoning: Research can lead to a wide range of benefits such as new knowledge, advancements in technology, improved quality of life, economic growth, and societal progress, which can accrue to the participant, his/her family, and society. 
+Answer: D
+------------------------
+91. ------------------------
+Reasoning: The current best option for preventing future outbreaks of Ebola should focus on early detection, isolation of cases, safe burial practices, contact tracing, monitoring, and vaccination of healthcare workers. These strategies have been proven effective in containing Ebola outbreaks in the past.
+Answer: B
+------------------------
+92. ------------------------
+Reasoning: Based on the information provided, arenaviruses are predominantly located in regions with high rodent populations and are associated with hemorrhagic fevers. This suggests that the correct answer is C. Africa and S. America.
+Answer: C
+------------------------
+93. ------------------------
+Reasoning: The most important element of ethical research on human subjects is ensuring that participants provide informed consent, which is crucial for respecting their autonomy, understanding risks and benefits, and allowing them to voluntarily participate in the study.
+Answer: D
+------------------------
+94. ------------------------
+Reasoning: Considering the demographic profile of injecting drug users in Asia, which includes diverse age range, predominantly male, and varying ethnic backgrounds, the characteristic of strong family support (option A) and remaining a member of the community (option C) are more likely to be accurate. Therefore, the correct answer is D, both A and C.
+Answer: D
+------------------------
+95. ------------------------
+Reasoning: Viruses have led to an increased emphasis on prevention, preparedness, and collaboration among countries, highlighting the importance of early detection, rapid response, and international cooperation in addressing global health threats.
+Answer: C
+------------------------
+96. ------------------------
+Reasoning: The most important factor for virus classification is the genetic material, genome structure, and genetic relatedness of the virus. These factors play a crucial role in determining the evolutionary relationships between different viruses, helping scientists classify them into different groups based on their similarities and differences at the genetic level.
+Answer: D
+------------------------
+97. ------------------------
+Reasoning: The major issue for HIV infection among the Latino population is influenced by late detection of HIV status, cultural beliefs, immigration, poverty, lack of access to healthcare, language barriers, and stigma associated with HIV. All of these factors contribute to the higher rates of HIV infection among Latinos.
+Answer: D
+------------------------
+98. ------------------------
+Reasoning: Vaccines help build immunity against specific diseases, good hygiene practices prevent the transmission of pathogens, and public health interventions help control the spread of infectious diseases.
+Answer: A
+------------------------
+99. ------------------------
+Reasoning: Tailored distribution of surveillance results to decision makers, the public, and data collectors based on their specific information needs is crucial for effective utilization of the data and improved public health outcomes.
+Answer: D
+------------------------
+100. ------------------------
+Reasoning: Bunyaviruses typically present with flu-like symptoms, fever, headache, muscle aches, and fatigue. 
+Answer: B
+------------------------
+101. ------------------------
+Reasoning: Long-term survivors are the group that permits analysis of the entire natural history of HIV/AIDS as they provide insights into the different stages of HIV infection, progression to AIDS, potential complications, and variations in disease progression among different populations. 
+Answer: B
+------------------------
+102. ------------------------
+Reasoning: The screening procedures for HIV in factor VIII products were highly advanced and reliable in the United States in 2011, effectively eliminating the risk of HIV transmission through factor VIII.
+Answer: A
+------------------------
+103. ------------------------
+Reasoning: When considering the prevalence of HIV among Latino-Americans compared to other ethnic groups in the U.S., the most accurate answer is that it is higher than in all other ethnic groups except African-Americans. This is supported by statistical data and research highlighting the increased prevalence of HIV within the Latino-American community.
+Answer: C
+------------------------
+104. ------------------------
+Reasoning: Rubella syndrome is a condition caused by the rubella virus, leading to birth defects in the fetus when the mother is infected during pregnancy. The correct answer that aligns with this information is B, as it describes the teratogenic lesions of cataracts, deafness, mental retardation, and microcephaly in the fetus.
+Answer: B
+------------------------
+105. ------------------------
+Reasoning: The most common way for a virus to kill a cell is by inducing apoptosis via caspases, which is a programmed cell death process often manipulated by viruses to facilitate their replication and spread within the host cell.
+Answer: B
+------------------------
+106. ------------------------
+Reasoning: The correct answer should involve genetic reassortment amongst 8 genes, as this characteristic contributes to the complexity of the influenza virus by allowing for the creation of new strains through the mixing of genetic material from different subtypes.
+Answer: A
+------------------------
+107. ------------------------
+Reasoning: Based on the information provided, the area with the highest risk of HIV infection among drug users in the U.S. would likely be the central United States (Kansas, Missouri etc.) due to factors such as high population density, lack of access to healthcare services, and high prevalence of needle sharing, which increase the risk of HIV transmission among drug users.
+Answer: B
+------------------------
+108. ------------------------
+Reasoning: The type of bias present in this study is observer knowledge bias, where the awareness of the patient's race by the first group of pathologists may lead to unconscious biases or preconceived notions influencing their interpretation of the biopsy results.
+Answer: C
+------------------------
+109. ------------------------
+Reasoning: Urban yellow fever (YF) is primarily transmitted by the Aedes aegypti mosquito in densely populated urban areas, making option A the correct choice as it aligns with the key indicators of symptoms and transmission methods associated with urban yellow fever.
+Answer: A
+------------------------
+110. ------------------------
+Reasoning: The current testing policy of the Centers for Disease Control and the World Health Organization should have clear guidelines for testing criteria and widespread availability, which align with the characteristics mentioned in the information provided.
+Answer: B
+------------------------
+111. ------------------------
+Reasoning: Common cold viruses primarily target the respiratory system and are transmitted through respiratory droplets, making the respiratory and surface route the most likely route of invasion.
+Answer: B
+------------------------
+112. ------------------------
+Reasoning: The correct answer should involve the packaging of viral genetic material into a protein coat and the formation of mature virions, which are essential for the production of infectious viral particles during the assembly stage of virus replication.
+Answer: C
+------------------------
+113. ------------------------
+Reasoning: Mother’s viral load is a crucial factor in determining the risk of HIV transmission to the infant, as a high viral load increases the likelihood of transmission during childbirth.
+Answer: B
+------------------------
+114. ------------------------
+Reasoning: The reproductive number of a virus tells us how many contacts will be infected from one case, representing the average number of people who will catch the virus from one infected person in a population that is not immune.
+Answer: C
+------------------------
+115. ------------------------
+Reasoning: PreP is most effective for individuals who are at high risk of contracting HIV, such as men who have sex with men, people who inject drugs, or individuals in serodiscordant relationships. Therefore, the correct answer would be men with frequent unprotected sex.
+Answer: A
+------------------------
+116. ------------------------
+Reasoning: Adaptive immunity is characterized by specificity and memory, allowing it to distinguish between self and non-self and provide long-lasting protection.
+Answer: B
+------------------------
+117. ------------------------
+Reasoning: Considering the wide range of diseases caused by viruses, including respiratory illnesses like the flu and COVID-19, as well as other infections like hepatitis and HIV, it is evident that members of many families can cause the same sort of disease.
+Answer: B
+------------------------
+118. ------------------------
+Reasoning: Hepatitis is the exception in the range of disease symptoms caused by bunyaviruses as it is not typically associated with bunyavirus infections, unlike pneumonias, haemorrhagic fever, and impaired renal function which are commonly seen in patients infected with bunyaviruses.
+Answer: C
+------------------------
+119. ------------------------
+Reasoning: The virus's ability to mutate rapidly and evade the immune system makes it difficult to develop a vaccine that can provide long-lasting protection.
+Answer: A
+------------------------
+120. ------------------------
+Reasoning: The requirements for an effective surveillance system include comprehensive data collection, real-time monitoring capabilities, data analysis tools, and secure data storage. These components are crucial for ensuring the system's effectiveness.
+Answer: D
+------------------------
+121. ------------------------
+Reasoning: The exception among the four special characteristics of MERS is the spread by faecal oral route, as MERS is primarily transmitted through respiratory droplets and not through the faecal-oral route like some other diseases. This deviation makes it unique compared to the other characteristics.
+Answer: A
+------------------------
+122. ------------------------
+Reasoning: Medicaid primarily serves low-income individuals and families, who are more likely to be younger and in need of assistance due to lack of resources or employment opportunities.
+Answer: C
+------------------------
+123. ------------------------
+Reasoning: Proper hand hygiene, attention to handwashing, and hygiene are crucial in preventing the spread of norovirus as it is primarily transmitted through contaminated hands. Disinfection of surfaces and isolation of infected individuals are also important measures to control the transmission of the virus.
+Answer: B
+------------------------
+124. ------------------------
+Reasoning: The upregulation of inhibitory receptors such as PD-1 and CTLA-4 on CD8 cells leads to T cell exhaustion, which hinders their ability to effectively target and eliminate the virus, explaining why vigorous CD8 cell responses fail to eliminate the virus in chronically infected HIV-positive individuals.
+Answer: A
+------------------------
+125. ------------------------
+Reasoning: HIV-1 is not limited to infecting only gay people, males, or females. It has a high transmission rate, ability to evade the immune system, and is present in every country in the world, making it the most widespread retrovirus.
+Answer: C
+------------------------
+126. ------------------------
+Reasoning: CD4+ cells are known to be one of the first responders to viral infections and play a crucial role in initiating the immune response against HIV by presenting viral antigens to other immune cells and activating them to mount a defense.
+Answer: A
+------------------------
+127. ------------------------
+Reasoning: The rabies vaccine is effective in preventing rabies infection by containing inactivated rabies virus, which stimulates the immune system to produce antibodies against the virus.
+Answer: B
+------------------------
+128. ------------------------
+Reasoning: Most viral vaccines are produced using weakened or inactivated viruses to allow the immune system to recognize and remember the virus without causing the disease, leading to immunity.
+Answer: A
+------------------------
+129. ------------------------
+Reasoning: Direct-acting antivirals such as daclatasvir and sofosbuvir have significantly improved cure rates and reduced treatment duration for hepatitis C patients, making them the most recent revolution in treatment.
+Answer: D
+------------------------
+130. ------------------------
+Reasoning: Air travel facilitates the movement of infected individuals and potentially infected mosquitoes across borders, allowing the virus to spread to new regions like the Caribbean.
+Answer: B
+------------------------
+131. ------------------------
+Reasoning: The successful anti-cancer HPV vaccine consists of virus-like particles (VLPs) derived from the major capsid protein L1 of HPV types 16 and 18. This indicates that the correct answer should involve the self-assembly of virus L1 protein into VLPs, which is option C.
+Answer: C
+------------------------
+132. ------------------------
+Reasoning: Rotavirus is known to cause gastroenteritis in children, leading to symptoms such as diarrhea, vomiting, fever, and dehydration. 
+Answer: B
+------------------------
+133. ------------------------
+Reasoning: The surveillance testing strategy associated with the least selection bias is one that involves random selection of individuals for testing, ensuring a representative sample of the population being tested. This approach helps minimize selection bias by giving all individuals an equal chance of being selected for testing, leading to more accurate results.
+Answer: B
+------------------------
+134. ------------------------
+Reasoning: The median is the least biased estimator of central tendency in this scenario as it is less affected by extreme values or outliers compared to the mean and mode. Since three students took the exam 1 week later, potentially introducing outliers, the median would provide a more accurate representation of central tendency.
+Answer: B
+------------------------
+135. ------------------------
+Reasoning: Herpes viruses, such as HSV-1 and HSV-2, are known to cause diseases in humans, so the correct answer should be a disease that is not caused by any known strains or variants of herpes viruses. 
+Answer: A
+------------------------
+136. ------------------------
+Reasoning: The purpose of a double-blind or double-masked study is to ensure that both the participants and the researchers involved in the study are unaware of who is receiving the treatment or placebo, in order to eliminate bias and ensure more objective results.
+Answer: C
+------------------------
+137. ------------------------
+Reasoning: Nipah virus is known to be naturally hosted by fruit bats in the Pteropodidae family, making them the primary reservoir for the virus.
+Answer: B
+------------------------
+138. ------------------------
+Reasoning: The genome structure of the polyomavirus family is characterized by circular double-stranded DNA with specific coding regions for T antigens, which play a crucial role in viral replication and pathogenicity.
+Answer: A
+------------------------
+139. ------------------------
+Reasoning: Interferons operate by binding to neighbouring cells and activating specific signaling pathways within the cell that lead to the upregulation of antiviral genes, ultimately resulting in the expression of antiviral proteins that help defend against viral infections.
+Answer: B
+------------------------
+140. ------------------------
+Reasoning: Bunyaviruses are characterized by having a genome consisting of three segments of negative-sense single-stranded RNA, making option A the correct choice.
+Answer: A
+------------------------
+141. ------------------------
+Reasoning: The Belmont Report is the correct answer as it was a significant milestone in the development of ethical research guidelines, laying the foundation for the principles of respect for persons, beneficence, and justice in research.
+Answer: D
+------------------------
+142. ------------------------
+Reasoning: The paramyxovirus family typically employs a fusion 'from without' strategy using the virus F protein to facilitate virus entry into host cells by interacting with specific host cell receptors.
+Answer: A
+------------------------
+143. ------------------------
+Reasoning: The risk of acquiring HIV from a unit of blood in the United States is now very low due to stringent screening and testing protocols in place for donated blood.
+Answer: B
+------------------------
+144. ------------------------
+Reasoning: Astroviruses primarily infect the gastrointestinal tract leading to gastrointestinal symptoms such as diarrhea, vomiting, and abdominal pain.
+Answer: A
+------------------------
+145. ------------------------
+Reasoning: The correct answer should encompass preventing infection, preventing disease, and preventing transmission, which are all key goals of vaccination from various perspectives such as targeting specific pathogens, promoting immunity in a large population, eradicating diseases globally, and tailoring goals based on age groups and risk factors.
+Answer: D
+------------------------
+146. ------------------------
+Reasoning: Randomization of study subjects in a clinical trial is most helpful for controlling for bias, minimizing the influence of potential confounders, ensuring a representative sample, and increasing statistical significance. It helps in reducing selection bias, allocation bias, and ensures equal distribution of confounding variables among treatment groups. Therefore, the correct answer is A. Placebo effect.
+Answer: A
+------------------------
+147. ------------------------
+Reasoning: Quasi species viruses like influenza and HIV are known for their high mutation rates and genetic variability, allowing them to rapidly evolve and adapt to their environment. This genetic diversity helps them evade host immune responses and antiviral treatments.
+Answer: B
+------------------------
+148. ------------------------
+Reasoning: Positive stranded RNA viruses can directly translate their genome RNA into mRNA, allowing for rapid replication and evasion of host immune responses.
+Answer: A
+------------------------
+149. ------------------------
+Reasoning: The genetic structure of rotavirus consists of double-stranded RNA in segments encoding for various proteins crucial for replication and pathogenesis, allowing for genetic reassortment and diversity.
+Answer: D
+------------------------
+150. ------------------------
+Reasoning: Viruses are not considered living organisms and require a host cell to replicate, making them distinct from bacteria. 
+Answer: B
+------------------------
+151. ------------------------
+Reasoning: Even in combination current drugs do not completely block viral replication, leading to the potential for drug resistance to develop over time due to the high mutation rate of the HIV virus.
+Answer: A
+------------------------
+152. ------------------------
+Reasoning: Hypermutable viruses are known for their high mutation rate and error-prone replication mechanisms, which are characteristics of RNA viruses.
+Answer: D
+------------------------
+153. ------------------------
+Reasoning: From the information provided, the correct answer for controlling herpes infections involves methods such as practicing safe sex, avoiding contact with infected individuals, using antiviral medications, and topical creams. These methods are known to reduce the risk of infection, manage symptoms, and establish long-term immunity against the virus.
+Answer: B
+------------------------
+154. ------------------------
+Reasoning: Random assignment of patients to treatment groups, blinding of patients and healthcare providers, and objective outcome measures are essential in studying drug efficacy, which aligns with the characteristics described in the perspective of randomized controlled trial design.
+Answer: C
+------------------------
+155. ------------------------
+Reasoning: The most successful and widely used travel vaccine for international visitors should be effective in preventing common travel-related diseases, widely available, accessible, cost-effective, and have minimal side effects. Yellow Fever vaccine fits all these criteria, making it the most suitable option.
+Answer: C
+------------------------
+156. ------------------------
+Reasoning: A virus pandemic is defined by its rapid spread across multiple countries or continents, significant impact on public health, and lasting for an extended period of time. The option that best fits these characteristics is "A. A sharp and rapid epidemic involving more than one country."
+Answer: A
+------------------------
+157. ------------------------
+Reasoning: Opioid replacement therapy is effective in reducing drug use and frequency of injection drug use, which are key factors in preventing HIV transmission. Therefore, the correct answer is D, as it includes both reducing craving for and use of illicit opioids and reducing frequency of injection drug use.
+Answer: D
+------------------------
+158. ------------------------
+Reasoning: Papilloma viruses are known to have a double-stranded DNA genome, which is a key genetic feature. This genetic makeup allows them to replicate and infect host cells in a specific manner.
+Answer: A
+------------------------
+159. ------------------------
+Reasoning: The relative risk estimates clearly show a trend of increasing risk of cardiovascular events as CRP levels increase across the quintiles. Higher CRP levels are associated with systemic inflammation, which is linked to a higher risk of cardiovascular events. 
+Answer: C
+------------------------
+160. ------------------------
+Reasoning: Based on the physical characteristics of Dane particles, they are typically small, spherical, and composed of a specific material, which aligns with the description of a double shelled icosahedron.
+Answer: A
+------------------------
+161. ------------------------
+Reasoning: The adenovirus virion has protein fibers extending from each vertex of the icosahedral capsid, which is a unique structural feature that aids in attachment to host cells.
+Answer: B
+------------------------
+162. ------------------------
+Reasoning: The mortality rate of the disease in the city's population of 250,000 cases can be calculated by dividing the number of deaths from the disease (400) by the total population affected by it (250,000) and multiplying by 100 to get a percentage. This gives us a mortality rate of 0.16%.
+Answer: A
+------------------------
+163. ------------------------
+Reasoning: The rabies virus is known for its unique bullet-shaped or rod-shaped structure when viewed under an electron microscope, which distinguishes it from other viruses.
+Answer: B
+------------------------
+164. ------------------------
+Reasoning: Rubella (German measles) does not match the symptoms typically associated with diseases caused by togaviruses, making it the correct answer.
+Answer: B
+------------------------
+165. ------------------------
+Reasoning: Astroviruses are named after their characteristic star-like appearance when viewed under an electron microscope.
+Answer: B
+------------------------
+166. ------------------------
+Reasoning: Factors contributing to the emergence of viruses like Zika and Ebola include environmental changes, increased global travel, and human encroachment into wildlife habitats, creating opportunities for viruses to jump from animals to humans.
+Answer: B
+------------------------

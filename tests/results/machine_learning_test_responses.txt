@@ -1,0 +1,435 @@
+1. ------------------------
+Reasoning: When considering the characteristics of linear regression estimators and the bias-variance trade-off, it is evident that the statement about linear regression estimator having the smallest variance among all unbiased estimators is true. Additionally, the statement about AdaBoost classifiers always having non-negative coefficients is false, as negative coefficients can be assigned based on the performance of weak classifiers.
+Answer: C
+------------------------
+2. ------------------------
+Reasoning: RoBERTa pretrains on a corpus that is approximate 10x larger than the corpus BERT pretrained on, leading to better performance in various natural language processing tasks. ResNeXts in 2018 did not usually use tanh activation functions, as they have moved towards more advanced activation functions like ReLU or Leaky ReLU.
+Answer: C
+------------------------
+3. ------------------------
+Reasoning: Support vector machines do not inherently provide a probability distribution over possible labels like logistic regression models do because they are primarily used for binary classification and do not directly output probabilities. The support vectors play a crucial role in defining the decision boundary and may change when transitioning from a linear kernel to higher order polynomial kernels to accommodate the increased complexity of the decision boundary.
+Answer: C
+------------------------
+4. ------------------------
+Reasoning: The total number of different examples in a machine learning problem with multiple attributes and classes can be calculated by multiplying the number of possible values for each attribute and the number of possible values for the class, and then raising the result to the power of the total number of attributes. In this case, the total number of examples would be 3 * 2 * 2 * 2 * 3 = 72.
+Answer: D
+------------------------
+5. ------------------------
+Reasoning: Convolutional networks have advanced feature extraction capabilities, efficient training on large datasets, and high accuracy rates, making them the best choice for classifying high-resolution images in 2020.
+Answer: A
+------------------------
+6. ------------------------
+Reasoning: The log-likelihood of the data will always increase through successive iterations of the expectation maximization algorithm, as it aims to maximize the likelihood of the observed data by iteratively updating the parameters to better fit the data.
+Answer: A
+------------------------
+7. ------------------------
+Reasoning: The cost of one gradient descent update is directly proportional to the magnitude of the gradient vector and the learning rate being used. This is because the update is calculated by subtracting the product of the learning rate and the gradient from the current parameter values.
+Answer: A
+------------------------
+8. Reasoning: Statement 1 correctly describes the properties of a continuous random variable and its probability distribution function, ensuring that probabilities fall between 0 and 1 for all possible values of x. However, Statement 2 is incorrect because decision trees are learned by maximizing, not minimizing, information gain.
+Answer: C. True, False
+9. ------------------------
+Reasoning: The number of independent parameters needed for each node's conditional probability distribution in this Bayesian network is 2 + 4 + 8 + 2 = 16.
+Answer: D
+------------------------
+10. ------------------------
+Reasoning: With an increasing number of training examples approaching infinity, the model will have better generalization ability and be less likely to overfit, leading to lower variance.
+Answer: A
+------------------------
+11. ------------------------
+Reasoning: The set of all rectangles in the 2D plane can shatter a set of 5 points, indicating a higher complexity of the classification problem. The VC-dimension of k-Nearest Neighbour classifier when k = 1 is infinite, allowing it to shatter any set of points in the 2D plane.
+Answer: C
+------------------------
+12. ------------------------
+Reasoning: When a model can neither accurately model the training data nor generalize to new data, it indicates that the model is not fitting well to the data and is unable to capture the underlying patterns effectively. This aligns with the concept of underfitting, where the model is too simple to represent the complexity of the data, resulting in poor performance on both training and new data.
+Answer: C
+------------------------
+13. ------------------------
+Reasoning: The F1 score is particularly useful for datasets with class imbalance as it combines precision and recall, making it a suitable metric for such scenarios. The area under the ROC curve is commonly used to assess anomaly detectors due to its ability to evaluate the trade-off between true positive rate and false positive rate.
+Answer: C
+------------------------
+14. ------------------------
+Reasoning: The back-propagation algorithm optimizes neural networks with hidden layers by iteratively adjusting weights to minimize error, making it globally optimal. The VC dimension of a line should be at most 2, as there exists at least one case of 3 points that cannot be shattered by any line.
+Answer: C
+------------------------
+15. ------------------------
+Reasoning: High entropy leads to more uncertainty and randomness in the data, making it harder for the model to accurately classify the data.
+Answer: B
+------------------------
+16. ------------------------
+Reasoning: Layer Normalization is used in the original ResNet paper, not Batch Normalization, due to its ability to normalize activations along the feature dimension rather than the batch dimension, which helps in training very deep neural networks more effectively.
+Answer: C
+------------------------
+17. ------------------------
+Reasoning: A high negative coefficient indicates a strong negative impact on the predicted outcome, suggesting that as the feature increases, the predicted outcome decreases significantly. Therefore, this feature has a strong effect on the model and should be retained.
+Answer: A
+------------------------
+18. Reasoning: The depth of the neural network architecture plays a crucial role in impacting the trade-off between underfitting and overfitting because it determines the complexity and capacity of the model to learn from the data.
+Answer: A
+19. ------------------------
+Reasoning: The degree of the polynomial is crucial in determining the trade-off between underfitting and overfitting in polynomial regression. A low degree may lead to underfitting, while a high degree may lead to overfitting. Therefore, the polynomial degree is the structural assumption that most affects this trade-off.
+Answer: A
+------------------------
+20. ------------------------
+Reasoning: Some models have achieved greater than 98% accuracy on CIFAR-10 as of 2020, indicating advancements in image classification technology.
+Answer: A
+------------------------
+21. ------------------------
+Reasoning: The K-means algorithm minimizes the within-class variance for a given number of clusters, making option C the correct choice.
+Answer: C
+------------------------
+22. ------------------------
+Reasoning: VGGNets have convolutional kernels of smaller width and height than AlexNet's first-layer kernels, allowing for more parameter sharing and deeper networks, leading to better performance in image recognition tasks. Data-dependent weight initialization procedures were introduced before Batch Normalization to improve training convergence and prevent vanishing/exploding gradients.
+Answer: C
+------------------------
+23. ------------------------
+Reasoning: The rank of the matrix A = [[1, 1, 1], [1, 1, 1], [1, 1, 1]] is 1 because all rows are linearly dependent on each other, resulting in only one linearly independent row/column.
+Answer: B
+------------------------
+24. ------------------------
+Reasoning: Density estimation with the kernel density estimator can be used for classification by estimating the probability density function of data points to assign new data points to the class with the highest probability density. The correspondence between logistic regression and Gaussian Naive Bayes with identity class covariances indicates a one-to-one correspondence between their parameters.
+Answer: C
+------------------------
+25. ------------------------
+Reasoning: When dealing with spatial data such as geometrical locations of houses, it is important to use a clustering algorithm that can handle clusters of different sizes and shapes. Some clustering algorithms, such as DBSCAN, are better at identifying clusters of varying densities and shapes, while others like K-means may struggle with irregularly shaped clusters. Therefore, the most appropriate method for producing clusters of many different sizes and shapes would be one that is known for its flexibility in handling spatial data with diverse cluster characteristics.
+Answer: B
+------------------------
+26. ------------------------
+Reasoning: The first statement is true as AdaBoost increases the weights of misclassified examples by the same multiplicative factor. The second statement is false as the weighted training error tends to decrease with each iteration in AdaBoost.
+Answer: C
+------------------------
+27. ------------------------
+Reasoning: MLE estimates are often undesirable because they can be biased due to the assumption of a specific distribution for the data, which may not always be accurate.
+Answer: A
+------------------------
+28. ------------------------
+Reasoning: The computational complexity of Gradient Descent is lower for variations like Stochastic Gradient Descent or Mini-batch Gradient Descent due to reduced calculations required.
+Answer: B
+------------------------
+29. ------------------------
+Reasoning: Averaging the output of multiple decision trees helps to reduce variance and increase generalization of the model, leading to a more robust and accurate prediction by smoothing out individual errors and capturing a more accurate representation of the underlying data patterns.
+Answer: D
+------------------------
+30. ------------------------
+Reasoning: The model obtained by applying linear regression on the identified subset of features may differ from the model obtained at the end of the process of identifying the subset during feature selection because the feature selection process can impact the final model by selecting different subsets of features that may have varying levels of importance or relevance to the target variable.
+Answer: D
+------------------------
+31. ------------------------
+Reasoning: Neural networks can use a mix of different activation functions to introduce non-linearity and model complex relationships in data, as well as have multiple layers for complex pattern recognition. This flexibility in activation functions and layering aligns with the capabilities of different types of neural networks like feedforward, convolutional, recurrent, and generative adversarial networks.
+Answer: C
+------------------------
+32. ------------------------
+Reasoning: The probability of testing positive given that a patient has disease D is 0.99, which is very high due to the accuracy of the tests. Therefore, the prior probability of testing positive (P(TP)) will be influenced by this high probability.
+Answer: A. 0.0368
+------------------------
+33. ------------------------
+Reasoning: The correct answer should state that after mapping data into feature space Q through a radial basis kernel function, 1-NN using unweighted Euclidean distance may achieve better classification performance due to the non-linear transformation of the data. Additionally, the VC dimension of a Perceptron is smaller than the VC dimension of a simple linear SVM.
+Answer: C
+------------------------
+34. ------------------------
+Reasoning: Grid search is computationally expensive and time-consuming as it exhaustively searches through all specified hyperparameter combinations, making it slow for multiple linear regression.
+Answer: D
+------------------------
+35. ------------------------
+Reasoning: Predicting the amount of rainfall in a region based on various cues is a complex problem that involves analyzing multiple variables and factors, which interact in complex ways to determine the amount of rainfall. This complexity aligns with the characteristics of supervised learning, where the model learns from labeled data to make predictions based on input variables.
+Answer: A
+------------------------
+36. ------------------------
+Reasoning: The false statement regarding regression is that it discovers causal relationships. Regression analysis is used to establish relationships between variables but does not determine causation, only correlation.
+Answer: D
+------------------------
+37. ------------------------
+Reasoning: The main reason for pruning a Decision Tree is to avoid overfitting the training set, which helps improve the model's generalization ability on unseen data.
+Answer: D
+------------------------
+38. ------------------------
+Reasoning: The kernel density estimator and kernel regression are equivalent when using the value Yi = 1/n at each point Xi in the original data set, ensuring equal weight to each data point. The depth of a learned decision tree can indeed be larger than the number of training examples due to factors like dataset complexity, number of features, and algorithm used.
+Answer: C
+------------------------
+39. ------------------------
+Reasoning: Decreasing the model complexity is a valid way to reduce overfitting in machine learning models by simplifying the model and improving generalization.
+Answer: C
+------------------------
+40. Reasoning: The softmax function is commonly used in multiclass logistic regression models to convert raw output scores into probabilities for each class. This aligns with Statement 1. The temperature of a nonuniform softmax distribution affects its entropy, as the temperature parameter controls the level of uncertainty in the distribution.
+
+Answer: C. True, False
+41. ------------------------
+Reasoning: SVM aims to find the hyperplane that maximizes the margin between classes, uses a kernel trick to handle non-linearly separable data, and relies on support vectors for determining the decision boundary. Overfitting in an SVM is indeed a function of the number of support vectors.
+Answer: D
+------------------------
+42. ------------------------
+Reasoning: The joint probability should be calculated by multiplying the conditional probabilities of U given H, P given U, and W given P because in a Bayesian Network, the joint probability of all variables is calculated by multiplying the conditional probabilities of each variable given its parent variables.
+Answer: C
+------------------------
+43. ------------------------
+Reasoning: The first statement is false because having an infinite VC dimension does not necessarily mean a model is worse; it indicates higher complexity but not necessarily worse performance. The second statement is also false because two-layer neural networks with linear activation functions and boosting algorithms based on linear separators have different underlying mechanisms and capabilities, leading to different results.
+Answer: D
+------------------------
+44. ------------------------
+Reasoning: The ID3 algorithm does not guarantee to find the optimal decision tree as it uses a greedy approach based on information gain, which may lead to suboptimal trees. In a continuous probability distribution, the probability of a specific value x is always zero due to the infinite number of possible values. 
+Answer: C
+------------------------
+45. ------------------------
+Reasoning: The correct algorithm for finding the global optimum in a Neural Net with N input nodes, no hidden layers, one output node, Entropy Loss, and Sigmoid Activation Functions should have appropriate hyper-parameters such as learning rate, batch size, and initialization method. These factors are crucial for efficient convergence and performance of the neural network.
+Answer: D
+------------------------
+46. ------------------------
+Reasoning: Adding more basis functions increases the model's complexity and flexibility, allowing it to capture more intricate patterns in the data.
+Answer: C
+------------------------
+47. ------------------------
+Reasoning: When considering the Bayesian network from the perspective of the number of parent nodes each node has, we can see that each node has only one parent node. Therefore, we would need 3 independent parameters (1 for each node) to fully specify the relationships between the variables.
+Answer: A
+------------------------
+48. ------------------------
+Reasoning: Out-of-distribution detection involves techniques such as uncertainty estimation, anomaly detection, and generative modeling to identify instances that do not belong to the training data distribution.
+Answer: A
+------------------------
+49. ------------------------
+Reasoning: Boosting weak learners helps improve the performance of the classifier by combining multiple weak learners to create a strong overall model, reducing bias and variance. The decision boundary of f is more complex and flexible compared to h, ultimately improving accuracy. Cross validation can be used to select the number of iterations in boosting, helping to reduce overfitting.
+Answer: A
+------------------------
+50. Reasoning: Highway networks eschew max pooling in favor of convolutions, while DenseNets usually cost more memory than ResNets.
+Answer: C
+51. ------------------------
+Reasoning: The classification run time of nearest neighbors algorithm grows linearly with the number of instances in the training dataset, as it calculates distances between the query instance and all other instances, resulting in a time complexity of O(N).
+Answer: B
+------------------------
+52. ------------------------
+Reasoning: Statement 1 is true because the original ResNets and Transformers are feedforward neural networks. Statement 2 is false because the original Transformers use self-attention, but the original ResNet does not.
+Answer: C
+------------------------
+53. ------------------------
+Reasoning: Monotonic activation functions play a crucial role in ensuring convergence to the global optimum in neural networks trained with gradient descent. Sigmoids are monotonic, while RELUs are not. Therefore, Statement 1 is false and Statement 2 is true.
+Answer: C
+------------------------
+54. ------------------------
+Reasoning: The sigmoid function used in neural networks is designed to squash the output between 0 and 1, making it bounded.
+Answer: C
+------------------------
+55. ------------------------
+Reasoning: Linear hard-margin SVM requires linear separability, a clear boundary between classes, and no misclassifications, making it suitable only for linearly separable data.
+Answer: A
+------------------------
+56. ------------------------
+Reasoning: Spatial clustering algorithms involve grouping data points based on their spatial proximity and aim to identify clusters or patterns in spatial data, making options A, B, and C correct.
+Answer: D
+------------------------
+57. ------------------------
+Reasoning: The maximum margin decision boundaries constructed by support vector machines have the lowest generalization error among all linear classifiers, and SVMs with polynomial kernels of degree less than or equal to three can reproduce decision boundaries accurately.
+Answer: A
+------------------------
+58. ------------------------
+Reasoning: L2 regularization tends to make models less sparse than L1 regularization, and residual connections are indeed present in ResNets and Transformers.
+Answer: C
+------------------------
+59. ------------------------
+Reasoning: In order to calculate P(H|E, F) without conditional independence information, we need the individual probabilities of H, E, and F to apply Bayes' theorem. Therefore, the set of numbers that is sufficient for the calculation is P(E, F), P(H), P(E|H), P(F|H).
+Answer: A
+------------------------
+60. ------------------------
+Reasoning: The use of weak classifiers introduces randomness in the training data, creating diverse base learners and preventing overfitting.
+Answer: B
+------------------------
+61. Reasoning: The first statement highlights the importance of the specific matrices used in eigendecomposition for PCA and Spectral Clustering, emphasizing that they are different. The second statement correctly identifies the relationship between classification and regression, stating that logistic regression is a special case of linear regression.
+Answer: C. True, False
+62. ------------------------
+Reasoning: The Stanford Sentiment Treebank contains movie reviews, not book reviews, while the Penn Treebank has been used for language modeling. The information provided clearly supports the statements in the question.
+Answer: C
+------------------------
+63. ------------------------
+Reasoning: The dimensionality of the null space is 1 because the rank of the matrix is 2.
+Answer: B
+------------------------
+64. ------------------------
+Reasoning: Support vectors are the examples closest to the decision boundary in SVM, influencing the placement of the boundary and maximizing the margin between classes.
+Answer: A
+------------------------
+65. ------------------------
+Reasoning: When considering the significance of initializing Word2Vec parameters using a Restricted Boltzman Machine, Statement 1 indicates that this crucial step was not taken, potentially impacting the model's performance. Regarding the tanh function, Statement 2 correctly identifies it as a nonlinear activation function.
+Answer: C
+------------------------
+66. ------------------------
+Reasoning: The learning rate might be too high, causing instability in the training process and preventing the model from converging to the optimal solution, leading to an increase in training loss over time.
+Answer: C
+------------------------
+67. ------------------------
+Reasoning: Using Bayes' theorem, P(D | TP) = (P(TP | D) * P(D)) / ((P(TP | D) * P(D)) + (P(TP | ~D) * P(~D))) = (0.99 * 0.05) / ((0.99 * 0.05) + (0.03 * 0.95)) = 0.0495
+Answer: A
+------------------------
+68. ------------------------
+Reasoning: Traditional machine learning results assume that the train and test sets are independent and identically distributed, which is true. In 2017, COCO models were usually pretrained on ImageNet to leverage the dataset's diverse features, also true.
+Answer: A
+------------------------
+69. ------------------------
+Reasoning: The values of the margins obtained by different kernels do not directly correlate with the performance of classifiers on a test set.
+Answer: C
+------------------------
+70. ------------------------
+Reasoning: Expectation Maximization is a clustering algorithm commonly used in machine learning to group similar data points together based on certain criteria without the need for labeled data.
+Answer: A
+------------------------
+71. ------------------------
+Reasoning: Overfitting occurs when a model learns the training data too well, including the noise and outliers that are specific to the training set but do not generalize well to new, unseen data. In the case of a decision tree, overfitting can happen when the tree is too deep or has too many branches, allowing it to memorize the training data rather than learn the underlying patterns. This can lead to poor performance on the test set because the model is not able to generalize well beyond the training data.
+Answer: C
+------------------------
+72. ------------------------
+Reasoning: K-fold cross-validation is a technique used to assess the performance of a machine learning model by splitting the data into K subsets, training the model on K-1 subsets, and testing it on the remaining subset, repeating this process K times. It helps in evaluating the model's performance on different subsets of data and reduces the risk of overfitting or underfitting.
+Answer: A
+------------------------
+73. ------------------------
+Reasoning: GPUs are preferred over CPUs for training industrial-scale neural networks due to their parallel processing capabilities and higher computational power.
+Answer: D
+------------------------
+74. Reasoning: The correct answer can be calculated using the formula P(A | B) = P(A ∩ B) / P(B) for conditional probability.
+Answer: D
+75. ------------------------
+Reasoning: Stuart Russell is a prominent figure in the field of AI ethics and safety, actively involved in discussions and initiatives related to mitigating existential risks posed by AI. He has published research on potential risks of AI, making him a likely candidate for being commonly associated with existential risks.
+Answer: C
+------------------------
+76. Reasoning: The correct answer should acknowledge the presence of multiple local optimums in logistic regression models and the challenges they pose in finding the global optimum. Additionally, the limitations of a naive Bayes classifier in handling dependencies between features and capturing complex relationships should be considered when comparing it to other classifiers when the distribution of the data is known.
+
+Answer: C. True, False
+77. ------------------------
+Reasoning: The kernel width directly impacts the flexibility of the model in Kernel Regression, affecting the trade-off between underfitting and overfitting by controlling the smoothness of the regression curve.
+Answer: C
+------------------------
+78. ------------------------
+Reasoning: Statement 1 highlights the nature of the SVM learning algorithm to find the globally optimal hypothesis, which is true. Statement 2 discusses the potential improvement in classification performance of a Perceptron when mapped into feature space Q through a radial basis kernel function, but it does not guarantee this improvement. 
+Answer: C
+------------------------
+79. ------------------------
+Reasoning: The assumption of equal covariance matrices for each class directly affects the decision boundary and the flexibility of the model, impacting the trade-off between underfitting and overfitting.
+Answer: B
+------------------------
+80. ------------------------
+Reasoning: Overfitting is more likely when the set of training data is small.
+Answer: C
+------------------------
+81. ------------------------
+Reasoning: Gradient descent is more efficient in terms of convergence speed and effectiveness in capturing complex data distributions for Gaussian mixture models. It can handle non-convex optimization problems and update model parameters in the direction of steepest descent, making it a suitable choice for inference or learning on Gaussian mixture models.
+Answer: C
+------------------------
+82. ------------------------
+Reasoning: The inference results of the junction tree algorithm are the same as the inference results of variable elimination in a Bayesian network. Additionally, if two random variables X and Y are conditionally independent given another random variable Z, then the nodes for X and Y are d-separated given Z in the corresponding Bayesian network.
+Answer: A
+------------------------
+83. ------------------------
+Reasoning: Clustering algorithms are used to group data points based on similarities without the need for labeled data, making this problem an unsupervised learning task.
+Answer: B
+------------------------
+84. ------------------------
+Reasoning: To get the same projection as SVD in PCA, it is crucial to transform the data to zero mean, which involves centering the data. This aligns the results of SVD with PCA by ensuring that the data is processed in a similar manner before performing the decomposition.
+Answer: A
+------------------------
+85. ------------------------
+Reasoning: The training error of a 1-nearest neighbor classifier is 0, and as the number of data points grows to infinity, the MAP estimate approaches the MLE estimate for all possible priors, making both statements true.
+Answer: A
+------------------------
+86. ------------------------
+Reasoning: Increasing the value of the regularisation parameter λ in least-squares regression with regularisation typically leads to an increase in bias and a decrease in variance, preventing overfitting of the model and improving generalization to unseen data.
+Answer: C
+------------------------
+87. ------------------------
+Reasoning: Discriminative approaches focus on modeling the conditional probability of the output given the input (P(y|x)) rather than the joint probability of the input and output (P(x,y)). They aim to directly learn the decision boundary between different classes, making them more suitable for classification tasks.
+Answer: A
+------------------------
+88. ------------------------
+Reasoning: Statement 1 highlights the potential performance levels that can be achieved with CNNs on CIFAR-10 dataset.
+Answer: C
+------------------------
+89. ------------------------
+Reasoning: The use of prior distributions on the parameters in a probabilistic model is a point of disagreement between Bayesians and frequentists, as Bayesians incorporate prior beliefs into their analysis while frequentists do not use prior distributions.
+Answer: C
+------------------------
+90. ------------------------
+Reasoning: The BLEU metric focuses on precision by comparing n-grams in the generated text with n-grams in the reference text, while the ROGUE metric emphasizes recall by measuring the overlap between the generated text and reference text. 
+Answer: C
+------------------------
+91. ------------------------
+Reasoning: ImageNet is known for its diverse collection of images that vary in quality and resolution, so it contains images of various resolutions. Caltech-101 has more images than ImageNet according to the statement provided.
+Answer: C
+------------------------
+92. ------------------------
+Reasoning: Considering the adaptability to different types of data, ability to handle high dimensionality, and consideration of the relationship between features, Lasso is more appropriate for feature selection.
+Answer: B
+------------------------
+93. ------------------------
+Reasoning: The steps involving the calculation of the complete data log-likelihood and the M-step need to be modified to incorporate prior distributions for the latent variables in order to find MAP estimates instead of MLE estimates.
+Answer: D
+------------------------
+94. ------------------------
+Reasoning: The assumption of feature independence in a Gaussian Bayes classifier is crucial in determining the trade-off between underfitting and overfitting. If the assumption holds true, the model may underfit by oversimplifying relationships between features, while violating the assumption can lead to overfitting by capturing noise. 
+Answer: B
+------------------------
+95. ------------------------
+Reasoning: The correct answer is based on the properties of entropy function, where H[x, y] ≥ H[x] + H[y] should always hold true due to the non-negativity of mutual information.
+Answer: A
+------------------------
+96. ------------------------
+Reasoning: PCA is an unsupervised learning technique that does not require labeled training data, making it NOT supervised learning.
+Answer: A
+------------------------
+97. ------------------------
+Reasoning: The first statement is true as the learning rate significantly impacts the convergence of a neural network. The second statement is also true as dropout involves multiplying randomly chosen activation values by zero to prevent overfitting.
+Answer: A
+------------------------
+98. ------------------------
+Reasoning: The correct answer should involve all three variables A, B, and C in the calculation because joint probability considers the simultaneous occurrence of all variables. In the absence of independence assumptions, the joint probability is calculated by multiplying the individual probabilities of each event.
+Answer: A
+------------------------
+99. ------------------------
+Reasoning: Clustering is best suited for tasks that involve grouping similar data points together based on their characteristics or features without predefined labels, which makes option D the most appropriate choice as it encompasses a variety of tasks that can benefit from clustering techniques.
+Answer: D
+------------------------
+100. ------------------------
+Reasoning: The correct answer should be either L1 norm (B) or a combination of L1 and L2 norms (D) because these penalties encourage sparsity in the model by shrinking coefficients towards zero, leading to some coefficients being zeroed out.
+Answer: B
+------------------------
+101. ------------------------
+Reasoning: P(B|A) decreases because as P(A) increases, the likelihood of B occurring given A decreases.
+Answer: B
+------------------------
+102. ------------------------
+Reasoning: When considering the impact of the number of hidden states on the training data likelihood in HMM, allowing for more hidden states can lead to a higher likelihood by capturing more complex patterns in the data. Additionally, collaborative filtering is indeed a useful model for modeling users' movie preferences.
+Answer: A
+------------------------
+103. ------------------------
+Reasoning: The bias of the model will increase slightly while the variance will decrease as the $\ell_2$ regularization coefficient is increased, leading to a simpler model with reduced overfitting.
+Answer: B
+------------------------
+104. ------------------------
+Reasoning: When generating a $10\times 5$ Gaussian matrix with i.i.d. samples from $\mathcal{N}(\mu=5,\sigma^2=16)$, the correct command is \texttt{5 + torch.randn(10,5) * 16}. For the $10\times 10$ uniform matrix with i.i.d. samples from $U[-1,1)$, the correct command is \texttt{torch.rand(10,10,low=-1,high=1)}. Therefore, the correct answer is A.
+Answer: A
+------------------------
+105. ------------------------
+Reasoning: The ReLU function is defined as $f(x) = max(0, x)$ and its gradient for $x<0$ is 0 because the function is flat and non-differentiable at $x=0. The sigmoid function has a continuous gradient while the ReLU function has a discontinuous gradient.
+Answer: C
+------------------------
+106. ------------------------
+Reasoning: Batch Normalization helps in improving training speed and stability by normalizing the input of each layer, reducing internal covariate shift, and allowing for higher learning rates. It helps in reducing the vanishing or exploding gradient problem, leading to faster convergence during training and overall improved stability of the neural network.
+Answer: B
+------------------------
+107. ------------------------
+Reasoning: The correct answer should involve the partial derivatives of the terms in the objective function with respect to $w$ to calculate the gradient. The regularization parameter $\gamma$ should also be included in the gradient calculation. Therefore, the correct answer is the option that includes all these components.
+Answer: C
+------------------------
+108. ------------------------
+Reasoning: A convolution kernel is a small matrix used for various image processing tasks such as blurring, sharpening, and edge detection. Among the options provided, option A, convolving an image with $\begin{bmatrix}1 & 0 & 0\\ 0 & 1 & 0 \\ 0 & 0 & 1 \end{bmatrix}$ would not change the image, aligns with the characteristics of a convolution kernel.
+Answer: A
+------------------------
+109. ------------------------
+Reasoning: A bounding box with an IoU (intersection over union) equal to $96\%$ being considered a true positive is factually incorrect as a high IoU value indicates a strong overlap between the predicted and ground truth bounding boxes, which typically signifies a true positive detection.
+Answer: B
+------------------------
+110. ------------------------
+Reasoning: The statement in option C is false because a combination of ReLUs such as $ReLU(x) - ReLU(x-1)$ is not convex due to the non-linearity introduced by the subtraction operation.
+Answer: C
+------------------------
+111. Reasoning: The number of parameters in the connections between the input layer and the first hidden layer is determined by the product of the number of input dimensions (100) and the number of activations in the first hidden layer (1000). The connections between the first hidden layer and the second hidden layer contribute 10,000 parameters, and there are 10 bias parameters in the second hidden layer. The connections between the second hidden layer and the output layer add 100 parameters. Therefore, the total number of parameters in this network is 100*1000 + 1000*10 + 10 + 10 = 111,010.
+
+Answer: A. 111021
+112. ------------------------
+Reasoning: The first statement correctly calculates the derivative of the sigmoid function and describes the relationship to a Bernoulli random variable. The second statement accurately explains the impact of setting bias parameters to 0 on the bias-variance trade-off in neural networks.
+Answer: A. True, True
+------------------------

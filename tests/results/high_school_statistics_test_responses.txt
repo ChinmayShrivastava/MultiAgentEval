@@ -1,0 +1,860 @@
+1. ------------------------
+Reasoning: The P-value is a value between 0 and 1, representing the probability of obtaining the observed results or more extreme results if the null hypothesis is true. A smaller P-value indicates stronger evidence against the null hypothesis. In this case, the correct answer should be the one that provides the P-value for the t-test with 6 degrees of freedom, which is the case for option A.
+Answer: A
+------------------------
+2. ------------------------
+Reasoning: By calculating the z-score for 100,000 riders, we can determine the corresponding percentile in the standard normal distribution table, which will give us the shortest time interval associated with that number of riders. This method allows for a standardized comparison of waiting times.
+Answer: B
+------------------------
+3. ------------------------
+Reasoning: The statement in option D is specific to continuous random variables, not discrete random variables.
+Answer: D
+------------------------
+4. ------------------------
+Reasoning: The statement that if there is sufficient evidence to reject a null hypothesis at the 10% level, then there is sufficient evidence to reject it at the 5% level is true because if the null hypothesis can be rejected at a higher significance level, it can also be rejected at a lower significance level.
+Answer: A
+------------------------
+5. Reasoning: Outliers are defined as observations that are significantly different from the other data points in a dataset, which is crucial for identifying them in statistical analysis.
+Answer: D
+6. ------------------------
+Reasoning: The correct interpretation of the confidence interval is that there is a 95 percent probability that the true average income per family of the students falls within the range of $35,095 to $45,005. This aligns with the significance of the 95 percent confidence level, indicating the likelihood that the true population parameter is captured by the interval.
+Answer: D
+------------------------
+7. ------------------------
+Reasoning: Increasing the number of experimental units does not change the critical value for determining statistical significance at the 0.05 level because the significance level is predetermined and not affected by the sample size.
+Answer: D
+------------------------
+8. ------------------------
+Reasoning: The z-score for the woman with a height of 70 inches is 1.33, which is higher than the z-score for the man with a height of 74 inches, which is 1. Therefore, the woman is more unusually tall within her respective sex.
+Answer: D
+------------------------
+9. ------------------------
+Reasoning: t-distributions are not always centered at mean 0 and standard deviation 1; they have a mean of 0 but a standard deviation that depends on the degrees of freedom.
+Answer: C
+------------------------
+10. ------------------------
+Reasoning: This study involved measuring the subjects' reaction time before and after consuming alcohol, making it an experiment where the subjects were used as their own controls to compare the impact of alcohol. 
+Answer: D
+------------------------
+11. ------------------------
+Reasoning: Bias involves favoring one option over others based on personal beliefs or prejudices, which aligns with the manifestation of bias in decision-making processes.
+Answer: A
+------------------------
+12. ------------------------
+Reasoning: Halting the production process when the tissue strength is within specifications would result from a Type I error as it involves incorrectly concluding that the strength has dropped below the specified level, leading to unnecessary halting of production.
+Answer: C
+------------------------
+13. ------------------------
+Reasoning: The mean longevity should be less than 75 years to account for the fact that 30% of the people live longer than 75 years. This suggests that the remaining 70% live less than 75 years, indicating that the mean longevity is below 75 years.
+Answer: A
+------------------------
+14. ------------------------
+Reasoning: The confidence interval will be wider because a higher confidence level requires a larger margin of error to be more certain about the estimate.
+Answer: A
+------------------------
+15. ------------------------
+Reasoning: A binomial random variable consists of a fixed number of independent trials, each trial having only two possible outcomes (success or failure), with a constant probability of success for each trial. Option B fits these criteria as it represents the number of points a hockey team receives in 10 games, where each game has two possible outcomes (win or loss) with a constant probability of success for each game.
+Answer: B
+------------------------
+16. ------------------------
+Reasoning: Increasing the sample size will provide more data points, leading to more accurate results and reducing the chances of making a Type II error, ultimately increasing the power of the hypothesis test. Increasing the significance level will also increase the power of the test by allowing a greater chance of rejecting the null hypothesis when it is false. 
+Answer: D
+------------------------
+17. ------------------------
+Reasoning: Statement I is true because the expected value for each cell of a one- or two-way table must be at least 5 in order to use a χ2 procedure.
+Answer: A. I only
+------------------------
+18. ------------------------
+Reasoning: The sum of the probabilities of events E and F is greater than 1 because the total probability of all possible outcomes in an event cannot exceed 1.
+Answer: A
+------------------------
+19. ------------------------
+Reasoning: To calculate the overall probability of an accident on Highway 48 today, we need to consider the probabilities of the weather being dry and wet, and the corresponding probabilities of an accident occurring under each weather condition. Since the probability of the weather being dry is 80% (complement of 20% chance of wet weather) and the probability of an accident on dry days is 0.2%, and the probability of an accident on wet days is 1.0%, we can calculate the overall probability of an accident by multiplying the probabilities and summing them up.
+Answer: C
+------------------------
+20. ------------------------
+Reasoning: The characteristics of the binomial distribution include discrete outcomes, fixed number of trials, independent trials, and constant probability of success on each trial. Among the given options, option C fits these criteria as it involves the number of drivers wearing seat belts out of 10 consecutive drivers stopped at a police roadblock, which represents a fixed number of independent trials with two possible outcomes (wearing seat belt or not) on each trial.
+Answer: C
+------------------------
+21. ------------------------
+Reasoning: The residual is calculated by subtracting the predicted y value (based on the regression line) from the actual y value of the point (x = 5, y = 6). Using the estimated equation y = -2.29 + 1.70x, the predicted y value for x = 5 is -2.29 + 1.70(5) = 6.21. Therefore, the residual is 6 - 6.21 = -0.21.
+Answer: D
+------------------------
+22. ------------------------
+Reasoning: The t distribution is more appropriate for smaller sample sizes and when the population standard deviation is unknown, as it accounts for the uncertainty in estimating the population standard deviation.
+Answer: C
+------------------------
+23. ------------------------
+Reasoning: Random sampling and stratification are crucial methods in reducing bias in sample surveys as they help ensure that the sample is representative of the population. Therefore, an answer choice that lacks these methods would be least likely to reduce bias in a sample survey.
+Answer: C
+------------------------
+24. ------------------------
+Reasoning: The correct answer should exhibit a positive correlation between the number of hours students studied for each exam and their performance on the exams, as increased study hours typically lead to better performance.
+Answer: D
+------------------------
+25. ------------------------
+Reasoning: Adding a fixed amount to each house value does not change the spread of the data, so the new standard deviation will remain the same as the original standard deviation of $23,000.
+Answer: A
+------------------------
+26. ------------------------
+Reasoning: To find the mean salary paid to the office assistants in the company, we need to consider the total number of office assistants in both locations. The total number of office assistants in the company is 160 (128 in New Jersey + 32 in Utah). By calculating the total salary paid to all office assistants in both locations and dividing it by the total number of office assistants, we can find the overall mean salary.
+Answer: D
+------------------------
+27. ------------------------
+Reasoning: Every element of the population having an equal chance of being picked is a fundamental characteristic of a simple random sample, so the false statement is that a sample must be reasonably large to be properly considered a simple random sample.
+Answer: A
+------------------------
+28. ------------------------
+Reasoning: The procedure described in the question introduces bias through the sampling process by selecting customers based on the first letter of their names, which may not ensure a truly random and representative sample.
+Answer: D
+------------------------
+29. ------------------------
+Reasoning: Option I is the best choice for a company with low risk tolerance because it offers a sure return of $25,000 without any uncertainty or potential loss.
+Answer: A
+------------------------
+30. ------------------------
+Reasoning: The correct answer should have a wider range of t-values due to the increase in degrees of freedom, and the t-value should be greater than the value corresponding to a P-value of 0.075 for significance. Additionally, the t-values would be positive and fall within a specific range based on the one-sided hypothesis test.
+Answer: C
+------------------------
+31. ------------------------
+Reasoning: Randomly selecting customers from various geographical regions and different customer tenure lengths will ensure a diverse representation of the customer base, which is crucial for obtaining accurate survey results.
+Answer: B
+------------------------
+32. ------------------------
+Reasoning: The upper critical value of z for constructing a 94% confidence interval is 1.88.
+Answer: D
+------------------------
+33. ------------------------
+Reasoning: Focusing solely on the salaries of the math teachers and calculating the mean specifically for this group is essential for comparing their mean salaries. Therefore, a one-sample z-test on a set of differences is the most appropriate in this scenario.
+Answer: C
+------------------------
+34. ------------------------
+Reasoning: The correct answer should reflect an increase in the average price of souvenirs at the kiosk due to the price increase of 50 cents for all items, leading to a higher mean price than the initial $14.75.
+Answer: A
+------------------------
+35. ------------------------
+Reasoning: The statement "We are 95% confident that the average donation in November is between about $149 and $161" aligns with the concept of confidence intervals and the standard deviation provided. This range takes into account the variability in donation amounts around the average of $155.
+Answer: D
+------------------------
+36. ------------------------
+Reasoning: The central limit theorem states that the mean of the sampling distribution of x-is the same as the mean of the population, the standard deviation of the sampling distribution of x-is the same as the standard deviation of x- divided by the square root of the sample size, and if the sample size is large, the shape of the sampling distribution of x- is approximately normal.
+Answer: B
+------------------------
+37. ------------------------
+Reasoning: The difference in percentages obtained from the newspaper poll and the vote itself could be due to factors such as voter turnout, campaign efforts, and changes in public opinion, which can significantly impact the outcome of a vote.
+Answer: C
+------------------------
+38. ------------------------
+Reasoning: The negative interval (-0.23, -0.18) suggests that there is a statistically significant difference in the proportions of male and female customers interested in shopping at the store on Sundays. The negative sign indicates that the proportion of male customers interested in shopping on Sundays is higher than the proportion of female customers.
+Answer: B
+------------------------
+39. ------------------------
+Reasoning: The primary difference between an experiment and an observational study is that in an experiment, the researcher manipulates some variable to observe its effect on a response variable, while in an observational study, he or she simply observes and records the observations.
+Answer: B
+------------------------
+40. ------------------------
+Reasoning: The interquartile range for a normal distribution is typically around 1.35 times the standard deviation away from the mean. In this case, with a standard deviation of 4, the approximate interquartile range would be 1.35 * 4 = 5.40.
+Answer: B
+------------------------
+41. ------------------------
+Reasoning: The correct statement regarding the relationship between events A and B in terms of probability theory is that P(A ∩ B) = 0 implies events A and B are independent, meaning the probability of both events occurring is the product of their individual probabilities. 
+Answer: C
+------------------------
+42. ------------------------
+Reasoning: Calculating the z-scores for incomes of $13,000 and $28,000 and using the standard normal distribution table to find the corresponding probabilities will help determine the number of employees expected to have an income between $13,000 and $28,000 out of the total 400 employees.
+Answer: C
+------------------------
+43. ------------------------
+Reasoning: The margin of error of 5% means that the true value is likely within 5 percentage points of the reported value. Therefore, it is likely that the true proportion of high school students afraid to go to school is between 38% and 48%.
+Answer: A
+------------------------
+44. ------------------------
+Reasoning: The most appropriate technique for gathering the needed data on AP Statistics exam results for male and female students, ensuring confidentiality, accuracy, and easy categorization by gender, would be a Sample survey.
+Answer: B
+------------------------
+45. ------------------------
+Reasoning: When considering the specific instructions given to the students in the first study, the comparison of class grades between the two groups, and the questionnaire analysis in the second study, it is evident that the first study was an experiment with clear instructions, controlled environment, and random assignment, while the second study involved analyzing responses to a questionnaire, indicating an observational study.
+Answer: A
+------------------------
+46. ------------------------
+Reasoning: Plan I involves sampling from the entire student population, which leads to a more accurate estimate of the total investment. 
+Answer: A
+------------------------
+47. ------------------------
+Reasoning: Sampling error occurs due to using a sample statistic to estimate a population parameter, which can lead to inaccuracies in the results.
+Answer: B
+------------------------
+48. ------------------------
+Reasoning: The correct answer should include statement I and III. Statement I because an R-squared value of 98.1% indicates a strong positive linear relationship between the explanatory and response variables. Statement III because an R-squared value of 98.1% means that about 98% of the variation in the response variable can be explained by the regression on the explanatory variable. This shows a high level of explanatory power in the model.
+Answer: A
+------------------------
+49. ------------------------
+Reasoning: This is a double-blind experiment because the experimenters could prevent both groups of patients from knowing what sort of treatment the other group is receiving.
+Answer: D
+------------------------
+50. ------------------------
+Reasoning: A P-value of 0.07 indicates that there is a 7% chance of observing the results (or more extreme results) given that the null hypothesis is true. Typically, a significance level of 0.05 is used to determine statistical significance. Since 0.07 is greater than 0.05, there is not enough evidence to reject the null hypothesis at the 0.05 significance level. However, the P-value is close to the threshold, so it is not completely ruled out. This means that the alternative hypothesis is not strongly supported, but it is also not completely unlikely.
+Answer: A
+------------------------
+51. ------------------------
+Reasoning: The assumption that the population of SAT scores from each group is normally distributed is necessary for accurate results when running a t-test.
+Answer: D
+------------------------
+52. ------------------------
+Reasoning: Events E and F are considered independent if P(E ∩ F) = P(E) * P(F). In this case, P(E) = 0.32, P(F) = 0.15, and P(E ∩ F) = 0.048. Since P(E ∩ F) is not equal to P(E) * P(F) (0.048 ≠ 0.32 * 0.15), we can conclude that events E and F are dependent.
+Answer: B
+------------------------
+53. ------------------------
+Reasoning: The question focuses on the dosages of the experimental cancer drug used in the study, indicating that there are three levels of a single explanatory variable, which are the different dosages administered to the patients.
+Answer: D
+------------------------
+54. ------------------------
+Reasoning: The correct pair of hypotheses should be H0: p ≤ 0.60 and Ha: p > 0.60 to support the claim that over 60 percent of the mall's visitors shop at the department store, as it implies a one-tailed test to prove the proportion is greater than 60 percent.
+Answer: A
+------------------------
+55. ------------------------
+Reasoning: Outliers can greatly influence the value of the correlation coefficient, affecting the strength of the relationship between the variables being correlated.
+Answer: D
+------------------------
+56. ------------------------
+Reasoning: Increasing the sample size leads to a more precise estimate of the population parameter, resulting in a narrower confidence interval. 
+Answer: B
+------------------------
+57. ------------------------
+Reasoning: The correlation remains the same because interchanging the variables does not affect the relationship between them.
+Answer: A
+------------------------
+58. ------------------------
+Reasoning: The standardized score should remain the same when converting units of measurement from seconds to minutes because the z-score is a unitless measure of how many standard deviations a data point is from the mean.
+Answer: D
+------------------------
+59. ------------------------
+Reasoning: The experiment involves testing the effects of three different types of paint on the durability of wooden toys, which creates three treatment combinations. Additionally, the children were divided into two groups by sex, resulting in a total of six treatment combinations (3 types of paint x 2 sex groups). Therefore, statement A is correct.
+Answer: A
+------------------------
+60. ------------------------
+Reasoning: A correlation coefficient of r = 0.9 indicates a very strong positive relationship between the number of hours students study and their GPAs, which is likely to be statistically significant.
+Answer: C
+------------------------
+61. ------------------------
+Reasoning: Estrella's score of 90 places her above the 85th percentile, indicating that she scored in the top 15% of test-takers. Therefore, she qualifies for further evaluation.
+Answer: C
+------------------------
+62. ------------------------
+Reasoning: Random assignment of participants into different groups is a key characteristic of an experiment. In this scenario, the researchers randomly selected half of the volunteers to exercise and the other half to not exercise, which meets the criteria for an experiment. This random assignment helps ensure that any differences in the resting heart rate between the two groups can be attributed to the exercise intervention, making it an experimental study.
+Answer: A
+------------------------
+63. ------------------------
+Reasoning: Understanding the mechanisms of action of niacin and Lipitor in lowering blood cholesterol levels indicates that Lipitor's inhibition of cholesterol synthesis at the enzyme level may be more effective than niacin's mechanism of action in inhibiting the release of free fatty acids, explaining why Lipitor outperformed niacin in the study.
+Answer: C
+------------------------
+64. ------------------------
+Reasoning: The confidence level of 95 percent indicates a high level of confidence in the accuracy of the estimated mean weight because it means that if the sampling process were repeated multiple times, 95 percent of the resulting confidence intervals would contain the true population mean weight.
+Answer: A
+------------------------
+65. ------------------------
+Reasoning: When considering the probability of winning the prize in the first game by flipping the coin 30 times compared to flipping it 300 times, increasing the number of flips reduces the impact of random chance and approaches the true probability. Therefore, flipping the coin 300 times for each game would result in a higher probability of winning.
+Answer: B
+------------------------
+66. ------------------------
+Reasoning: The assumption of normality is necessary for the validity of the t-test because the t-test assumes normality of data.
+Answer: D
+------------------------
+67. ------------------------
+Reasoning: When conducting multiple independent tests at the α = 0.05 significance level, the probability of committing a Type I error increases. With 10 independent tests, the overall chance of incorrectly rejecting a true null hypothesis in at least one of the tests is higher than 0.05.
+Answer: D
+------------------------
+68. ------------------------
+Reasoning: The mean should be closer to 4.5 years, which is the midpoint between 3 and 6 years where the percentages of parts lasting over 3 years and less than 6 years intersect.
+Answer: C
+------------------------
+69. ------------------------
+Reasoning: HA: μ1− μ2> 0 suggests that the "proper behavior" rating for children receiving positive rewards is expected to be higher than those receiving punishment, which aligns with the psychologist's belief in the effectiveness of positive rewards.
+Answer: A
+------------------------
+70. ------------------------
+Reasoning: A smaller sample size will result in a smaller margin of error by reducing the variability in the estimate, leading to a more precise estimate of the population parameter.
+Answer: D
+------------------------
+71. ------------------------
+Reasoning: The use of a confounding variable to control the placebo effect is not important in the design of experiments as it introduces unnecessary complexity and potential for bias. Controlling for confounding variables, randomization, and replication are crucial for ensuring the validity and reliability of the results, while using a confounding variable to control the placebo effect is not a standard practice in experimental design.
+Answer: C
+------------------------
+72. ------------------------
+Reasoning: The correct statement among the options is D because setting a significance level α does indeed determine the probability of a Type I error to be exactly α.
+Answer: D
+------------------------
+73. ------------------------
+Reasoning: The new measurement defined as the difference between the 60th and 40th percentile scores in a population provides insights into the variability or spread of the data. By calculating this difference, we can understand the distance between the higher and lower ends of the middle 50% of the data, indicating the variability within the population.
+Answer: B
+------------------------
+74. ------------------------
+Reasoning: The value of the random variable of interest being the number of trials until the first success occurs is not a requirement in a binomial setting. A binomial setting focuses on a fixed number of trials with each trial being considered either a success or a failure, and the trials being independent.
+Answer: C
+------------------------
+75. ------------------------
+Reasoning: The standard deviation of the weights of the packed boxes will be influenced by the standard deviation of the weight of the books packed per box. Since the standard deviation of the weight of the books is 2 pounds, it will contribute significantly to the overall standard deviation of the packed boxes.
+Answer: A
+------------------------
+76. ------------------------
+Reasoning: Increasing the sample size from 200 to 2,000 geese will reduce sampling variability, leading to a more accurate and precise estimate of the proportion. This will result in a narrower distribution of the sample proportion.
+Answer: B
+------------------------
+77. ------------------------
+Reasoning: The margin of error is crucial in determining the accuracy of the survey results. A smaller margin of error indicates a higher level of confidence in the results. Therefore, the correct answer should have a small margin of error to ensure that between 60% and 68% of the electorate were still undecided at that time.
+Answer: A. 2.4%
+------------------------
+78. ------------------------
+Reasoning: The standard deviation of the total combined weight of the four randomly selected players is calculated by taking the square root of the sum of the variances of the individual weights of the players selected. In this case, with four players being selected, the standard deviation of W can be calculated as sqrt((4 * 47^2)).
+Answer: C
+------------------------
+79. ------------------------
+Reasoning: The null hypothesis states that there is no significant difference or effect, and the P-value of 0.20 indicates that there is a 20% chance of observing the data or more extreme results if the null hypothesis is true.
+Answer: A
+------------------------
+80. ------------------------
+Reasoning: The statement that expected frequencies should be whole numbers is not true because expected frequencies are calculated based on row and column totals, which can result in decimal values.
+Answer: C
+------------------------
+81. ------------------------
+Reasoning: The z-score of -2 indicates that the runner's time this week was two standard deviations lower than his average time.
+Answer: D
+------------------------
+82. ------------------------
+Reasoning: To calculate the percentage of applicants with scores below 740, we first need to find the z-score for 740 using the formula z = (X - μ) / σ, where X is the score, μ is the mean, and σ is the standard deviation. 
+Calculating the z-score for 740: z = (740 - 650) / 45 = 2
+Looking up the z-score of 2 in the standard normal distribution table, we find that the percentage of values below this z-score is approximately 97.72%. However, since we are only considering applicants with scores above 700, we need to subtract the percentage of values below 700 (which is approximately 97.72% - 84.13% = 13.59%) from 100% to get the percentage of applicants with scores below 740.
+Answer: A
+------------------------
+83. ------------------------
+Reasoning: Mary scored higher than Pam because she scored at the 64th percentile compared to Pam's 56th percentile.
+Answer: A
+------------------------
+84. ------------------------
+Reasoning: People who want to avoid depression should consider drinking green tea on a daily basis is a definitive statement that implies a causal relationship between green tea consumption and lower depression incidence without considering other factors. 
+Answer: D
+------------------------
+85. ------------------------
+Reasoning: By obtaining a random sample of principals from each district, the survey results are more likely to be representative of the entire population of school principals in the state, ensuring diversity and minimizing bias. This approach allows for a more accurate reflection of the characteristics and perspectives of principals from different areas within the state.
+Answer: A
+------------------------
+86. ------------------------
+Reasoning: The control group should not receive the experimental treatment being tested in order to serve as a baseline for comparison to determine the effects of the treatment. 
+Answer: C
+------------------------
+87. ------------------------
+Reasoning: A larger sample size leads to more statistically significant results, increased power, and reduced margin of error, providing more reliable and accurate estimates of the population parameters.
+Answer: D
+------------------------
+88. ------------------------
+Reasoning: The sampling distribution of sample means will be approximately normally distributed regardless of the shape of the population distribution due to the Central Limit Theorem.
+Answer: C
+------------------------
+89. ------------------------
+Reasoning: Increasing the sample size will reduce the margin of error and increase the power of the statistical test, leading to more reliable and accurate results in analyzing the average gain in performance in the long jump.
+Answer: D
+------------------------
+90. ------------------------
+Reasoning: A Type II error in this scenario would result in the continued production of wrong size ball bearings because it means the engineer failed to make adjustments to the machinery when necessary, leading to defective products being produced.
+Answer: C
+------------------------
+91. ------------------------
+Reasoning: The midpoint for a 95% confidence interval estimate of a proportion is calculated by adding and subtracting the margin of error from the sample proportion, which is determined by the critical value. With a sample size of 500 people and 8% unemployed, the midpoint will be more precise due to the larger sample size.
+Answer: D. None of the above
+------------------------
+92. ------------------------
+Reasoning: A reasonable time-and-cost-saving procedure that ensures representativeness and clarity in data collection would be to use systematic sampling on an available list of all AAA (Automobile Association of America) members in the city.
+Answer: A
+------------------------
+93. ------------------------
+Reasoning: The central limit theorem states that as the sample size increases, the distribution of sample means becomes closer to a normal distribution, regardless of the shape of the population distribution. This aligns with option C.
+Answer: C
+------------------------
+94. ------------------------
+Reasoning: The best description of the design of the necessary experiment is a randomized complete block design, blocked on temperature, with six treatment groups. This design allows for controlling extraneous variables, ensuring each treatment combination is tested under similar conditions, and accounting for potential interactions between temperature levels, types of pans, and types of ovens on the texture of the cakes.
+Answer: C
+------------------------
+95. ------------------------
+Reasoning: B. There could well be a confounding variable responsible for the seeming relationship.
+Answer: B
+------------------------
+96. ------------------------
+Reasoning: The method should have a strong positive correlation between the number of calls and the abundance of nests, with a high percentage of explained variation. A correlation coefficient of 0.71 indicates a strong positive relationship, making it a reliable method for estimating nest abundance based on call numbers.
+Answer: B
+------------------------
+97. ------------------------
+Reasoning: The method of having managers draw names from time cards and combining them to form the sample ensures randomness in the selection process. Since each manager is asked to randomly draw six names from the time cards of their employees, this method provides an equal probability of selection for each employee in the population. As a result, the sample obtained through this process can be considered a simple random sample, as it represents the entire population of 1000 employees without any bias.
+Answer: A
+------------------------
+98. ------------------------
+Reasoning: The analysis should involve comparing the mean recovery times between the standard and new technique groups, which is best done using a t-test for a difference in means as it specifically compares the means of two groups.
+Answer: B
+------------------------
+99. ------------------------
+Reasoning: The sample obtained from adults leaving a Wall Street office building on a weekday afternoon is not diverse in terms of demographics, socioeconomic status, and political beliefs, which could lead to sampling bias. This lack of representativeness makes the survey poorly designed.
+Answer: C
+------------------------
+100. ------------------------
+Reasoning: The best control group for this study would be a third group for which no music is played. This group will help isolate the impact of music on piecework output without any confounding variables related to music exposure.
+Answer: A
+------------------------
+101. ------------------------
+Reasoning: The probability of a single cyclone becoming a hurricane is approximately 0.5862 based on historical data. To calculate the probability of at least three out of five cyclones becoming hurricanes, we need to consider the individual probabilities of exactly 3, 4, and 5 cyclones becoming hurricanes and then sum them up. By applying the binomial probability formula, we can accurately determine the overall probability of at least three out of five cyclones becoming hurricanes.
+Answer: C
+------------------------
+102. ------------------------
+Reasoning: The degrees of freedom for a chi-squared test of independence on a 3 × 4 contingency table is calculated as (3 - 1) * (4 - 1) = 2 * 3 = 6.
+Answer: A
+------------------------
+103. ------------------------
+Reasoning: By calculating the z-scores corresponding to the 10th and 90th percentiles, we can determine the interval that contains the middle 80% of durations accurately. 
+Answer: B
+------------------------
+104. ------------------------
+Reasoning: The grade will increase by 20.4 points for every additional hour of studying based on the coefficient of studying time in the regression equation Grade = 50.25 + 10.2(h). Therefore, if a student studies for two hours, her grade will go up by 20.4 points.
+Answer: B
+------------------------
+105. ------------------------
+Reasoning: The correct significance test to perform in this scenario is a paired t-test because the data collected involves paired observations, where each individual tried both the old and new formulas on different sides of their face. This test is specifically designed to compare the means of two related groups, making it suitable for analyzing the effectiveness of the two creams on the same individuals.
+Answer: C
+------------------------
+106. Reasoning: To properly randomize the assignment of participants based on the blocking factor (amount of exercise) and reduce the impact of confounding variables, it is essential to block on exercise level because it is associated with cholesterol level.
+Answer: D
+107. ------------------------
+Reasoning: Blocking on capsule type will ensure that any differences in cholesterol levels between the fish oil and garlic groups can be attributed to the capsules themselves rather than other factors.
+Answer: D
+------------------------
+108. ------------------------
+Reasoning: The high sensitivity (96%) and specificity (98%) of the heartworm test are crucial in accurately identifying dogs with and without heartworm. Given that the prevalence of heartworm in dogs is 10%, the probability that a randomly selected dog that tested positive for heartworm actually has the infection can be calculated using Bayes' theorem. The correct answer is 84%.
+Answer: C
+------------------------
+109. ------------------------
+Reasoning: The mean of the random variable X + Y is the sum of the means of X and Y, which is 32 + 44 = 76. The standard deviation of the random variable X + Y is the square root of the sum of the variances of X and Y, which is √(5^2 + 12^2) = 13.
+Answer: B
+------------------------
+110. ------------------------
+Reasoning: The best plan of action would be to follow up with those that did not return the survey to encourage them to respond. This approach focuses on increasing the response rate from non-respondents, which is crucial for obtaining a more comprehensive understanding of the graduating class's feedback.
+Answer: D
+------------------------
+111. ------------------------
+Reasoning: Mr. Em's class had a smaller standard deviation, indicating less variability in scores and more consistent performance on the standardized test compared to Mr. Bee's class.
+Answer: B
+------------------------
+112. ------------------------
+Reasoning: To calculate the probability of a patient being diagnosed with at least one of the conditions, we need to consider both scenarios where the patient is diagnosed with Condition A and where the patient is not diagnosed with Condition A. The probability of being diagnosed with Condition A is 15%, and if diagnosed with Condition A, the probability of also being diagnosed with Condition B is 70%. If not diagnosed with Condition A, the probability of being diagnosed with Condition B is 10%. Therefore, the overall probability can be calculated as 15% (diagnosed with A and B) + 85% (not diagnosed with A) * 10% (diagnosed with B) = 0.15 + 0.85 * 0.10 = 0.235.
+Answer: A
+------------------------
+113. ------------------------
+Reasoning: A simple random sample is defined by the method of selection, which involves randomly selecting individuals without any specific criteria, ensuring unbiased and representative results.
+Answer: A
+------------------------
+114. ------------------------
+Reasoning: The first study involves comparing the weights of subjects who already have a certain dietary habit (eating meat daily) with those who have a different habit (vegetarianism), making it an observational study. The second study involves assigning subjects to different dietary interventions (meat meal vs. vegetarian diet) and comparing weight changes, indicating a controlled experiment.
+Answer: B
+------------------------
+115. ------------------------
+Reasoning: When considering the term "levels" in the context of experimental design, it is commonly used to refer to the different values or categories of the independent variable being tested. This definition aligns with the perspective of academic literature and experts in the field, making option C the correct description of the term.
+Answer: C
+------------------------
+116. ------------------------
+Reasoning: The answer cannot be determined without knowing the size of the jury pool.
+Answer: D
+------------------------
+117. ------------------------
+Reasoning: Out of the initial 100 workers hired by the employer, 20% are expected to leave after the first year, which means 80 workers will remain. Out of these 80 workers, only 5% are expected to leave during the second year, which amounts to 4 workers. Therefore, out of the total 200 workers hired over two years, 80 workers from the first year and 96 workers from the second year are expected to be on the job at the end of the second year.
+Answer: D
+------------------------
+118. ------------------------
+Reasoning: The methodology involved in examining police reports, constructing a scatterplot, and computing a correlation coefficient to analyze the relationship between car speed and stopping distance indicates that this is an observational study.
+Answer: D
+------------------------
+119. ------------------------
+Reasoning: The number of girls in a family of five children does not fit the criteria for a binomial model as it involves multiple outcomes (boys and girls) and is not a situation with only two possible outcomes. 
+Answer: C
+------------------------
+120. ------------------------
+Reasoning: The wording of the questions should aim to ensure that respondents can easily understand and provide accurate responses to the questionnaire, which points towards the need for clear and concise language to avoid confusion.
+Answer: D
+------------------------
+121. ------------------------
+Reasoning: Company II because it has a higher average burn time and a lower standard deviation compared to Company I.
+Answer: B
+------------------------
+122. ------------------------
+Reasoning: The confidence interval estimate of -0.197 ± 0.081 suggests that the true difference in proportions between Toyota and Subaru car owners who are satisfied with their drive systems is likely to fall between -0.116 and -0.278, with 90% confidence, indicating a statistically significant difference. This means that there is evidence to support the conclusion that there is a difference in satisfaction levels between Toyota and Subaru car owners with their drive systems.
+Answer: D
+------------------------
+123. ------------------------
+Reasoning: The correlation coefficient measures the strength and direction of a linear relationship between two variables, ranging from -1 to 1. A correlation of 1 indicates a perfect positive correlation, -1 indicates a perfect negative correlation, and 0 indicates no correlation. Therefore, the statement that correlations of +0.87 and -0.87 indicate the same degree of clustering around the regression line is true.
+Answer: C
+------------------------
+124. ------------------------
+Reasoning: The sample sizes for male and female students are not equal, which violates one of the assumptions of a two-proportion z-test.
+Answer: A
+------------------------
+125. ------------------------
+Reasoning: The correct answer should involve adjusting the mean setting slightly lower than 12 ounces to minimize the chances of overflow. By setting the mean lower, the distribution of ounces delivered will be shifted to the left, reducing the likelihood of delivering more than 12 ounces and causing an overflow. This adjustment aims to keep the overflow probability below 1%.
+Answer: C
+------------------------
+126. ------------------------
+Reasoning: The Z-score formula is the correct method to use in this scenario to calculate the percentage of candy bars containing more than 225 calories. By calculating the Z-score for 225 calories with a mean of 210 and a standard deviation of 10, we can determine the proportion of values above this threshold. 
+Answer: A
+------------------------
+127. ------------------------
+Reasoning: The probability of the bakery running out of bread can be calculated by finding the z-score for the number of loaves baked (3,000) in relation to the mean daily demand (2,500) and standard deviation (225). A z-score of (3000-2500)/225 = 2.22 corresponds to a probability of approximately 0.0132 based on the standard normal distribution table.
+Answer: D
+------------------------
+128. ------------------------
+Reasoning: The probability of rolling two sixes on two dice simultaneously is 1/36. The player wins $20 if both dice show 6, and loses $2.00 if they don't. Therefore, the expected gain or loss per game can be calculated as (1/36 * $20) - (35/36 * $2.00) = -$1.44, which means the player will lose about $1.44 per game.
+Answer: D
+------------------------
+129. ------------------------
+Reasoning: The probability of getting an even number on a fair die toss is always 1/2, regardless of previous outcomes because each toss of a fair die is independent and the probability of each outcome remains constant.
+Answer: D
+------------------------
+130. ------------------------
+Reasoning: Based on the normal distribution and the impact of the standard deviation of 12,000 miles, the probability of a randomly selected cab being driven less than 100,000 miles, given that it has been driven over 80,000 miles, would decrease. 
+Answer: B
+------------------------
+131. ------------------------
+Reasoning: The level of significance used to construct a 95 percent confidence interval is 0.05, meaning there is a 5 percent chance that the true population parameter falls outside the calculated interval.
+Answer: A
+------------------------
+132. ------------------------
+Reasoning: The null hypothesis is rejected in favor of the alternative hypothesis that the mean petal length is greater than 3.5 cm. Therefore, the confidence interval should not include the value 3.5 cm.
+Answer: B
+------------------------
+133. ------------------------
+Reasoning: To calculate the probability that at least one child will develop a cavity before turning 10, we need to consider the complementary probability of none of the children developing cavities. The correct answer is D, which represents the probability of at least one child developing a cavity before turning 10.
+Answer: D
+------------------------
+134. ------------------------
+Reasoning: The χ2 probability distribution function is defined only for nonnegative values of the variable, so option B is NOT true.
+Answer: B
+------------------------
+135. ------------------------
+Reasoning: The selling price decreases as the age of the car increases because the coefficient of the age variable in the equation is negative (-0.983), indicating a negative relationship between age and selling price.
+Answer: D
+------------------------
+136. ------------------------
+Reasoning: A lower significance level and a larger sample size increase the power of the test, reducing the probability of Type I error and increasing the likelihood of detecting a true difference. Option D (α = 0.01, n = 30) fits these criteria, making it the choice that results in the greatest power of the test.
+Answer: D
+------------------------
+137. ------------------------
+Reasoning: The correct conclusion should be to reject the null hypothesis because the test statistic falls in the critical region, indicating that there is enough evidence to suggest that the mean mass of the eggs from the new type of hen is different from 56 grams.
+Answer: A
+------------------------
+138. ------------------------
+Reasoning: The population of interest should include all county residents to accurately assess their support for the gasoline tax increase for the school system. This diverse range of demographics, including age groups, income levels, educational backgrounds, and geographic locations, can influence residents' opinions on the issue.
+Answer: B
+------------------------
+139. ------------------------
+Reasoning: Selecting every twenty-fifth student entering the school in the morning does not ensure that each student has an equal chance of being selected, which goes against the principles of a simple random sample. This method introduces systematic bias and may not be representative of the entire student population.
+Answer: D
+------------------------
+140. ------------------------
+Reasoning: Observational studies can establish cause-and-effect relationships just as strongly as properly designed experiments, so statement B is factually accurate and supported by evidence.
+Answer: B
+------------------------
+141. ------------------------
+Reasoning: The probability of a customer requesting an oil change is 60%, and the probability of a customer requesting both an oil change and tire replacement is 10%. Therefore, the probability of a customer requesting only an oil change (and not requesting a tire replacement) can be calculated as 60% - 10% = 50% = 0.5.
+Answer: B
+------------------------
+142. ------------------------
+Reasoning: The statement in option D contradicts established facts about the t-distributions and the 68-95-99.7 Rule, making it the false statement.
+Answer: D
+------------------------
+143. ------------------------
+Reasoning: In the context of the kidney dialysis center, a Type I error would lead to unnecessary recalibration of equipment that is actually performing satisfactorily, resulting in increased costs and disruptions. Therefore, the more serious concern is a Type I error. In the context of the fabric factory, a Type I error would halt production unnecessarily, leading to financial losses and disruptions. Thus, the more serious concern is also a Type I error.
+Answer: A
+------------------------
+144. ------------------------
+Reasoning: Stratified sampling involves dividing the population into subgroups based on certain characteristics (in this case, countries) and then randomly selecting samples from each subgroup. This technique ensures that each subgroup is represented in the sample proportionally to its size in the population, which is crucial when dealing with diverse cultural backgrounds to avoid biases and inaccuracies in the estimation.
+Answer: A
+------------------------
+145. ------------------------
+Reasoning: The probability of Semir rolling a 1 or 2 on the six-sided die each morning is 1/3. The probability of being late for school when he cooks a big breakfast is 15%, and when he has a lighter breakfast, it is 6%. Combining these probabilities, the overall probability of Semir being on time for school any given day is higher, leading to the correct answer being 0.91 (D).
+Answer: D
+------------------------
+146. ------------------------
+Reasoning: The teachers' union would be most likely to quote the average salary of teachers compared to administrators within the school district during negotiations because it emphasizes the significant pay gap between teachers and administrators, supporting their argument for higher salaries.
+Answer: A
+------------------------
+147. ------------------------
+Reasoning: The sample sizes in this scenario are not relatively similar (15 engineers in Atlanta and 14 engineers in New Orleans), which could potentially affect the validity of the 2-sample t-test results. A large difference in sample sizes can lead to biased results and decreased statistical power.
+Answer: A
+------------------------
+148. ------------------------
+Reasoning: Residuals are the differences between the observed values and the values predicted by the regression line, indicating how well the model fits the data points. The mean of the residuals is not always zero, as they can be positive or negative. Therefore, option C is incorrect. 
+Answer: B
+------------------------
+149. ------------------------
+Reasoning: The sample size of 30 students per grade level is considered small for drawing statistically significant conclusions. A larger sample size is generally needed to ensure the results are reliable and representative of the population.
+Answer: B
+------------------------
+150. ------------------------
+Reasoning: A sampling distribution is a distribution of all the values taken by a statistic from all possible samples of a given size, showing the possible values of a statistic and how likely they are to occur.
+Answer: D
+------------------------
+151. ------------------------
+Reasoning: The p-value should be calculated using the sample mean, standard deviation, sample size, and the null hypothesis mean in a one-sample t-test formula because the sample size of 16 apples provides enough data points to make the test results more accurate and reliable. Additionally, the test is a one-tailed test (Ha: μ > 4.0 ounces), focusing on determining if the mean weight is significantly greater than the specified value of 4.0 ounces.
+Answer: D
+------------------------
+152. ------------------------
+Reasoning: The potential underlying psychological mechanisms that could explain the increase in production with changes in background music genre could be related to how music affects mood, motivation, and cognitive performance. Music has the ability to evoke emotions, which can impact an individual's mood and subsequently their motivation to work. Additionally, certain types of music have been shown to enhance cognitive functions such as focus and creativity, which can lead to increased productivity. Therefore, the correct answer should focus on these factors as they play a crucial role in understanding the relationship between music and worker productivity.
+Answer: A
+------------------------
+153. ------------------------
+Reasoning: The design described in the question involves random assignment of patients to two groups, blinding of the lab technician to the type of medicine each patient is taking, and regular blood tests conducted at the clinic. This aligns with a randomized block design where the currently marketed medicine and the experimental medicine are considered as two treatments within the blocks.
+Answer: D
+------------------------
+154. ------------------------
+Reasoning: The mean weight of trucks should be between 10,000 and 12,000 pounds to accommodate the given percentages. The standard deviation should be calculated based on the z-scores corresponding to the percentages. 
+Answer: A
+------------------------
+155. ------------------------
+Reasoning: The correct scheme for the simulation should involve assigning numbers 0, 1 to successfully selling a policy to a customer and numbers 2, 3, 4 to failing to sell a policy to a customer. This scheme accurately represents the success rate of the insurance agent and incorporates the variability in customer responses.
+Answer: B
+------------------------
+156. ------------------------
+Reasoning: By calculating the z-score for the student's midterm score of 58 points and then using that z-score to find the corresponding score on the final exam distribution, we can determine the score she would have needed to achieve the same standardized performance on the final exam. This process involves using the z-score formula and rearranging it to solve for x, which allows for comparison across different normal distributions by standardizing the data.
+Answer: C
+------------------------
+157. ------------------------
+Reasoning: The central limit theorem states that the sampling distribution of the sample mean approaches a normal distribution as the sample size increases, regardless of the shape of the population distribution. Therefore, the correct answer is that the sampling distribution is close to the normal distribution if n is large, no matter what the distribution of the original population is.
+Answer: C
+------------------------
+158. ------------------------
+Reasoning: The power of the test for Ha: p = 0.7 is 0.8, indicating an 80% chance of correctly rejecting the null hypothesis when the alternative hypothesis is true. This level of power provides a reasonable level of confidence in the conclusion.
+Answer: C
+------------------------
+159. ------------------------
+Reasoning: The standard deviation is calculated as the difference between the first quartile salary and the mean salary divided by the z-score corresponding to the first quartile (which is approximately 0.675). Therefore, the standard deviation is ($55,800 - $48,815) / 0.675 = $10,356.
+Answer: B
+------------------------
+160. ------------------------
+Reasoning: The correct answer should be the highest amount of rainfall that falls below the 10th percentile threshold, representing the value below which only 10% of the data falls. To find this value, we need to calculate the z-score corresponding to the 10th percentile and then convert it back to the original data scale using the mean and standard deviation provided.
+Answer: C
+------------------------
+161. ------------------------
+Reasoning: An experiment involves controlled experiments, manipulation of variables, random assignment of participants, and use of control groups, which are essential in establishing cause-and-effect relationships.
+Answer: D
+------------------------
+162. ------------------------
+Reasoning: The typical reaction from callers on a sports talk show regarding the officiating in the local basketball team's most recent loss will most likely involve criticism of the officiating, blaming it for the loss rather than the team's poor play.
+Answer: A
+------------------------
+163. ------------------------
+Reasoning: The probability that Ben asks Charlene to the prom is 0.3 because we can calculate it by subtracting the probability of Alfred asking her (0.6) from the total probability of one of them asking her (0.72).
+Answer: B
+------------------------
+164. ------------------------
+Reasoning: The proper null hypothesis for this situation should state that the proportion of "pro-life" men is the same as the proportion of "pro-life" women, assuming no difference in attitudes towards abortion between genders.
+Answer: B
+------------------------
+165. ------------------------
+Reasoning: The margin of error of 3% means that the true percentage of the population that uses grocery coupons is likely to be within 3 percentage points of the reported 82%, with a certain level of confidence, typically 95%. This means that the actual percentage of the population using grocery coupons could be as low as 79% or as high as 85%. The margin of error accounts for the variability that may occur when extrapolating the survey results to the entire population, considering factors such as sampling bias and random sampling variability.
+Answer: D
+------------------------
+166. ------------------------
+Reasoning: The power of the test is the probability of correctly rejecting a false null hypothesis. Given the information provided, the power can be calculated as 1 - P(failing to reject H0 when H0 is false). Therefore, the power of the test is 1 - 0.26 = 0.74.
+Answer: D
+------------------------
+167. ------------------------
+Reasoning: The measure of spread that must remain unchanged is the range because it is not affected by adding a constant value to all data points.
+Answer: D
+------------------------
+168. ------------------------
+Reasoning: Blocking in an experiment is primarily used to reduce bias by controlling for potential confounding variables. It helps ensure that the treatment groups are comparable and any differences observed are more likely due to the treatment itself rather than external factors. 
+Answer: A
+------------------------
+169. ------------------------
+Reasoning: The analysis should involve comparing the lifespan of engines using oil with the additive to those using oil without the additive, control for potential confounding variables, and ensure statistical significance. This points towards the need for an independent samples comparison of population means.
+Answer: D
+------------------------
+170. ------------------------
+Reasoning: We are 90% confident that politicians running for a congressional seat spend a mean dollar amount between $117,500 and $132,500.
+Answer: D
+------------------------
+171. ------------------------
+Reasoning: Using the z-score formula to calculate the probability of the mean amount per jar being less than 3.9 ounces based on the given average and standard deviation, a larger sample size of forty jars leads to a more accurate estimate of the population mean and reduces the variability of the sample mean, and the Central Limit Theorem states that the sampling distribution of the sample mean will be approximately normally distributed with a larger sample size.
+Answer: B
+------------------------
+172. ------------------------
+Reasoning: To accurately capture the range of attitudes towards tracking among students in honors, regular, and below-grade classes from urban, suburban, and rural communities, a sample that includes diverse representation from these different areas is necessary. A stratified sample would be the most appropriate choice as it allows for the division of the population into subgroups (urban, suburban, rural) and ensures that each subgroup is adequately represented in the sample.
+Answer: C
+------------------------
+173. ------------------------
+Reasoning: Calculating the z-score for a resistor with a resistance of 194 ohms using the formula z = (X - μ) / σ gives a z-score of -1.2. Then, calculating the z-score for a resistance value of 188 ohms gives a z-score of -2.4. By using the standard normal distribution table, we can find that the probability of a resistor having a resistance greater than 188 ohms is 0.93.
+Answer: D
+------------------------
+174. ------------------------
+Reasoning: A larger sample size is needed to reduce the margin of error and provide a more accurate prediction of the election outcome, ensuring a higher level of confidence.
+Answer: A
+------------------------
+175. ------------------------
+Reasoning: When the standard deviation of a sample is zero, it means that there is no variability in the data points, and they are all the same. In this case, the sample mean will be equal to all data points in the sample because there is no deviation from the mean. This has implications for statistical analysis as it indicates that there is no spread or dispersion in the data, which can affect the reliability of the sample mean as it may not be representative of the population.
+Answer: A
+------------------------
+176. ------------------------
+Reasoning: To find the range of customers served on the middle 50 percent of days, we need to consider the z-scores corresponding to the middle 50 percent of a standard normal distribution, which are -0.675 and 0.675. By using these z-scores and the given mean and standard deviation, we can calculate the range. 
+Answer: A
+------------------------
+177. ------------------------
+Reasoning: The question specifies that the student is not going on to a 2-year college, which means we are only considering the percentage of students going on to 4-year colleges. Therefore, the 54% represents the probability of a randomly selected student going on to a 4-year college in this scenario.
+Answer: B
+------------------------
+178. ------------------------
+Reasoning: A type I error occurs when the test incorrectly indicates that the lead level exceeds the allowed limit when it actually does not. In this case, if the Department of Health makes the decision to close the park based on this false positive result, it would be an unnecessary action taken due to an incorrect interpretation of the test results. This highlights the importance of setting the allowed limit at an appropriate level to minimize the chances of making such errors.
+Answer: A
+------------------------
+179. ------------------------
+Reasoning: Because the sample sizes are different, the student should not use a two-sample t-test.
+Answer: B
+------------------------
+180. ------------------------
+Reasoning: To find the value above which a random selection will fall in a normal distribution with a probability of 0.2, we need to calculate the z-score corresponding to this probability using the formula z = (X - μ) / σ. Then, we can find the actual value by rearranging the formula to X = z * σ + μ. By plugging in the values of μ = 600, σ = 15, and the z-score corresponding to a probability of 0.2, we can determine the value above which a random selection will be.
+Answer: C
+------------------------
+181. ------------------------
+Reasoning: Increasing the largest score by 40 points will directly increase the overall sum of the scores in the group, leading to an increase in the mean value.
+Answer: D
+------------------------
+182. ------------------------
+Reasoning: The skewed salary distribution and the presence of outliers, such as the superintendent's salary, can heavily influence the mean and skew the distribution, making the t-confidence interval less reliable.
+Answer: B
+------------------------
+183. ------------------------
+Reasoning: The 25th percentile represents the value below which 25% of the egg masses fall in a normal distribution. By using the z-score formula and considering the characteristics of the normal distribution, the mass of the egg at the 25th percentile would be lower than the mean. Calculating with the z-score formula, the correct answer is A. 42.2 g.
+Answer: A
+------------------------
+184. ------------------------
+Reasoning: The margin of error of ±3.2% at a 95% level of confidence indicates the range within which the true approval rating of the president is likely to fall, with 95% confidence, based on the sample data. This means that the reported approval rating of 43% could actually be as low as 39.8% or as high as 46.2%. The smaller the margin of error, the more precise the estimate is, and the higher the level of confidence, the more reliable the estimate is. Therefore, a smaller margin of error and a higher level of confidence indicate a more reliable and precise interpretation of the reported approval rating.
+Answer: C
+------------------------
+185. ------------------------
+Reasoning: A higher significance level (α = 0.10) increases the probability of committing a Type II error in hypothesis testing. Therefore, the correct answer is not A (0.05) or B (0.10) as they suggest lower probabilities. The correct answer is C (0.90) as it indicates a higher probability of committing a Type II error.
+Answer: C
+------------------------
+186. ------------------------
+Reasoning: The 90% confidence interval estimate of the difference in life expectancies between model A and model B refrigerators is (6, 12), indicating that we are 90% confident that the true difference falls within this range. This does not imply that one model's life expectancy is exactly twice that of the other, nor that the probabilities of the life expectancies being different is 0.90. The most reasonable conclusion is that we should be 90% confident that the difference in life expectancies is between 6 and 12 years.
+Answer: D
+------------------------
+187. ------------------------
+Reasoning: The probability of a patient developing side effects decreases as the number of patients increases, and individual patient characteristics can impact their likelihood of experiencing side effects. Patients with no risk factors have a lower probability of developing side effects.
+Answer: B
+------------------------
+188. ------------------------
+Reasoning: A stratified random sample provides information about each stratum in the population as well as an estimate for the population as a whole, and a simple random sample does not. This is an advantage of stratified random sampling over simple random sampling, so the correct answer should mention a disadvantage of stratified random sampling that is not present in simple random sampling.
+Answer: D
+------------------------
+189. ------------------------
+Reasoning: The probability of the ball landing on a red slot remains constant at 18/38 for each individual trial, regardless of the outcomes of previous trials. Therefore, the probability of losing 7 times in a row before winning on the 8th trial is 0.5^7.
+Answer: A
+------------------------
+190. ------------------------
+Reasoning: The survey is meaningless because of voluntary response bias.
+Answer: A
+------------------------
+191. ------------------------
+Reasoning: The estimate of 1.73 children is likely too low due to nonresponse bias, which tends to skew results towards lower values.
+Answer: A
+------------------------
+192. ------------------------
+Reasoning: Standard deviation and variance are calculations that measure the spread or variability of values within a data set. When all values in a data set are the same, there is no variability, leading both standard deviation and variance to equal zero. The mean is the average of all values, which will also be the same as the individual values when they are all equal. However, the range is the difference between the maximum and minimum values in a data set, so when all values are the same, the range will not be zero.
+Answer: D
+------------------------
+193. ------------------------
+Reasoning: Focusing on the data collected from the 88 graduates who responded to the survey provides a more accurate representation of the overall satisfaction of recent graduates with the education they received.
+Answer: A
+------------------------
+194. ------------------------
+Reasoning: When A and B are mutually exclusive, the probability of their union P(A ∪ B) is simply the sum of their individual probabilities, which is 0.3 + 0.2 = 0.5.
+Answer: C
+------------------------
+195. ------------------------
+Reasoning: The probabilities of all possible values of X must add up to one in a discrete probability distribution to ensure that all possible outcomes are accounted for and the distribution is valid.
+Answer: C
+------------------------
+196. ------------------------
+Reasoning: A smaller sample size leads to a larger margin of error, resulting in a wider confidence interval.
+Answer: A
+------------------------
+197. ------------------------
+Reasoning: Converting the units of measurement from inches to centimeters does not change the relationship between height and weight, so the correlation coefficient will remain the same.
+Answer: D
+------------------------
+198. ------------------------
+Reasoning: The confidence level of 95% is commonly used in statistical analysis, providing a balance between being confident in the results and allowing for a margin of error. A larger sample size of 40 new homes increases the reliability of the estimate. 
+Answer: C
+------------------------
+199. ------------------------
+Reasoning: The P-value in this hypothesis test represents the probability of observing a sample proportion as extreme as 0.35 or more in favor of the alternative hypothesis, given that the null hypothesis is true. With a sample size of 95, the power of the test is increased, leading to a smaller P-value. The significance level typically used is 0.05. 
+Answer: B
+------------------------
+200. ------------------------
+Reasoning: The correct answer should state that the probability of both events A and B occurring is equal to the product of their individual probabilities because independent events in probability theory are defined as events where the occurrence of one event does not affect the occurrence of the other event.
+Answer: A
+------------------------
+201. ------------------------
+Reasoning: The correct answer should involve random assignment and control groups, aligning with the principles of experimental design in educational research.
+Answer: B
+------------------------
+202. ------------------------
+Reasoning: A P-value is the probability of getting a test statistic at least as extreme as the observed test statistic, if the null hypothesis is true. This aligns with the definition and calculation of a P-value in statistical analysis and hypothesis testing.
+Answer: D
+------------------------
+203. ------------------------
+Reasoning: The standard deviation of the total student costs can be calculated by summing up the variances of each cost category and taking the square root of the result because the standard deviation of the total is the square root of the sum of the variances of the individual costs due to independence among categories.
+Answer: C
+------------------------
+204. ------------------------
+Reasoning: The correlation coefficient of 0.30 indicates a moderate positive relationship between self-efficacy and job satisfaction among teachers, meaning that as self-efficacy increases, job satisfaction tends to increase as well.
+Answer: A
+------------------------
+205. ------------------------
+Reasoning: The expected value of the sum of two random variables X + Y is equal to E(X) + E(Y), which is 312 + 307 = 619. The variance of the sum of two random variables X + Y is equal to var(X) + var(Y), which is 6 + 8 = 14.
+Answer: C
+------------------------
+206. ------------------------
+Reasoning: The false statement would involve an element that is not present in both sets X and Y. The element 35 is present in set Y but not in set X, making it the false statement.
+Answer: C
+------------------------
+207. ------------------------
+Reasoning: In a well-designed, well-conducted sample survey, sampling error is effectively eliminated is a true statement because a well-designed survey aims to minimize sampling error through proper sampling techniques and methodologies.
+Answer: A
+------------------------
+208. ------------------------
+Reasoning: The statement "She has good evidence of a linear relationship between the variables" is true because the confidence interval for the slope does not include zero, indicating a statistically significant relationship.
+Answer: D
+------------------------
+209. Reasoning: A larger sample size is needed to provide a reliable estimate of the true proportion with a 90 percent confidence level and a margin of error of at most 0.08.
+Answer: C
+210. ------------------------
+Reasoning: A correlation of 0.6 explains twice as much variation in y compared to a correlation of 0.3, making the percentage of variation in y explained by a correlation of 0.6 two times higher.
+Answer: A
+------------------------
+211. ------------------------
+Reasoning: A census is appropriate when detailed and accurate demographic information is required, making it necessary for resource allocation, policy-making, and planning for public services. This aligns with the need for a 95% confidence interval of the proportion of students in a small town who are taking some AP class, as it requires comprehensive data on the student population.
+Answer: B
+------------------------
+212. ------------------------
+Reasoning: The power of a significance test refers to the probability of correctly rejecting a false null hypothesis (i.e., detecting a true effect). This is crucial to ensure that a study has enough power to detect a meaningful effect if it truly exists.
+Answer: D
+------------------------
+213. ------------------------
+Reasoning: Failing to reject the null hypothesis (H0) when it is false, meaning that the study concludes that Heartaid is not more effective than the current medication when it actually is, leading to patients not receiving the most effective treatment for preventing heart disease.
+Answer: C
+------------------------
+214. ------------------------
+Reasoning: The second class has a higher average score and a narrower score distribution compared to the first class because the score at the 80th percentile in the second class is higher than the score at the 40th percentile in the first class, indicating that students in the second class performed better overall.
+Answer: B
+------------------------
+215. ------------------------
+Reasoning: The z-score of -2.46 and the low P-value of 0.0069 indicate a statistically significant difference between the mean thrust values before and after the production process change, suggesting that the new process is producing engines with a mean thrust under 9500 pounds.
+Answer: D
+------------------------
+216. ------------------------
+Reasoning: Influential points in statistical analysis are data points that have a significant impact on the results of regression analysis, affecting the slope and correlation coefficient. The removal of the point (15,2) caused a drastic change in both the slope and correlation coefficient, indicating it is an influential point.
+Answer: D
+------------------------

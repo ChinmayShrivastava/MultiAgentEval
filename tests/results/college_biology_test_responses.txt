@@ -1,0 +1,575 @@
+1. ------------------------
+Reasoning: The most effective means of controlling the mosquito population is to target the peak of the population curve, which corresponds to the highest population density and vulnerability to control measures.
+Answer: A
+------------------------
+2. ------------------------
+Reasoning: Frameshift mutations occur when nucleotides are inserted or deleted in a DNA sequence, causing a shift in the reading frame of the gene, resulting in a completely different amino acid sequence being produced during translation.
+Answer: C
+------------------------
+3. ------------------------
+Reasoning: The fluid secreted by terrestrial vertebrates to protect their embryos from desiccation and injury is typically viscous and provides a protective barrier, helping prevent dehydration and physical damage to the developing embryos.
+Answer: A
+------------------------
+4. ------------------------
+Reasoning: Inositol triphosphate (IP3) is a well-established second messenger that is known to stimulate the release of calcium ions into the cytoplasm, making it the correct answer in this context.
+Answer: B
+------------------------
+5. ------------------------
+Reasoning: The correct answer should involve enzymes that can synthesize both RNA and DNA, which are necessary for the synthesis of an RNA/DNA hybrid. Among the options provided, only option A includes a DNA or RNA primer and reverse transcriptase, which can fulfill this requirement.
+Answer: A
+------------------------
+6. ------------------------
+Reasoning: Genes being exchanged with other populations violates the principle of genetic equilibrium required for the Hardy-Weinberg law to operate.
+Answer: A
+------------------------
+7. ------------------------
+Reasoning: The Barr body found within female mammalian cells' nuclei is a condensed, inactive X chromosome formed as a result of X chromosome inactivation to ensure proper gene dosage compensation. This structure is specific to female cells and plays a crucial role in regulating gene expression. Therefore, the correct answer is related to X chromosome inactivation.
+Answer: B
+------------------------
+8. ------------------------
+Reasoning: Photosynthesis is a process that removes carbon dioxide from the atmosphere, not a source that adds carbon to it.
+Answer: B
+------------------------
+9. ------------------------
+Reasoning: The theory of punctuated equilibrium, proposed by Stephen Jay Gould and Niles Eldredge in the 1970s, suggests that evolution occurs in short bursts of rapid change followed by long periods of stability. This aligns with the description of bursts of speciation followed by relatively unchanging lineages.
+Answer: D
+------------------------
+10. ------------------------
+Reasoning: When an influenza virus enters a cell, it needs to replicate its genetic material and synthesize viral proteins to spread and infect other cells. This process is crucial for the virus's survival and propagation.
+Answer: C
+------------------------
+11. ------------------------
+Reasoning: Cleavage symmetry arising from early cell divisions at an oblique angle to the polar axis ensures proper distribution of cytoplasmic components and organelles to daughter cells, leading to successful development and differentiation.
+Answer: C
+------------------------
+12. ------------------------
+Reasoning: The protein is targeted to both the endoplasmic reticulum (ER) and the mitochondria because different organelles have distinct targeting mechanisms that require specific signal peptides for accurate localization.
+Answer: A
+------------------------
+13. ------------------------
+Reasoning: The increase in mange mite population sizes will likely lead to a decrease in red fox populations due to the fatal parasite affecting the foxes. With fewer foxes preying on them, hare populations are likely to increase as they are released from predation pressure by their main predator.
+Answer: C
+------------------------
+14. ------------------------
+Reasoning: DNA carries the genetic information necessary for cell function and replication, proteins play a crucial role in regulating gene expression and maintaining the structural integrity of the nucleus, and RNA is essential for gene expression regulation within the nucleus.
+Answer: D
+------------------------
+15. Reasoning: The presence of proteins similar to TBP and TFIIB in Archaea suggests a closer relationship to Eukarya in terms of transcription factors, indicating a potential common ancestry between Archaea and Eukarya.
+Answer: A
+16. ------------------------
+Reasoning: The release of proteolytic enzymes in response to a rise in intracellular free calcium in sea urchin oocytes is crucial for preventing polyspermy, which is the fertilization of an egg by multiple sperm. This mechanism helps to block additional sperm from fertilizing the egg, ensuring only one sperm successfully fertilizes the egg, contributing to successful fertilization.
+Answer: C
+------------------------
+17. ------------------------
+Reasoning: Mycorrhizal fungi provide access to phosphorus, an essential element that is limited in many kinds of soils, which is crucial for plant growth and development.
+Answer: C
+------------------------
+18. ------------------------
+Reasoning: The experiment showed that when a young male bird reared in isolation hears only the song of a different bird species, he develops an adult song repertoire that lacks certain characteristics typical of his own species. This indicates that the song of his species is influenced by learning during development rather than being entirely instinctive or dependent upon hormones. 
+Answer: A
+------------------------
+19. ------------------------
+Reasoning: Retrotransposons are characterized by their ability to transpose via an RNA intermediate, which is then reverse transcribed into DNA and integrated back into the genome, setting them apart from other transposable elements.
+Answer: C
+------------------------
+20. ------------------------
+Reasoning: The tropical rainforest biome has high levels of rainfall, warm temperatures, high plant diversity, deep-rooted plants, and rapid decomposition rates, all of which contribute to a high rate of leaching and cycling of nutrients in the soil.
+Answer: A
+------------------------
+21. ------------------------
+Reasoning: Enzymes lower the activation energy required for a reaction to occur by stabilizing transition states and bringing reactants closer together, making it easier for the reaction to proceed.
+Answer: D
+------------------------
+22. ------------------------
+Reasoning: The point at which natality and mortality rates are equal signifies a stable population size, indicating zero population growth.
+Answer: C
+------------------------
+23. ------------------------
+Reasoning: The wings of a bat and the wings of a butterfly are dissimilar in form and function, as bats have wings made of skin stretched over elongated finger bones for powered flight, while butterflies have wings made of thin membranes supported by veins for gliding and fluttering flight.
+Answer: D
+------------------------
+24. ------------------------
+Reasoning: The pith tissue in a dicot stem is responsible for storing and transporting nutrients and water, which aligns with the characteristics of parenchyma cells. Additionally, parenchyma cells are centrally located, have large vacuoles, and thin cell walls, which are typical features of pith tissue.
+Answer: A
+------------------------
+25. ------------------------
+Reasoning: Transposons have the ability to move within a genome and insert themselves into the host DNA, leading to genetic variation and potential evolutionary changes.
+Answer: D
+------------------------
+26. ------------------------
+Reasoning: The process described where pioneer species colonize a bare substrate such as rock, sand, or glacial till is known as primary succession, which involves the initial colonization of an area by hardy and adaptable species that can withstand harsh conditions, preparing the area for the arrival of other plant species and facilitating the process of succession.
+Answer: D
+------------------------
+27. ------------------------
+Reasoning: The genes that allow the host bird species to be duped into rearing the cuckoo fledglings to the detriment of their own offspring most likely remain in the gene pool of the population because this behavior provides a significant evolutionary advantage for the brood parasites. By tricking other bird species into rearing their young, brood parasites like the cuckoo increase their chances of successful reproduction and passing on their genes to future generations. This ultimately leads to the long-term survival and reproductive success of the brood parasites, allowing these genes to persist in the gene pool of the population.
+Answer: B
+------------------------
+28. ------------------------
+Reasoning: Clathrin is not typically associated with cell motility in cultured fibroblasts, as it is primarily involved in endocytosis processes rather than cell movement.
+Answer: C
+------------------------
+29. ------------------------
+Reasoning: According to Hamilton's rule, an altruistic trait can evolve if c < br, where c is the fitness cost of the altruistic behavior to the donor, b is the fitness benefit to the recipient, and r is the coefficient of relatedness. The relatedness coefficient (r) plays a crucial role in determining the genetic relatedness between the donor and recipient, influencing the evolution of altruistic traits. 
+Answer: A
+------------------------
+30. ------------------------
+Reasoning: The adaptations of plants to minimize water loss in environments with high temperatures include features such as thick cuticles, reduced stomata, and deep root systems. Therefore, the correct answer is not A (Numerous stomata), B (Thin cuticles), or C (Spines instead of leaves). The correct answer is D (Large surface-to-volume ratios) as it aligns with the characteristics that help plants retain water and minimize transpiration in hot environments.
+Answer: D
+------------------------
+31. ------------------------
+Reasoning: Thrombin is not a component commonly found in connective tissue, unlike glycosaminoglycans, collagens, and fibroblasts which are typical components. Thrombin is an enzyme involved in blood clotting and is not a structural component of connective tissue.
+Answer: A
+------------------------
+32. ------------------------
+Reasoning: The entire genetic information possessed by the original zygote is typically found in normal somatic cells of a human male, so this is not the correct answer. An inactivated X chromosome is not present in male somatic cells, making option B incorrect. Forty-four autosomes are present in normal somatic cells of a human male, so this is not the correct answer. A diploid nucleus is typically found in normal somatic cells of a human male, as they have two sets of chromosomes, including one X and one Y chromosome.
+Answer: D
+------------------------
+33. ------------------------
+Reasoning: The treetop-nesting birds are utilizing their fundamental niche only by nesting in the treetops due to the presence of the more aggressive bird species on the cliff ledges.
+Answer: A
+------------------------
+34. ------------------------
+Reasoning: High competitive ability is not a typical characteristic of r-selected species, as they prioritize rapid reproduction and high population growth rates over competition. 
+Answer: D
+------------------------
+35. ------------------------
+Reasoning: The complementary sequence should have GCT AAC because in DNA, adenine pairs with thymine and cytosine pairs with guanine. Therefore, the complementary sequence for 5′ CGA TTG 3′ would be 3′ GCT AAC 5′.
+Answer: B
+------------------------
+36. ------------------------
+Reasoning: The alternation of generations in ferns involves a dominant sporophyte alternating with an independent gametophyte, allowing for genetic recombination and increased genetic diversity.
+Answer: A
+------------------------
+37. ------------------------
+Reasoning: The statement that describes the arrangement of actin and myosin filaments accurately in a sarcomere of a striated muscle is the correct answer based on the structure of the sarcomere and its role in muscle contraction.
+Answer: D
+------------------------
+38. ------------------------
+Reasoning: The experiment that best tests the hypothesis that ants defend the plant by either killing or chasing away leaf-feeding insects is to remove leaf-feeding insects and measure subsequent ant density. This experiment directly assesses the response of aggressive ants towards the absence of leaf-feeding insects, providing evidence of their defensive behavior.
+Answer: D
+------------------------
+39. ------------------------
+Reasoning: Ommatidia in the sight organs of crustaceans and insects work as individual visual units that detect light and form images, making up the compound eyes of these organisms.
+Answer: C
+------------------------
+40. ------------------------
+Reasoning: An early human embryo having features in common with early fish and avian embryos is a reflection of the evolutionary history and shared ancestry among vertebrates. This concept is known as evolutionary conservation, where certain developmental features are retained across different species. Therefore, this conclusion aligns with the understanding of vertebrate development from zygote to fetus.
+Answer: C
+------------------------
+41. ------------------------
+Reasoning: Stem-boring beetle larvae typically feed on the xylem tissue first, followed by the phloem, and finally the cambium tissues. This feeding pattern aligns with option D, where the larvae would encounter pith, primary xylem, secondary xylem, vascular cambium, secondary phloem, primary phloem, and cortex in that order.
+Answer: D
+------------------------
+42. ------------------------
+Reasoning: Low-speed centrifugation separates particles based on their density, where particles with higher density sediment faster. Nuclei and secretory vesicles have different densities and can form distinct layers in the centrifuge tube, allowing them to be effectively separated by low-speed centrifugation.
+Answer: B
+------------------------
+43. ------------------------
+Reasoning: Increasing the total surface area available for diffusion allows for more efficient gas exchange between the alveoli and the blood, leading to an increased rate of diffusion.
+Answer: C
+------------------------
+44. ------------------------
+Reasoning: The structures responsible for gas exchange in woody stems are stomata and lenticels, making option A (lenticels) the correct answer.
+Answer: A
+------------------------
+45. ------------------------
+Reasoning: The option that does not involve a direct interaction with natural enemies is masting (synchronous fruiting), making it the correct answer.
+Answer: C
+------------------------
+46. ------------------------
+Reasoning: Introns are non-coding regions of DNA that are removed during RNA processing, so the characteristic of not being involved in protein synthesis or coding for proteins is key. 
+Answer: A
+------------------------
+47. ------------------------
+Reasoning: Hyperventilation leads to a decrease in carbon dioxide levels in the blood, causing respiratory alkalosis and a shift towards a more alkaline pH. This results in a decrease in partial pressure of carbon dioxide and an increase in concentration of hydrogen ions.
+Answer: A
+------------------------
+48. ------------------------
+Reasoning: The correct anatomical order of structures in the mammalian female reproductive tract typically starts with the ovary, followed by the oviduct (fallopian tube), then the uterus, and finally the vagina. This sequence reflects the pathway of the egg from ovary to uterus for fertilization.
+Answer: C
+------------------------
+49. ------------------------
+Reasoning: The correct answer should be a marine ecosystem region characterized by high levels of sunlight exposure and nutrient upwelling, supporting the growth of phytoplankton and other primary producers, leading to a thriving ecosystem with high biodiversity and productivity.
+Answer: B
+------------------------
+50. ------------------------
+Reasoning: Thymine dimers are the most common type of DNA damage caused by UV radiation, and individuals with xeroderma pigmentosum (XP) lack the ability to repair them, leading to their accumulation in the DNA.
+Answer: A
+------------------------
+51. ------------------------
+Reasoning: Chemosynthetic bacteria derive energy by oxidizing inorganic substances such as ammonia, sulfur, or hydrogen, which is a characteristic mechanism for their energy production.
+Answer: A
+------------------------
+52. ------------------------
+Reasoning: Acetylcholine is a neurotransmitter that acts at synapses in the nervous system and neuromuscular junctions, but it does not serve as an intracellular messenger within cells.
+Answer: C
+------------------------
+53. ------------------------
+Reasoning: When considering the perspective of comparing plant and animal embryogenesis, option C stands out as it mentions a stage that is specific to animal embryogenesis, not plant embryogenesis.
+Answer: C
+------------------------
+54. ------------------------
+Reasoning: The experimental observation that would be unexpected in this context is the one that does not involve the acrosomal reaction of sperm upon binding to ZP3. Option D, coating synthetic beads with a different glycoprotein, ZP2, fails to lead to sperm aggregation on the beads, does not directly relate to the acrosomal reaction process.
+Answer: D
+------------------------
+55. ------------------------
+Reasoning: Asexual reproduction does not involve recombination, which is essential for breaking down linkage disequilibrium. Therefore, it does not promote linkage disequilibrium.
+Answer: A
+------------------------
+56. ------------------------
+Reasoning: The blastomere with the gray crescent will develop into the dorsal side of the embryo while the other blastomere will develop into the ventral side because the gray crescent is responsible for establishing the dorsal-ventral axis in amphibian embryos.
+Answer: B
+------------------------
+57. ------------------------
+Reasoning: Cytochalasin B disrupts actin polymerization, which is essential for the extension and retraction of microspikes in the growth cone of a developing neuron, ultimately affecting the movement of the growth cone forward.
+Answer: D
+------------------------
+58. ------------------------
+Reasoning: Monoclonal antisera are produced from a single clone of B cells, resulting in antibodies that are identical and specific to a single epitope, while polyclonal antisera are produced from multiple clones of B cells, resulting in a mixture of antibodies that recognize multiple epitopes.
+Answer: C
+------------------------
+59. ------------------------
+Reasoning: The correct answer should be an early group of animals that developed lung tissue to support their respiratory requirements without the need for supplementary gas exchange organs and adapted to terrestrial environments. Reptiles fit these criteria as they were one of the first groups to evolve efficient lung tissue for respiration.
+Answer: B
+------------------------
+60. ------------------------
+Reasoning: The biological attribute that would most likely allow a species to become cosmopolitan in distribution is the capacity for long-distance dispersal, as it enables the species to reach and establish populations in diverse habitats across different regions.
+Answer: D
+------------------------
+61. ------------------------
+Reasoning: The correct answer should be a simple, essential component that would have likely been present in the prebiotic environment and necessary for the initial formation of cells.
+Answer: B
+------------------------
+62. ------------------------
+Reasoning: The fact that there exist fossilized remains of species that have become extinct was established prior to 1859 and contributed to the understanding of evolution through evidence from fossil records, which was a key component in shaping Darwin's theory of evolution.
+Answer: D
+------------------------
+63. ------------------------
+Reasoning: Fungi do not participate in photosynthesis to produce glucose as they are heterotrophic organisms that rely on external sources of organic carbon for energy. 
+Answer: A
+------------------------
+64. ------------------------
+Reasoning: The protein must cross two membrane bilayers, the outer and inner membranes of the chloroplast, to reach its final location in the lumen of the thylakoid.
+Answer: B
+------------------------
+65. ------------------------
+Reasoning: The transfer of blood volume equivalent to ventricular stroke volume from the more compliant venous side to the less compliant arterial side during the cardiac cycle would result in an increase in arterial pressure and a decrease in venous pressure. This is because the less compliant arterial side would experience a large increase in pressure due to the influx of blood volume, while the more compliant venous side would see a decrease in pressure as blood is transferred out. 
+Answer: C
+------------------------
+66. ------------------------
+Reasoning: The correct statement regarding the Golgi apparatus is that glycosylation of certain secretory proteins occurs prior to the protein's entry into its lumen. This is a key function of the Golgi apparatus in modifying proteins before they are transported to their final destinations.
+Answer: D
+------------------------
+67. ------------------------
+Reasoning: Monocot plants have a unique feature called Casparian strips in their endodermis cells, which are impermeable to water and force water to pass through the cytoplasm of the cells before entering the xylem.
+Answer: D
+------------------------
+68. ------------------------
+Reasoning: Xylem vessel members are specialized plant cells that undergo programmed cell death to become functional as part of the plant's water transport system.
+Answer: B
+------------------------
+69. ------------------------
+Reasoning: Angiosperms are distinguished from gymnosperms by having seeds enclosed in ovaries, which is a key characteristic that sets them apart in terms of reproductive structures.
+Answer: D
+------------------------
+70. ------------------------
+Reasoning: Cliff nesting may be adaptive in this goose species if the survival rates of chicks from cliff nests are higher compared to those from beach nests. This could be due to the fact that cliff nesting provides better protection from predators, as it may be more difficult for predators to access the nests on cliffs compared to those on beaches. Additionally, cliff nesting may also provide easier access to the ocean for the chicks, as they can simply tumble down the cliff to reach the water, whereas chicks from beach nests may have to navigate through other obstacles. Overall, if the survival rates of chicks from cliff nests are higher, it suggests that cliff nesting is adaptive in this goose species.
+Answer: D
+------------------------
+71. ------------------------
+Reasoning: Antibodies with epsilon heavy chains, also known as IgE antibodies, are specifically designed to bind to allergens and trigger allergic reactions. They are also crucial in defense against parasites. Therefore, the correct answer should be located on the plasma membranes of mast cells and basophilic leukocytes, as these are the cells involved in allergic responses and defense against parasites.
+Answer: A
+------------------------
+72. ------------------------
+Reasoning: The fluorescent molecule of 1,000 daltons is relatively small, suggesting it can pass through the cell membrane via simple diffusion. Additionally, the molecule is observed to enter an adjacent cell without the need for specific transport proteins or channels, indicating passive diffusion. 
+Answer: C
+------------------------
+73. ------------------------
+Reasoning: Annelids and arthropods both exhibit a segmented body plan, which is a key characteristic shared between the two phyla.
+Answer: A
+------------------------
+74. ------------------------
+Reasoning: The correct answer should be a small fraction of the total size of the human genome because only a small percentage of the human genome actually encodes proteins.
+Answer: A
+------------------------
+75. ------------------------
+Reasoning: Air provides more physical support compared to water due to its lower density, which results in buoyancy and pressure differences.
+Answer: A
+------------------------
+76. ------------------------
+Reasoning: Organisms belonging to the kingdom Protista are eukaryotic, which is a defining characteristic of this group.
+Answer: A
+------------------------
+77. ------------------------
+Reasoning: The correct answer should have characteristics that indicate a mechanism for stable attachment of the spindle fibers to the chromosome, which is essential for accurate segregation of genetic material during cell division.
+Answer: C
+------------------------
+78. ------------------------
+Reasoning: Vines or climbers that naturally attach themselves to structures like trellises and grow vertically exhibit thigmotropism.
+Answer: A
+------------------------
+79. ------------------------
+Reasoning: Enzyme structure is not significantly altered by pH changes, allowing it to maintain constant activity over a broad range of pH values.
+Answer: A
+------------------------
+80. ------------------------
+Reasoning: The correct answer should be 1 tall violet: 1 dwarf white because when a tall violet plant (DDWw) is crossed with a dwarf white plant (ddww), the possible genotypes of the offspring are DdWw, DDww, Ddww, and ddWw. This results in a 1:1 phenotypic ratio of tall violet plants to dwarf white plants.
+Answer: B
+------------------------
+81. ------------------------
+Reasoning: Cancer cells, like normal cells, require a surface for attachment in order to grow, exhibit uncontrolled growth, and have the ability to divide indefinitely.
+Answer: C
+------------------------
+82. ------------------------
+Reasoning: The technique commonly used to demonstrate protein binding to specific DNA sequences is the Electrophoretic mobility shift assay (EMSA).
+Answer: D
+------------------------
+83. ------------------------
+Reasoning: The parathyroid hormone (PTH) is crucial in regulating calcium levels in the body, making it the correct answer.
+Answer: D
+------------------------
+84. ------------------------
+Reasoning: Ornithine is regenerated during each turn of the urea cycle in a similar manner to oxaloacetate in the citric acid cycle, as both are involved in cycles and undergo a similar regeneration process.
+Answer: C
+------------------------
+85. ------------------------
+Reasoning: Angiosperms have the unique ability to form mutualistic relationships with pollinators and seed dispersers, which is crucial for their reproductive success and diversity.
+Answer: D
+------------------------
+86. ------------------------
+Reasoning: Homeostasis is the process by which an organism maintains a stable internal environment despite external changes. Metabolic rate is not a parameter that mammals actively regulate to maintain homeostasis.
+Answer: D
+------------------------
+87. ------------------------
+Reasoning: The crouching of very young birds in response to a predator's shape overhead is an instinctual response and a natural survival instinct to protect themselves from potential danger, indicating a fixed action pattern.
+Answer: B
+------------------------
+88. ------------------------
+Reasoning: A high degree of sexual dimorphism in primates usually indicates intense competition between males in order to obtain mates.
+Answer: B
+------------------------
+89. ------------------------
+Reasoning: The tissue with the highest rate of oxygen production in an actively photosynthesizing plant would be the palisade mesophyll due to its high chlorophyll content and proximity to the light source, making it more efficient at capturing light energy for photosynthesis.
+Answer: B
+------------------------
+90. ------------------------
+Reasoning: The interior of the pollen grains had a higher osmotic pressure than did the surrounding environment, leading to the release of starch granules due to osmotic shock.
+Answer: B
+------------------------
+91. ------------------------
+Reasoning: Chromosome number doubling in hybrid plants results in increased fertility and potential for reproduction because it allows for proper pairing of chromosomes during meiosis, ensuring the descendants have a higher chance of producing viable gametes and offspring.
+Answer: D
+------------------------
+92. ------------------------
+Reasoning: Phalloidin specifically binds to actin subunits and disrupts actin function, affecting structures involved in actin polymerization or actin cytoskeleton organization.
+Answer: C
+------------------------
+93. ------------------------
+Reasoning: Genetic drift, random mating, and absence of selection are all assumptions of Hardy-Weinberg equilibrium. However, genetic drift is not an assumption but rather a factor that can disrupt the equilibrium. 
+Answer: B
+------------------------
+94. ------------------------
+Reasoning: The statement "B. They all have rigid cell walls" is not true as not all fungi have rigid cell walls, some have flexible cell walls or lack cell walls altogether.
+Answer: B
+------------------------
+95. ------------------------
+Reasoning: The src oncogene encodes for a protein kinase that catalyzes the specific addition of phosphate groups to cellular proteins.
+Answer: D
+------------------------
+96. ------------------------
+Reasoning: C4 plants fix CO2 in the mesophyll but carry out the Calvin cycle in the bundle sheath, while CAM plants fix CO2 and carry out the Calvin cycle in the mesophyll. This accurately describes the spatial separation of processes in C4 plants and the temporal separation in CAM plants, aligning with the physiological and biochemical strategies employed by each type of plant to reduce photorespiration.
+Answer: B
+------------------------
+97. ------------------------
+Reasoning: The correct sequence of membranes of the chloroplast begins with the thylakoid membrane, followed by the inner membrane, and ending with the outer membrane based on the functions and roles of each membrane within the chloroplast.
+Answer: A
+------------------------
+98. ------------------------
+Reasoning: Reverse transcriptase is not a target of antibiotics as it is an enzyme found in retroviruses, not bacterial cells.
+Answer: D
+------------------------
+99. ------------------------
+Reasoning: The polytene chromosomes in Drosophila silvarentis are known for their characteristic banding pattern due to multiple rounds of DNA replication without cell division, making them visible as large, distinct bands under a light microscope.
+Answer: D
+------------------------
+100. ------------------------
+Reasoning: Colchicine is known to disrupt the normal process of cell division and cause an increase in the number of chromosome sets, leading to polyploidy in dividing eukaryotes.
+Answer: B
+------------------------
+101. ------------------------
+Reasoning: When considering the structural differences between mitochondria and chloroplasts, it is evident that mitochondria are generally smaller in size compared to chloroplasts. This is because mitochondria need to be closer to the cell's energy source for cellular respiration, while chloroplasts are larger and contain chlorophyll for photosynthesis. Therefore, the statement that plants have both chloroplasts and mitochondria is generally true.
+Answer: D
+------------------------
+102. ------------------------
+Reasoning: When considering the structural differences between cyanobacteria and green unicellular algae, the key distinction lies in the fact that cyanobacteria have prokaryotic cells with no membrane-bound organelles, while green unicellular algae have eukaryotic cells with membrane-bound organelles such as a nucleus and chloroplasts. This fundamental difference in cell structure points to the correct answer.
+Answer: C
+------------------------
+103. ------------------------
+Reasoning: Hydrogen bonding between the peptide backbone atoms is crucial for stabilizing the unique coiled structure of an alpha helix in a protein.
+Answer: A
+------------------------
+104. ------------------------
+Reasoning: DNase is an enzyme that specifically targets and cleaves DNA molecules, so the correct target of digestion of a nucleosome dimer to nucleosome monomers by DNase would be the linker DNA.
+Answer: D
+------------------------
+105. ------------------------
+Reasoning: The characteristics described in the information align with those of archaea, which are thermophilic, methanogenic, and have isoprenylglycerol ethers in their membranes. 
+Answer: D
+------------------------
+106. ------------------------
+Reasoning: In order to identify the environmental conditions that do not increase the rate of transpiration in plants, we need to look for options that either do not have any effect on the plant's water loss process or have been found to decrease the rate of transpiration. By eliminating options that do not lead to an increase in transpiration rate, we can identify the correct answer that aligns with the perspective of finding conditions with neutral or decreasing effects on transpiration.
+------------------------
+Answer: B
+------------------------
+107. ------------------------
+Reasoning: The statement "The presence of yolk inhibits cleavage" is inconsistent with the known stages of embryonic cleavage as yolk does not inhibit cleavage but rather influences the type of cleavage. 
+Answer: A
+------------------------
+108. ------------------------
+Reasoning: The correct answer involves the production of ATP through cyclic electron flow in photosystem I, as it generates ATP without producing NADPH.
+Answer: A
+------------------------
+109. ------------------------
+Reasoning: Marine birds need to actively remove excess salt to prevent dehydration and maintain osmolarity in a hyperosmotic environment like seawater. The physiological strategy that involves absorbing salts from the environment through specialized salt-exchange glands and producing large volumes of concentrated urine in the kidneys best explains how the birds maintain their tissue osmolarity.
+Answer: B
+------------------------
+110. ------------------------
+Reasoning: The small litter sizes of this particular species of rodent may be due to their specialized diet of seeds from only one species of pine, which may not provide enough nutrients for larger litters. This indicates a limited food source and specialized diet, leading to smaller litter sizes compared to other rodents with more varied diets.
+Answer: B
+------------------------
+111. ------------------------
+Reasoning: The source that makes the greatest contribution to the dry mass of organic matter in an oak tree is the one that provides essential elements for growth and development, such as carbon dioxide from the air, water from the soil, and nutrients from the roots. These sources are crucial for photosynthesis, which is the primary process through which plants convert sunlight into energy to produce organic matter. 
+Answer: C
+------------------------
+112. ------------------------
+Reasoning: The correct answer must involve changes in allele frequencies in a population's gene pool over successive generations, which aligns with genetic variation and natural selection being key components of evolution.
+Answer: A
+------------------------
+113. ------------------------
+Reasoning: The optimality theory in evolutionary biology suggests that traits are shaped by natural selection to maximize an individual's fitness and adaptability in a given environment. This means that traits that provide a reproductive advantage to individuals with those traits are more likely to be passed on to future generations. Therefore, the correct answer should reflect this idea of traits being shaped by evolutionary pressures to maximize fitness and adaptability.
+Answer: B
+------------------------
+114. ------------------------
+Reasoning: Nearly all of the enzyme molecules are interacting with acetaldehyde molecules at the maximal rate of reaction because the enzyme is saturated with substrate, leading to the maximum possible rate of conversion.
+Answer: A
+------------------------
+115. ------------------------
+Reasoning: Mutations in DNA can lead to changes in the amino acid sequence of a protein, affecting its folding and function, ultimately resulting in the expression of a new phenotype. The correct answer should explain this process.
+Answer: A
+------------------------
+116. ------------------------
+Reasoning: Competitive inhibitors work by binding to the active site of the enzyme, preventing the substrate from binding and carrying out its normal function. This competition for the active site is what characterizes competitive inhibition.
+Answer: C
+------------------------
+117. ------------------------
+Reasoning: The firing rate of action potentials varies with the stimulus intensity because neurons communicate information through changes in their firing rate.
+Answer: C
+------------------------
+118. ------------------------
+Reasoning: The availability of water and warm temperatures in the tropics fosters photosynthesis, leading to increased plant growth and net primary productivity.
+Answer: C
+------------------------
+119. ------------------------
+Reasoning: The integration of mouse cell-surface proteins and human cell-surface proteins along a fused plasma membrane suggests that cell fusion techniques were employed in the experiment to create a hybrid plasma membrane. This technique allows for the physical merging of different cell types, enabling the observation of protein movement across different cell membranes.
+Answer: B
+------------------------
+120. ------------------------
+Reasoning: Gene flow between populations involves the movement of individuals between populations, leading to an increase in genetic homogeneity in the metapopulation.
+Answer: A
+------------------------
+121. ------------------------
+Reasoning: The subunit of DNA and protein consisting of 134-base-pair long stretches of DNA surrounding a protein octomer is called a nucleosome, which accurately describes the specific structure and function of this unit in DNA packaging and gene regulation.
+Answer: C
+------------------------
+122. ------------------------
+Reasoning: Photoperiod is the most dependable environmental signal that a plant in a temperate ecosystem could use to initiate flowering at the correct time of the year, as plants in temperate regions rely on day length as a cue to trigger flowering.
+Answer: B
+------------------------
+123. ------------------------
+Reasoning: The low external pH disrupts the proton gradient by increasing the concentration of protons outside the mitochondria, negatively affecting ATP production. Proton pumps are essential for ATP synthesis in mitochondria and work more efficiently under acidic conditions.
+Answer: A
+------------------------
+124. ------------------------
+Reasoning: Nekton organisms are defined by their ability to actively swim and move independently in aquatic environments, unlike plankton or benthos. Among the options provided, a whale fits the description of an active swimmer capable of independent movement in aquatic environments, making it a nekton organism.
+Answer: A
+------------------------
+125. ------------------------
+Reasoning: Fixed action patterns are innate, stereotyped behaviors triggered by specific stimuli and once initiated, run to completion. The correct answer should reflect these characteristics.
+Answer: A
+------------------------
+126. ------------------------
+Reasoning: A flower with a tubular shape and bright colors would limit pollination by bees and promote hummingbird pollination.
+Answer: C
+------------------------
+127. ------------------------
+Reasoning: Double fertilization in flowering plants is a unique process where one sperm unites with the egg to form a zygote, and the other sperm unites with the polar nuclei to initiate the formation of endosperm, which provides nutrients for the developing embryo. This process is essential for seed development and is efficient in allocating resources properly. 
+Answer: D
+------------------------
+128. ------------------------
+Reasoning: Mutations in homeotic cluster genes in Drosophila are known to result in the transformation of one segment into another, affecting the normal body segment identity.
+Answer: B
+------------------------
+129. ------------------------
+Reasoning: Root pressure is primarily driven by the accumulation of solutes in the root cells, leading to a decrease in water potential and subsequent movement of water into the roots through osmosis.
+Answer: C
+------------------------
+130. ------------------------
+Reasoning: Adhesion plaques are not involved in the internalization process of low density lipoprotein-cholesterol complexes in cellular uptake of cholesterol.
+Answer: B
+------------------------
+131. ------------------------
+Reasoning: Xylem vessels are specialized for long-distance water and mineral transport in plants due to their efficient structure and function, making them suitable for providing support and conducting water and minerals.
+Answer: C
+------------------------
+132. ------------------------
+Reasoning: Juxtamedullary nephrons in the mammalian kidney allow the organism to produce hyperosmotic urine, which is a crucial function of excretory organs in maintaining homeostasis by regulating fluid balance.
+Answer: D
+------------------------
+133. ------------------------
+Reasoning: Batesian mimicry involves a harmless species evolving to mimic the appearance of a harmful or unpalatable species in order to gain protection from predators. The option that best fits this description is C, where a moth exhibits nearly identical coloration to that of a stinging bee.
+Answer: C
+------------------------
+134. ------------------------
+Reasoning: Keystone species are crucial in maintaining the balance and biodiversity within an ecosystem, regulating the population of other species and impacting the overall health and stability of the community. They prevent the dominance of certain species and promote the coexistence of a variety of species, contributing to the overall health and stability of the ecosystem.
+Answer: B
+------------------------
+135. ------------------------
+Reasoning: The correct answer should have the characteristics of high mutation rate, maternal inheritance, and lack of recombination, which are essential for studying the relatedness of animal populations using mitochondrial DNA.
+Answer: B
+------------------------
+136. ------------------------
+Reasoning: The quote suggests that human restructuring of ecosystems leads to simplification, disrupting the stabilizing influences of density-dependent regulatory factors. This disruption results in a simplified ecosystem structure with reduced biodiversity and complexity of species interactions.
+Answer: A
+------------------------
+137. ------------------------
+Reasoning: The presence of gray-bodied, vestigial-winged flies among the progeny can be best explained by crossing over between homologous chromosomes and the exchange of genetic material between linked genes, allowing for the recombination of the gray body and vestigial wings traits. 
+Answer: A
+------------------------
+138. ------------------------
+Reasoning: The oceans have the largest active pool of carbon on Earth, containing a significant amount of carbon that is actively cycled through various processes, making it the most influential in carbon cycling.
+Answer: D
+------------------------
+139. ------------------------
+Reasoning: The inheritance of both "fit" and "unfit" genes is not aligned with Charles Darwin's proposed conditions for natural selection, as he specifically focused on the survival and reproduction of individuals with advantageous traits. 
+Answer: A
+------------------------
+140. ------------------------
+Reasoning: The correct statement about the cohesion-tension theory for the ascent of water in the xylem is that the evaporation of water from leaf mesophyll cells generates tension in the water column. This tension, combined with the cohesive properties of water molecules, allows for the movement of water upwards in the xylem.
+Answer: A
+------------------------
+141. ------------------------
+Reasoning: Chitin and glucans are the main components that reinforce cell walls in fungi, providing structural support and rigidity.
+Answer: A
+------------------------
+142. ------------------------
+Reasoning: Proton pumps actively transport protons out of the cells, creating a proton gradient that drives the cotransport of sugars into the phloem for transport.
+Answer: C
+------------------------
+143. ------------------------
+Reasoning: Early-successional plant communities are characterized by low species diversity and dominance of pioneer species that are fast-growing and able to quickly colonize disturbed habitats. Therefore, the correct answer is D. High detrital biomass.
+Answer: D
+------------------------
+144. ------------------------
+Reasoning: The symplastic pathway involves the movement of molecules through plasmodesmata, which are channels that connect plant cells and allow for the movement of substances such as sucrose between cells. This pathway is important for the transport of sucrose from the site of photosynthesis in mesophyll cells into the phloem for distribution throughout the plant. Therefore, the correct answer should involve the symplastic pathway and the use of plasmodesmata for the movement of sucrose.
+Answer: C
+------------------------

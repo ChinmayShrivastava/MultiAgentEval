@@ -1,0 +1,400 @@
+1. ------------------------
+Reasoning: The access matrix approach can lead to a large and clumsy matrix of access rights, making it difficult to manage.
+Answer: A
+------------------------
+2. ------------------------
+Reasoning: The correct answer should be a set of integers that are divisors of both x and y, as a common divisor of two integers must be a divisor of both. 
+Answer: C
+------------------------
+3. ------------------------
+Reasoning: Increasing the block size from 1,000 bytes to 4,000 bytes in version 2 reduces the number of disk seek and latency times, resulting in faster file read operations. This decrease in seek and latency times directly impacts the overall file read time, making it significantly less in version 2 compared to version 1.
+Answer: A. 1:4
+------------------------
+4. ------------------------
+Reasoning: The cluster centers in k-Means Clustering are computed as the mean of all points in each cluster. Therefore, to find the cluster centers after the first iteration, we need to calculate the mean of the points in each cluster. 
+Calculating the mean for each cluster:
+C1: ((0+6)/2, (6+0)/2) = (3,3)
+C2: ((2+4+6)/3, (2+4+6)/3) = (4,4)
+C3: ((5+7)/2, (5+7)/2) = (6,6)
+Therefore, the cluster centers computed for these 3 clusters are C1: (3,3), C2: (4,4), C3: (6,6).
+Answer: A
+------------------------
+5. ------------------------
+Reasoning: The set {NAND} is not complete as it lacks the OR operator, which is essential for representing all Boolean expressions. 
+Answer: D
+------------------------
+6. ------------------------
+Reasoning: The maximum number of connected components is achieved when the graph is disconnected, resulting in M=10, and the minimum number of connected components is achieved when the graph is fully connected, resulting in m=1. This is due to the constraints on the number of edges and nodes in the graph.
+Answer: B
+------------------------
+7. ------------------------
+Reasoning: From the information provided, it is clear that Resolution theorem proving is sound and succinct, but not necessarily complete. Therefore, the correct answer is I and III only.
+Answer: D
+------------------------
+8. ------------------------
+Reasoning: In the context of implementing virtual memory, a purely segmented memory system allows for the division of memory into segments of varying sizes, each representing a logical unit of a program. This segmentation enables the operating system to manage memory more efficiently by providing a higher level of abstraction and flexibility in memory allocation.
+Answer: B
+------------------------
+9. ------------------------
+Reasoning: The statement "It is inherently nonassociative because there have to be upper and lower bounds on the size of numbers" is not true as the bounds on the size of numbers do not inherently affect the associativity of floating-point arithmetic.
+Answer: B
+------------------------
+10. ------------------------
+Reasoning: Lack of individual file permissions for shared files because sharing files through directory entries may not allow for granular control over access permissions.
+Answer: A
+------------------------
+11. ------------------------
+Reasoning: Mergesort requires efficient random access to elements for splitting, sorting, and merging the list, which is best provided by an array due to its contiguous memory allocation and random access capabilities.
+Answer: B
+------------------------
+12. ------------------------
+Reasoning: The maximum possible degree of p(x) is n because an interpolating polynomial of degree n can pass through n + 1 distinct points.
+Answer: A
+------------------------
+13. ------------------------
+Reasoning: In this hash table implementation, when a collision occurs, the linear resolution method is used to find the next available bucket. Since the hash function h(i) = i mod 5 is used, if bucket 2 is filled, the next buckets to be tried are 3, 4, 0, and 1 in that order. Therefore, after inserting elements with keys 13, 8, 24, 10, and 3 in that order, the content of bucket numbered 2 will be the element with key 3 as it is the first available bucket after bucket 2 is filled.
+Answer: A
+------------------------
+14. ------------------------
+Reasoning: TCP protocol is responsible for ensuring reliable delivery of packets between directly connected machines, sequencing packets, and implementing flow control, which are key functions in data transmission.
+Answer: B
+------------------------
+15. ------------------------
+Reasoning: If A is context-free, then B is context-free because when B is a subset of A, it means that all elements in B are also in A. If A is context-free, it means that there exists a context-free grammar that generates the strings in A. Since B is a subset of A, the same context-free grammar that generates the strings in A can also generate the strings in B, making B context-free as well.
+Answer: C
+------------------------
+16. ------------------------
+Reasoning: The correct answer should involve the recursive definition of the function x^M with the string a of length 1 and arbitrary strings x and y. Looking at the options, (xy)^M = y^Mx^M aligns with the recursive definition and the properties of the function x^M when applied to different strings.
+Answer: C
+------------------------
+17. ------------------------
+Reasoning: The correct answer should not involve wasting system resources or causing unnecessary CPU usage, which are potential drawbacks of busy-waiting on an asynchronous event.
+Answer: D
+------------------------
+18. Reasoning: The language {ww | w in (0 + 1)*} consists of strings where a sequence is repeated twice, forming a palindrome. This can be recognized by a deterministic finite automaton (DFA) with at least two states to keep track of the two occurrences of w.
+Answer: D
+19. ------------------------
+Reasoning: Ethernets do not use circuit switching, they use packet switching. This statement goes against the standard characteristics of Ethernets.
+Answer: A
+------------------------
+20. ------------------------
+Reasoning: When considering the termination of a recursive procedure, it is essential to have an execution path where the function does not call itself to reach a base case. Additionally, having a local variable can help maintain state and break the recursion. The statement that P has an execution path where it does not call itself and the fact that P has a local variable are crucial for the termination guarantee.
+Answer: C. I and II only
+------------------------
+21. ------------------------
+Reasoning: The one-time pad encryption scheme is considered to be a perfectly secure encryption scheme due to its strong encryption algorithm, use of a unique key for each encryption, resistance to known attacks, and high level of randomness in the encryption process. It provides an unbreakable encryption method when implemented correctly.
+Answer: D
+------------------------
+22. ------------------------
+Reasoning: The problem of finding ALL spanning trees of an undirected graph G can be solved in polynomial time using efficient algorithms like Prim's algorithm and Kruskal's algorithm.
+Answer: C
+------------------------
+23. ------------------------
+Reasoning: The IP protocol is primarily concerned with routing packets through the network, assigning unique addresses to devices, and breaking down data into smaller packets for transmission.
+Answer: A
+------------------------
+24. ------------------------
+Reasoning: The ratio of nonterminal nodes to the total number of nodes in a complete K-ary tree of depth N can be approximated by (K-1)/K. This ratio decreases as the depth N increases, and it increases as the value of K increases. 
+Answer: B
+------------------------
+25. ------------------------
+Reasoning: Option D does not involve any mechanism for resource allocation or deadlock prevention, as it simply allows processes to time out and restart after a random interval of waiting. This approach does not actively prevent or resolve deadlocks in resource allocation scenarios.
+Answer: D
+------------------------
+26. ------------------------
+Reasoning: "Magic memory" can provide the functionality of an atomic Test-and-Set and can be used to coordinate processes on a shared-memory multiprocessor. It is not limited to only multiprocessor systems, as it can also be used in single processor systems. The indivisible and mutually exclusive nature of the Read and Clear operations allows for synchronization and coordination between processes.
+Answer: D
+------------------------
+27. ------------------------
+Reasoning: Symbol tables are the primary data structure used in compilers to manage information about variables and their attributes, storing essential information such as variable names, data types, memory locations, and scope information.
+Answer: C
+------------------------
+28. ------------------------
+Reasoning: The algorithm that fits the criteria of having a worst-case running time of Θ(n^2) but an average running time of Θ(n log n) is Quicksort. Quicksort has a worst-case time complexity of Θ(n^2) when the pivot selection is poor, leading to unbalanced partitions. However, on average, Quicksort has a time complexity of Θ(n log n) due to its efficient divide-and-conquer strategy.
+Answer: D
+------------------------
+29. ------------------------
+Reasoning: Indirect representation noticeably increases compilation time because of the additional complexity of managing stack pointers referencing heap storage for component values.
+Answer: A. I only
+------------------------
+30. ------------------------
+Reasoning: Bitmap graphics are not scalable due to their grid of pixels, making resizing without quality loss impossible.
+Answer: C
+------------------------
+31. ------------------------
+Reasoning: Interrupts can indicate completion of an I/O operation, allowing the CPU to respond to events efficiently.
+Answer: C
+------------------------
+32. ------------------------
+Reasoning: The statement IV is true as the height of the tree in a height-balanced binary search tree is logarithmic in the number of nodes, ensuring efficient search operations.
+Answer: C
+------------------------
+33. ------------------------
+Reasoning: Mary should use a binary search approach to divide the search space in half with each question, leading to the identification of Bob's number in the fewest number of questions. 
+Answer: C
+------------------------
+34. ------------------------
+Reasoning: From the perspective of the size of the virtual address space in a virtual memory system using pages compared to the amount of physical memory available, it is true that the virtual address space can be larger than the amount of physical memory. This is because virtual memory systems using pages allow for efficient memory usage by swapping pages in and out of physical memory as needed.
+Answer: A
+------------------------
+35. ------------------------
+Reasoning: The heap area is typically not represented in a subroutine's activation record frame for a stack-based programming language. Activation record frames usually include values of local variables, the return address, and the stack pointer for the calling activation record, but the heap area is managed separately from the stack and is not part of the activation record frame.
+Answer: B
+------------------------
+36. ------------------------
+Reasoning: A remote procedure call is used to call procedures with addresses that are farther than 2^16 bytes away, enabling communication between processes on different machines.
+Answer: A
+------------------------
+37. ------------------------
+Reasoning: Merge sort has a running time that is not significantly affected by the initial ordering of the input, as it consistently performs well regardless of the input order.
+Answer: C
+------------------------
+38. ------------------------
+Reasoning: The inherently sequential portion of the computation will limit the speedup achieved by adding more processors. The elapsed time with 2 processors should be less than the elapsed time with 4 processors due to this limitation.
+Answer: C
+------------------------
+39. ------------------------
+Reasoning: When considering the characteristics of two's complement representation, overflow occurs when adding two positive numbers that sum to a negative number. In this case, the integers 011000 and 011000 are both positive numbers, and when added together, the result exceeds the range that can be represented by six bits in two's complement form, leading to overflow.
+Answer: A
+------------------------
+40. ------------------------
+Reasoning: Memory-mapped I/O involves placing I/O ports at addresses on the bus and accessing them like other memory locations, allowing for direct communication between devices and memory. This method eliminates the need for special I/O instructions and provides efficient data transfer, making option B the most suitable choice.
+Answer: B
+------------------------
+41. ------------------------
+Reasoning: Integer factorization is considered a hard problem for classical computers to solve efficiently and forms the basis for encryption algorithms such as RSA.
+Answer: A
+------------------------
+42. ------------------------
+Reasoning: The set of bit strings that CANNOT be described with a regular expression is the one that involves counting, as regular expressions have limitations in handling counting operations. Option D, "All bit strings with more ones than zeros," involves counting the number of ones and zeros, making it impossible to describe accurately with a regular expression.
+Answer: D
+------------------------
+43. ------------------------
+Reasoning: In order to express the condition "At least three of p_1, p_2, p_3, p_4 are true" using Boolean variables and the connectives ∧,∨, we need to consider all possible combinations where three or more variables are true. Using OR (∨) operations between the variables allows for flexibility in capturing these combinations, making it the suitable choice for this condition.
+Answer: D
+------------------------
+44. ------------------------
+Reasoning: The fully interconnected network requires n*(n-1)/2 links, while the ring network requires n links. The figure of merit for the fully interconnected network is higher due to direct connections between all processors, resulting in a more efficient path for data transmission.
+Answer: B
+------------------------
+45. ------------------------
+Reasoning: The sum of degrees of all vertices in G must be even because in an undirected graph, each edge contributes 2 to the sum of degrees, making it an even number. |E| ≥ |V| − 1 is a fundamental property of connected, undirected graphs. G must contain at least one vertex with degree 1 to ensure connectivity.
+Answer: D
+------------------------
+46. ------------------------
+Reasoning: Reentrant programs are designed to allow multiple instances to run concurrently without interfering with each other's execution, making them suitable for sharing among several users in a multiprogrammed system.
+Answer: C
+------------------------
+47. ------------------------
+Reasoning: The decimal number 0.5 can be represented as 1/2, which is a power of 2 (2^-1). Therefore, it has an exact representation in binary notation.
+Answer: D
+------------------------
+48. ------------------------
+Reasoning: Currying is a process in functional programming where a function that takes multiple arguments is transformed into a sequence of functions, each taking a single argument. The correct signature for the addition function in a curried form should be add : real -> (real -> real) because currying involves transforming a function that takes multiple arguments into a series of functions, each taking a single argument.
+Answer: D
+------------------------
+49. ------------------------
+Reasoning: The loop iterates over 256 elements of Array A and performs a read-modify-write operation on each element. Since the cache is direct-mapped with an 8-byte block size, each element access will result in a cache miss due to the interleaving of elements from Array A and B. As a result, each cache miss will trigger a write-back to memory. Therefore, a total of 256 cache misses will occur, resulting in 256 * 4 bytes = 1024 bytes being written to memory.
+Answer: C
+------------------------
+50. ------------------------
+Reasoning: Two's complement representation allows for the addition of positive and negative integers within the range of an 8-bit word, which includes the integers 109 and -42. 
+Answer: B
+------------------------
+51. ------------------------
+Reasoning: A malicious process with temporary administrator-level access can lead to serious security breaches due to its ability to modify system settings, access sensitive data, install malicious software, and create new user accounts. The threat is not over as soon as the process is killed, as it may have already caused significant damage.
+Answer: D
+------------------------
+52. ------------------------
+Reasoning: Statement I is true because programs for horizontal architectures typically require more time steps due to the need for more complex instruction sequences to achieve the same functionality compared to vertical architectures.
+Answer: A. I only
+------------------------
+53. ------------------------
+Reasoning: The height h of any tree in this class is logarithmic in terms of the number of nodes N because the ratio being bounded above by c implies a balanced structure in the tree.
+Answer: A
+------------------------
+54. ------------------------
+Reasoning: Merge sort is a sorting algorithm that has average-case and worst-case running times of O(n log n), making it efficient for a wide range of inputs.
+Answer: C
+------------------------
+55. ------------------------
+Reasoning: The equation that does not represent the conventional semantics of a stack is the one that involves removing the top element from the stack when performing the Top operation. 
+Answer: C
+------------------------
+56. ------------------------
+Reasoning: By analyzing the dependencies between variables and optimizing for parallel processing, the assignments can be executed in a way that minimizes dependencies and maximizes parallelism, ultimately reducing the overall time needed for completion. The correct answer is to use 4 time units to execute all assignments in parallel.
+Answer: D
+------------------------
+57. ------------------------
+Reasoning: The pairs of expressions that have variables that can be replaced with the same value to make them lexically identical are unifiable because they can be made identical through substitution.
+Answer: D
+------------------------
+58. ------------------------
+Reasoning: Condition codes set by every instruction introduce dependencies and can cause stalls in the pipeline, hindering aggressive pipelining of an integer unit.
+Answer: A
+------------------------
+59. ------------------------
+Reasoning: The DFA needs k states to represent the number of 0's in the string being divisible by k, and an additional state to keep track of whether the number of 1's is odd or even, resulting in a total of k+1 states.
+Answer: A
+------------------------
+60. ------------------------
+Reasoning: The correct answer should include the statement that G has a vertex with no incoming edge because in a directed acyclic graph, there must be at least one vertex with no incoming edge to maintain the acyclic property. Additionally, G must have a vertex with no outgoing edge to maintain the acyclic property.
+Answer: D
+------------------------
+61. ------------------------
+Reasoning: The correct answer should be statement I: post(u) < post(v) because the preorder and postorder traversal properties in a depth-first search tree dictate the ordering of nodes in the tree.
+Answer: A. I only
+------------------------
+62. ------------------------
+Reasoning: Local variables on the call stack are typically not part of the root set in a typical garbage collector because they are temporary and their scope is limited to the current execution context, making them less likely to be directly involved in future computations.
+Answer: D
+------------------------
+63. ------------------------
+Reasoning: ARP is specifically designed to map IP addresses to MAC addresses on a local network, making option D the correct choice.
+Answer: D
+------------------------
+64. ------------------------
+Reasoning: Recursive procedures and arbitrary goto's both require dynamic memory allocation, which is not supported by static allocation. Two-dimensional arrays and integer-valued functions do not inherently require dynamic memory allocation, making them less likely to need stack-based storage allocation over static allocation.
+Answer: A
+------------------------
+65. Reasoning: The correct answer should not contain both x and y simultaneously, as per the grammar rules provided.
+Answer: A
+66. ------------------------
+Reasoning: The recursive formula T(n + 1) = 3n + T(n) indicates that the function T(n) grows linearly with respect to n, as each term is dependent on the previous term with a linear term added to it. This linear growth in terms of n is a characteristic of the correct answer when considering the recursive formula for T(n) in terms of n and T(n-1).
+Answer: A
+------------------------
+67. ------------------------
+Reasoning: Based on the information provided, the correct answers are I and II because both involve determining properties related to the decimal expansion of π and can be solved algorithmically.
+Answer: D
+------------------------
+68. ------------------------
+Reasoning: Combinational circuits do not have the potential for feedback, making statement I false. Combinational circuits are "memoryless," meaning statement II is true. Both sequential and combinational circuits must be controlled by an external clock, making statement III true.
+Answer: D. II and III only
+------------------------
+69. ------------------------
+Reasoning: The processing power of each workstation is crucial in determining the total time required for the compilation. A workstation with higher processing power will be able to complete the computation task more quickly, thereby reducing the total time required for the compilation. This is because faster processing speeds will result in quicker execution of the 30 seconds of computation and 200 file page accesses. On the other hand, a workstation with lower processing power will take longer to complete the same tasks, resulting in a higher total time required for the compilation. Therefore, the ratio of the total time required by this compilation if run on the diskless (file server) workstation to the total time required if run on the workstation with the local disk will be influenced by the processing power of each workstation.
+Answer: D
+------------------------
+70. Reasoning: The virtual address used by the debugger in its WRITE operation should be 0x01001234, which is obtained by adding the offset of the text segment in the debugged process to the offset of the text segment in the debugger's virtual address space. This ensures the correct relative position of the text segment in both virtual address spaces.
+Answer: A
+71. ------------------------
+Reasoning: The advantage of larger pages leading to smaller page tables because it reduces the number of entries needed in the page table.
+Answer: A
+------------------------
+72. ------------------------
+Reasoning: The latency of a single instruction is shorter on M-7’s pipeline than on M-5’s pipeline due to the shorter clock cycle and the smaller number of stages in the pipeline.
+Answer: B
+------------------------
+73. ------------------------
+Reasoning: The correct answer should be a pair where the most significant bit of the sum is different from the most significant bits of the operands, indicating overflow in two's complement representation. Option C (11111111, 10000001) fits this criteria.
+Answer: C
+------------------------
+74. ------------------------
+Reasoning: The maximum data transfer rate between the two computers is limited by the network capacity, which can carry 1,000 packets per second, with each packet being 1,000 bytes. Therefore, the total data transfer rate is 1,000 packets per second multiplied by 1,000 bytes per packet, resulting in 1,000,000 bytes per second.
+Answer: C
+------------------------
+75. ------------------------
+Reasoning: The grammar is ambiguous because it can generate more than one parse tree for a given input string. The grammar is suitable for top-down parsing as it is left-recursive and can be easily transformed into LL(1) form. The grammar is not suitable for bottom-up parsing.
+Answer: D
+------------------------
+76. ------------------------
+Reasoning: The problem that involves symbol table lookup, given a program identifier to find its type and address, is not typically associated with the use of hash tables. Hash tables are more commonly used for problems that require fast lookups, insertions, and deletions of key-value pairs, which is not the primary requirement for symbol table lookup.
+Answer: D
+------------------------
+77. ------------------------
+Reasoning: The number of distinct functions mapping set A into set B is dependent on the cardinalities of the two sets. The relationship between the number of elements in set A (m) and set B (n) will determine the total number of distinct functions that can exist between them.
+Answer: A. n^m
+------------------------
+78. Reasoning: The product (N_1N_2)N_3 will take less time to compute if x < y because the time complexity for multiplying matrices is proportional to the product of the dimensions of the matrices involved.
+Answer: B
+79. ------------------------
+Reasoning: Write-back policy delays updating main memory until the cache line is evicted, potentially leading to inconsistencies between cache memory and main memory. Write-allocation policy improves hit ratio by loading cache lines on write-misses, reducing the chances of misses.
+Answer: A
+------------------------
+80. ------------------------
+Reasoning: By converting the hexadecimal value D4FE2003 to binary (11010100111111100010000000000011), we can count the number of '1's which represent occupied tracks. In this case, there are 18 '1's out of 32 bits. Dividing 18 by 32 and multiplying by 100 gives us 56.25%, which rounds to the nearest percent as 56%. Therefore, the percentage of occupied tracks for the corresponding part of the disk is 56%.
+Answer: D
+------------------------
+81. ------------------------
+Reasoning: A complete graph with 12 vertices will have all vertices with even degree, making it possible to have an Euler circuit. A complete graph with 13 vertices will not have all vertices with even degree, making it impossible to have an Euler circuit. A tree with 13 vertices cannot have an Euler circuit due to the absence of cycles.
+Answer: A
+------------------------
+82. ------------------------
+Reasoning: Operator precedence is a characteristic of a programming language that is best specified using a context-free grammar because it defines the rules for how different operators are prioritized in expressions, which can be represented hierarchically without considering the context in which they appear.
+Answer: C
+------------------------
+83. ------------------------
+Reasoning: The statement that datagrams at the source must be the size of the smallest maximum transmission unit (MTU) of all the links on a path to the destination is true because this ensures that the datagrams can be transmitted without fragmentation along the entire path. Datagrams may be fragmented during routing to accommodate different MTUs along the path. Datagrams are reassembled only at the destination in IPv4 protocol.
+Answer: D
+------------------------
+84. ------------------------
+Reasoning: Shortest job first policy ensures that every job eventually gets serviced, preventing any job from waiting indefinitely for service.
+Answer: C
+------------------------
+85. ------------------------
+Reasoning: The upper bound for f(N) should be determined by maximizing the value of N and minimizing the impact of log N in the recurrence relation. This will lead to the best upper bound for f(N).
+Answer: A
+------------------------
+86. ------------------------
+Reasoning: The probability of choosing a defective chip from Company Y can be calculated by dividing the number of defective chips from Company Y by the total number of defective chips in the shipment, which is 2 out of 3 defective chips. 
+Answer: D
+------------------------
+87. ------------------------
+Reasoning: The problem of finding a minimum spanning tree in an undirected graph with positive-integer edge weights can be solved by a standard greedy algorithm as it involves making locally optimal choices at each step to eventually reach a globally optimal solution.
+Answer: A
+------------------------
+88. ------------------------
+Reasoning: From the perspective of how the hash function maps words to entries in the hash table, true means the word was in the dictionary and false means the word was not in the dictionary.
+Answer: C
+------------------------
+89. ------------------------
+Reasoning: Ternary logic allows for the representation of three different states (true, false, unknown) for each logic element, meaning each flit can represent 3 values. To represent at least 256 different values, we need to find the smallest power of 3 that is greater than or equal to 256. 3^5 = 243 < 256, but 3^6 = 729 > 256. Therefore, 6 flits are required.
+Answer: C
+------------------------
+90. ------------------------
+Reasoning: Local caching of files in distributed file systems can lead to temporary inconsistencies among views of a file by different machines, which is a disadvantage.
+Answer: A
+------------------------
+91. ------------------------
+Reasoning: The total number of bytes written to memory during the loop execution will be equal to the total number of bytes accessed by the loop, which is 256 * 4 bytes, because the write-through policy writes data to memory immediately after it is written to the cache.
+Answer: B
+------------------------
+92. ------------------------
+Reasoning: By executing the jobs with the shortest service times first, the average completion time can be minimized. This approach helps in reducing the waiting time for the remaining jobs, resulting in a lower overall completion time.
+Answer: D
+------------------------
+93. ------------------------
+Reasoning: The complexity of finding the shortest simple path between two distinct vertices in a connected, undirected graph is generally lower than that of finding the longest simple path due to the nature of the algorithms used. Algorithms like Dijkstra's algorithm or the A* algorithm can efficiently find the shortest path by considering edge weights, while finding the longest simple path involves exploring all possible paths, which can be computationally expensive. 
+Answer: C
+------------------------
+94. ------------------------
+Reasoning: The main disadvantage of direct mapping in cache organization is that the cache hit ratio is degraded if two or more blocks used alternately map onto the same block frame in the cache.
+Answer: C
+------------------------
+95. ------------------------
+Reasoning: The problem of determining whether the computation C lasts for at least n steps is decidable because the number of steps taken by the Turing machine can be counted and compared to the input n.
+The problem of checking if M prints a 1 after the nth step is also decidable as it involves simulating the Turing machine to track the output.
+However, the problem of M scanning at least n distinct tape squares during the computation C is not decidable as it involves an infinite number of possibilities.
+Therefore, the correct answer is I and II only.
+Answer: C
+------------------------
+96. ------------------------
+Reasoning: A 3-way set-associative cache is organized into sets with each set containing three lines, providing a balance between associativity and complexity, resulting in reduced miss rates compared to direct-mapped caches but with less complexity than fully associative caches because it allows for multiple possible locations for a given memory block, increasing the chances of finding the data in cache and improving performance.
+Answer: A
+------------------------
+97. ------------------------
+Reasoning: The method lookup process in an object-oriented language involves checking the class of the object itself and then moving up the class hierarchy to find the method in the superclass if needed. Therefore, the correct answer should involve following one instance link and then one or more subclass links.
+Answer: D
+------------------------
+98. ------------------------
+Reasoning: Increasing the clock cycle rate allows for more instructions to be executed per second, improving the execution time of a typical program in a pipelined RISC computer with uniform CPI for arithmetic instructions.
+Answer: A. I only
+------------------------
+99. ------------------------
+Reasoning: The total time required for digitizing and processing one set of four analog input signals, including the time for analog-to-digital conversion and CPU instructions, should be considered. A higher number of CPU instructions needed for processing each set of four samples will increase the overall time required for the microcomputer to keep up with the input-output data rates.
+Answer: D
+------------------------
+100. ------------------------
+Reasoning: The correct formula to calculate availability is Availability = MTBF / (MTBF + MTTR). Given that the MTBF is 10,000 hours and the MTTR is 20 hours, plugging these values into the formula gives Availability = 10,000 / (10,000 + 20) = 10,000 / 10,020 ≈ 0.997. Converting this to a percentage gives 99.7%, which is closest to option D. 
+Answer: D
+------------------------

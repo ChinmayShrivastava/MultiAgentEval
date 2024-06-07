@@ -1,0 +1,1080 @@
+1. ------------------------
+Reasoning: When reflecting a point across the line y = x, the x and y coordinates are swapped. Looking at the options, the correct answer is D. (-4, -2) because when you swap the x and y coordinates of the vertex (2, -4) from pentagon P, you get (-4, -2) which matches this option.
+Answer: D
+------------------------
+2. ------------------------
+Reasoning: By applying the Pythagorean theorem to the rectangle, we can set up the equation \(5\sqrt{5} = \sqrt{(2x)^2 + x^2}\) to solve for the values of x and 2x. Once we find the values of x and 2x, we can calculate the area of the rectangle using the formula Area = length * width.
+Answer: C
+------------------------
+3. ------------------------
+Reasoning: 36 is a powerful number as it has prime factors 2 and 3, where 2^2 = 4 and 3^2 = 9, both of which are factors of 36.
+Answer: B
+------------------------
+4. ------------------------
+Reasoning: The order in which Joe chooses the fruits for his meals does not affect the probability of him eating at least two different kinds of fruit in a day because each meal choice is independent of the others. Since Joe needs to eat at least two different kinds of fruit, the probability would be 26/27 * 3/3 = 26/27.
+Answer: B
+------------------------
+5. ------------------------
+Reasoning: The value of $f(1)$ should lie within the interval $(5, 9)$ because the function $f(x)$ being strictly convex means that the portion of the graph between any two points lies below the line segment connecting those points. Therefore, the value of $f(1)$ must be between the $y$-values of the points $(1, f(1))$ and $(2, 9)$, which are $(5, 9)$ respectively.
+Answer: D
+------------------------
+6. ------------------------
+Reasoning: The question specifies that John gave his brother one-half of one-third of one pile, which involves division and multiplication of fractions. To determine the original number of pins John had, we need to consider this operation.
+Answer: A. 396
+------------------------
+7. ------------------------
+Reasoning: The probability of both rain and sun can be calculated using the formula for the intersection of two events: P(A and B) = P(A) * P(B|A). Given that the probability of rain is 30% and the probability of no sun is 30%, the probability of both rain and sun is 0.3 * 0.7 = 0.21.
+Answer: A
+------------------------
+8. ------------------------
+Reasoning: The sum of all positive integer values of $n$ that satisfy the condition $n^2$ is a factor of 1200 should be calculated.
+Answer: C
+------------------------
+9. ------------------------
+Reasoning: The concept of complementary events states that the probability of getting a 6 in at most 2 rolls is equal to 1 minus the probability of not getting a 6 in more than 2 rolls. To find the probability of not getting a 6 in more than 2 rolls, we calculate the probability of getting a 6 in 0, 1, or 2 rolls and then subtract that from 1. This approach simplifies the calculation process and provides a clearer path to finding the desired probability.
+Answer: A
+------------------------
+10. ------------------------
+Reasoning: The sum of consecutive odd integers can be calculated using the formula n^2, where n is the number of terms in the sequence. Since we are looking for the number of arithmetic sequences of consecutive odd integers that sum to 240, we need to find the number of terms that satisfy this condition. The sum of the sequence should be 240, and since we are dealing with odd integers, the number of terms should be odd. Therefore, the correct answer should be the one that aligns with these characteristics.
+Answer: C
+------------------------
+11. ------------------------
+Reasoning: From the information provided, we know that the factors of 56 are 1, 2, 4, 7, 8, 14, 28, and 56. To satisfy the condition $x < y$, we need to consider pairs where x is less than y. The pair that fits this condition is x = 2 and y = 28. 
+Answer: D
+------------------------
+12. ------------------------
+Reasoning: The number should have a prime factorization of the form $p^5$ to ensure that the product of its positive divisors is equal to the sixth power of the number itself. The smallest positive integer $n$ that satisfies this condition and is greater than 1 is 2^5 = 32.
+Answer: A
+------------------------
+13. ------------------------
+Reasoning: The property that $a \equiv b \pmod{m}$ implies $a^n \equiv b^n \pmod{m}$ can be applied here to simplify the calculation. Additionally, the cyclical pattern of remainders when powers of $2$ are divided by $7$ can help determine the final remainder. Adding $3$ to $2^{87}$ does not affect the remainder when divided by $7.
+Answer: B
+------------------------
+14. ------------------------
+Reasoning: The mean score is calculated by adding up all the quiz scores and dividing by the total number of scores, which in this case is 5. 
+Answer: C
+------------------------
+15. ------------------------
+Reasoning: The trapezoid sum method provides a more accurate approximation of the area under the curve when the graph of f is both increasing and concave up. This is because the trapezoid sum method takes into account the shape of the curve by using trapezoids to approximate the area, which better captures the concave nature of the curve compared to the other methods such as left, right, and midpoint sums. Therefore, in this scenario, the trapezoid sum method would be the most accurate choice for approximating the area under the curve.
+Answer: A
+------------------------
+16. ------------------------
+Reasoning: The ant's path from (-4,6) to the origin to (4,3) forms a right triangle, so the distance can be calculated using the Pythagorean theorem. First, find the distance from (-4,6) to the origin, which is 2\sqrt{52}. Then, find the distance from the origin to (4,3), which is 5. Adding these distances gives the total distance traveled by the ant.
+Answer: D
+------------------------
+17. ------------------------
+Reasoning: The two smallest 3-digit prime numbers are 101 and 103. Their product is 10403. The sum of the digits of 10403 is 8.
+Answer: A
+------------------------
+18. ------------------------
+Reasoning: The polynomial expansion should result in terms with the highest degree of 2, as the question specifies that the resulting polynomial has degree 2. This means that the terms involving $x^3$ should not be present in the final expanded polynomial. The coefficient of $x^2$ should also be non-zero to maintain the degree of 2. The value of $p+q$ should be such that these conditions are met.
+Answer: C
+------------------------
+19. ------------------------
+Reasoning: By substituting x=2 into the function $f(x)=ax^6-bx^4+x-1$ and using the given information that $f(2)=5$, we can solve for the coefficients a and b. Once we have the values of a and b, we can substitute x=-2 into the function to find the value of $f(-2)$.
+Answer: A
+------------------------
+20. ------------------------
+Reasoning: The range of the function $f(x) = \frac{1}{1-x}$ is all real numbers except for 1, expressed as $(-\infty, 1) \cup (1, \infty)$ because as $x$ approaches 1, the function approaches positive or negative infinity, but never actually reaches 1 due to the denominator becoming 0.
+Answer: A
+------------------------
+21. ------------------------
+Reasoning: The inverse function of $f(x)=4-5x$ should be denoted as $f^{-1}(x)$ and involve swapping the variables x and y, solving for y, and then replacing y with $f^{-1}(x)$. The correct answer should be a one-to-one function to satisfy the conditions for finding the inverse of $f(x)=4-5x$.
+Answer: B
+------------------------
+22. ------------------------
+Reasoning: The series described in the question follows a geometric progression pattern where each term is obtained by multiplying the preceding term by -2. By recognizing this pattern, we can use the formula for the nth term of a geometric progression to find the 5th term more efficiently.
+Answer: C
+------------------------
+23. ------------------------
+Reasoning: The total number of ways to put 4 distinguishable balls into 2 indistinguishable boxes is 8 due to the fact that each ball can be placed in either of the two boxes, resulting in 2^4 = 16 possible arrangements. However, since the boxes are indistinguishable, we need to divide by the number of ways to arrange the boxes, which is 2! = 2. Therefore, the correct answer is 8.
+Answer: D
+------------------------
+24. ------------------------
+Reasoning: Since any positive integer that is a factor of 40 will also be a factor of 120, the correct answer should be the factors of 40.
+Answer: B
+------------------------
+25. ------------------------
+Reasoning: To determine the day of the week that Carlos Montado will be 706 days old, we need to calculate the day that is 706 days after his birthdate. By considering the leap years and the number of days in each month accurately, we can calculate the specific day of the week. 
+Answer: A
+------------------------
+26. ------------------------
+Reasoning: The greatest odd integer that is a factor of 5! must be an odd number because all factors of 5! are odd. Additionally, it should be the largest odd number that divides 5! without leaving a remainder.
+Answer: B
+------------------------
+27. ------------------------
+Reasoning: In a parallelogram, opposite angles are congruent. Since angle $B$ is given to be $110^\circ$, angle $C$ must be supplementary to angle $B$ in order to form a straight line. Therefore, the measure of angle $C$ in parallelogram $ABCD$ would be $70^\circ$ (180° - 110°).
+Answer: D
+------------------------
+28. ------------------------
+Reasoning: The removal of contaminants follows an exponential decay model where the rate of removal is proportional to the amount of contaminant remaining. The time required to remove a certain percentage of contaminants can be calculated using the concept of half-life. Since 20% of the contaminant can be removed during the first minute, it will take longer to remove the remaining 78%. Therefore, the correct answer should involve exponential decay and the concept of half-life.
+Answer: C
+------------------------
+29. ------------------------
+Reasoning: The domain of the function is restricted by the square root in the denominator, which requires the expression inside it to be greater than zero to avoid taking the square root of a negative number.
+Answer: C
+------------------------
+30. ------------------------
+Reasoning: The function y = (ln x)/x has a relative maximum at x = e, where the function reaches a peak value and decreases on either side of that point. Additionally, the natural logarithm function approaches 0 as x approaches infinity, supporting the idea of a relative maximum at x = e.
+Answer: B
+------------------------
+31. ------------------------
+Reasoning: The ones digit of a product of consecutive numbers is determined by multiplying the ones digits of each number in the sequence. In this case, the product of all numbers from 1 to 9 includes the number 5, which means the ones digit will be 0.
+Answer: C
+------------------------
+32. ------------------------
+Reasoning: The shortest distance from the origin to the circle will be the distance from the origin to the center of the circle minus the radius of the circle. Since the center of the circle is not at the origin, the distance from the origin to the center needs to be taken into account in the calculation.
+Answer: B
+------------------------
+33. ------------------------
+Reasoning: The smallest positive integer that is a multiple of 16, 15, and 12 is required to have factors of 16, 15, and 12. By finding the least common multiple (LCM) of these numbers, we can determine the smallest positive integer that meets the criteria.
+Answer: D
+------------------------
+34. ------------------------
+Reasoning: To calculate the number of ways to choose 3 cards from a standard deck of 52 cards where all three cards must be of different suits, we need to consider the combinations involving different suits. Since there are 4 suits in a standard deck, we can choose 1 card from each suit. The total number of ways to choose 3 cards from different suits is calculated by multiplying the number of ways to choose 1 card from each of the 4 suits, which is 13C1 for each suit. Therefore, the total number of ways is 13C1 * 13C1 * 13C1 = 13 * 13 * 13 = 2197.
+Answer: C
+------------------------
+35. ------------------------
+Reasoning: To find the center of the circle, we need to rewrite the equation in the standard form of a circle $(x-a)^2 + (y-b)^2 = r^2$. By rearranging the given equation, we get $(x+5)^2 + (y+6)^2 = 4$. Therefore, the center is at $(-5, -6)$ and the radius is $\sqrt{4} = 2$. Adding $-5 + (-6) + 2$ gives us $-9$.
+Answer: A
+------------------------
+36. ------------------------
+Reasoning: Based on the information provided, the function f(x) is decreasing as x increases due to the given points being in decreasing order of y-values. To find the points (a,b) and (c,d) on the graph of y=f(f(x)), we need to evaluate f(f(x)) for x=1,2,3. This means a=f(1), b=f(f(1)), c=f(2), and d=f(f(2)). Calculating f(1), f(f(1)), f(2), and f(f(2)) will give us the coordinates of the points (a,b) and (c,d). Finally, to find ab+cd, we sum the products of the coordinates of these points.
+Answer: C
+------------------------
+37. ------------------------
+Reasoning: The symmetry property of binomial coefficients states that $\dbinom{n}{k} = \dbinom{n}{n-k}$. Therefore, $\dbinom{85}{82} = \dbinom{85}{3}$, which is easier to calculate. 
+Answer: A
+------------------------
+38. ------------------------
+Reasoning: The length of the longer side is halved with each fold, so after the first fold, the longer side would be 5.5 inches, and after the second fold, it would be halved again to 2.75 inches, which is 2.8 inches when rounded to the nearest tenth.
+Answer: A
+------------------------
+39. ------------------------
+Reasoning: The smallest positive integer with factors of 16, 15, and 12 would be the least common multiple (LCM) of these numbers. The LCM of 16, 15, and 12 is 240, which is the smallest positive integer that satisfies all the given factors.
+Answer: A
+------------------------
+40. ------------------------
+Reasoning: The sum of binomial coefficients $\binom{23}{4} + \binom{23}{5}$ simplifies to $\binom{24}{5}$. Therefore, the value of $k$ in the equation $\binom{24}{k}$ should be 5.
+Answer: B
+------------------------
+41. ------------------------
+Reasoning: By solving the system of equations, we can find the values of x and y that satisfy both equations. Subsequently, we can calculate x - y using those values.
+Answer: A
+------------------------
+42. ------------------------
+Reasoning: Any factor of a number with prime factors 2, 5, 7, 13, and 31 must be a multiple of at least one of these prime factors.
+Answer: C
+------------------------
+43. ------------------------
+Reasoning: Rounding the number to the nearest whole number will result in the least amount of change in the original number, making it the highest rounded number compared to other rounding methods.
+Answer: B
+------------------------
+44. ------------------------
+Reasoning: Factoring out the greatest common factor and recognizing that $4-x^2$ can be factored as $(2+x)(2-x)$.
+Answer: A
+------------------------
+45. ------------------------
+Reasoning: The total distance Alex walked can be calculated by considering the initial 3 feet walk for the first stone placement and then adding 4 feet for each subsequent stone placement. This forms an arithmetic series where the first term is 3 feet, the common difference is 4 feet, and there are 50 terms (stones placed). Using the formula for the sum of an arithmetic series, the total distance can be calculated efficiently.
+Answer: C
+------------------------
+46. ------------------------
+Reasoning: From the perspective of how many ways the balls can be drawn such that they alternate colors, there is only 1 way to draw the balls in a manner that they alternate colors.
+Answer: D
+------------------------
+47. ------------------------
+Reasoning: The smallest prime number whose digits sum to 19 is 199, as it is a two-digit prime number and the sum of its digits is 19.
+Answer: D
+------------------------
+48. ------------------------
+Reasoning: The domain of the function h(x) = √(25-x^2) + √(-(x-2)) is restricted to values of x that make the square roots real numbers. This means that the expressions under the square roots, 25-x^2 and -(x-2), must be non-negative. Therefore, the width of the interval for the domain is determined by finding the values of x that satisfy these conditions.
+Answer: B
+------------------------
+49. ------------------------
+Reasoning: To find out how many pins John gave his brother, we need to calculate one-half of one-third of one pile, which involves division and multiplication. Given that John had 66 pins left after giving his brother some, the original number of pins he had can be calculated. 
+Answer: A. 792
+------------------------
+50. ------------------------
+Reasoning: Substituting the value of -2 into the function $f(x) = 8x^3 - 6x^2 - 4x + 5$ and simplifying the expression gives $f(-2) = 8(-2)^3 - 6(-2)^2 - 4(-2) + 5 = 8(-8) - 6(4) + 8 + 5 = -64 - 24 + 8 + 5 = -75$. Therefore, the correct answer is B. -75.
+Answer: B
+------------------------
+51. ------------------------
+Reasoning: When multiplying a number by a fraction multiple times, it is equivalent to multiplying by the product of those fractions. In this case, multiplying 10 by $\frac{1}{3}$ five times is the same as multiplying by $\left(\frac{1}{3}\right)^5 = \frac{1}{243}$, so the single fraction that yields the same result is $\frac{1}{3}$.
+Answer: C
+------------------------
+52. ------------------------
+Reasoning: The smallest positive $a$ such that when the graph of $y=f\left(\frac x5\right)$ is shifted $a$ units to the right, the resulting graph is identical to the original graph of $y=f\left(\frac x5\right)$ is $4$ because shifting a function $f(x)$ to the right by $a$ units results in the function $f(x-a)$.
+Answer: B
+------------------------
+53. ------------------------
+Reasoning: When considering all possible pairings of numbers from the set {2, 3, 4, 6} for the numerator and denominator, each unique pairing will result in a different fraction. Therefore, the total number of unique fractions that can be created is 4 choices for the numerator and 4 choices for the denominator, resulting in 4*4 = 16 possible combinations. However, since the question specifies that each number can only be used once in both the numerator and denominator, we need to account for this restriction. This means that out of the 16 possible combinations, there will be duplicate fractions that need to be eliminated. Therefore, the correct answer should be less than 16. 
+Answer: B
+------------------------
+54. ------------------------
+Reasoning: The second number in the row of Pascal's triangle with 43 numbers can be calculated by finding the binomial coefficient for the specific row and position, which represents the number of ways to choose a specific element from a set.
+Answer: C
+------------------------
+55. ------------------------
+Reasoning: The probability of getting the specific sequence TFTFT is 1/32 because each flip of a fair coin has a 1/2 probability of landing heads or tails, and the probability of a specific sequence of five flips is the product of the individual probabilities.
+Answer: C
+------------------------
+56. ------------------------
+Reasoning: The x-intercepts of the graph of y=f(x) can be found by setting y=0 and solving for x. In this case, the x-intercepts are x=5 and x=-1. These x-intercepts will serve as two vertices of the polygon. The area of the polygon can be calculated by finding the area of the triangle formed by the x-intercept, y-intercept, and the origin, and then subtracting the area of the triangle formed by the x-intercept, y-intercept, and the point where the two lines connecting them intersect.
+Answer: B
+------------------------
+57. ------------------------
+Reasoning: The base $b$ should be such that $b^{-\frac{3}{2}} = 343$, which implies $b = 7$ since $7^{-\frac{3}{2}} = 343$.
+Answer: D
+------------------------
+58. ------------------------
+Reasoning: The sum of the lengths of the other two sides must be greater than the length of the longest side (10) according to the Triangle Inequality Theorem. Option B (5, 5) has a sum of 10, which is equal to the longest side, making it invalid.
+Answer: B
+------------------------
+59. ------------------------
+Reasoning: Using the formula LCM(a, b) = (a * b) / GCD(a, b) with the given values of LCM = 240, GCD = 24, and one integer as 48, we can find the other integer.
+Answer: B
+------------------------
+60. ------------------------
+Reasoning: By converting $9$ to $3^2$, we can rewrite the equation as $3^{x^2+4x+4}=3^{2(x+2)}$. This allows us to equate the exponents, leading to $x^2+4x+4=2(x+2)$. Solving this quadratic equation gives us $x=-2$ and $x=0$. The sum of all possible values of $x$ is $-2+0= -2$.
+Answer: C
+------------------------
+61. ------------------------
+Reasoning: Exponential growth is indicated by the bacteria increasing at a rate proportional to the number present. Since the initial population of 200 triples in 10 hours, we can expect a rapid increase in population over time. The correct answer should reflect this exponential growth pattern.
+Answer: B
+------------------------
+62. ------------------------
+Reasoning: Since x and y are directly proportional, we can use the initial values to find the constant of proportionality and then apply it to find the value of x when y = 13. By calculating the constant of proportionality as 3/8, we can determine that x = 4.875 when y = 13.
+Answer: B
+------------------------
+63. ------------------------
+Reasoning: The function f(x) = x^3 + 2x^2 – 9x – 18 can be factored as f(x) = (x + 2)(x - 3)(x + 3). From the factored form, we can see that the equation f(x) = 0 has three real solutions at x = -2, x = 3, and x = -3. Therefore, statement A is true.
+Answer: A
+------------------------
+64. ------------------------
+Reasoning: To calculate the number of ants of Species A on Day 5, we need to determine the initial number of ants for both Species A and Species B on Day 0. Given that there are twice as many ants of Species A than before and three times as many ants of Species B, we can set up equations to find the initial number of ants for each species. Let x be the initial number of ants for Species A and y be the initial number of ants for Species B. From the information provided, we have the equations:
+x = 2 * (x / 2) = 2x (twice as many ants of Species A than before)
+y = 3 * (y / 3) = 3y (three times as many ants of Species B than before)
+Given that on Day 0, there are 30 ants in total, we can set up the equation:
+x + y = 30
+Solving these equations simultaneously, we find x = 20 and y = 10. Therefore, the initial number of ants for Species A on Day 0 is 20. To find the number of ants of Species A on Day 5, we can calculate 20 * 2^5 = 20 * 32 = 640 ants of Species A.
+Answer: D
+------------------------
+65. ------------------------
+Reasoning: The absolute value function can have two possible solutions for any given input, and the constant term (-10) in the equation shifts the solutions by 10 units. The product of all possible values of x is obtained by multiplying all the solutions together.
+Answer: D
+------------------------
+66. ------------------------
+Reasoning: The 8th number should be less than the original mean of 15 but greater than the new mean of 12. This means the correct answer should be between 12 and 15, which eliminates options A and D. Since the mean decreased when the 8th number was added, it must be less than the original mean, so the correct answer is B. -9.
+Answer: B
+------------------------
+67. ------------------------
+Reasoning: By rearranging the equation and isolating the exponential term, we can apply the properties of exponents to solve for x. Using logarithms is the correct method to simplify the equation and find the value of x.
+Answer: B
+------------------------
+68. ------------------------
+Reasoning: The reasoning behind this is that when we compose polynomials $f(g(x))$, $g(h(x))$, and $h(f(x))$, the degrees of the resulting polynomials are additive. Since the resulting polynomial has a degree of $36$, the sum of the degrees of the polynomials inside $f$, $g$, and $h$ must add up to $36. Given that $f(x)$ is of degree $6$ and $g(x)$ is of degree $3$, the degree of $h(x)$ must be $12$ in order to satisfy the condition.
+Answer: D
+------------------------
+69. ------------------------
+Reasoning: The region where $x < y$ forms a triangle within the rectangle, and the probability of this event occurring is directly related to the ratio of the area of this triangle to the total area of the rectangle.
+Answer: D
+------------------------
+70. ------------------------
+Reasoning: The correct answer can be determined by finding the intersection of the number of boxes containing pens and pencils. Since 13 boxes contain only pencils and 4 boxes contain only pens, and there are 3 boxes that contain neither, the total number of boxes containing pens and pencils can be calculated by subtracting the total number of boxes from the sum of boxes containing only pens and only pencils. Therefore, the correct answer is 5.
+Answer: A
+------------------------
+71. ------------------------
+Reasoning: The total number of 4-digit integers with only odd digits is calculated by multiplying the number of choices for each digit (5 choices for each of the 4 digits) which results in 5^4 = 625.
+Answer: C
+------------------------
+72. ------------------------
+Reasoning: The negative signs in both the numerator and denominator of the first fraction cancel out, resulting in a positive fraction. The negative sign in the second fraction remains in the denominator. When dividing fractions, you can multiply the first fraction by the reciprocal of the second fraction, which changes the division operation to multiplication.
+Answer: B
+------------------------
+73. ------------------------
+Reasoning: The positive square root of 200 is approximately 14.142, and the positive square root of 121 is 11. Calculating the percentage increase between these two values gives us a result of approximately 29% when rounded to the nearest whole number.
+Answer: A
+------------------------
+74. ------------------------
+Reasoning: By utilizing the identity $(a+b)^2 = a^2 + 2ab + b^2$ and substituting $xy = -5$, we can simplify the expression $4x^2 + 9y^2$ to $4x^2 + 9y^2 = (2x)^2 + 2(2x)(3y) + (3y)^2 = (2x + 3y)^2$. Given that $(2x + 3y)^2 = 4$, the value of $4x^2 + 9y^2$ is also equal to 4.
+Answer: A
+------------------------
+75. Reasoning: The third term of the geometric progression can be found by multiplying the first term by the common ratio squared. Given that the first term is 9 and the common difference of the arithmetic progression is 2, the common ratio of the geometric progression can be calculated as (11 + 20)/(9 + 2) = 31/11. Therefore, the smallest possible value for the third term of the geometric progression is 31.
+
+Answer: D
+76. ------------------------
+Reasoning: The value of the first term that exceeds 5000 should be a power of 2, as each term in the sequence is double the sum of all the previous terms.
+Answer: D
+------------------------
+77. ------------------------
+Reasoning: The statement that aligns with the concept of derivatives and continuity is that if f(x) is continuous at x = c, then f′(c) exists.
+Answer: A
+------------------------
+78. ------------------------
+Reasoning: By substituting the values into the expression $2\star x = 22$ and following the rules of the operation $\star$, we get $2^x - 2x = 22$. Solving this equation, we find that $x = 5$.
+Answer: A
+------------------------
+79. ------------------------
+Reasoning: By adding the number of days in February and March to the day of the week for February 28, 2011, we can determine that April 1, 2011, will fall on a Saturday, which is 3 days after the day of the week for February 28, 2011.
+Answer: D
+------------------------
+80. ------------------------
+Reasoning: The rate of increase in the number of infected individuals is exponential because the virus doubles every 3 days, leading to rapid growth. Using the formula for exponential growth, we can calculate the earliest date when the entire town would be infected.
+Answer: C
+------------------------
+81. ------------------------
+Reasoning: The list includes consecutive numbers starting from 25 and ending at 100, so to find the total count of numbers, we need to calculate the difference between the last number (100) and the first number (25), then add 1 to account for all the numbers in between.
+Answer: B
+------------------------
+82. ------------------------
+Reasoning: When considering all possible arrangements of the letters MISSISSIPPI, we need to account for all combinations to determine the total number of arrangements. When focusing on palindromes of 2 letters or more containing the letter M, we must ensure that the arrangement includes the letter M and at least one other letter to form a palindrome. The correct answer should reflect these characteristics.
+Answer: B
+------------------------
+83. ------------------------
+Reasoning: Utilizing the concept of modular arithmetic and the application of Euler's theorem or Fermat's little theorem can help simplify the calculation of remainders in division problems involving large powers.
+Answer: A
+------------------------
+84. ------------------------
+Reasoning: The greatest common factor is the largest number that can divide both 252 and 96 without leaving a remainder. By identifying the prime factors of 252 (2, 2, 3, 3, 7) and 96 (2, 2, 2, 2, 2, 3), we can see that the common factors are 2, 2, and 3. Multiplying these common factors together gives us 2 * 2 * 3 = 12, which is the greatest common factor.
+Answer: D
+------------------------
+85. ------------------------
+Reasoning: Adding up all the bags delivered on each day of the week will give us the total number of bags by the end of the week.
+Answer: C
+------------------------
+86. ------------------------
+Reasoning: Following the PEMDAS rule, we need to simplify the expression by first dealing with the parentheses and then combining like terms.
+Answer: A
+------------------------
+87. ------------------------
+Reasoning: The clock chimes once for every 15-minute increment between hours, so for a 30-minute increment, it would chime twice. Between 5:10 and 7:35 P.M., there are 3 full 30-minute increments, resulting in 6 chimes. 
+Answer: B
+------------------------
+88. ------------------------
+Reasoning: The formula for calculating the area of an equilateral triangle with a side length of 12 inches is A = (√3/4) * s^2. By plugging in the side length of 12 into the formula, the approximate area can be calculated.
+Answer: C
+------------------------
+89. ------------------------
+Reasoning: The function $f(x)$ must be symmetric about the line $x=5$ to satisfy the conditions of shifting it 2 units to the right and stretching it vertically by a factor of 2. This symmetry ensures that the resulting graph is identical to the original.
+Answer: B
+------------------------
+90. ------------------------
+Reasoning: The alternating application of functions $f$ and $g$ will eventually cancel each other out after 8 iterations, resulting in an integer value.
+Answer: A
+------------------------
+91. ------------------------
+Reasoning: The duration of time John was away from home is less than 30 minutes because the angle between the hour and minute hands on a clock changes by 30 degrees every hour.
+Answer: A
+------------------------
+92. ------------------------
+Reasoning: The inverse of a composite function is found by reversing the order of operations. To find the inverse of $h(x)$, we need to switch the roles of $x$ and $h(x)$ in the function $h(x)$ and solve for the new $h(x)$. 
+Answer: D
+------------------------
+93. ------------------------
+Reasoning: When simplifying the given expression step by step, we first deal with the negative signs in the fractions. The negative signs in the numerator and denominator cancel out, resulting in a positive value. Then, we multiply the fractions to get the final answer. 
+Answer: A
+------------------------
+94. ------------------------
+Reasoning: The region bounded by x^2 = 4y and the line y = 2 represents the base of the solid, and each plane section perpendicular to the y-axis is a square, meaning the side length of the square plane sections is equal to the distance between the base and the line y = 2. The volume can be calculated by finding the area of the base (which is a square with side length 2) and multiplying it by the height of the solid (2 units).
+Answer: B
+------------------------
+95. ------------------------
+Reasoning: The product $a\cdot b$ is positive when both $a$ and $b$ have the same sign, either both positive or both negative. This means that the favorable outcomes are when $a$ and $b$ are both positive or both negative. Considering the total possible combinations of values for $a$ and $b$ within the given ranges, the total number of favorable outcomes can be calculated to determine the probability.
+Answer: A
+------------------------
+96. ------------------------
+Reasoning: To find the coefficient of the (x - 8)^2 term in the Taylor polynomial for y = x^(2/3) around x = 8, we need to calculate the second derivative of the function at x = 8 and divide it by 2!. This involves differentiation and the use of derivatives at the center of the polynomial. 
+Answer: C
+------------------------
+97. ------------------------
+Reasoning: Calculating the slope using the formula (y2 - y1) / (x2 - x1) for the points (5, 4) and (-2, 3) results in (3 - 4) / (-2 - 5) = -1 / -7 = 1/7 = 0.14. Therefore, the correct answer is A.
+Answer: A
+------------------------
+98. ------------------------
+Reasoning: The probability of an event and its complement must add up to 100%. Therefore, if there is a 70% chance of rain, the percent chance that it will NOT rain on that same day is 30%.
+Answer: B
+------------------------
+99. Reasoning: The properties of exponents state that when raising a power to another power, you multiply the exponents together. In this case, $4^{(3^3)}$ simplifies to $4^9$ and $(4^3)^3$ simplifies to $4^9$ as well. Therefore, the equation simplifies to $4^9 / 4^9 = 2^{27}$, which means $N$ should be $27$.
+Answer: B
+100. ------------------------
+Reasoning: The point (0, 0) does not satisfy both inequalities because it either lies above the line y = 9x - 8 or below the line y = -x + 8, making it the answer that is NOT a solution to both.
+Answer: C
+------------------------
+101. ------------------------
+Reasoning: Following the order of operations (PEMDAS) and distributing the negative sign correctly, the expression simplifies to 5x + 3 - 4x + 8 = x + 11.
+Answer: B
+------------------------
+102. ------------------------
+Reasoning: By substituting $f(x) = 25$ into the equation $g(f(x)) = x^2 + x + 1$, we can solve for $x$ to find the possible values. The sum of all possible values of $g(25)$ will be obtained by evaluating $g(25)$ for each possible value of $x$ that satisfies the equation.
+Answer: C
+------------------------
+103. ------------------------
+Reasoning: The largest factor of 54,321 that is less than 54,321 would be one of its prime factors, which are 3, 7, 11, 13, and 37. Among the options, 121 is not a prime factor of 54,321, making it incorrect. 6 is a factor of 54,321 but not the largest one. 18107 is not a factor of 54,321. Therefore, the correct answer is D. 54,320.
+Answer: D
+------------------------
+104. ------------------------
+Reasoning: Since the triangle is a 45-45-90 triangle with one angle being $45^{\circ}$, the two legs are congruent. Using the Pythagorean theorem, we can calculate the length of the legs. Then, we can find the area of the triangle using the formula A = 0.5 * base * height.
+Answer: D
+------------------------
+105. ------------------------
+Reasoning: To calculate the total number of ways to choose 5 different integers from the range 20 to 69, we need to consider the total number of integers in the range and use combinations. Additionally, to ensure each integer has a different tens digit, we need to count the number of ways to choose integers with unique tens digits. The probability is then calculated by dividing the number of ways to choose 5 integers with different tens digits by the total number of ways to choose 5 integers. 
+Answer: D
+------------------------
+106. ------------------------
+Reasoning: The function $f(x)$ is defined as $2$ for all real numbers $x$, meaning that $f(x + 2)$ will also be $2$ since adding $2$ to $x$ does not change the output value of the function.
+Answer: A
+------------------------
+107. ------------------------
+Reasoning: The integers congruent to 5 modulo 13 will repeat every 13 numbers, forming a consistent pattern. By dividing the range of 401 integers into groups of 13, we can determine the total count of integers satisfying the congruence condition.
+Answer: A
+------------------------
+108. ------------------------
+Reasoning: The number $18\cdot n \cdot 34$ should have prime factors that can be paired up to form perfect squares in order for the square root to be an integer. The least possible positive integer-value of $n$ should be chosen to ensure that all prime factors can be paired up, making the square root an integer.
+Answer: C
+------------------------
+109. ------------------------
+Reasoning: To find the value of 2 * g(6), we first need to determine the value of g(6) by understanding the function f(g(6)) = 13. Since f(2x) = x + 5, we can substitute g(6) for x in the equation f(g(6)) = 13 to find the value of g(6). Once we have the value of g(6), we can then calculate 2 * g(6).
+Answer: B
+------------------------
+110. ------------------------
+Reasoning: The reciprocal of $0.\overline7$ can be expressed as $\frac{1}{0.\overline7}$. To find the reciprocal, we can set $x = 0.\overline7$ and then solve for $x$ by multiplying both sides by 10 to get $10x = 7.\overline7$. Subtracting the original equation from the new equation gives $9x = 7$, which simplifies to $x = \frac{7}{9}$. Therefore, the reciprocal of $0.\overline7$ is $\frac{9}{7}$, which is a repeating decimal.
+Answer: D
+------------------------
+111. ------------------------
+Reasoning: To calculate the time Jennifer spends running at 8 mph for the first half of the race, we divide the distance (26.2 miles) by the speed (8 mph), which gives us approximately 3.275 hours. For the second half of the race, running at 6 mph, the time taken would be approximately 4.367 hours. Adding these two times together, we get a total time of around 7.642 hours, which is closest to option C. 
+Answer: C
+------------------------
+112. ------------------------
+Reasoning: The least perfect square with 3 different prime factors would be the product of the smallest three distinct prime numbers, ensuring that the resulting number is a perfect square with 3 different prime factors raised to an even power.
+Answer: A
+------------------------
+113. ------------------------
+Reasoning: The number of even positive integers less than the product of 7 and 13 will be determined by the even factors of 91, which are multiples of 2. 
+Answer: A
+------------------------
+114. ------------------------
+Reasoning: By examining the properties of positive numbers $a$, $b$, and $c$ in the given equations $a^2/b = 1, b^2/c = 2, c^2/a = 3$, we can see that $a$ is the smallest number among them since it is raised to the highest power (2). Therefore, the correct answer is C. 1.
+Answer: C
+------------------------
+115. ------------------------
+Reasoning: By rewriting the bases of the exponents in a way that allows for easier comparison and manipulation, we can simplify the equation to $5^{-2x-4} = 5^{-3x}$. Equating the exponents gives $-2x-4 = -3x$, which simplifies to $x = 4$.
+Answer: D
+------------------------
+116. ------------------------
+Reasoning: The equation of the circle can be converted to the standard form to identify the center and radius of the circle. The sides of the square are parallel to the x-axis and touch the circle at four points. The side length of the square is twice the radius of the circle.
+Answer: D
+------------------------
+117. ------------------------
+Reasoning: As k approaches infinity, the terms in the series decrease rapidly due to the exponential function in the denominator, resulting in the sum converging to a specific value rather than diverging to infinity.
+Answer: B
+------------------------
+118. ------------------------
+Reasoning: The volume of the region where $x^2+y^2+z^2\le 1$ is a sphere with radius 1 centered at the origin. The volume of a sphere is $\frac{4}{3}\pi r^3 = \frac{4}{3}\pi$. The probability of selecting a point within this region is proportional to its volume, which is $\frac{4}{3}\pi$. The total volume of the space is 8. Therefore, the probability is $\frac{\frac{4}{3}\pi}{8} = \frac{\pi}{6}$.
+Answer: C
+------------------------
+119. ------------------------
+Reasoning: The number $x$ can be expressed as $2^{15} \cdot 3^6$ which is its prime factorization. To find the number whose cube equals $x$, we need to take the cube root of each prime factor raised to the power of $3$. Therefore, the correct answer is B. 27.
+Answer: B
+------------------------
+120. ------------------------
+Reasoning: The sum of cubes $(a^3 + b^3 + c^3)$ is subtracted from the cube of the sum $(a+b+c)^3$ because the equation involves the difference between these two quantities. The sum of $a$, $b$, and $c$ should be a positive integer that satisfies the equation $(a+b+c)^3 - a^3 - b^3 - c^3 = 150$.
+Answer: C
+------------------------
+121. ------------------------
+Reasoning: When considering the total number of possible combinations of three-digit positive integers, the correct answer should be infinite because there is no limit to the number of three-digit positive integers that can be formed.
+Answer: C
+------------------------
+122. ------------------------
+Reasoning: The numbers that are multiples of 3 on the octahedral die are 3 and 6, and on the six-sided die are also 3 and 6. In order for the product of the two rolls to be a multiple of 3, at least one of the rolls must be a multiple of 3. Therefore, the probability of rolling a multiple of 3 on the octahedral die is 2/8 and on the six-sided die is 2/6. Multiplying these probabilities gives us 1/12, which is the probability that the product of the two rolls is a multiple of 3.
+Answer: B
+------------------------
+123. ------------------------
+Reasoning: Given that the decrease in the number of reported measles cases from 1960 to 1996 is stated to be linear, we can calculate the average decrease per year. By applying this consistent decrease to the number of cases reported in 1960, we can determine the number of cases in 1987. 
+Answer: A
+------------------------
+124. ------------------------
+Reasoning: The exponent of $x$ in the simplified expression is determined by multiplying the exponents when raising a power to another power. In this case, the exponent of $x$ is 10.
+Answer: B
+------------------------
+125. ------------------------
+Reasoning: The total number of ways to choose 3 cards from a standard 52-card deck is 52 choose 3, which is the denominator for calculating the probability. To form a pair, we first need to choose a pair of cards of the same rank, which can be done in 13 ways (one for each rank). Then, we need to choose the third card that is different in rank from the pair, which can be done in 11 ways (since 2 ranks are already taken by the pair). Therefore, the total number of favorable outcomes is 13 * 11. Dividing this by the total number of ways to choose 3 cards from a 52-card deck gives us the probability of forming a pair.
+Answer: B
+------------------------
+126. ------------------------
+Reasoning: The formula for calculating the number of diagonals in a regular polygon is n(n-3)/2, where n represents the number of sides. For a regular octagon, n=8, so plugging it into the formula gives us 8(8-3)/2 = 20 diagonals.
+Answer: D
+------------------------
+127. ------------------------
+Reasoning: The number of choices for each speaking role is independent, so the total number of possible lineups is calculated by multiplying the number of choices for each role. The principal has 85 choices for the opener, 1 choice for the name-reader, and 83 choices for the closer. Therefore, the total number of possible lineups is 85 * 1 * 83 = 592,705.
+Answer: B
+------------------------
+128. ------------------------
+Reasoning: The correct answer involves integrating the square root of (1 + (dy/dx)^2) with respect to x between the given y-values, which represents the arc length of the curve. 
+Answer: C
+------------------------
+129. ------------------------
+Reasoning: The area of the region bounded by the curves y = x^2, y = cos(x), and the y-axis in the first quadrant can be calculated by finding the points of intersection between the curves, setting up the integral with respect to y, and integrating with the appropriate limits. This involves determining the x-values of the points of intersection to establish the boundaries of the region.
+Answer: B
+------------------------
+130. ------------------------
+Reasoning: The concept of being a multiple of a number applies symmetrically to both positive and negative integers, and 12 is a multiple of both positive and negative integers.
+Answer: D
+------------------------
+131. ------------------------
+Reasoning: The value of $\log_3 81$ can be calculated by recognizing that $81 = 3^4$ because $\log_a a^b = b$ where $a$ is the base and $b$ is the exponent.
+Answer: A
+------------------------
+132. ------------------------
+Reasoning: Completing the square involves rewriting the expression in the form $c(j + p)^2 + q$, where $c$, $p$, and $q$ are constants. The value of $\frac{q}{p}$ can be determined by comparing the coefficients of the squared term and the linear term in the completed square form.
+Answer: A
+------------------------
+133. ------------------------
+Reasoning: By applying the conditions of the operation $\#$ step by step, we can find the value of $11\ \#\ 5$. Using the condition $(r + 1)\ \#\ s = (r\ \#\ s) + s + 1$, we can calculate $11\ \#\ 5$ as follows: $11\ \#\ 5 = (10\ \#\ 5) + 5 + 1 = (5\ \#\ 10) + 5 + 1 = 10 + 5 + 1 = 16$. Therefore, the value of $11\ \#\ 5$ is 16.
+Answer: B
+------------------------
+134. ------------------------
+Reasoning: To calculate the total word count of the novel, we can use the information that there are approximately 200 words on one quarter of a typical page. Since there are 400 pages in the novel, we can estimate the total word count by multiplying 200 (words per quarter page) by 4 (quarters per page) and then by 400 (total number of pages). This gives us a total word count of 320,000 words. To find out how long it will take Veronica to read the book, we divide the total word count by her reading speed of 250 words per minute. Therefore, the correct answer is 320 minutes.
+Answer: B
+------------------------
+135. ------------------------
+Reasoning: The final price after the additional 10 percent discount is the most relevant characteristic to consider when looking at additional promotions or discounts that could further impact the price of the coat for the Christmas shopper in December.
+Answer: A
+------------------------
+136. ------------------------
+Reasoning: The correct answer should involve maximizing the multiplication operation by placing the multiplication symbol between the largest numbers (6 and 8) to obtain the highest possible number.
+Answer: D
+------------------------
+137. ------------------------
+Reasoning: The correct answer should involve squaring the number, adding or subtracting a constant value, and setting two expressions equal to each other based on the relationship provided in the question.
+Answer: B
+------------------------
+138. ------------------------
+Reasoning: Each interior angle of a regular octagon measures 135 degrees because in a regular octagon, all interior angles are equal and can be calculated using the formula (n-2) * 180 / n, where n is the number of sides of the polygon. In this case, for an octagon (8 sides), each interior angle would be (8-2) * 180 / 8 = 135 degrees.
+Answer: B
+------------------------
+139. ------------------------
+Reasoning: The minimum positive number of days before planets X, Y, and Z are all in the exact same locations again is determined by finding the least common multiple (LCM) of their orbital periods. The LCM of 360, 450, and 540 is 1800, which is the smallest number divisible by all three periods.
+Answer: B
+------------------------
+140. ------------------------
+Reasoning: The magnitude of the vector v = (5, 0, 7) can be calculated using the formula ||v|| = sqrt(5^2 + 0^2 + 7^2) = sqrt(25 + 0 + 49) = sqrt(74) ≈ 8.6
+Answer: D
+------------------------
+141. ------------------------
+Reasoning: The domain remains the same while the range is stretched vertically by a factor of 3 because the coefficient in front of the sine function affects the amplitude of the graph.
+Answer: A
+------------------------
+142. ------------------------
+Reasoning: Utilizes the identities $a^3+b^3+c^3 = (a+b+c)^3 - 3(a+b+c)(ab+ac+bc) + 3abc$ to simplify the expression by substituting the given values of $a+b+c$ and $ab+ac+bc$.
+Answer: A
+------------------------
+143. ------------------------
+Reasoning: The correct answer should involve combining like terms by adding or subtracting the coefficients of terms with the same degree to simplify the expression. The terms should be organized in decreasing order of degrees for clarity and ease of understanding.
+Answer: D
+------------------------
+144. ------------------------
+Reasoning: The difference in cents between the tip amount calculated by doubling the sales tax rate and the standard tip amount on a $60 bill before tax is what we need to find. The standard tip on a $60 bill before tax is $900$ cents. By doubling the sales tax rate of $8.25\%$, we get $16.5\%$, which is $0.165 \times 60 = 9.9$, and $9.9 \times 100 = 990$ cents. The difference between $990$ cents and $900$ cents is $90$ cents.
+Answer: A
+------------------------
+145. ------------------------
+Reasoning: The greatest possible quotient can be achieved by choosing the largest number in the set (10) as the numerator and the smallest number in the set ($\frac{2}{5}$) as the denominator, following the principle that the quotient is maximized when the numerator is the largest and the denominator is the smallest.
+Answer: B
+------------------------
+146. ------------------------
+Reasoning: The area bounded by the parabola y = x^2 and the lines y = 1 and y = 9 can be calculated by finding the definite integral of the function y = x^2 within the bounds determined by the lines y = 1 and y = 9. This involves integrating the function y = x^2 between the x-coordinates of the points of intersection of the parabola and the lines to determine the area enclosed by these curves.
+Answer: B
+------------------------
+147. ------------------------
+Reasoning: By utilizing the sum of cubes formula $a^3 + b^3 + c^3 = (a + b + c)(a^2 + b^2 + c^2 - ab - ac - bc)$ and substituting the given values of $a+b+c$, $ab+ac+bc$, and $abc$, we can directly calculate the value of $a^3+b^3+c^3$ without finding the individual values of $a$, $b$, and $c. This approach simplifies the calculation process and provides a straightforward solution.
+Answer: C
+------------------------
+148. ------------------------
+Reasoning: The probability that all three pairwise distances between the points are less than the radius of the circle is 1/4 because the three points must form a triangle within the circle, and there are only four possible configurations for this to happen.
+Answer: A
+------------------------
+149. ------------------------
+Reasoning: The value of $k$ in the vertex form of a quadratic expression represents the vertical shift of the parabola. In this case, the correct value of $k$ can be determined by comparing the given expression $3x^2 + x - 4$ with the standard form of a quadratic expression. 
+Answer: D
+------------------------
+150. ------------------------
+Reasoning: The rate of decay of a radioactive isotope is constant over time due to first-order kinetics. Therefore, the time it takes for the isotope to decay from 45 grams to 20 grams will be the same as the time it took to decay from 50 grams to 45 grams.
+Answer: B
+------------------------
+151. ------------------------
+Reasoning: When the denominator of a fraction becomes zero, it results in division by zero which is undefined in mathematics. Therefore, the values of x that make the denominator of the function equal to zero are the ones that are not in the domain of the function.
+Answer: C
+------------------------
+152. ------------------------
+Reasoning: The recommended daily allowance for sugar should be less than 293 grams to avoid health issues associated with excessive sugar consumption.
+Answer: A
+------------------------
+153. ------------------------
+Reasoning: The total number of terms in the list can be calculated using the formula for an arithmetic sequence, which gives us 13 terms in this case.
+Answer: C
+------------------------
+154. ------------------------
+Reasoning: The correct answer should be prime numbers between 100 and 200, inclusive, that are either 1 or 2 more than a perfect square. This is because the question specifically asks for the sum of primes that meet these criteria. By focusing on prime numbers that satisfy both conditions, we can accurately calculate the sum as requested.
+Answer: B
+------------------------
+155. ------------------------
+Reasoning: The correct answer should be in the form of $\frac{p}{q}$ where $p$ is the repeating part of the decimal and $q$ is a string of 9s equal to the number of digits in the repeating part. In this case, $0.1\overline{7}$ can be represented as $\frac{7}{9}$.
+Answer: A
+------------------------
+156. ------------------------
+Reasoning: The formula for calculating the number of diagonals in a polygon is n(n-3)/2, where n represents the number of sides of the polygon. In the case of a convex hexagon, which has 6 sides, applying the formula would give us 6(6-3)/2 = 9 distinct diagonals that can be drawn.
+Answer: C
+------------------------
+157. ------------------------
+Reasoning: The sum of the numbers on the faces is equal to $1001$ minus the sum of the numbers on the vertices. Since the sum of the numbers on the vertices is $1001$, the sum of the numbers on the faces would be $1001 - 1001 = 0$. However, since the numbers are positive integers, the only possible sum of the numbers on the faces would be $18$ (as $1+2+3+4+5+6+7 = 28$). 
+Answer: A
+------------------------
+158. ------------------------
+Reasoning: The factors of an integer ending in the digit $0$ must be numbers that end in $0$ or $5$ because any number ending in $0$ is divisible by $10$ and any number ending in $5$ is divisible by $5. Additionally, for a number to be divisible by 3, the sum of its digits must also be divisible by 3. Therefore, the numbers $5$ and $3$ are the only ones that satisfy both conditions.
+Answer: B
+------------------------
+159. ------------------------
+Reasoning: To find out how many out-of-town friends Morgan has, we need to calculate the total number of friends she has first. Then, subtract the number of friends living in town (30% of female friends and 40% of male friends) to get the number of out-of-town friends. This approach gives a comprehensive view of her social network.
+Answer: A
+------------------------
+160. ------------------------
+Reasoning: The student can miss a maximum of 7 questions because missing more than 7 questions would result in a score below 80%.
+Answer: A
+------------------------
+161. ------------------------
+Reasoning: By setting the area and perimeter of the rectangle equal to each other and using the given dimensions of the rectangle, we can create an equation to solve for x. The area of the rectangle is $(3x)(x + 5)$ and the perimeter is $2(3x + x + 5)$. Setting these equal and solving for x gives us $x = \frac{10}{3}$.
+Answer: C
+------------------------
+162. ------------------------
+Reasoning: The correct answer can be determined by plugging in the values of t=10, initial investment of $4000, and the growth rate formula 320*e^(0.08t) to calculate the value of the investment after 10 years. By doing so, the approximate value after 10 years is $12,902, which aligns with option D.
+Answer: D
+------------------------
+163. ------------------------
+Reasoning: The question is asking for the total number of possible committees of 5 people that can be chosen from a group of 15 people, where the order of selection does not matter. This scenario involves combinations rather than permutations, as the focus is on selecting a group of items without considering the order. 
+Answer: C
+------------------------
+164. ------------------------
+Reasoning: The area bounded by the spiral r = ln θ on the interval π <= θ <= 2π can be calculated by integrating the curve equation with respect to θ and applying the formula for calculating the area bounded by a polar curve. Since the spiral completes a full revolution within the interval π <= θ <= 2π, the total area enclosed by the spiral should be considered. The natural logarithm function ln θ causes the spiral to spiral inward towards the origin as θ increases, resulting in a smaller area bounded by the curve within the specified interval.
+Answer: A
+------------------------
+165. ------------------------
+Reasoning: By applying the distributive property to the expression 4(x - 2), we get 4x - 8. Then, combining like terms in the equation, we have 3x - 4x + 6x - 8 = 0, which simplifies to 5x - 8 = 0. Solving for x, we find x = 8/5 = 1.6.
+Answer: C
+------------------------
+166. ------------------------
+Reasoning: The correct answer should reflect the exponential growth pattern of amoebas, where each living amoeba splits into two new amoebas every day, leading to a rapid increase in numbers. Since only one amoeba is placed in the puddle on the first day, the population doubles each day. Therefore, the total number of amoebas in the puddle after one week would be 2^7, which equals 128.
+Answer: D
+------------------------
+167. ------------------------
+Reasoning: By combining the terms with the same base, we get $3(2^{20}) + 2^{21}$. To solve the expression, we need to know the value of $2^{17}$ to divide the sum of the terms by $2^{17}$.
+Answer: D
+------------------------
+168. ------------------------
+Reasoning: To calculate the total expenses in 2014, we multiply the quantity purchased (20,000 pounds) by the price per pound in 2014 ($0.24). This gives us $4,800. To calculate the total expenses in 2015, we multiply the quantity purchased (20,000 pounds) by the price per pound in 2015 ($0.16). This gives us $3,200. The percentage change in expenses from 2014 to 2015 can be calculated using the formula: ((New Value - Old Value) / Old Value) * 100. Plugging in the values, we get ((3200 - 4800) / 4800) * 100 = -33%. Therefore, the correct answer is B. -33%.
+Answer: B
+------------------------
+169. ------------------------
+Reasoning: Using the Pythagorean theorem and the formula for the perimeter of a triangle, we can set up the equation $6^2 + b^2 = c^2$ and $6 + b + c = 18$. Solving these equations simultaneously, we find $c = 8$.
+Answer: C
+------------------------
+170. ------------------------
+Reasoning: The correct answer should have all sides equal in length, which is not a characteristic of an isosceles triangle. 
+Answer: C
+------------------------
+171. ------------------------
+Reasoning: The product of two complex numbers is equal to the product of their magnitudes and the product of their arguments. Since Hardy picked $5+3i$, the number Ramanujan picked should involve the conjugate of $5+3i$ to result in $32-8i$.
+Answer: C
+------------------------
+172. Reasoning: The point $(3,6)$ is on the graph of $y=g(x)$, and $h(x)=(g(x))^2$. Therefore, to find the point on the graph of $y=h(x)$, we need to square the y-coordinate of the given point. The sum of the coordinates of the point on the graph of $y=h(x)$ will be $3 + 6^2 = 3 + 36 = 39$.
+
+Answer: C. 39
+173. ------------------------
+Reasoning: The remainder when the $100^{\mathrm{th}}$ term of the Fibonacci sequence is divided by 4 will be 0 because the remainders of Fibonacci numbers repeat in cycles of length 6 when divided by 4, and the $100^{\mathrm{th}}$ term falls into the cycle where the remainder is 0.
+Answer: A
+------------------------
+174. ------------------------
+Reasoning: To find the time duration for which the cannonball is above 6 meters, we need to solve the inequality $-4.9t^2 + 14t - 0.4 > 6$. By solving this inequality, we can determine the time intervals during which the cannonball is above 6 meters. 
+Answer: B. \frac{7}{12}
+------------------------
+175. ------------------------
+Reasoning: Wayne considers the letter "Y" as a vowel, resulting in 6 vowels in his perspective, while Kristen only considers 5 vowels. This means that the probability of selecting a vowel according to Wayne's opinion is 6/26, whereas according to Kristen's opinion it is 5/26. Therefore, the correct answer should reflect the difference in the number of vowels considered by Wayne and Kristen, resulting in a higher probability of selecting a vowel in Wayne's opinion.
+Answer: D
+------------------------
+176. ------------------------
+Reasoning: The expression $1990\times1991 - 1989\times1990$ involves the subtraction of the product of two numbers from the product of two other numbers. By simplifying this expression, we can factor out a common factor of 1990, leading to $1990(1991-1989)$. This simplifies further to $1990\times2 = 3980$, which is the equivalent counting number.
+Answer: C
+------------------------
+177. ------------------------
+Reasoning: The correct answer should reflect a cumulative increase of 21% over the two years, with a $2,000 increase in the first year and a $2,200 increase in the second year. Therefore, the salary after two years would be $24,200.
+Answer: A
+------------------------
+178. ------------------------
+Reasoning: Every even number is divisible by 2. To find the total number of integers in the set {1,2,3,...,100} that are divisible by 2, we need to consider all the even numbers in the set. 
+Answer: A
+------------------------
+179. ------------------------
+Reasoning: The correct answer should involve prime numbers and non-prime numbers, as the product of prime numbers will result in a composite number, while the product of non-prime numbers may or may not result in a composite number.
+Answer: A
+------------------------
+180. ------------------------
+Reasoning: The solid cut out of the sphere is essentially a spherical cap with a smaller radius due to the parallel planes being 1 unit from the center. The volume of the solid should be smaller than the volume of the sphere but larger than the volume of a cylinder with radius 1 and height 2.
+Answer: B
+------------------------
+181. ------------------------
+Reasoning: By setting up the ratio of $2x-y$ to $x+y$ as 2 to 3, we can create the equation $\frac{2x-y}{x+y} = \frac{2}{3}$. Solving this equation will give us the values of x and y. Once we have those values, we can determine the ratio of x to y, which simplifies to $\frac{5}{4}$.
+Answer: A
+------------------------
+182. ------------------------
+Reasoning: When manipulating or transforming parametric equations, the goal is often to eliminate the parameter and express the curve in terms of a single variable. This simplifies the analysis of the curve by allowing for easier visualization and interpretation of its behavior. By eliminating the parameter, the curve can be represented in a more familiar form, such as a Cartesian equation, which can provide insights into its shape, symmetry, and other properties.
+Answer: A
+------------------------
+183. ------------------------
+Reasoning: By calculating the distance between the points $(1,2)$ and $(7, 4)$ using the distance formula, we can find the length of the side of the square. The distance between these points is $\sqrt{(7-1)^2 + (4-2)^2} = \sqrt{36 + 4} = \sqrt{40}$. Therefore, the side length of the square is $\sqrt{40}$.
+Answer: D
+------------------------
+184. ------------------------
+Reasoning: The quadratic formula can be used to find the solutions of the given equation. The positive difference between the solutions can be calculated by subtracting the smaller solution from the larger solution, which corresponds to the positive sign in front of the square root term in the quadratic formula.
+Answer: B
+------------------------
+185. ------------------------
+Reasoning: Applying the formula for the sum of squares of consecutive integers up to n, which is n(n+1)(2n+1) / 6, we can find the sum of squares from 1 to 40 by substituting n=40 into the formula. Therefore, the value of $21^2 + 22^2 + \cdots + 40^2$ is 40(40+1)(2*40+1) / 6 = 22140.
+Answer: B
+------------------------
+186. ------------------------
+Reasoning: The probability of rolling a prime number on a 6-sided die is 2/6 and the probability of rolling a composite number is 4/6. To find the probability of getting exactly 3 prime numbers and 3 composite numbers when rolling six dice, we need to calculate the number of ways to choose 3 prime numbers and 3 composite numbers from the set of outcomes and then multiply the probabilities accordingly.
+Answer: A
+------------------------
+187. ------------------------
+Reasoning: The value of $\log_8 2$ is equivalent to $\frac{1}{3}$ because the logarithm of a number to a certain base is the power to which the base must be raised to obtain that number. In this case, $8^{\frac{1}{3}} = 2$.
+Answer: D
+------------------------
+188. ------------------------
+Reasoning: The side length of the square with the same perimeter as the equilateral triangle would be 6 (24 divided by 4). The area of a square is calculated by squaring the side length, so the area of the square would be 6^2 = 36.
+Answer: C
+------------------------
+189. ------------------------
+Reasoning: The exponent of 109 in the prime factorization of x^{11} is 55 because when a number is raised to a power, the exponents of its prime factors are multiplied by that power.
+Answer: B
+------------------------
+190. ------------------------
+Reasoning: To find the value of $M$ when $a=5$ and $b=3$, substitute the values into the expression $M=4a^2 - 2b^2 +a$ to get $M=4(5)^2 - 2(3)^2 + 5 = 100 - 18 + 5 = 87$. Similarly, when $a=-1$ and $b=4$, substitute the values into the expression to get $M=4(-1)^2 - 2(4)^2 - 1 = 4 - 32 - 1 = -29$. Therefore, $j=87$ and $k=-29$. Finally, $j+2k = 87 + 2(-29) = 87 - 58 = 29$.
+Answer: A
+------------------------
+191. ------------------------
+Reasoning: To calculate the probability of exactly two of the four dice showing an even number, we need to consider the total number of ways to choose 2 out of 4 dice to show an even number and the number of ways to choose the even numbers to appear on those dice. This involves combinations and permutations. The correct answer is B. \frac{5}{16}.
+Answer: B
+------------------------
+192. ------------------------
+Reasoning: The correct answer should involve only odd powers of $m$ and $n because odd powers of odd integers result in odd integers.
+Answer: A
+------------------------
+193. ------------------------
+Reasoning: The correct answer should be the horizontal length of the television screen because width typically refers to the horizontal measurement of a screen in product specifications. Therefore, when determining the difference in length when measuring along the diagonal instead of the horizontal, the correct approach would be to consider the horizontal length as the width of the screen.
+Answer: A
+------------------------
+194. ------------------------
+Reasoning: The maximum number of students who can have a computer to themselves is 10 because each class has 10 working computers available and there can only be 1 student per computer.
+Answer: C
+------------------------
+195. ------------------------
+Reasoning: The only way to obtain a product of 180 when three standard dice are tossed is by getting the numbers 5, 6, and 6. Therefore, the total number of favorable outcomes is 1. The total number of outcomes when three dice are tossed is $6^3 = 216$. Thus, the probability is $\frac{1}{216}$.
+Answer: B
+------------------------
+196. ------------------------
+Reasoning: By setting up the equation for the expected value, we can calculate the probability of drawing a green ball as $\frac{5}{5+k}$ and the probability of drawing a purple ball as $\frac{k}{5+k}$. The expected value equation becomes: $2*\frac{5}{5+k} - 2*\frac{k}{5+k} = 0.5$. Solving this equation will give us the value of $k$.
+Answer: B
+------------------------
+197. ------------------------
+Reasoning: The relationship between $p$, $q$, and $r$ in the given equation $(x-p)(x-q) = (r-p)(r-q)$ is symmetric. Since one solution is $x=r$, the other solution should also maintain this symmetry. Therefore, the other solution is $x = p+q-r$ to ensure that the equation remains balanced and symmetric.
+Answer: D
+------------------------
+198. ------------------------
+Reasoning: The product matrix will have dimensions 2 x 5 because the number of columns in matrix A (7) matches the number of rows in matrix B (7), resulting in a product matrix with 2 rows and 5 columns.
+Answer: B
+------------------------
+199. ------------------------
+Reasoning: The expression $x^2+xy+y^2+n$ needs to be divisible by 7, given that $x-3$ and $y+3$ are multiples of 7. Since the sum of two numbers that are multiples of 7 is also a multiple of 7, the smallest positive integer $n$ that would ensure divisibility by 7 is 2.
+Answer: A
+------------------------
+200. ------------------------
+Reasoning: The correct answer should have the x-coordinate negated because g(x) = f(-x) for all real numbers x. Since (3, 2) is a point on the graph of g, the corresponding point on the graph of f would have an x-coordinate that is the negation of 3, which is -3.
+Answer: C
+------------------------
+201. ------------------------
+Reasoning: Grady rides $60\%$ faster than Noah, which means Grady's speed is $1.6$ times Noah's speed. If Grady rides $12$ miles further than Noah in two hours, we can set up the equation $1.6x \times 2 = x \times 2 + 12$, where $x$ represents Noah's speed. Solving this equation will give us the speed of Noah in miles per hour.
+Answer: C
+------------------------
+202. ------------------------
+Reasoning: The probability of selecting a red marble on the first draw is 4/10, and the probability of selecting a red marble on the second draw given that a red marble was selected on the first draw is 3/9. Therefore, the probability of selecting two red marbles is (4/10) * (3/9) = 12/90 = 1/15.
+Answer: C
+------------------------
+203. ------------------------
+Reasoning: The correct answer should be a number that satisfies the conditions of having a remainder of 1 when divided by 4, a remainder of 1 when divided by 3, and a remainder of 2 when divided by 5. By finding the least common multiple of 4, 3, and 5, which is 60, and adding the respective remainders, we get the smallest whole number that meets all the criteria, which is 61.
+Answer: A
+------------------------
+204. ------------------------
+Reasoning: By systematically analyzing the inequality $|n| < |n-3| < 9, we can break it down into two separate inequalities and find the possible integer solutions for n. The intersection of the solutions from both inequalities gives us the sum of all integer solutions that satisfy the given conditions.
+Answer: C
+------------------------
+205. ------------------------
+Reasoning: The correct answer should involve the multiplication of complex conjugates, resulting in a real number.
+Answer: B
+------------------------
+206. ------------------------
+Reasoning: By simplifying the expression z^3 + z^2 + z with z = a + bi, we need to ensure that the final expression is a real number. This can be achieved by setting b = 1, as it cancels out the imaginary parts and results in a real number.
+Answer: B
+------------------------
+207. ------------------------
+Reasoning: Since $x$ is given as -8, which is a negative value, $y$ must be a positive value to satisfy the condition that $x$ is twice $y$ in an inverse proportionality. Therefore, the correct answer is D. 40.
+Answer: D
+------------------------
+208. ------------------------
+Reasoning: The rate at which the foot of the ladder moves away from the building and the rate at which the top of the ladder moves down are directly related through the ladder's length and the angle it makes with the building. This relationship can be expressed using the Pythagorean theorem and differentiation with respect to time.
+Answer: D
+------------------------
+209. ------------------------
+Reasoning: The product of the slopes of perpendicular lines is -1. By comparing the slopes of the two equations, we can determine the value of $a$ that satisfies this condition.
+Answer: A
+------------------------
+210. ------------------------
+Reasoning: The value of $a$ impacts the number of digits in the terms of the geometric series because when $a$ is a power of 10, the terms will have a consistent number of digits. This is because powers of 10 have a specific number of zeros at the end, which determines the number of digits in the number. Therefore, choosing $a$ as a power of 10 will ensure that Bill picks out $k$ different numbers in the sequence, all of which have the same number of digits, maximizing the value of $k.
+Answer: A
+------------------------
+211. ------------------------
+Reasoning: When calculating the new waist size after a 15% increase in waist circumference, the correct formula is to multiply the original waist size by 1.15. This means that the new waist size for Owen would be 32 inches * 1.15 = 36.8 inches, which rounds to 37 inches to the nearest whole inch.
+Answer: C
+------------------------
+212. ------------------------
+Reasoning: The side length of a cube is directly related to its surface area, and the amount of paint needed is directly proportional to the surface area. To find the side length of a cube that can be covered with 169 quarts of paint, we can set up a proportion based on the information given. If a cube with a side length of 2 feet requires 16 quarts of paint, then a cube with a side length of x feet would require 169 quarts of paint. Using the proportion 2^2/16 = x^2/169, we can solve for x to find the side length of the cube.
+Answer: D. 13
+------------------------
+213. ------------------------
+Reasoning: Odd perfect squares are numbers that are both odd and perfect squares, meaning they are the squares of odd numbers. The odd perfect squares between 5 and 211 are 9, 25, 49, 81, and 121. Therefore, there are 5 odd perfect squares between 5 and 211.
+Answer: C
+------------------------
+214. ------------------------
+Reasoning: By squaring both sides of the equation to eliminate the square roots, we can simplify the expression and isolate the variable $x$.
+Answer: B. $\frac{1}{4}$
+------------------------
+215. ------------------------
+Reasoning: The question is asking for the number of ways to choose 5 students from a group of 6 without considering the order of selection, which aligns with the concept of combinations.
+Answer: D
+------------------------
+216. ------------------------
+Reasoning: The letter E does not have a vertical axis of symmetry because it is not symmetrical when folded along a vertical line.
+Answer: B
+------------------------
+217. ------------------------
+Reasoning: The range of the function y = 5 + 3 * sin(pi - x) is between -2 and 8 due to the amplitude of the sine function being 3 and the vertical shift caused by the constant term of 5. 
+Answer: B
+------------------------
+218. ------------------------
+Reasoning: To find the equation of the line tangent to the curve at the point where y = 4, we need to first determine the value of t that satisfies 2^t = 4. Solving this equation gives t = 2. Next, we find the derivative of F(t) = (t^2 + 1, 2^t) which is (2t, 2^t * ln(2)). Substituting t = 2 into the derivative gives us the slope of the tangent line. Therefore, the correct answer is A. y – 4 = ln 2(x – 2) because it represents the equation of the tangent line.
+Answer: A
+------------------------
+219. ------------------------
+Reasoning: The probability of having at least half of the children as girls (which means a minimum of three girls out of five) is higher than the probability of having exactly two girls. Therefore, the correct answer is A. \frac{1}{2}.
+Answer: A
+------------------------
+220. ------------------------
+Reasoning: The value of b that results in only one solution for the system of equations y1 = x^2 + 2x + 7 and y2 = 6x + b is when the discriminant of the quadratic equation formed by setting the two equations equal to each other is equal to zero, resulting in a unique solution.
+Answer: B
+------------------------
+221. ------------------------
+Reasoning: The function f(x) = 2 sin x + sin 4x is continuous on the closed interval [0,π] and differentiable on the open interval (0,π). The critical points of the function are where the derivative is equal to zero or undefined, which are crucial for determining the Mean Value Theorem. In this case, the function has 2 critical points on the interval [0,π].
+Answer: B
+------------------------
+222. ------------------------
+Reasoning: The question requires comparing the current computer's speed to price ratio to the older computer's speed to price ratio. Given that the current computer is faster and cheaper than the older one, the current ratio should be significantly higher. This indicates a substantial improvement in value and efficiency over the years.
+Answer: B
+------------------------
+223. ------------------------
+Reasoning: The expected value of the larger number rolled when rolling two fair six-sided dice can be calculated by considering all possible outcomes and their probabilities. The correct answer is a fraction representing the sum of the products of each possible outcome and its probability, which is 161/36.
+Answer: B
+------------------------
+224. ------------------------
+Reasoning: The ceiling function rounds up the square roots to the nearest integer values. By evaluating the square roots of numbers from 5 to 29, we can determine the integers inside the ceiling function. The sum of these integers should be calculated to find the final result.
+Answer: B
+------------------------
+225. ------------------------
+Reasoning: The side length of the square is equal to the radius of the circle, which is $6$ units. The area of a square is calculated by squaring the length of one of its sides, so the area of the square is $6^2 = 36$ square units.
+Answer: D
+------------------------
+226. ------------------------
+Reasoning: Function composition is performed from the inside out, so we first substitute h(x) into g(x), and then the result into f(x).
+Answer: B
+------------------------
+227. ------------------------
+Reasoning: Glow is the most cost-effective option in terms of price per unit of volume as it is the least expensive and has the highest volume compared to the other options.
+Answer: C
+------------------------
+228. ------------------------
+Reasoning: The correct method to find the volume of the solid generated when the region bounded by the y-axis, y = e^x, and y = 2 is rotated around the y-axis involves using the cylindrical shells method. This method is more appropriate for this scenario as the region can be represented by a series of vertical cylinders stacked along the y-axis. Integrating with respect to the height of the cylinders aligns well with the boundaries of the region. Therefore, the correct answer is D. 3.998.
+Answer: D
+------------------------
+229. ------------------------
+Reasoning: The correct answer must be a positive integer that contains the digit 9 and is divisible by 2 and 5 in order for $\frac{1}{n}$ to be a terminating decimal. This is because a terminating decimal requires the denominator to only have prime factors of 2 and 5. Therefore, the smallest positive integer $n$ that meets these criteria should be the correct answer.
+Answer: A
+------------------------
+230. ------------------------
+Reasoning: The time for Sarah's sixth attempt should be less than 92 seconds because it brought the median time down to 92 seconds.
+Answer: B
+------------------------
+231. ------------------------
+Reasoning: The other integer should be a multiple of 33 because the GCD of the two integers must be a factor of 33. Additionally, it must be smaller than 45 to be the smallest possible value.
+Answer: D
+------------------------
+232. ------------------------
+Reasoning: A vertical tangent line occurs when the slope of the curve is undefined at that point. To find the x-value when the curve x^3 + xy - y^2 = 10 has a vertical tangent line, we need to calculate the derivative of the curve with respect to x and set it equal to 0.
+Answer: A
+------------------------
+233. ------------------------
+Reasoning: Since exactly one red marble must be included in the selection of 4 marbles, we need to choose the remaining 3 marbles out of the 9 marbles that are not red, which can be done in 9 choose 3 ways. Additionally, there are 3 choices for which color marble to include along with the 3 chosen marbles. Therefore, the correct answer should involve multiplying the number of ways to choose 3 marbles out of the remaining 9 marbles by 3.
+Answer: A
+------------------------
+234. ------------------------
+Reasoning: In order to find the number of daps equal to 42 baps, we need to convert baps to yaps using the given conversion rate of 5 yaps = 3 baps, and then convert the obtained yaps to daps using the conversion rate of 4 daps = 7 yaps. This involves multiple steps of conversion between the units.
+Answer: B
+------------------------
+235. ------------------------
+Reasoning: The value of $\left(\frac{1}{a}\right)^4$ is 0 because any non-zero number raised to the power of 0 is equal to 1, and since $a=42$, $\frac{1}{42}$ raised to the power of 4 is equal to 0. The value of $2 \cdot a^4$ is 2 multiplied by $a$ raised to the power of 4, which equals 2 multiplied by 42 raised to the power of 4. The expression $a^{2+1-3}$ simplifies to $a^0$ which is equal to 1. Combining these results, we get $0 \cdot 2 + 1 = 1$.
+Answer: B
+------------------------
+236. ------------------------
+Reasoning: The correct answer should be determined by calculating how many bricks can be stacked vertically to cover the height of the patio area, as the thickness of one brick is the limiting factor. By considering the height of the patio area, we can determine the maximum number of bricks needed to achieve the desired thickness across the entire patio area.
+Answer: D
+------------------------
+237. ------------------------
+Reasoning: The cost of one pen is 132 cents, so the cost of one pencil should be less than that since eleven pencils cost as much as three pens.
+Answer: B
+------------------------
+238. ------------------------
+Reasoning: The correct answer should be a number that is a common multiple of 5 and 2, which are the backup intervals of the two computers. This is because the two computers will back up data at the same time whenever their backup intervals coincide. In this case, the common multiple of 5 and 2 is 10. Therefore, the two computers will back up data at the same time 10 times in a 24-hour period.
+Answer: B
+------------------------
+239. ------------------------
+Reasoning: By rationalizing the denominator, we need to multiply both the numerator and denominator by the conjugate of the denominator to eliminate square roots. Simplifying the terms in the denominator by combining like terms and simplifying the square roots will help in rationalizing the denominator. 
+Answer: A
+------------------------
+240. ------------------------
+Reasoning: The maximum value of the function f(x) = xe^{-x} occurs at the critical point where the derivative is equal to zero. This is because the function is a product of a linear function x and an exponential function e^{-x}, and the maximum value is typically found at the critical point.
+Answer: A
+------------------------
+241. ------------------------
+Reasoning: The total number of ways the four packages can be randomly delivered to the four houses is 4! (4 factorial) which equals 24. To calculate the number of ways exactly two packages are delivered to the correct houses, we need to choose 2 out of 4 packages to be delivered correctly, which can be done in 4 choose 2 ways (4C2 = 6). The remaining 2 packages will then be delivered to the incorrect houses in 2! ways (2 factorial) which equals 2. Therefore, the total number of ways to have exactly two packages delivered to the correct houses is 6 * 2 = 12. The probability of this happening is the number of favorable outcomes (12) divided by the total number of possible outcomes (24), which simplifies to 1/2.
+Answer: C
+------------------------
+242. ------------------------
+Reasoning: The figure skater is spinning to her right, which means she is spinning in a clockwise direction. As she spins 2250 degrees, she will end up facing in the opposite direction of where she started. Therefore, she will be facing south when she finishes her spin.
+Answer: C
+------------------------
+243. ------------------------
+Reasoning: The least possible positive integer-value of $n$ that when multiplied by 18 and 34 results in a perfect square will be the correct answer.
+Answer: B
+------------------------
+244. ------------------------
+Reasoning: 12 is a multiple of both positive and negative integers, with 6 positive integers (1, 2, 3, 4, 6, 12) and 6 negative integers (-1, -2, -3, -4, -6, -12).
+Answer: C
+------------------------
+245. ------------------------
+Reasoning: By setting up the equations based on the information provided, we can represent the work done by Rowena and Ruby separately and together. The equations are: $\frac{x}{14} + \frac{y}{6} = \frac{1}{2}$ and $\frac{y}{14} + \frac{x}{6} = 1$. Solving this system of equations will give us the ordered pair $(x,y)$.
+Answer: B. (\frac{231}{20}, \frac{21}{20})
+------------------------
+246. ------------------------
+Reasoning: The vertical tangents occur when sin 3θ = 0, which implies that θ = 0.52.
+Answer: D
+------------------------
+247. ------------------------
+Reasoning: The time it takes for two thirds of the substance to decay is directly proportional to the half-life of the radioactive substance. Each half-life reduces the amount of substance by half, so after two half-lives, one fourth of the substance remains, and after three half-lives, one eighth remains. Therefore, to find the time it takes for two thirds to decay, we need to calculate how many half-lives are required for one third to remain, which is 2 half-lives. Hence, it will take 2 * 8 years = 16 years for two thirds of the substance to decay.
+Answer: D
+------------------------
+248. ------------------------
+Reasoning: The object reverses direction when the velocity changes sign, which occurs when the cosine function changes sign and the natural logarithm function approaches zero. By analyzing the sign changes of the velocity function v(t) = t cos(t) - ln(t + 2) over the interval 0 <= t <= 10, we can determine the number of times the object reverses direction.
+Answer: C
+------------------------
+249. ------------------------
+Reasoning: The factors of 120 are 1, 2, 3, 4, 5, 6, 8, 10, 12, 15, 20, 24, 30, 40, 60, and 120. The factors of 40 are 1, 2, 4, 5, 8, 10, 20, and 40. The common factors of 120 and 40 are 1, 2, 4, 5, 8, 10, 20, and 40. Therefore, there are 8 positive integers that are factors of both 120 and 40.
+Answer: D
+------------------------
+250. ------------------------
+Reasoning: The correct answer should be an interval that does not contain 0, as both $2u$ and $-20u$ will be outside the interval $(-\infty, -1)$ if $u$ is not equal to 0.
+Answer: D
+------------------------
+251. ------------------------
+Reasoning: Utilizes the formula for calculating the distance between a point and a line in a coordinate plane because it provides a systematic approach to solving such problems.
+Answer: A
+------------------------
+252. ------------------------
+Reasoning: By calculating the common factors of $2^{1001}-1$ and $2^{1012}-1, the greatest common divisor can be determined. 
+Answer: A
+------------------------
+253. ------------------------
+Reasoning: The rate of change of the water level at noon can be found by calculating the derivative of the sinusoidal function that represents the water level variation. By finding the derivative at noon, which is the time between high tide and low tide, we can determine how fast the water level is dropping at that specific time.
+Answer: A
+------------------------
+254. ------------------------
+Reasoning: The person's path forms a right triangle, so we can use the Pythagorean theorem to calculate the distance from the starting point. The distance is the square root of (3^2 + 10^2 + 6^2 + 16^2) which is approximately 17.7 miles.
+Answer: D
+------------------------
+255. ------------------------
+Reasoning: The correct expression should include the initial cost of $800,000, daily operational costs of $250, labor costs of $400, and the variable "D" representing the number of days. The total cost is the sum of these components. Therefore, the correct answer is B. 800,000 + 650 D.
+Answer: B
+------------------------
+256. ------------------------
+Reasoning: For the given question, when looking at it from the perspective of understanding the concept of an invertible function and its properties in relation to $f(2)=f^{-1}(2)=4, the correct answer should have the following characteristics: $f(f(2))=2$ because an invertible function and its inverse function are reflections of each other over the line $y=x$. Therefore, $f(f(2))$ is equivalent to $f^{-1}(2)$, which is equal to 2.
+Answer: B
+------------------------
+257. ------------------------
+Reasoning: The values of x and y that satisfy both equations are x = -23 and y = 25. To find the value of x - y, we subtract y from x: -23 - 25 = -48.
+Answer: D
+------------------------
+258. ------------------------
+Reasoning: The question specifies that we are considering two positive even integers less than 15. By systematically calculating the sum and product of each pair of even integers, we can determine the different possible values that may result. Since the resulting values are all even numbers, we need to find the unique even values that can be obtained from the sum and product of these pairs.
+Answer: B
+------------------------
+259. ------------------------
+Reasoning: The possible combinations that sum to 4 when rolling two dice are (1,3), (2,2), and (3,1). There are 3 favorable outcomes out of a total of 36 outcomes (6 possibilities for each die), resulting in a probability of 1/12.
+Answer: B
+------------------------
+260. Reasoning: The correct answer should have a positive discriminant to ensure real solutions for the inequality. The interval notation for positive values of $c$ that satisfy the inequality is (0, ∞).
+
+Answer: A
+261. ------------------------
+Reasoning: The formula for the area of a triangle in terms of its altitudes is Area = (2/3) * (altitude1 * altitude2 * altitude3) / (altitude1 + altitude2 + altitude3). By plugging in the given altitudes of 10, 12, and 15 into this formula, the correct answer can be determined.
+Answer: B
+------------------------
+262. ------------------------
+Reasoning: Morse code uses combinations of dots and dashes to represent symbols, and the total number of dots and dashes in a sequence is limited to 1, 2, 3, or 4. Therefore, the number of distinct symbols that can be represented is constrained by the total number of dots and dashes in a sequence.
+Answer: C
+------------------------
+263. ------------------------
+Reasoning: The two numbers are 10 and 7 because their product is 70 and their sum is 17.
+Answer: B
+------------------------
+264. ------------------------
+Reasoning: The total number of ways to assign all the roles in the play can be calculated by multiplying the number of ways to choose each role independently. In this case, there are 4 ways to choose the female lead, 4 ways to choose the male lead, and 6 ways to choose the objects. Therefore, the total number of ways to assign all the roles according to the given criteria is 4 * 4 * 6 = 96 ways.
+Answer: D
+------------------------
+265. ------------------------
+Reasoning: The upward velocity at t = 1 is determined by finding the derivative of the y-component of the parametric equations with respect to time. By differentiating y = 4 sin(t) + sin(12t) with respect to t and evaluating it at t = 1, the correct answer can be determined.
+Answer: B
+------------------------
+266. ------------------------
+Reasoning: The total amount owed at the end of 5 years under the first option should be half of the original loan amount plus the accrued interest for 5 years. The interest is compounded quarterly, leading to higher overall interest payments. The total amount to be paid back at the end of 10 years under the second option can be calculated using the simple interest formula. Option 1 allows for a reduction in the total amount owed after 5 years, potentially saving Alex money in the long run compared to option 2.
+Answer: A
+------------------------
+267. ------------------------
+Reasoning: Since f is a linear function with a nonzero slope, the values of f(c) and f(d) will be different due to the slope affecting the relationship between c and d. Therefore, f(c) ≠ f(d) must be FALSE.
+Answer: B
+------------------------
+268. ------------------------
+Reasoning: The derivative F'(3) = -4 provides information about the rate of change of the function F(x) at x = 3. Using this information, we can approximate the change in F(x) over a small interval. Since F(3) = 8, we can estimate F(3.02) by adding the change in F(x) over the interval [3, 3.02]. Therefore, the correct answer is D. 8.02.
+Answer: D
+------------------------
+269. ------------------------
+Reasoning: The expected number of times Bob will roll his die can be calculated by considering the probabilities of rolling a composite number, a prime number, and rolling a 1. The probability of rolling a composite number is 2/3, the probability of rolling a prime number is 2/3, and the probability of rolling a 1 is 1/6. Since Bob will have to roll again if he rolls a 1, the expected number of times he will roll his die is 6. Therefore, in a non-leap year with 365 days, Bob is expected to roll his die 365 times.
+Answer: D. 438
+------------------------
+270. ------------------------
+Reasoning: By comparing the given expression $-2x^2-20x-53$ with the standard form $a(x+d)^2+e$, we can determine that $a=-2$, $d=-5$, and $e=-53$. Therefore, the sum $a+d+e$ is equal to $-2 + (-5) + (-53) = -60$.
+Answer: A
+------------------------

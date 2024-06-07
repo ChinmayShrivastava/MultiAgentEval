@@ -1,0 +1,395 @@
+1. ------------------------
+Reasoning: The function e^x + x - 2 is continuous and crosses the x-axis only once in the interval [0, 1], indicating that k = 1. Since there are no real solutions outside of the interval [0, 1], n = 0. Therefore, the correct answer is B. k = 1 and n = 0.
+Answer: B
+------------------------
+2. ------------------------
+Reasoning: The property x + x + x + x = 0 for each x in G implies that G must be a cyclic group of order 16, as any other structure would not satisfy this property. Therefore, there is only one such group up to isomorphism.
+Answer: B
+------------------------
+3. ------------------------
+Reasoning: The dimension of the null space n will be determined by finding the number of linearly independent polynomials in P that are mapped to the zero polynomial by the operator D. This can be done by finding the solutions to the equation p'(x) = 0, which corresponds to finding the polynomials in P that have a derivative of 0. The dimension of the null space n will be the number of linearly independent solutions to this equation.
+Answer: A
+------------------------
+4. ------------------------
+Reasoning: The shortest distance from a point to a curve is along the line passing through the point and the origin, forming a right angle with the curve. Since the curve xy = 8 is a rectangular hyperbola, the shortest distance to the origin will be along the line perpendicular to the curve at the point closest to the origin.
+Answer: D
+------------------------
+5. ------------------------
+Reasoning: The total number of ways to select 3 suitcases out of 25 is represented by the combination formula "25 choose 3". When calculating the probability of exactly 2 damaged suitcases, we need to consider the combinations of selecting 2 out of 5 damaged suitcases and 1 out of 20 undamaged suitcases.
+Answer: C
+------------------------
+6. ------------------------
+Reasoning: The subset S = {0, 2, 4, 6, 8} consists of even numbers in Z_{10}, and in Z_{10}, the addition and multiplication operations are closed for even numbers. Therefore, both statements A and B are true. Statement C is also true because the identity element for addition modulo 10 is 0, which is present in subset S. However, statement D is false because the identity element for multiplication modulo 10 is 1, which is not present in subset S. 
+Answer: D
+------------------------
+7. ------------------------
+Reasoning: By using the Pythagorean theorem and related rates, we can determine that the correct answer is the rate at which the top end of the ladder is sliding downward when the top end is 3 meters above the ground. The sliding speed of the top end increases as the ladder forms a right triangle with the wall and the ground, and the bottom end moves away from the wall. 
+Answer: A. 12*sqrt(2)
+------------------------
+8. ------------------------
+Reasoning: The sum of the lengths of any two smaller segments must be greater than the length of the third segment for the three smaller segments to form a triangle, according to the triangle inequality theorem. Therefore, the probability that randomly chosen points A and B will create segments that can form a triangle is not 0% but also not 100%. The probability is 50%.
+Answer: D
+------------------------
+9. ------------------------
+Reasoning: P is either the identity transformation or the zero transformation because of the properties of idempotent matrices.
+Answer: D
+------------------------
+10. ------------------------
+Reasoning: A complete space does not necessarily have to be compact, but every compact space is complete. This aligns with established mathematical facts.
+Answer: A
+------------------------
+11. ------------------------
+Reasoning: The number of edges in a complete graph with 10 vertices can be calculated using the formula n(n-1)/2, where n is the number of vertices. Therefore, for 10 vertices, the number of edges would be 10(10-1)/2 = 45.
+Answer: D
+------------------------
+12. ------------------------
+Reasoning: The probability that at least one of the variables X and Y is greater than 3 is the complement of the probability that both X and Y are less than or equal to 3, which is 1/4. Therefore, the probability that at least one of the variables X and Y is greater than 3 is 1 - 1/4 = 3/4.
+Answer: D
+------------------------
+13. ------------------------
+Reasoning: The dimension of the subspace V intersect W cannot exceed 4 because it cannot be greater than the dimension of either subspace. Therefore, the correct answer is an even number less than or equal to 4, which is option C. 
+Answer: C
+------------------------
+14. ------------------------
+Reasoning: In order to maximize the number of students on each team while still ensuring that no student is on the same team as someone they dislike, each team should consist of 4 students. This way, each student can be on a team with 3 other students they do not dislike, meeting the requirements of the question.
+Answer: A
+------------------------
+15. ------------------------
+Reasoning: The total number of possible outcomes is 100 (10 integers each for Sofia and Tess). The pairs of integers that are squares of each other are (1,1), (2,4), (3,9). Therefore, the probability of neither integer chosen being the square of the other is (100 - 3) / 100 = 0.97.
+Answer: D
+------------------------
+16. ------------------------
+Reasoning: The correct answer is II because it is a true statement in the context of the question.
+Answer: B
+------------------------
+17. ------------------------
+Reasoning: The sum of the dimensions of U and W should equal the square of the dimension of V because the dimensions of U and W are related to the properties of the linear transformation T in M(V).
+Answer: B
+------------------------
+18. ------------------------
+Reasoning: The force F can be represented as <-1, 0, 1> because it is parallel to the vector (-1, 0, 1). The displacement vector can be calculated by subtracting the initial position vector (0, 0, 0) from the final position vector (1, 1, 1). To find the work done by the force on the particle, the dot product of the force and displacement vectors needs to be calculated.
+Answer: C
+------------------------
+19. ------------------------
+Reasoning: Statement I is true because if A and C are connected, then B must also be connected. This is because if A and C are connected, then any continuous function from A to C must pass through B. Therefore, B is also connected. This follows the transitive property of connectedness in topological spaces. Statement II is true because if A and C are compact, then B must also be compact. This is because in a topological space, a compact set is defined as a set for which every open cover has a finite subcover. Since A is a proper subset of B and B is a proper subset of C, if A and C are compact, then B must also be compact because any open cover of B can be refined to open covers of A and C, which have finite subcovers. Statement III is true because a subset of a Hausdorff space is also a Hausdorff space. Therefore, all statements I, II, and III are true.
+Answer: D
+------------------------
+20. ------------------------
+Reasoning: The limit of x_n as n approaches infinity exists and is finite because the recursive formula involves taking the square root of a constant plus a multiple of the previous term, which leads to a convergent sequence.
+Answer: C
+------------------------
+21. ------------------------
+Reasoning: The statement "III. v is also an eigenvector of A^(-1)" is necessarily true because when v is an eigenvector of an invertible matrix A, it implies that v is also an eigenvector of the inverse of A, A^(-1), with the same eigenvalue.
+Answer: C. III only
+------------------------
+22. ------------------------
+Reasoning: The number of trailing zeros in the decimal representation of an integer's factorial is determined by the number of pairs of 2's and 5's in the prime factorization of that integer. To have exactly 99 zeros at the end of k!, there must be at least 99 pairs of 2's and 5's in the prime factorization of k. Since the number of 5's will be less than the number of 2's, the limiting factor is the number of 5's. The number of factors of 5 in the prime factorization of k will determine the number of zeros. The highest power of 5 that divides k! is given by the formula [k/5] + [k/25] + [k/125] + ... where [x] denotes the greatest integer less than or equal to x. For exactly 99 zeros, the highest power of 5 should be 99. By calculating the highest power of 5 that divides k! for different values of k, it can be determined that there are 5 positive integers k for which k! ends in exactly 99 zeros.
+Answer: D
+------------------------
+23. ------------------------
+Reasoning: R is commutative because both right ideals of R are the same.
+Answer: D
+------------------------
+24. ------------------------
+Reasoning: The probability of rolling an odd number on the counterfeit die is 1/3, the probability of rolling an even number is 2/3. The probability of rolling a 5 on the first throw is 1/6, and the probability of rolling a 6 on the second throw is 1/6. Therefore, the overall probability of rolling a 5 and then a 6 is (1/6) * (1/6) = 1/36 = 1/18.
+Answer: B
+------------------------
+25. ------------------------
+Reasoning: The correct answer should be D because the first statement discusses the convergence of sequences of complex numbers and the product of their limits, while the second statement highlights the existence of a bounded sequence of real numbers with no convergent subsequence. 
+Answer: D
+------------------------
+26. ------------------------
+Reasoning: The correct answer should be statements I, II, and III because the binary operation defined is not associative, does not have an identity element, and not all elements have an inverse, which are all requirements for a group structure.
+Answer: A
+------------------------
+27. ------------------------
+Reasoning: Kate takes k days to complete a practice test alone, and John takes less time than Kate to complete a practice test alone. This implies that John takes less than k days to complete a practice test. Therefore, the total time taken when Kate starts (10 days) is greater than when John starts (10.5 days) in the alternating 2-day shifts scenario. Since working simultaneously allows them to combine their efforts and work more efficiently together, the total time taken when working simultaneously should be less than 10 days. The correct answer is A. 9/2 days.
+Answer: A
+------------------------
+28. ------------------------
+Reasoning: The correct answer is D because the greatest possible area of a triangular region with one vertex at the center of a circle of radius 1 and the other two vertices on the circle is achieved when the triangle is equilateral. An equilateral triangle inscribed in a circle maximizes the area compared to other types of triangles inscribed in the same circle, utilizing the entire circumference of the circle.
+Answer: D
+------------------------
+29. ------------------------
+Reasoning: The function f(x,y) = x^2 - 2xy + y^3 involves x and y raised to different powers and combined using addition and subtraction. Therefore, the correct answer should involve understanding the behavior of the function for different values of x and y.
+Answer: B
+------------------------
+30. ------------------------
+Reasoning: The largest order of an element in the group of permutations of 5 objects is 5 because the maximum number of times an element can be raised to a power in a group of permutations of 5 objects before reaching the identity permutation is 5, making it the largest order.
+Answer: A
+------------------------
+31. ------------------------
+Reasoning: The strongest conclusion that can be drawn from the given information is that S(n) is not true for any n >= n0. This is because if S(n0) is not true, then all statements S(n) for n greater than or equal to n0 will also not be true, as per the conditions provided.
+Answer: D
+------------------------
+32. ------------------------
+Reasoning: The point on the plane 2x + y + 3z = 3 that is closest to the origin will be the point where the line passing through the origin in the direction of the normal vector of the plane intersects the plane. The normal vector of the plane is <2, 1, 3>. By calculating this intersection, the correct coordinates are (3/7, 3/14, 9/14).
+Answer: B
+------------------------
+33. ------------------------
+Reasoning: The correct answer should include integers with prime order to ensure that the groups are cyclic and unique up to isomorphism. Among the given options, only option B includes prime numbers 3, 5, 7, and 11, which are the integers with only one group of order n (up to isomorphism).
+Answer: B
+------------------------
+34. ------------------------
+Reasoning: The number of nonisomorphic trees with 5 vertices is 3 because there are 3 different types of nonisomorphic trees with 5 vertices: a path, a star, and a caterpillar tree.
+Answer: C
+------------------------
+35. ------------------------
+Reasoning: III. A^-1 and B^-1 are similar matrices because when two matrices are similar, their inverses are also similar.
+Answer: C
+------------------------
+36. ------------------------
+Reasoning: The equation of the torus generated by revolving a circle around the z-axis involves the radius of the circle and the distance of the circle's center from the z-axis. Looking at the options, option C, (x^2 + y^2 + z^2 + 8)^2 = 36(x^2 + z^2), fits these characteristics.
+Answer: C
+------------------------
+37. ------------------------
+Reasoning: The equation of the tangent line to the graph of y = x + e^x at x = 0 should be in the form y = mx + b where m is the derivative of the function at x = 0 and b is the value of the function at x = 0. The derivative of y = x + e^x is 1 + e^x, so at x = 0, the derivative is 1 + e^0 = 1. Therefore, the equation of the tangent line is y = 1*x + (0 + e^0) = x + 1.
+Answer: D
+------------------------
+38. ------------------------
+Reasoning: The dimension of the kernel of T is equal to the dimension of the domain vector space V minus the dimension of the codomain vector space W, which is 6 - 4 = 2.
+Answer: A
+------------------------
+39. ------------------------
+Reasoning: The rearrangement of terms in a series can change the sum without affecting convergence or divergence. Statement 1 is true based on the properties of series rearrangements. Statement 2 is false because continuous mappings typically preserve the closed and bounded property of sets.
+Answer: B
+------------------------
+40. ------------------------
+Reasoning: The maximum number of acute angles in a convex 10-gon is 8 because in a convex polygon, the sum of all interior angles is (n-2)*180 degrees where n is the number of sides. Therefore, to maximize the number of acute angles, all angles except 2 must be acute, resulting in 8 acute angles.
+Answer: A
+------------------------
+41. ------------------------
+Reasoning: An analytic function that maps the entire finite complex plane into the real axis must preserve the properties of the imaginary axis, resulting in the imaginary axis being mapped onto a single point or a line on the real axis.
+Answer: B
+------------------------
+42. ------------------------
+Reasoning: The group G must be abelian because the equation (ab)^2 = a^2b^2 is satisfied in abelian groups where elements commute with each other.
+Answer: D
+------------------------
+43. ------------------------
+Reasoning: The greatest possible value of f(0) occurs when the function is increasing at the fastest rate possible, which happens when the derivative is at its lower bound of -1. This implies that the greatest possible value of f(0) would be 5 - 3 = 2.
+Answer: B
+------------------------
+44. ------------------------
+Reasoning: 
+When A^2 = A, it implies that A is idempotent. In this case, the trace of A is nonnegative. This is because the trace of an idempotent matrix is equal to the rank of the matrix, which is always nonnegative. Therefore, if A^2 = A, then the trace of A is nonnegative.
+Answer: A
+------------------------
+45. ------------------------
+Reasoning: The units digit in the powers of 7 cycles every 4 powers, and since 25 is a multiple of 4, the units digit of 7^25 will be the same as the units digit of 7^1, which is 7.
+Answer: D
+------------------------
+46. ------------------------
+Reasoning: For the given question, when looking at it from the perspective of understanding the definition and properties of continuous functions on compact sets, the correct answer should have the following characteristics: f must be uniformly continuous because of the properties of continuous functions on compact sets. In this case, since X is compact and f : X → Y is continuous, the function f must be uniformly continuous. This is because on a compact set, a continuous function is automatically uniformly continuous. Therefore, the correct answer should be that f is uniformly continuous.
+Answer: A
+------------------------
+47. ------------------------
+Reasoning: The volume of the resulting solid of revolution can be calculated using the method of cylindrical shells, where the radius of each shell is the difference in the y-values of the two curves at a given x-value. This involves the integral of π*(outer radius)^2 - π*(inner radius)^2 dy, which in this case would be π*(x^2)^2 - π*x^2 dy. 
+Answer: C
+------------------------
+48. ------------------------
+Reasoning: The parametric equations x = cos t and y = sin t represent points on the unit circle in the xy-plane as t varies from 0 to pi. The length of the curve traced out by these equations is equal to half the circumference of a circle with radius 1. Therefore, the correct answer is half of 2pi, which is pi.
+Answer: B
+------------------------
+49. ------------------------
+Reasoning: The valid intervals of convergence for a power series are (I) [−1, 3) and (IV) (−∞,∞) as they represent ranges where the series converges and where convergence tests like the ratio test or root test can be applied effectively.
+Answer: C. (I) and (IV)
+------------------------
+50. ------------------------
+Reasoning: The function being bounded ensures that it does not have any infinite values or oscillations that would prevent it from being integrable. This is because a bounded function can be contained within a finite interval, making it easier to calculate its integral. Therefore, the correct answer should involve the relationship between boundedness and integrability.
+Answer: A
+------------------------
+51. ------------------------
+Reasoning: The graph of x^(log y) = y^log x is symmetric about the line y = x because the equation is symmetric in x and y variables.
+Answer: B
+------------------------
+52. ------------------------
+Reasoning: The norm ||x||_p can be expressed as an inner product when p = 2 due to the properties of the Euclidean norm.
+Answer: B
+------------------------
+53. ------------------------
+Reasoning: The weakest condition that ensures the compactness of T is that f is continuous because continuous functions preserve compactness.
+Answer: C
+------------------------
+54. ------------------------
+Reasoning: The radius of the inscribed circle of an equilateral triangle is related to the side length by the formula r = (a√3)/6. By substituting the given radius of 2 into this formula, we can solve for the side length of the equilateral triangle. Once we have the side length, we can calculate the area of the triangle using the formula A = (s^2 * √3) / 4. 
+Answer: C
+------------------------
+55. ------------------------
+Reasoning: The value of n should be a product of distinct primes raised to the first power to have exactly two abelian groups of order n up to isomorphism.
+Answer: A
+------------------------
+56. ------------------------
+Reasoning: The statement "x, y, z are linearly independent in R^k if they satisfy the condition that the only solution to the equation c1x + c2y + c3z = 0 is c1 = c2 = c3 = 0" aligns with the fact that |x| = 0 if and only if x = 0, making option C the correct choice.
+Answer: C
+------------------------
+57. ------------------------
+Reasoning: The polynomials that satisfy the conditions for the subspace W are of degree at most 2, making the dimension of W equal to 3. Since the vector space V consists of real polynomials of degree at most 3, its dimension is 4. Therefore, the sum of dim V + dim W is 4 + 3 = 7.
+Answer: D
+------------------------
+58. Reasoning: The intersection of two subspaces is itself a subspace, and the dimension of the intersection is at most the minimum of the dimensions of the two subspaces. Since V and W are both 2-dimensional subspaces of R^4, the intersection can have a dimension of 0, 1, or 2.
+Answer: D
+59. ------------------------
+Reasoning: The area between the curves can be determined by finding the points of intersection and integrating the absolute difference between the two curves from x = 0 to x = a.
+Answer: A
+------------------------
+60. ------------------------
+Reasoning: Since f is a linear transformation, it must satisfy the properties of linearity, meaning f(av + bw) = af(v) + bf(w) for all vectors v, w in the plane and scalars a, b in the real numbers. Given that f(1, 1) = 1 and f(-1, 0) = 2, we can express (3, 5) as a linear combination of (1, 1) and (-1, 0) to find f(3, 5).
+Answer: B
+------------------------
+61. ------------------------
+Reasoning: The polynomial has a degree of 5, which means it can have up to 5 real roots according to the Fundamental Theorem of Algebra.
+Answer: D
+------------------------
+62. Reasoning: The correct answer should involve combinations and permutations to determine the total number of possible assignments of professors to courses, considering each professor teaches exactly 2 courses out of the 20 available.
+Answer: A
+63. ------------------------
+Reasoning: In this case, the correct answer is D. Both (a) and (b) because it is possible to place a linear order relation on the complex numbers C such that (C, +, ×, ≤) is not an ordered field (option A) and it is also possible to place a linear order relation on the complex numbers C which make (C, +, ×, ≤) an ordered field (option B). Both scenarios are possible, hence the correct answer is D.
+Answer: D
+------------------------
+64. ------------------------
+Reasoning: The probability of the player who makes the first toss winning on their first turn is 1/2 because there are only two possible outcomes on the first toss - either a head or a tail, and the player who makes the first toss wins if they get a head.
+Answer: C
+------------------------
+65. ------------------------
+Reasoning: The complex numbers under addition do not form a group because a group is defined as a collection of individuals with shared characteristics or goals, which is not the case for complex numbers under addition.
+Answer: D
+------------------------
+66. ------------------------
+Reasoning: The correct answer should be in the form of 3x + 7y + 11k, where k is an integer, to ensure divisibility by 11.
+Answer: B
+------------------------
+67. ------------------------
+Reasoning: The minimum value of the expression x + 4z occurs when x = -2 and z = -1 because this combination satisfies the constraint while minimizing the expression.
+Answer: B
+------------------------
+68. ------------------------
+Reasoning: The set {uv : u \in U and v \in V} satisfies the absorption property in a ring, making it an ideal of R.
+Answer: A
+------------------------
+69. ------------------------
+Reasoning: The volume of the solid generated by rotating the region bounded by the x-axis and the function f(x) = x/(1 + x^3) about the x-axis can be calculated using integration and the disk or washer method. The correct answer should involve setting up an integral to find the volume of the solid of revolution.
+Answer: C
+------------------------
+70. ------------------------
+Reasoning: The days of the week follow a cycle of 7 days, and using modular arithmetic by finding the remainder when dividing by 7 can help determine the day of the week after a large number of days.
+Answer: A
+------------------------
+71. ------------------------
+Reasoning: The correct answer involves differentiating the volume formula of the cone with respect to time to find the rate of change of the height of the water. By applying related rates, the correct answer is determined to be D. 
+Answer: D
+------------------------
+72. ------------------------
+Reasoning: The false statement among the options is the one that does not align with the properties of the system of linear equations provided. In this case, the statement that every solution is a scalar multiple of (-5, 1, 1, 0) is false because not all solutions in the system can be represented as scalar multiples of that specific solution.
+Answer: D
+------------------------
+73. ------------------------
+Reasoning: The minimum value of f(x) occurs at the critical point where the derivative is equal to 0. By calculating the derivative of f(x) = e^x - cx, setting it equal to 0, and solving for x, we can find the minimum value.
+Answer: B
+------------------------
+74. ------------------------
+Reasoning: The matrix A has eigenvalues -3 and 1 because the determinant of A is given as det(A − λI) = −λ^3 + 3λ^2 + λ − 3, which can be factored to (λ - 1)(λ + 1)(λ + 3) = 0, giving eigenvalues of -3, 1, and 1.
+Answer: C
+------------------------
+75. ------------------------
+Reasoning: The correct answer should involve utilizing the initial condition y = 0 when x = 1 to determine the specific function f(x) that satisfies the given conditions. By solving the differential equation and incorporating the initial condition, we can find the value of f(2).
+Answer: B
+------------------------
+76. ------------------------
+Reasoning: The event with the greatest probability in this scenario is when there is an equal number of heads and tails, which is represented by H = T. This outcome is the most balanced and has the highest likelihood of occurring in a fair coin toss. 
+Answer: A
+------------------------
+77. ------------------------
+Reasoning: The statement is false because a function can have a local maximum without the derivative f'(x) existing or equaling 0. It is possible for a non-constant continuous map to exist from R to Q.
+Answer: C
+------------------------
+78. ------------------------
+Reasoning: The trace of a matrix is the sum of its diagonal elements, and since A = A^(-1), the diagonal elements of A and A^(-1) must be equal, leading to a trace of 0.
+Answer: C
+------------------------
+79. ------------------------
+Reasoning: A square shape provides the largest area for a given perimeter, so the length of two sides should be equal to maximize the area.
+Answer: D
+------------------------
+80. ------------------------
+Reasoning: Statement 1 is true because a connected set is a set that cannot be divided into two non-empty separated sets, and the closure of a connected set is also connected.
+Answer: A
+------------------------
+81. ------------------------
+Reasoning: The set with the most elements will have the greatest cardinality.
+Answer: B
+------------------------
+82. ------------------------
+Reasoning: By applying the recursive formula f(2n) = n^2 + f[2(n - 1)] iteratively and substituting n=4, we can find the value of f(8) based on the given information.
+Answer: C
+------------------------
+83. ------------------------
+Reasoning: The number of structurally distinct Abelian groups of order 72 is determined by the prime factorization of 72, which is 2^3 * 3^2, resulting in 2 different possibilities for the structure of Abelian groups of order 72. The order of an Abelian group is determined by the product of powers of distinct primes in its decomposition.
+Answer: B
+------------------------
+84. ------------------------
+Reasoning: The order of the group G must be a multiple of 7 because the existence of a subgroup of order seven implies that there is an element of order 7 in G. Additionally, the fact that no element (other than the identity) is its own inverse means that the order of each element must be different from 2. This restricts the possible orders of G to multiples of 7.
+Answer: C
+------------------------
+85. ------------------------
+Reasoning: By finding the critical points of the function f(x, y) where the partial derivatives are equal to zero, we can determine the locations where the function may have local extrema such as maxima or minima. This information is crucial in understanding the behavior of the function along different directions and identifying distinct points P and Q where f(x, y) has a specific property.
+Answer: A
+------------------------
+86. ------------------------
+Reasoning: A set containing all rational numbers is countable, and since A is a subset of the real line R, it must be dense in R. Therefore, if A is uncountable, it implies that A = R.
+Answer: C
+------------------------
+87. ------------------------
+Reasoning: The condition that stands out as unique and does not share equivalent properties with any of the other conditions is the one where the determinant of M is nonzero. This property is distinct from the other conditions and does not align with the equivalence shared by the other four conditions.
+Answer: D
+------------------------
+88. ------------------------
+Reasoning: The cosine function repeats its values every 2π, leading to multiple solutions for the equation cos(97x) = x.
+Answer: C
+------------------------
+89. ------------------------
+Reasoning: The ring of integers modulo 11 is not an integral domain, and it contains zero divisors, allowing the product of two nonzero elements to be zero.
+Answer: B
+------------------------
+90. ------------------------
+Reasoning: In a group G, a homomorphism is a function between two groups that preserves the group operation. The map x -> axa^2 is a homomorphism if and only if it satisfies the homomorphism property, which means that for all x, y in G, the map of the product xy is equal to the product of the maps of x and y. This property ensures that the map preserves the group structure and is considered a homomorphism.
+Answer: C
+------------------------
+91. Reasoning: The determinant of a 2 by 2 matrix A is -1 and the determinant of a 3 by 3 matrix B is 0. Therefore, the sum detA + detB = -1 + 0 = -1.
+Answer: B
+92. ------------------------
+Reasoning: The function f is defined from the open interval (0, 1) to the closed interval (0, 1], making it onto and one-to-one. 
+Answer: A
+------------------------
+93. ------------------------
+Reasoning: Since x and y are continuous random variables with uniform distributions over their respective intervals, the probability of x being less than y is dependent on the relationship between the two numbers. Given that x is being compared directly to y, the correct answer should reflect that x is less than y. Therefore, the probability that x < y is 2/3.
+Answer: D
+------------------------
+94. ------------------------
+Reasoning: The probability that 2(x + y) > 1 depends on the values of x and y within the specified region described by the inequality 0 < |x| + |y| < 1. The relationship between x, y, and 2(x + y) > 1 is crucial in determining the probability. 
+Answer: B
+------------------------
+95. ------------------------
+Reasoning: When applying De Moivre's Theorem to calculate the power of a complex number raised to an integer power, the correct answer is D. 32i.
+Answer: D
+------------------------
+96. ------------------------
+Reasoning: The possible dimensions of U ∩ V can range from 0 to 3 because the intersection of two subspaces cannot have a dimension greater than the smaller of the two subspaces, and in this case, the subspaces U and V are 3-dimensional in a 5-dimensional space.
+Answer: D
+------------------------
+97. ------------------------
+Reasoning: In the standard topology on R^2, open sets are defined as unions of open balls. Since the set S consists of points with at least one irrational coordinate, it is not possible to find an open ball around any point in S that is completely contained within S. This means that S cannot be an open set in the standard topology on R^2. Similarly, since the complement of an open set is closed, and the set S is not open, it follows that S is not closed either. Furthermore, the set S is not connected because it can be partitioned into two disjoint open sets: one containing points with irrational x-coordinates and the other containing points with irrational y-coordinates. Therefore, S is neither open nor closed.
+Answer: B
+------------------------
+98. ------------------------
+Reasoning: The circle that has the greatest number of points of intersection with the parabola x^2 = y + 4 will have its center on the axis of symmetry of the parabola, resulting in the maximum number of points of intersection.
+Answer: C
+------------------------
+99. ------------------------
+Reasoning: The number of subsets containing exactly 3 elements is 14 more than the number of subsets containing exactly 2 elements. By understanding this relationship, we can calculate the number of subsets containing exactly 4 elements.
+Answer: C
+------------------------
+100. ------------------------
+Reasoning: The transformation T is uniquely determined by its action on a basis of the vector space. Since the points (1, 2) and (-1, 2) do not form a basis for R^2, we need to find a basis to determine how T maps the point (2, 1).
+Answer: C
+------------------------

@@ -1,0 +1,390 @@
+1. ------------------------
+Reasoning: Mainstream cryptocurrencies like bitcoin have the characteristics of being cheap, secure, and associated with financial crime due to their potential for misuse in illegal activities because of anonymity.
+Answer: C
+------------------------
+2. ------------------------
+Reasoning: The correct answer should avoid encouraging unsafe practices, causing distress, and being serious in nature, as these are actions that are considered harmful and detrimental according to advertising regulatory bodies.
+Answer: B
+------------------------
+3. ------------------------
+Reasoning: The obligations of workers towards their employer, based on individual contracts and wider employment laws, involve specific duties and responsibilities agreed upon by both parties, reflecting legal requirements and protections, and encompass general work duties, adherence to company policies, and loyalty to the employer.
+Answer: D
+------------------------
+4. ------------------------
+Reasoning: Considering the impact of technological advancements, changing work culture, and the importance of work-life balance on employees' preferred ratio between work-related and non-work-related activities, the correct answer that aligns with these factors is D. Work-life balance.
+Answer: D
+------------------------
+5. ------------------------
+Reasoning: The characteristics described in the information provided align perfectly with the concept of industrial ecosystems, where companies and industries are seen as interconnected systems resembling natural ecosystems in terms of interdependence, resource management, and waste handling.
+Answer: B
+------------------------
+6. ------------------------
+Reasoning: The characteristics of power imbalance, unequal distribution of benefits, and CSOs being marginalized align with the limitations and risks mentioned in the question, making option B the correct choice.
+Answer: B
+------------------------
+7. ------------------------
+Reasoning: The normative theory that is most similar to corporate profit maximization would be hedonistic utilitarianism, as it focuses on maximizing pleasure or happiness for the greatest number of people. Similarly, corporate profit maximization aims to maximize financial gains for the company, which can be seen as a form of maximizing utility or happiness for shareholders.
+Answer: A
+------------------------
+8. ------------------------
+Reasoning: Milton Friedman believed that the sole responsibility of business is to generate profits for its shareholders within the boundaries of the law and ethical custom.
+Answer: A
+------------------------
+9. ------------------------
+Reasoning: Government regulation typically involves legal enforcement mechanisms, broader scope of applicability, and comprehensive oversight, which align with the characteristics described in the information provided.
+Answer: A
+------------------------
+10. ------------------------
+Reasoning: The characteristics of temporal, spatial, and task-related fluidity align with the concept of flexible working practices, which involve working patterns that offer flexibility in terms of time, location, and tasks.
+Answer: C
+------------------------
+11. ------------------------
+Reasoning: The three criteria outlined by Schnackenberg and Tomlinson (2014) for assessing the quality of corporate transparency are Disclosure, Clarity, and Accuracy.
+Answer: C
+------------------------
+12. ------------------------
+Reasoning: A corporation needs to be independent and have clear boundaries from its managers, employees, investors, and customers to maintain professionalism and avoid conflicts of interest. It also needs to have perpetual succession for long-term sustainability. Lastly, a corporation does own its own assets, which is a key characteristic of its legal entity status.
+Answer: C
+------------------------
+13. ------------------------
+Reasoning: The UK Public Services (Social Value) Act 2013 requires those procuring goods or services to consider how they can secure wider social, economic, and environmental benefits.
+Answer: D
+------------------------
+14. Reasoning: Deliberately obscuring the true cost of an item is done to deceive consumers, increase profit margins, remain competitive, and can involve unethical practices. This aligns with deceptive pricing tactics.
+Answer: B
+15. ------------------------
+Reasoning: Normative stakeholder theory focuses on ethical principles and values, which align with the characteristics described in the information provided.
+Answer: D
+------------------------
+16. ------------------------
+Reasoning: The correct answer should focus on healthy and safe working conditions as it aligns with the detailed and comprehensive occupational health, safety, and environmental regulations that companies must comply with in developed countries to ensure the safety and well-being of employees.
+Answer: B
+------------------------
+17. ------------------------
+Reasoning: The primary objective of a business organization should focus on long-term growth, profitability, and customer satisfaction to ensure sustainability and success. Making a profit aligns with profitability, which is crucial for reinvestment and competitiveness.
+Answer: A
+------------------------
+18. Reasoning: The enlightened self-interest model of CSR focuses on long-term benefits for both the company and society, prioritizes ethical decision-making, and emphasizes sustainability. It suggests that acting in a socially responsible manner can benefit companies in the long run through enhanced reputation, customer loyalty, and employee engagement.
+
+Answer: C
+19. ------------------------
+Reasoning: The right of a consumer to control what information companies can collect about them and how it is stored, used, and shared aligns with the characteristics of transparency, consent, and consequences for non-compliance, which are essential for protecting consumer data privacy rights within legal frameworks.
+Answer: B
+------------------------
+20. ------------------------
+Reasoning: The Anglo-American model is known for its focus on free market principles, limited government intervention, emphasis on individual responsibility, and flexible labor markets, which are beneficial during a recession.
+Answer: D
+------------------------
+21. ------------------------
+Reasoning: The gig economy is characterized by individuals being hired for specific tasks rather than long-term commitments, resulting in flexibility for businesses but increased risk and uncertainty for workers. The issues faced by those employed in this manner include lack of social welfare structures.
+Answer: A
+------------------------
+22. ------------------------
+Reasoning: The Theory of _________ posits that there are three levels of moral reasoning which individuals can engage in, dependent on their cognitive capacity. This theory emphasizes the importance of understanding the distinctions between the levels and how they relate to cognitive development.
+Answer: B
+------------------------
+23. ------------------------
+Reasoning: The characteristics of a theory that emphasizes universal applicability, rationality, and individual autonomy align with the description of normative theory, which is a code of conduct for all rational beings. This contrasts with descriptive morality, which is specific to particular groups or societies.
+Answer: C
+------------------------
+24. ------------------------
+Reasoning: When considering the factors that impact moral intensity, the specific actions or behaviors that fall under the categories of Proximity, Temporal immediacy, and Social dissensus are crucial in assessing the impact of these factors on ethical decision-making.
+Answer: C
+------------------------
+25. ------------------------
+Reasoning: Better access to certain markets, differentiation of products, and the sale of pollution-control technology all contribute to increased revenue by driving demand for environmentally friendly products, creating a competitive advantage, and promoting innovation.
+Answer: A
+------------------------
+26. ------------------------
+Reasoning: The term that best describes the ongoing approval and acceptance of a company's activities by society, especially among local communities and civil societies, should reflect cultural sensitivity and adaptability to align with different values and expectations.
+Answer: B
+------------------------
+27. ------------------------
+Reasoning: The correct answer should emphasize open communication, accountability, and disclosure of information, which are essential for building trust with stakeholders and maintaining a positive reputation. 
+Answer: B
+------------------------
+28. ------------------------
+Reasoning: Processes such as setting environmental goals, implementing policies, conducting regular auditing and reporting are essential components of environmental management systems within organizations to ensure effective implementation of environmental goals, policies, and responsibilities beyond legal compliance.
+Answer: C
+------------------------
+29. ------------------------
+Reasoning: The BRIC countries have historically followed a traditional/conservative approach to corporate governance but are now shifting towards more market-based mechanisms to attract foreign investment and improve transparency. The missing country should align with this trend.
+Answer: D
+------------------------
+30. ------------------------
+Reasoning: The correct answer should not involve minimizing the influence of stakeholder information on the firm, as stakeholder orientation focuses on incorporating stakeholder perspectives and needs into decision-making processes.
+Answer: D
+------------------------
+31. ------------------------
+Reasoning: Ethical issues related to marketing communications include being subtle and manipulative, creating artificial desires and wants, reinforcing biases, perpetuating discrimination and inequality, and perpetuating harmful behaviors.
+Answer: A
+------------------------
+32. ------------------------
+Reasoning: The correct answer should involve incentives like share options, which are typically offered to senior managers to align their interests with shareholders and increase share price and dividend performance.
+Answer: A
+------------------------
+33. ------------------------
+Reasoning: Predatory pricing involves strategic pricing below cost, intention to drive competitors out of the market, ability to sustain losses in the short term, and potential to recoup losses through market dominance. This aligns with options A and D, but option A includes all the key characteristics mentioned.
+Answer: A
+------------------------
+34. Reasoning: The correct answer should focus on direct modes of influence, the ability to reach the target subject through both public and private channels, and varying modes of communication being either public or private.
+Answer: A
+35. ------------------------
+Reasoning: Utilitarianism is a theory that states an action is morally right if it promotes the greatest good for the greatest number of people, focusing on maximizing overall happiness or utility and the consequences of actions.
+Answer: D
+------------------------
+36. ------------------------
+Reasoning: Cognitive models like the Theory of Planned Behaviour tend to oversimplify and overestimate individual rationality in explaining consumer behavior.
+Answer: C
+------------------------
+37. ------------------------
+Reasoning: The characteristics of involving understanding the needs and expectations of stakeholders, emphasizing sustainability and eco-friendliness, focusing on stakeholder engagement, and prioritizing long-term customer satisfaction align with the concept of green marketing, which involves creating long-term relationships with customers while supporting the natural environment.
+Answer: B
+------------------------
+38. ------------------------
+Reasoning: The correct answer should encompass the interconnectedness of environmental, economic, and social considerations for long-term sustainability goals, which is a key principle of sustainability.
+Answer: D
+------------------------
+39. ------------------------
+Reasoning: When considering the characteristics of small businesses in relation to decision-making processes, risk management, company culture, and resource allocation, the most suitable option that aligns with a proactive approach, flexibility, and quick decision-making is B. Lack of organisational resources, size and complexity, owner and family member influence.
+Answer: B
+------------------------
+40. ------------------------
+Reasoning: The correct answer should be a global production network as it is a dynamic and relational framework that goes beyond linear functions, operations, and transactions to produce a certain commodity or product. It integrates various elements in a comprehensive and holistic manner, making it adaptable and scalable to meet production requirements.
+Answer: B
+------------------------
+41. ------------------------
+Reasoning: Considering economic conditions, consumer preferences, market trends, and competition to impact demand, the correct answer should focus on strategies that have been effective in reducing demand for a specific product or service, backed by clear data and evidence, and adaptable to different contexts.
+Answer: B
+------------------------
+42. ------------------------
+Reasoning: Countries like Norway and China may face challenges in developing their civil society due to a lack of government support, limited resources, and cultural barriers, which can hinder their ability to effectively advocate for sustainability, lobby on important issues, and provide support for the needy.
+Answer: B
+------------------------
+43. ------------------------
+Reasoning: The ability to creatively consider consequences, resolutions, and issues in moral decision making aligns with the concept of moral imagination and thinking outside the box.
+Answer: A
+------------------------
+44. ------------------------
+Reasoning: Unethical negotiation practices can lead to damaged relationships, sullied reputation, and lost opportunities, which align with potential legal consequences, negative impact on trust and reputation, damage to the company's reputation and brand image, and hindering progress and growth.
+Answer: B
+------------------------
+45. ------------------------
+Reasoning: The use of language to mask or expose the ethical nature of decisions and actions involves vague language, euphemisms, and misleading statements. 
+Answer: C
+------------------------
+46. ------------------------
+Reasoning: Locus of control is the psychological factor that directly relates to an individual's belief in their ability to control their life. It influences their perception of control over outcomes, which aligns with the information provided.
+Answer: D
+------------------------
+47. ------------------------
+Reasoning: The correct answer should reflect the ambiguity and complexity of enforcing privacy regulations within corporations, involving multiple individuals and operating in various locations.
+Answer: A
+------------------------
+48. ------------------------
+Reasoning: The term that best describes the hypothetical agreement between members of society and those who govern it, establishing inter-relationships, rights, and responsibilities on a fair basis is Social Contract.
+Answer: A
+------------------------
+49. ------------------------
+Reasoning: Businesses have the potential to provide a benefit to society while also having the potential to inflict enormous harm on individuals, communities, and the environment. The correct answer should reflect this duality, with a focus on major contribution and the potential for business malpractice.
+Answer: D
+------------------------
+50. Reasoning: Carroll's framework for corporate social responsibility outlines economic, legal, ethical, and philanthropic responsibilities. 
+Answer: B
+51. ------------------------
+Reasoning: The characteristics of affirmative action initiatives targeting specific groups, addressing underrepresentation, and promoting diversity align with the description provided in the question.
+Answer: A
+------------------------
+52. ------------------------
+Reasoning: The traditional consumer rights principle of caveat emptor or buyer beware indicates that the responsibility lay with the consumer to avoid subpar products. However, this has eroded over time due to increased regulations at a global level.
+Answer: B
+------------------------
+53. ------------------------
+Reasoning: The state of being unable to make an informed, reasoned decision about a product purchase is often due to a lack of information, conflicting options, and uncertainty about the product's value. Among the given options, "Consumer vulnerability" best encapsulates this state of indecision and inability to make a reasoned choice.
+Answer: D
+------------------------
+54. ------------------------
+Reasoning: The correct answer should reflect the perceived ability of a stakeholder to influence organizational action, the perception of the stakeholder's actions as desirable, proper, and appropriate, and the immediacy of attention claimed by the stakeholder, as emphasized by Mitchell et al (1997).
+Answer: A. Power, Legitimacy, Salience Urgency
+------------------------
+55. ------------------------
+Reasoning: Both ethics of duty and ethics of rights and justice are examples of theories based on basic universal principles of right and wrong.
+Answer: A
+------------------------
+56. ------------------------
+Reasoning: The correct answer should reflect a gradual increase in complexity as the theory has been refined and expanded over time.
+Answer: C
+------------------------
+57. ------------------------
+Reasoning: The correct answer should involve activities such as lobbying, political advertising, financial contributions, and political campaigning, which are all common forms of business efforts to influence government or public policy.
+Answer: C
+------------------------
+58. ------------------------
+Reasoning: The Sarbanes-Oxley Act is a key legislation in the United States that emphasizes transparency, accountability, and compliance with laws and regulations, which are essential for promoting ethical business practices.
+Answer: A
+------------------------
+59. ------------------------
+Reasoning: Appeal to higher loyalties, Metaphor of the ledger, Denial of injury align with the psychological mechanisms, rationalization of norm violations for higher-order values, and justification based on feeling owed something, respectively.
+Answer: B
+------------------------
+60. ------------------------
+Reasoning: The principle of "Availability" does not align with the values of transparency, accountability, or integrity in corporate governance, which are crucial for ensuring good practices. 
+Answer: C
+------------------------
+61. ------------------------
+Reasoning: When considering the factors that impact ethical decision making from both individual and environmental perspectives, the correct answer should reflect the unique characteristics of a person (individual factors) and features of the person's environment or the particular issue (environmental factors). Therefore, the correct answer is D. Individual, Situational.
+Answer: D
+------------------------
+62. ------------------------
+Reasoning: Globalisation influences business ethics by emphasizing cross-cultural communication, global supply chain dynamics, and awareness of ethical standards in different regions, making option A the most suitable choice.
+Answer: A
+------------------------
+63. ------------------------
+Reasoning: The correct answer should focus on the challenges faced by CSOs in communicating performance measures effectively and gathering input from beneficiaries to devise them efficiently.
+Answer: B
+------------------------
+64. ------------------------
+Reasoning: When considering the impact of increased globalization on countries' competitiveness for foreign investment, the need to attract companies through weakening regulations and standards is crucial. This aligns with the characteristics of option A.
+Answer: A
+------------------------
+65. ------------------------
+Reasoning: Managers are entrusted to run the company in the best interest of shareholders. Specifically, they have a duty to act for the benefit of the company, as well as a duty of care and of diligence.
+Answer: A
+------------------------
+66. ------------------------
+Reasoning: Replacing supply chains with Global production networks enhances the importance of product Redesign as well as a fundamental redesign of every activity a firm engages in that produces Profit.
+Answer: D
+------------------------
+67. ------------------------
+Reasoning: A company may become insolvent if it cannot pay creditors in full after realization of its assets, which aligns with the legal implications of insolvency involving the inability to pay debts and liabilities.
+Answer: D
+------------------------
+68. ------------------------
+Reasoning: The ISO 26000 standard emphasizes process over outcomes, collaboration, focus on stakeholder engagement, and flexibility over specific norms, aligning with the characteristics described in the information provided.
+Answer: A
+------------------------
+69. ------------------------
+Reasoning: The characteristics of the global workplace standard launched in 1997 include covering key labour rights such as working hours, forced labour, and discrimination, with compliance being certified by independent auditors. The correct answer should reflect these features.
+Answer: A. Social accountability standard, SA 8000
+------------------------
+70. ------------------------
+Reasoning: Fiduciary responsibility of managers and directors towards shareholders requires adherence to legal obligations, transparency in decision-making, and prioritization of shareholder interests over personal gain. Failure to uphold this responsibility can lead to severe legal and financial repercussions.
+Answer: C
+------------------------
+71. ------------------------
+Reasoning: Factors contributing to cultural homogenization include interconnectedness, technological advancements, economic globalization, and cultural imperialism.
+Answer: C
+------------------------
+72. ------------------------
+Reasoning: Insider trading involves using non-public information for personal gain, violates securities laws, and breaches trust with shareholders. This undermines the fiduciary relationship between investors and companies.
+Answer: D
+------------------------
+73. ------------------------
+Reasoning: The correct answer should address issues related to transparency, fairness, and communication with employees regarding potential redundancies, as well as the compensation package received when laid off.
+Answer: A
+------------------------
+74. ------------------------
+Reasoning: The correct answer should emphasize locating morality beyond rationality and focusing on an emotional 'moral impulse' towards others, which aligns with the characteristics of virtue ethics.
+Answer: A
+------------------------
+75. ------------------------
+Reasoning: Objective moral principles can be rationally determined, while ethical under relativism is context-dependent and subjective.
+Answer: A
+------------------------
+76. ------------------------
+Reasoning: The key differences between Islamic finance and conventional finance include the prohibition of charging and paying interest, prohibition on uncertain and speculative transactions, prohibition of sinful investments, and the requirement for all financial products to be backed by tangible assets. Based on these characteristics, the correct answer is C. Interest, Uncertain, Speculative, Tangible assets.
+Answer: C
+------------------------
+77. ------------------------
+Reasoning: When considering the characteristics of deductive reasoning, which is logical, systematic, based on premises, and leads to a specific conclusion, the most fitting option is A. Consequentialist, Cost-benefit analysis.
+Answer: A
+------------------------
+78. ------------------------
+Reasoning: Commercial performance is not directly covered by the principles enshrined in the UN Global Compact, which focus on human rights, labor, environment, and anti-corruption.
+Answer: C
+------------------------
+79. Reasoning: According to Wood (1991), the three outcomes of CSR are social policies, social programmes, and social impacts, which align with the economic, legal, and ethical responsibilities emphasized in CSR.
+Answer: D
+80. ------------------------
+Reasoning: The correct answer should focus on stakeholders, areas for improvement, sustainability, transparency, and accountability based on the perspectives provided. 
+Answer: B
+------------------------
+81. ------------------------
+Reasoning: Post-modern ethics emphasize context and individual specificity in ethical decision-making, reject universal moral principles, focus on internal guidance, prioritize personal autonomy and self-reflection, and value the internal guide to ethics. Therefore, the correct answer is D. 1,2
+Answer: D
+------------------------
+82. ------------------------
+Reasoning: The correct answer should focus on issues, have an intended audience extending beyond shareholders, and be voluntary in nature to distinguish it from the second entity mentioned.
+Answer: C
+------------------------
+83. ------------------------
+Reasoning: The term that encompasses negative advertising, stealing or poaching customers, and predatory pricing is associated with unethical, aggressive, and anti-competitive behavior, which aligns with the description of "Dirty tricks."
+Answer: D
+------------------------
+84. ------------------------
+Reasoning: Job enrichment and job enlargement focus on empowering employees through increased autonomy, skill development, and improved job satisfaction, which aligns with the characteristics mentioned in the information provided.
+Answer: A
+------------------------
+85. ------------------------
+Reasoning: The correct answer should include characteristics such as identifying key stakeholders, monitoring social media and news outlets, addressing issues promptly, focusing on building a strong brand reputation, implementing crisis communication strategies, being proactive, transparent, responsive, maintaining credibility, and minimizing the impact of negative publicity.
+Answer: D
+------------------------
+86. ------------------------
+Reasoning: The correct answer should reflect the encouragement of a collaborative approach from industry, cost effectiveness, and faster achievement of objectives, which align with the perspectives provided.
+Answer: C
+------------------------
+87. ------------------------
+Reasoning: The economic perspective on sustainability focuses on growth models analyzing the carrying capacity of the planet, considering the finite capacity of the earth, overuse of resources, overpopulation, and over pollution by current and past generations, which could reduce quality of life for future generations.
+Answer: A
+------------------------
+88. ------------------------
+Reasoning: The characteristics mentioned align with the responsibilities and considerations that the supermarket industry should have regarding healthy eating, food waste, and supply chain CO2 emissions.
+Answer: A
+------------------------
+89. ------------------------
+Reasoning: The system of exchange described in the question aligns with the principles of fair trade, which guarantees producers in developing countries a living wage, decent working conditions, and opportunities for community development.
+Answer: B
+------------------------
+90. ------------------------
+Reasoning: Personal values are individual beliefs about desirable behaviors and goals that are stable over time and influence decision making.
+Answer: B
+------------------------
+91. ------------------------
+Reasoning: The characteristics of irrational behavior such as impulsive decision-making, lack of logical reasoning, and emotional responses to situations align with options A. 3,4.
+Answer: A
+------------------------
+92. Reasoning: The information used for public interest should benefit society as a whole and promote the common good, rather than individual interests.
+
+Answer: D
+93. ------------------------
+Reasoning: The private sector social enterprise model focuses on generating social impact alongside financial sustainability, incorporates business principles to address social or environmental issues, and emphasizes transparency and accountability. This aligns with the characteristics mentioned in all perspectives provided.
+Answer: C
+------------------------
+94. ------------------------
+Reasoning: The corporate role in governing citizenship rights for the individual involves understanding legal responsibilities and obligations towards upholding individual citizenship rights within the legal framework.
+Answer: D
+------------------------
+95. ------------------------
+Reasoning: The correct answer should have clarity on the legal framework, details on enforcement agencies, and information on penalties for non-compliance, which are crucial aspects for ensuring compliance with the code.
+Answer: C
+------------------------
+96. ------------------------
+Reasoning: The correct answer should involve the Principles of Corporate rights and Corporate effect as per Evan and Freeman (1993) to accurately determine who constitutes a Stakeholder in a specific situation.
+Answer: A
+------------------------
+97. ------------------------
+Reasoning: The correct answer should acknowledge that ethics can serve as a foundation for laws and that laws are often created to reflect societal moral values. It should also recognize that while there is considerable overlap between ethics and law, they are not equivalent.
+Answer: C
+------------------------
+98. ------------------------
+Reasoning: The correct answer should reflect conflicts of interest between firms as suppliers of professional services (professional, organizational) and conflicts of interest between individuals and their employers (individual, organizational).
+Answer: A
+------------------------
+99. ------------------------
+Reasoning: The correct answer should cover compliance, corruption, and environmental issues, which are crucial areas in business ethics management tools. The onus on companies has grown in recent years to address these issues.
+Answer: C
+------------------------
+100. ------------------------
+Reasoning: The statement that best defines business ethics as the study of business situations, activities, and decisions where issues of right and wrong are addressed is factually accurate and provides a clear definition of the concept.
+Answer: B
+------------------------

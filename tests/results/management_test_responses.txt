@@ -1,0 +1,410 @@
+1. ------------------------
+Reasoning: A compromise is a sub-optimal but acceptable outcome where both parties are willing to make concessions to reach an agreement that is satisfactory to both sides.
+Answer: B
+------------------------
+2. ------------------------
+Reasoning: The 'rule of thumb' bias in decision making refers to relying on general guidelines or heuristics rather than a systematic analysis of the situation, simplifying decision-making and saving time and effort.
+Answer: D
+------------------------
+3. ------------------------
+Reasoning: Normative perspectives focus on what should be, emphasizing moral and ethical standards, promoting social justice and equality. 
+Answer: C
+------------------------
+4. ------------------------
+Reasoning: The level of rivalry among existing competitors is a key type of competitive activity that exists between organizations in the 'five forces model'.
+Answer: D
+------------------------
+5. ------------------------
+Reasoning: Bill Clinton did not implement significant transformative policies or actions during his tenure as a political leader, which is a key characteristic of a transformational leader.
+Answer: D
+------------------------
+6. ------------------------
+Reasoning: A Gantt chart is a type of work schedule design that visually represents the schedule of a project through bars on a timeline, aiding in planning, scheduling, and tracking project progress effectively.
+Answer: B
+------------------------
+7. ------------------------
+Reasoning: McGregor's Theory X is based on the assumption that workers like to be directed, lack ambition, and need to be closely supervised.
+Answer: D
+------------------------
+8. Reasoning: Legitimate power is derived from status or position in an organization, representing the ability to influence others based on formal authority within the organizational hierarchy.
+Answer: D
+9. ------------------------
+Reasoning: Max Weber is most associated with bureaucratic structures, focusing on detailed rules and procedures, hierarchy, authority, and impersonal interactions.
+Answer: B
+------------------------
+10. ------------------------
+Reasoning: Henry Ford is the industrial philanthropist as he fits the description of a successful business leader in the industrial sector who used his wealth and influence to make significant contributions to charitable causes, community development, and social impact initiatives. Ford was known for supporting education, healthcare, and other philanthropic efforts that benefited society as a whole.
+Answer: C
+------------------------
+11. ------------------------
+Reasoning: Advocating for individual rights, freedoms, and self-interest in economic decision-making aligns with the principles of individualism, which is associated with Milton Friedman.
+Answer: C
+------------------------
+12. ------------------------
+Reasoning: Elton Mayo was the primary researcher involved in the Hawthorn Studies and is most associated with the findings and conclusions of the research project.
+Answer: B
+------------------------
+13. ------------------------
+Reasoning: Transformational leaders are known for being inspirational, visionary, charismatic, and empowering, which sets them apart from other leadership styles.
+Answer: D
+------------------------
+14. ------------------------
+Reasoning: Transactional leaders are known for setting clear expectations, monitoring performance closely, and providing rewards or punishments based on performance, which aligns with the characteristics of guiding, commanding, and motivating.
+Answer: B
+------------------------
+15. ------------------------
+Reasoning: The assumption that there is a high level of certainty regarding the environment contradicts the idea that individuals always make decisions based on logic and complete information, which is a key assumption of the rational decision-making model.
+Answer: D
+------------------------
+16. ------------------------
+Reasoning: The principle of operating the organization's status system does not align with Drucker's five guiding principles of management, as it focuses more on hierarchy and status rather than on empowering individuals and achieving organizational goals.
+Answer: C
+------------------------
+17. ------------------------
+Reasoning: A paradigm is a theoretical model that encompasses a set of beliefs, values, and practices defining a particular scientific discipline, sociological theory, or linguistic approach. It serves as a framework for understanding and interpreting phenomena within each respective field.
+Answer: C
+------------------------
+18. ------------------------
+Reasoning: IT and computing skills are not typically considered key management skills in planning as they are more related to technical expertise rather than general management skills required for effective planning.
+Answer: C
+------------------------
+19. ------------------------
+Reasoning: Based on Belbin's theory emphasizing sociable, energetic, and team-oriented traits for roles requiring collaboration, an extroverted and enthusiastic person would likely fit the "Resource Investigator" role.
+Answer: C
+------------------------
+20. ------------------------
+Reasoning: Financial planning is not a recognized form of business continuity planning as it primarily focuses on managing finances and investments rather than preparing for and recovering from business disruptions.
+Answer: C
+------------------------
+21. ------------------------
+Reasoning: The term that best fits an organization that quickly responds to shifts in supply and demand conditions is an Agile organization, as it embodies the characteristics of agility, flexibility, and adaptability needed to adjust operations swiftly in response to changing market conditions.
+Answer: D
+------------------------
+22. ------------------------
+Reasoning: Micro-managing the workforce, managing communications, and managing change are all recognized challenges for modern managers. Managing the learning organization is not typically considered a major challenge for modern managers.
+Answer: D
+------------------------
+23. ------------------------
+Reasoning: Emotional intelligence refers to the ability to recognize, understand, and manage one's own emotions, as well as the ability to recognize, understand, and influence the emotions of others. It involves both self-awareness and social awareness, as well as the ability to regulate and express emotions effectively.
+Answer: D
+------------------------
+24. ------------------------
+Reasoning: Individual freedom to schedule work is an example of job planning as it involves individuals making decisions about when and how to schedule their work tasks, reflecting the characteristics of planning and organizing work activities.
+Answer: D
+------------------------
+25. ------------------------
+Reasoning: The instrumental approach defines motivation in the context of workers as primarily driven by external rewards and punishments, focusing on achieving specific outcomes through rational decision-making. Workers are viewed as motivated by the desire to obtain rewards or avoid punishments, making economic reward the most suitable option.
+Answer: D
+------------------------
+26. ------------------------
+Reasoning: Price-fixing is not a characteristic of corporate social responsibility as it goes against ethical standards and societal expectations. Corporate social responsibility aims to benefit society and the environment, which does not align with practices like price-fixing.
+Answer: D
+------------------------
+27. ------------------------
+Reasoning: John Stuart Mill is a major protagonist of utilitarianism as he advocated for the greatest good for the greatest number of people, emphasized consequences in ethical decision-making, and believed in maximizing overall happiness or pleasure, aligning with the key principles of utilitarianism.
+Answer: A
+------------------------
+28. ------------------------
+Reasoning: The correct answer should promote teamwork, collaboration, and prevent one individual from carrying the burden of a whole work task by distributing tasks among team members.
+Answer: A
+------------------------
+29. ------------------------
+Reasoning: The work group described with demarcated tasks and distant line managers suggests a clear division of responsibilities and reporting structures, indicating an independent setup.
+Answer: B
+------------------------
+30. ------------------------
+Reasoning: Specialisation is typically seen in functional or divisional organisational structures where there are clear divisions based on functions or products.
+Answer: D
+------------------------
+31. ------------------------
+Reasoning: The element that is not directly involved in the creation or delivery of a product or service is considered a support activity rather than a primary activity in a value chain.
+Answer: D
+------------------------
+32. ------------------------
+Reasoning: The term that best aligns with the act of getting individuals to behave in ways that are acceptable to a group, involving social influence, group conformity, and normative behavior, is Socialisation.
+Answer: D
+------------------------
+33. ------------------------
+Reasoning: An acquisition involves the transfer of ownership and control of one company by another, requiring legal and financial processes to be completed for it to be recognized as official.
+Answer: D
+------------------------
+34. ------------------------
+Reasoning: James Dyson is known for his innovative approach to product design, risk-taking in creating new technologies, proactive nature in starting his own business, visionary mindset in revolutionizing household appliances, and resilient attitude towards overcoming challenges. These qualities align with the characteristics of an entrepreneur.
+Answer: B
+------------------------
+35. ------------------------
+Reasoning: Conflict resolution through face-to-face meetings is not an advantage of virtual teams as they primarily rely on digital tools for communication and collaboration.
+Answer: C
+------------------------
+36. ------------------------
+Reasoning: The richest form of information should be comprehensive, accurate, diverse, and up-to-date to provide a wide range of reliable and current information. Among the options given, video conference allows for visual and verbal communication, enabling a more comprehensive exchange of information compared to the other options.
+Answer: D
+------------------------
+37. ------------------------
+Reasoning: The purpose of a 'quality circle' is to bring together managers and workers to find improvements, focus on continuous improvement, employee involvement, problem-solving, and teamwork.
+Answer: A
+------------------------
+38. ------------------------
+Reasoning: New Public Management focuses on efficiency, accountability, and performance measurement, which are key characteristics emphasized in the given perspectives. It aims to introduce private sector business principles into the public sector to improve effectiveness and efficiency.
+Answer: B
+------------------------
+39. ------------------------
+Reasoning: Michael Porter emphasizes the importance of strategic positioning in driving profitability, creating sustainable competitive advantage, and focusing on market competition, aligning with the characteristics mentioned in the information provided.
+Answer: C
+------------------------
+40. ------------------------
+Reasoning: Functional structures group employees based on their expertise and skills, promoting specialization, clear communication, and efficient coordination within departments.
+Answer: B
+------------------------
+41. ------------------------
+Reasoning: A successful succession plan involves ensuring that all key leadership positions are covered, identifying and grooming potential successors within the organization, providing necessary training and development opportunities for these individuals, and communicating the plan effectively to all stakeholders.
+Answer: B
+------------------------
+42. ------------------------
+Reasoning: A scenario in scenario planning is an imagined sequence of future events that involves a detailed narrative description of a possible future situation, including relevant factors and events, as well as a logical sequence of cause and effect.
+Answer: A
+------------------------
+43. ------------------------
+Reasoning: The garbage can model of decision making is based on limited knowledge, uncertainty, and high risk, as it involves non-linear relationships, ambiguous preferences, and fluid participation, reflecting a messy and chaotic decision-making process.
+Answer: C
+------------------------
+44. ------------------------
+Reasoning: Utilitarianism is defined by the principle of maximizing overall happiness or well-being for the greatest number of people, focusing on the consequences of actions. This aligns with the definition of utilitarianism as the best outcome for the majority of people.
+Answer: C
+------------------------
+45. ------------------------
+Reasoning: The term that best describes the set of behaviors and tasks that a member of a group is expected to perform because of their membership in the group is "Group roles." This term specifically refers to the defined expectations and responsibilities assigned to individuals within a group to maintain cohesion and achieve common goals.
+Answer: A
+------------------------
+46. ------------------------
+Reasoning: The term that best fits the description of a process that enables an organization to assess and demonstrate its social, economic, and environmental benefits and limitations is "Social audit." This term encompasses the evaluation of all three aspects and emphasizes the importance of demonstrating both positive and negative impacts on sustainability goals.
+Answer: C
+------------------------
+47. ------------------------
+Reasoning: A hierarchical culture with clear roles and responsibilities, established processes and procedures, and a focus on consistency is most likely to deliver stability and efficiency.
+Answer: B
+------------------------
+48. ------------------------
+Reasoning: Fred Fiedler is a leading writer on contingency theory of leadership, known for his contributions to the development and understanding of the theory, as well as his influential research on how leadership effectiveness is contingent on situational factors.
+Answer: D
+------------------------
+49. ------------------------
+Reasoning: Programmed decisions are characterized by being routine, repetitive, and based on established rules or procedures.
+Answer: D
+------------------------
+50. ------------------------
+Reasoning: Quick response to change is not an advantage of a hierarchical structure as it hinders quick decision-making and communication flow due to information passing through multiple levels of management.
+Answer: B
+------------------------
+51. ------------------------
+Reasoning: A strategic alliance involves a formal agreement committing two or more firms to exchange resources to produce products or services, which aligns with the characteristics of leveraging each other's strengths, resources, and expertise to gain a competitive advantage in the market.
+Answer: B
+------------------------
+52. ------------------------
+Reasoning: Group norms are shared beliefs or expectations within a group that influence individual behavior to maintain order and cohesion. Members conform to these norms to fit in and avoid rejection.
+Answer: A
+------------------------
+53. ------------------------
+Reasoning: Ad hoc plans are not a recognized type of plan and do not fit into the established categories of plans like Business, Succession, or Financial plans.
+Answer: C
+------------------------
+54. ------------------------
+Reasoning: The term for the extent to which competition in one country is influenced by competition in other countries reflects the concept of globalization and economic interdependence, highlighting the interconnected nature of the global economy.
+Answer: D
+------------------------
+55. ------------------------
+Reasoning: Key factors that reflect the situation of an organization include revenue, profit margins, and cash flow, which provide a clear picture of the financial health and performance of the organization.
+Answer: B
+------------------------
+56. ------------------------
+Reasoning: The key streams identified by March (1988) in decision making in highly ambiguous environments include sensemaking, decision making, and action taking. Expectations, choice opportunities, and solutions are all relevant to decision making in such environments. However, problems do not form part of the key streams identified by March (1988).
+Answer: C
+------------------------
+57. ------------------------
+Reasoning: PEST analysis is a strategic tool used to analyze external macro-environmental factors, including Political, Economic, Social, and Technological factors.
+Answer: D
+------------------------
+58. ------------------------
+Reasoning: The SMART acronym stands for Specific, Measurable, Achievable, Relevant, and Time-bound, which are essential components in goal-setting frameworks.
+Answer: D
+------------------------
+59. ------------------------
+Reasoning: The writer concerned with the reaction of workers to key characteristics of bureaucracies, focusing on hierarchy, rules, division of labor, and impersonality, aligns with the work of Max Weber.
+Answer: B
+------------------------
+60. ------------------------
+Reasoning: The optimal span of control is influenced by factors such as the size of the organization, the complexity of tasks, the level of employee experience, and the leadership style of the manager. 
+Answer: D. None of the above
+------------------------
+61. ------------------------
+Reasoning: The type of authority that does not fit into any recognized category of authority and lacks legitimacy or power compared to established types is "Supplier."
+Answer: D
+------------------------
+62. ------------------------
+Reasoning: The characteristic of minimal and formal knowledge sharing (option A) goes against the principle of promoting collaboration and communication among team members, which is essential for effective teamwork.
+Answer: A
+------------------------
+63. ------------------------
+Reasoning: The factor that is not directly related to core business operations or stakeholders of the company, and is not within the company's control or influence, is Technical.
+Answer: D
+------------------------
+64. ------------------------
+Reasoning: Market penetration involves selling more of existing products to current customers in current markets, which aligns with the goal of increasing market share with existing products in existing markets according to Ansoff's matrix.
+Answer: B
+------------------------
+65. ------------------------
+Reasoning: The characteristic of a virtual team is being located remotely, as virtual teams consist of members who are not in the same physical location but work together through digital communication tools.
+Answer: D
+------------------------
+66. ------------------------
+Reasoning: Extraversion is characterized by being assertive and sociable, which aligns with the traits of being outgoing, energetic, and talkative. 
+Answer: D
+------------------------
+67. ------------------------
+Reasoning: The overriding philosophy underpinning the strategic direction of an organization is closely tied to its core values, long-term goals, alignment with mission and vision, and stakeholder engagement. Among the options provided, the one that best encompasses these characteristics is the Mission statement.
+Answer: B
+------------------------
+68. ------------------------
+Reasoning: The correct answer involves analyzing the current situation of the organization, setting objectives and goals, and developing strategies to achieve them, which aligns with the key steps in the process of strategic planning.
+Answer: B
+------------------------
+69. ------------------------
+Reasoning: Frank Gilbreth is most noted for his innovative time and motion studies, emphasis on efficiency and productivity, and development of the concept of "therbligs" in the field of industrial engineering.
+Answer: B
+------------------------
+70. ------------------------
+Reasoning: Contingency planning involves preparing for potential future events or circumstances that may disrupt normal operations, focusing on preparing for unexpected events and developing specific responses. Scenario planning aligns with these characteristics.
+Answer: D
+------------------------
+71. ------------------------
+Reasoning: The feature "Individualism" does not align with Fayol's 14 principles of management as it goes against the concept of unity of command and teamwork emphasized in his principles.
+Answer: D
+------------------------
+72. ------------------------
+Reasoning: Reward is not a characteristic of the job characteristics model, as it is not one of the core dimensions the model is based on.
+Answer: C
+------------------------
+73. ------------------------
+Reasoning: Workers' acceptance of change is positively influenced by a culture that values communication, collaboration, and transparency, as these factors have been shown to impact employees' willingness to accept change.
+Answer: B
+------------------------
+74. ------------------------
+Reasoning: A virtual organization is a network of independent organizations that work together through the use of information and communication technologies to achieve a common goal. This type of organization typically has a decentralized structure, with members collaborating remotely rather than in a physical office, allowing for flexibility and cost-effectiveness.
+Answer: A
+------------------------
+75. ------------------------
+Reasoning: The chain of command extends from the top management to the lowest level of the organization, ensuring a clear hierarchy and flow of authority.
+Answer: B
+------------------------
+76. ------------------------
+Reasoning: The style of leadership that takes account of others' views, opinions, and ideas is characterized by being inclusive, collaborative, empathetic, and open-minded. This type of leadership values input from all team members, fosters teamwork, and shows understanding towards others. The correct answer aligning with these characteristics is C. Democratic.
+Answer: C
+------------------------
+77. ------------------------
+Reasoning: The guiding principle of scientific management is to find the one best way to do a job, emphasizing efficiency, division of labor, and cooperation between management and workers.
+Answer: D
+------------------------
+78. ------------------------
+Reasoning: The term Tuckman uses for reaching consensus as a group is "norming" where group members establish norms and values, and work towards reaching consensus as a cohesive unit.
+Answer: D
+------------------------
+79. ------------------------
+Reasoning: The theory that focuses on individual decision-making, highlights the influence of personal values and beliefs, and emphasizes the importance of choice in behavior is most likely the correct answer.
+Answer: A. Expectancy
+------------------------
+80. ------------------------
+Reasoning: The term that best describes decisions limited by human capacity to absorb and analyze information is "Bounded rationality" as it reflects the constraints on the amount of information that can be processed and understood due to cognitive limitations.
+Answer: C
+------------------------
+81. ------------------------
+Reasoning: An objective is a clearly defined and measurable outcome to be achieved over a specified timeframe, which aligns with the characteristics of being clear, specific, measurable, achievable, relevant, and time-bound.
+Answer: C
+------------------------
+82. ------------------------
+Reasoning: The purpose of an organizational structure is not to limit workers' rights, but rather to coordinate people and resources, organize lines of communication, and formalize authority within the organization.
+Answer: D
+------------------------
+83. ------------------------
+Reasoning: Strategic plans relate to a long-term time-frame as they involve setting clear goals and objectives, detailed action steps, resource allocation, and monitoring and evaluation mechanisms to achieve those goals over an extended period.
+Answer: A
+------------------------
+84. ------------------------
+Reasoning: The term that best aligns with the characteristics of organizational development through a formally designed organizational structure, emphasizing strategic planning, clear communication channels, defined roles and responsibilities, and alignment with organizational goals, is "Structured."
+Answer: D
+------------------------
+85. ------------------------
+Reasoning: Based on empirical evidence and statistical analysis.
+Answer: D
+------------------------
+86. ------------------------
+Reasoning: The situational theory of leadership emphasizes flexibility, adaptability, and responsiveness, suggesting that effective leadership is contingent upon the specific situation and the ability of the leader to adjust their style accordingly. This highlights the importance of adapting leadership style to fit the situation and recognizing the significance of context in determining the most effective approach. Therefore, the correct answer is C. Environment.
+Answer: C
+------------------------
+87. ------------------------
+Reasoning: Intuitive decision making is based on gut feelings, past experiences, and pattern recognition rather than deliberate analysis.
+Answer: C
+------------------------
+88. ------------------------
+Reasoning: The Job Characteristics Model focuses on enhancing job satisfaction and productivity by emphasizing employee well-being, opportunities for growth and development, and aligning individual and organizational goals, which are key components known to improve job satisfaction and productivity.
+Answer: C
+------------------------
+89. ------------------------
+Reasoning: The author of 'The Wealth of Nations' is a prominent writer in the 18th century with a focus on economics and philosophy, which aligns with the characteristics of Adam Smith.
+Answer: C
+------------------------
+90. ------------------------
+Reasoning: The rational goal model of management is associated with characteristics such as setting clear and specific objectives, focus on efficiency and productivity, and rational decision-making processes. Among the given options, productivity aligns most closely with these characteristics.
+Answer: D
+------------------------
+91. ------------------------
+Reasoning: The correct order of managerial functions is planning, organizing, leading, and controlling as identified by management theorist Henri Fayol and reflects the logical flow of activities in the management process.
+Answer: C
+------------------------
+92. ------------------------
+Reasoning: Lateral communication in an organization occurs through information passing between different departments and functions, utilizing diverse channels and mediums for effective collaboration and teamwork.
+Answer: D
+------------------------
+93. ------------------------
+Reasoning: Advertising is a diverse and versatile industry encompassing various mediums and strategies, making it a form of focusing strategy.
+Answer: A
+------------------------
+94. ------------------------
+Reasoning: The correct answer should not align with the key components of an agile organization, which include adaptability, collaboration, customer-centricity, and continuous improvement. Therefore, "Market focus and position" is not a component of an agile organization.
+Answer: A
+------------------------
+95. ------------------------
+Reasoning: Worker empowerment
+Answer: C
+------------------------
+96. ------------------------
+Reasoning: Vertical integration forwards involves a firm merging or acquiring another towards the consumer, allowing for increased market power and potential anti-competitive behavior.
+Answer: B
+------------------------
+97. ------------------------
+Reasoning: The term that best describes an autonomous business entity within an overall corporate enterprise, which operates independently with separate decision-making authority and financials, is a Strategic Business Unit.
+Answer: D
+------------------------
+98. ------------------------
+Reasoning: Retaining the status quo does not align with a company's mission and values in a corporate social responsibility framework.
+Answer: A
+------------------------
+99. ------------------------
+Reasoning: A whistleblower is an individual who reports illegal or unethical activities within an organization, typically to authorities or the public. They are protected by laws that prohibit retaliation from their employers and may be eligible for rewards or compensation for their actions. This aligns with the definition and characteristics of a whistleblower.
+Answer: A
+------------------------
+100. ------------------------
+Reasoning: T-group training focuses on experiential learning, group dynamics, and improving interpersonal skills, which align with the characteristics of team building activities involving learning.
+Answer: D
+------------------------
+101. ------------------------
+Reasoning: A social enterprise is concerned with running a business to create social benefits, focusing on creating positive social or environmental impact, balancing financial sustainability with social mission, and engaging with the community in a meaningful way to address social or environmental issues.
+Answer: D
+------------------------
+102. ------------------------
+Reasoning: The concept of pre-conceptions is not part of Schein's model of culture formation, which focuses on shared values, shared beliefs, and norms.
+Answer: B
+------------------------
+103. ------------------------
+Reasoning: Business is not typically considered one of the layers of cultural influence, as it is more related to economic activities rather than shaping societal values and norms.
+Answer: B
+------------------------

@@ -1,0 +1,443 @@
+1. ------------------------
+Reasoning: A 99% confidence interval is narrower than a 95% confidence interval because it allows for a smaller margin of error in estimating the true population parameter.
+Answer: A
+------------------------
+2. ------------------------
+Reasoning: The Dickey Fuller (DF) approach is known for its higher statistical power and robustness to different data distributions compared to the Phillips-Perron (PP) approach.
+Answer: D
+------------------------
+3. ------------------------
+Reasoning: The leverage effect amplifies the impact of news on the underlying asset's price, leading to higher volatility and sharper movements. Therefore, the news impact curve would rise more quickly for negative disturbances than for positive ones of the same magnitude.
+Answer: A
+------------------------
+4. ------------------------
+Reasoning: The statement that the error terms will be heteroscedastic and not normally distributed is false concerning the linear probability model because the model assumes constant variance of errors and does not account for correlation between independent variables.
+Answer: C
+------------------------
+5. ------------------------
+Reasoning: The statement that misrepresents the relationship between the regression population and sample is "C. In theory, the sample could be larger than the population."
+Answer: C
+------------------------
+6. ------------------------
+Reasoning: The statement that the Q test has better small-sample properties than the Q* is incorrect because the Ljung-Box Q* statistic is specifically designed to address the limitations of the Box-Pierce Q statistic in small samples, making it more suitable for such cases.
+Answer: B
+------------------------
+7. ------------------------
+Reasoning: A parsimonious model aims to include as few variables as possible to explain the data effectively, striking a balance between simplicity and accuracy.
+Answer: B
+------------------------
+8. ------------------------
+Reasoning: Continuously compounded returns do not involve periodic compounding, so the feature that involves regular compounding of interest over discrete time intervals would not align with the concept of continuously compounded returns.
+Answer: C
+------------------------
+9. ------------------------
+Reasoning: GARCH(1,1) models are specifically designed to capture fat tails in the return distribution, leverage effects, and volatility clustering in financial asset return time-series. Therefore, the correct features that could be captured using a standard GARCH(1,1) model are i) Fat tails in the return distribution, ii) Leverage effects, and iii) Volatility clustering.
+Answer: D
+------------------------
+10. ------------------------
+Reasoning: The GARCH-in-mean parameter estimate in a GARCH-M model represents the impact of the conditional variance on the mean return. A positive value suggests that an increase in the conditional variance leads to an increase in the mean return, indicating a positive relationship between volatility and returns.
+Answer: C
+------------------------
+11. ------------------------
+Reasoning: If it is desired that the distributional properties of the data in the experiment are known exactly, bootstrapping would be preferred over pure simulation as it allows for the generation of samples that closely mimic the known distributional properties of the data in the experiment.
+Answer: A. (ii) and (iv) only
+------------------------
+12. ------------------------
+Reasoning: Violations of CLRM assumptions can lead to consequences such as biased and inconsistent coefficient estimates, suboptimal standard error estimates, inappropriate distributions assumed for test statistics, and invalid conclusions regarding the strength of relationships between variables. Therefore, the correct answer is D. (i), (ii), (iii), and (iv).
+Answer: D
+------------------------
+13. ------------------------
+Reasoning: Forecasting in econometrics relies on analyzing past data to make predictions about future economic trends, which involves the use of historical data, statistical models, and assumptions about future trends.
+Answer: D
+------------------------
+14. ------------------------
+Reasoning: The PACF is necessary for distinguishing between different lags in the autocorrelation function, helping to identify the specific lag at which the autocorrelation function cuts off, indicating the order of the autoregressive model.
+Answer: A
+------------------------
+15. ------------------------
+Reasoning: Negative residual autocorrelation is indicated by a pattern of decreasing residuals as time progresses, which suggests that errors in the model are not random and may be influenced by a time-related factor.
+Answer: A
+------------------------
+16. ------------------------
+Reasoning: The correct statements are (i) and (iii) based on the information provided. The ARCH(q) model is likely to be more parsimonious (i) as it involves fewer parameters compared to the GARCH(1,1) model. Additionally, the ARCH(q) model can allow for an infinite number of previous lags of squared returns to affect the current conditional variance (iii), providing flexibility to capture long-term dependencies. 
+Answer: B
+------------------------
+17. ------------------------
+Reasoning: The correct answer should include statement iii) An application of 2SLS would lead to unbiased but inefficient parameter estimates, as it addresses the issue of endogeneity in a triangular or recursive system. 
+Answer: B
+------------------------
+18. ------------------------
+Reasoning: The correct algebraic representation of the fitted regression line should be in the form y = mx + b, where y is the dependent variable, x is the independent variable, m is the slope, and b is the y-intercept. Among the options provided, option B (\hat{y}_t = \hat{\alpha} + \hat{\beta}x_t) fits this form, making it the most suitable choice.
+Answer: B
+------------------------
+19. ------------------------
+Reasoning: The result of the dot product of a vector with itself is a scalar value, which indicates that the dimensions of the resulting matrix $\hat{u}^t \hat{u}$ would be 1 x 1.
+Answer: D
+------------------------
+20. ------------------------
+Reasoning: The characteristic roots of an MA process are the roots of the characteristic equation associated with the process. By solving the characteristic equation for the given MA process equation, the characteristic roots are found to be 1 and -3.
+Answer: D
+------------------------
+21. ------------------------
+Reasoning: The correct answer should indicate that the explanatory variable is fixed and not subject to random variation, which aligns with the concept of non-stochasticity.
+Answer: B
+------------------------
+22. ------------------------
+Reasoning: The Durbin Watson test statistic of 1.53 is less than the critical value, indicating the presence of positive autocorrelation in the residuals.
+Answer: A
+------------------------
+23. ------------------------
+Reasoning: Autocorrelation in OLS regression can lead to misleading coefficient estimates, wrong conclusions in hypothesis tests, biased forecasts, and inappropriate standard errors.
+Answer: D
+------------------------
+24. ------------------------
+Reasoning: Multicollinearity leads to biased estimates, inflated standard errors, and unstable coefficients in the OLS estimator, making it difficult to accurately estimate the individual effects of the correlated variables on the dependent variable.
+Answer: B
+------------------------
+25. ------------------------
+Reasoning: Non-stationary data in levels form can lead to spurious regression results and unreliable parameter estimates, which would not be a consequence of using non-stationary data in levels form.
+Answer: D
+------------------------
+26. ------------------------
+Reasoning: The optimal one-step ahead forecast of a random walk series is equal to the last observed value because a random walk is a time series model where the best forecast for the next value is simply the last observed value.
+Answer: A
+------------------------
+27. ------------------------
+Reasoning: The order condition should be a necessary and sufficient condition for identification in a business operation to ensure clear and specific guidelines for order processing, which are crucial for efficiency and accuracy.
+Answer: A
+------------------------
+28. ------------------------
+Reasoning: Such an estimator will always be unbiased
+Answer: D
+------------------------
+29. Reasoning: The disadvantages of the Dickey-Fuller / Engle-Granger approach include the limitations of estimating only one cointegrating relationship, the high chance of false negatives in detecting cointegration, the inability to make inferences on the cointegrating regression, and the requirement to specify the dependent and independent variables.
+Answer: D
+30. ------------------------
+Reasoning: The population regression function (PRF) represents the true relationship between the independent and dependent variables in the entire population, while the sample regression function (SRF) estimates this relationship based on a sample from the population. Therefore, the correct answer should clearly explain this difference and emphasize the importance of using the SRF as an estimate of the PRF in statistical analysis.
+Answer: B
+------------------------
+31. ------------------------
+Reasoning: The disadvantage of the general to specific approach is that it may lead to overfitting, lack of transparency, higher data requirements, computational resources, overfitting, model selection bias, and lack of robustness.
+Answer: C
+------------------------
+32. ------------------------
+Reasoning: The correct statements concerning maximum likelihood (ML) estimation in the context of GARCH models are i) Maximum likelihood estimation selects the parameter values that maximise the probability that we would have actually observed the values of the series y that we actually did, ii) GARCH models can only be estimated by ML and not by OLS, and iv) Most computer packages use numerical procedures to estimate GARCH models rather than a set of analytical formulae.
+Answer: A. (ii) and (iv) only
+------------------------
+33. ------------------------
+Reasoning: Including relevant lagged values of the dependent variable can introduce correlation between the independent and dependent variables, leading to biased and unreliable results.
+Answer: B
+------------------------
+34. ------------------------
+Reasoning: A model that is entirely statistical in nature with no room for judgmental modification of forecasts is likely to lead to a relatively high degree of out-of-sample forecast accuracy due to its objectivity and lack of bias.
+Answer: D
+------------------------
+35. ------------------------
+Reasoning: Taking into account the information provided, the plausible approaches to dealing with residual autocorrelation are i) Take logarithms of each of the variables, ii) Add lagged values of the variables to the regression equation, and iv) Try a model in first differenced form rather than in levels. Therefore, the correct answer is A. (ii) and (iv) only.
+Answer: A
+------------------------
+36. ------------------------
+Reasoning: The roots of the characteristic equation must all lie inside the unit circle for an autoregressive process to be considered stationary. This is because having roots inside the unit circle ensures that the process is stable and does not exhibit explosive behavior, which is a key characteristic of stationarity.
+Answer: A
+------------------------
+37. ------------------------
+Reasoning: Adjusted R-squared is a commonly used metric in model evaluation that penalizes for the number of predictors in the model, making it a form of information criterion. It helps to assess the goodness of fit of a model by taking into account the number of predictors used, which is a key aspect of information criteria. Therefore, the statement that adjusted R-squared is an information criterion is true. When the residual sum of squares falls with the addition of a new term, it indicates a better fit of the model, leading to a decrease in the information criterion value. Akaike's information criterion always selects model orders that are at least as large as Schwarz's information criterion due to its lesser penalty for model complexity. Akaike's information criterion is consistent, ensuring the selection of the true model as the sample size increases.
+
+Answer: D
+------------------------
+38. ------------------------
+Reasoning: The "within transform" involves subtracting the mean of each entity away from each observation on that entity, focusing on changes within a specific group or category rather than across different groups or categories, analyzing variation within groups or subjects, and enhancing the accuracy of statistical models.
+Answer: B
+------------------------
+39. ------------------------
+Reasoning: Augmenting the Dickey-Fuller test regression by including additional lagged terms in the regression model helps capture more complex patterns in the data, improving accuracy and reliability.
+Answer: D
+------------------------
+40. ------------------------
+Reasoning: The optimal one-step ahead forecast of the change in y in a random walk with drift scenario should take into account the drift parameter b, as it represents the expected change in y at each time step. Therefore, the correct answer is not the current value of y (A), zero (B), or one (C), but rather the average value of the change in y over the in-sample period (D).
+Answer: D
+------------------------
+41. ------------------------
+Reasoning: Taking the logarithms of variables can help stabilize the variance of the error term in a model that exhibits heteroscedasticity.
+Answer: A
+------------------------
+42. ------------------------
+Reasoning: The statement that the standardised residuals from an estimated GARCH model are assumed to be normally distributed is true because in GARCH models, it is typically assumed that the standardized residuals follow a normal distribution. The statement that their squares will be related to their lagged squared values if the GARCH model is appropriate is also true. In practice, the standardised residuals are likely to have fat tails due to the nature of financial data. However, the statement that the standardised residuals and raw residuals will be identical if the GARCH model is adequate is false.
+Answer: D
+------------------------
+43. ------------------------
+Reasoning: VARs are used in risk management to measure potential losses at a specific confidence level over a specific time horizon. Therefore, the statement that VARs often produce better forecasts than simultaneous equation structural models is true.
+Answer: C
+------------------------
+44. ------------------------
+Reasoning: The statement that misrepresents or misunderstands one of the fundamental components of hypothesis testing is "C. The test of significance and confidence interval approaches will always give the same conclusions."
+Answer: C
+------------------------
+45. ------------------------
+Reasoning: The autoregressive component in an ARMA(p,q) model captures the relationship between the current value of the time series and its past values, so the acf should decline geometrically. The moving average component in an ARMA(p,q) model is less influenced by past errors with a lower q value, leading to more accurate forecasts, so the pacf should be zero after q lags.
+Answer: C
+------------------------
+46. ------------------------
+Reasoning: The appropriate critical value for a 2-sided 5% size test corresponds to the 2.5% point on each tail of the distribution in a standard normal distribution. This results in a critical value of 1.96.
+Answer: D
+------------------------
+47. ------------------------
+Reasoning: The test statistic value should be calculated based on the difference in determinants of the variance-covariance matrices of the residuals for the two models, taking into account the degrees of freedom and the number of restrictions imposed, to determine if the VAR(6) can be restricted to a VAR(4) model.
+Answer: A
+------------------------
+48. ------------------------
+Reasoning: Pure time-series models are limited in their ability to incorporate external factors and exogenous variables, leading to a disadvantage in not being able to account for causal relationships between variables.
+Answer: D
+------------------------
+49. ------------------------
+Reasoning: The explained variable and The explanatory variable accurately reflect the role of the dependent variable in linear regression analysis as the variable being predicted or explained by the independent variable(s).
+Answer: D
+------------------------
+50. ------------------------
+Reasoning: VARs receive strong motivation from financial and economic theory, VARs in their reduced forms can be used easily to produce time-series forecasts, and OLS can be applied separately to each equation in a reduced form VAR. These advantages make options A, B, and C incorrect, leaving option D as the correct choice.
+Answer: D
+------------------------
+51. ------------------------
+Reasoning: The standard regression model assumes that the relationship between the independent and dependent variables is linear, the errors are normally distributed, the errors have constant variance, the errors are independent of each other, and there is no multicollinearity among the independent variables, which are necessary for accurate results.
+Answer: A
+------------------------
+52. ------------------------
+Reasoning: The parameter λ determines the slope of the trend in yt over time because it represents the rate of change in yt with respect to time. A higher value of λ results in a steeper trend, indicating a faster rate of change, while a lower value results in a gentler trend, indicating a slower rate of change in yt over time.
+Answer: C
+------------------------
+53. ------------------------
+Reasoning: The correct statement concerning logit and probit models is that the probit model is based on a cumulative logistic function.
+Answer: D
+------------------------
+54. ------------------------
+Reasoning: The most important disadvantage of the diagonal VECH approach is its lack of flexibility in capturing dynamic interdependencies between variables, as it assumes constant conditional correlations. This limitation is overcome by the BEKK formulation, which allows for time-varying correlations, providing a more realistic representation of the evolving correlation structure over time.
+Answer: C
+------------------------
+55. ------------------------
+Reasoning: The consequences of omitting a relevant variable from a regression equation would lead to biased standard errors, inconsistent slope coefficients, and an inconsistent intercept coefficient. However, if the excluded variable is uncorrelated with all of the included variables, all of the slope and intercept coefficients will be consistent and unbiased but inefficient.
+Answer: A. (ii) and (iv) only
+------------------------
+56. ------------------------
+Reasoning: The regressor is the alternative name for the independent variable in linear regression analysis, reflecting its role as the variable being manipulated or controlled to observe its effect on the dependent variable.
+Answer: A
+------------------------
+57. ------------------------
+Reasoning: The standard error will be positively related to the residual variance, negatively related to the dispersion of observations on the explanatory variable, and negatively related to the sample size. Additionally, the standard error gives a measure of the precision of the coefficient estimate.
+Answer: D
+------------------------
+58. ------------------------
+Reasoning: Heteroscedasticity refers to the situation where the variance of the errors is not constant, which violates the assumption of homoscedasticity in statistical models.
+Answer: A
+------------------------
+59. ------------------------
+Reasoning: A Durbin Watson statistic close to zero indicates strong positive autocorrelation in the dataset. In the case of positive autocorrelation, the first order autocorrelation coefficient will be close to 1, as it measures the strength and direction of the relationship between consecutive observations in the dataset. Therefore, when the Durbin Watson statistic is close to zero, it suggests a high likelihood of positive autocorrelation, leading to a first order autocorrelation coefficient close to 1.
+Answer: B
+------------------------
+60. ------------------------
+Reasoning: The Bera-Jarque test assumes that the distribution is normal, so the correct answer should reflect characteristics of a normal distribution. Among the options, the correct answer is B, which states zero skewness and a kurtosis of three, representing a normal distribution.
+Answer: B
+------------------------
+61. ------------------------
+Reasoning: Consistency in statistical estimation means that the estimator approaches the true parameter value as the sample size grows larger, implying that the estimates will converge upon the true values as the sample size increases.
+Answer: C
+------------------------
+62. ------------------------
+Reasoning: Financial asset return time-series data typically exhibit high autocorrelation, which means that past returns are correlated with future returns. This characteristic is crucial for analyzing the behavior of financial assets over time.
+Answer: C
+------------------------
+63. ------------------------
+Reasoning: The assumptions required to show the consistency, unbiasedness, and efficiency of the OLS estimator are i) $E(u_t) = 0$, ii) $\text{Var}(u_t) = \sigma^2$, and iii) $\text{Cov}(u_t, u_{t-j}) = 0 \forall j. These assumptions are fundamental for the OLS estimator to exhibit the desired properties. The assumption that the error term follows a normal distribution, $u_t \sim N(0, \sigma^2)$, is not directly related to these properties.
+Answer: C. (i), (ii), and (iii) only
+------------------------
+64. ------------------------
+Reasoning: The fixed effects approach to estimating a panel model may lead to biased estimates of the coefficients for time-invariant variables because it removes the variation in these variables.
+Answer: D
+------------------------
+65. ------------------------
+Reasoning: When using a 2-sided alternative, it is crucial to consider both directions of the effect, unlike a 1-sided alternative. This comprehensive analysis ensures that all potential outcomes are taken into account, leading to a more balanced and accurate conclusion.
+Answer: B
+------------------------
+66. ------------------------
+Reasoning: The price of a house is best described as a real number because it can be represented by any number on the real number line, including integers, decimals, fractions, and irrational numbers.
+Answer: D
+------------------------
+67. ------------------------
+Reasoning: The Johansen "trace" test for a null hypothesis of 2 cointegrating vectors in a system with 4 variables would use the largest 2 eigenvalues in the test to determine the presence of cointegration relationships.
+Answer: B
+------------------------
+68. ------------------------
+Reasoning: From the perspectives provided, statements i) and ii) are accurate in describing variance decomposition analysis of VARs. Statement iii) is incorrect as the ordering of variables is important for both impulse responses and variance decompositions. Statement iv) is also incorrect as it is not usual for most of the forecast error variance for a given variable to be attributable to shocks to that variable.
+Answer: A. (ii) and (iv) only
+------------------------
+69. Reasoning: In order to produce a 10-day forecast of volatility for use in a value at risk model, it is essential to have an accurate, reliable, and robust forecast. The most valid way to calculate this forecast would involve producing 1, 2, 3, ..., 10 step ahead conditional variance forecasts and adding them up. This method takes into account the long-term dependencies and distributional characteristics of the data, leading to more accurate volatility forecasts over a 10-day horizon.
+
+Answer: A
+70. Reasoning: The correct answer should state that the fitted line will be horizontal with respect to all of the explanatory variables because when $R^2$ is zero, it indicates that the regression model does not explain any of the variability of the dependent variable about its mean value.
+
+Answer: A. (ii) and (iv) only
+71. ------------------------
+Reasoning: A white noise process will have a zero mean, constant variance, autocovariances that are constant, and autocovariances that are zero except at lag zero.
+Answer: D
+------------------------
+72. ------------------------
+Reasoning: The correct statements concerning the Box-Jenkins approach to diagnostic testing for ARMA models are (i), (ii), and (iii). These statements highlight the importance of checking for model adequacy, residual properties, and the absence of additional structure in the residuals to ensure the identified model is appropriate.
+Answer: C
+------------------------
+73. ------------------------
+Reasoning: The correct response to residual non-normality should involve addressing outliers, skewness, or heavy-tailed distributions in the data to mitigate the impact on the analysis results.
+Answer: D
+------------------------
+74. ------------------------
+Reasoning: The fixed effects panel model includes individual-specific intercepts to control for unobserved heterogeneity, includes time-invariant variables to account for individual-specific characteristics that do not change over time, and captures within-individual variation by controlling for individual-specific effects over time.
+Answer: B
+------------------------
+75. ------------------------
+Reasoning: OLS estimation minimizes the sum of the squares of the vertical distances from the points to the line, which is essential for finding the best-fitting line in regression analysis.
+Answer: B
+------------------------
+76. ------------------------
+Reasoning: The absence of structure in the data according to time-series analysis tools implies that the data is likely random or noisy, as no significant patterns or relationships can be detected. 
+Answer: B
+------------------------
+77. ------------------------
+Reasoning: $x_t$ and $y_t$ must both be stationary for cointegration to hold, only one linear combination of $x_t$ and $y_t$ will be stationary, and the cointegrating equation describes the short-run relationship between the two series. The residuals of a regression of $y_t$ on $x_t$ must also be stationary for cointegration. 
+Answer: D
+------------------------
+78. ------------------------
+Reasoning: A censored variable represents data that is partially observed due to limitations in measurement or observation techniques, and the values of the dependent variable are not observable outside a certain range but still rely on the corresponding values of the independent variables within that range.
+Answer: A
+------------------------
+79. ------------------------
+Reasoning: The Hausman test is used to determine whether the independent variables in a regression model are correlated with the error term, testing for endogeneity. This sets it apart from other statistical tests like the Wald test or Likelihood Ratio test. 
+Answer: A
+------------------------
+80. Reasoning: The dimensions of the error term $u$ in the classical linear regression model should be $n \times 1$, where $n$ is the number of observations, to capture the residuals or errors in the model.
+Answer: B
+81. ------------------------
+Reasoning: Each equation in a tri-variate VAR(4) model will have 4 lags and 3 variables, resulting in 12 parameters to be estimated per equation. Since there are 3 equations in total (one for each variable), the total number of parameters required to be estimated will be 12 * 3 = 36.
+Answer: D
+------------------------
+82. ------------------------
+Reasoning: The unrestricted residual sum of squares should be minimized to allow the model to freely estimate parameters and provide the best fit to the data in testing for structural stability.
+Answer: A
+------------------------
+83. ------------------------
+Reasoning: The likelihood ratio test statistic follows a chi-squared distribution with degrees of freedom equal to the difference in the number of parameters between the restricted and unrestricted models. In this case, since we are testing if a GARCH(2,2) model can be restricted to a process with a constant conditional variance, the degrees of freedom would be 2. Therefore, the correct statement is that the test statistic will follow a chi-squared distribution with 2 degrees of freedom under the null hypothesis.
+Answer: A
+------------------------
+84. ------------------------
+Reasoning: Using a longer run of data is not a plausible remedy for near multicollinearity as it does not address the issue of high correlation between independent variables. 
+Answer: C
+------------------------
+85. Reasoning: An AR(2) process involves two lagged values of the dependent variable, the coefficients 1.5 and -0.5 amplify and dampen the effects of previous values, the error term is a white noise process, and the process is stationary if the roots of the characteristic equation lie outside the unit circle.
+Answer: A. Stationary process
+86. ------------------------
+Reasoning: The Breusch-Godfrey test is specifically designed to test for autocorrelation up to a certain order, making it suitable for detecting autocorrelation up to third order in time series data.
+Answer: D
+------------------------
+87. ------------------------
+Reasoning: Residuals in a standard regression model are defined as the difference between the actual value, y, and the fitted value, y-hat. This is crucial for calculating the error in the model's prediction and assessing the model's accuracy.
+Answer: C
+------------------------
+88. ------------------------
+Reasoning: When OLS is applied separately to each equation within a simultaneous system, the resulting estimates will be consistent across equations, as each equation is estimated independently.
+Answer: A
+------------------------
+89. ------------------------
+Reasoning: Excluding a relevant variable from a linear regression model is not an example of mis-specification of functional form as it does not involve incorrectly specifying the relationship between the independent and dependent variables in a statistical model.
+Answer: D
+------------------------
+90. ------------------------
+Reasoning: A logistic regression model is most appropriate for evaluating factors that affect the probability of choosing an equity fund over a bond fund or cash investment, as it is suitable for binary outcomes and can identify key factors influencing the decision.
+Answer: A
+------------------------
+91. Reasoning: When the number of replications used in a Monte Carlo study is small, the results may not accurately represent the true population parameters due to limited sample size. This can lead to imprecise estimation of the statistic of interest and larger standard errors. Additionally, with a small number of replications, there is a higher chance of obtaining unrepresentative combinations of random draws, further affecting the accuracy of the results. However, variance reduction techniques can help mitigate these issues by improving the precision of the estimates and reducing the standard errors.
+Answer: C
+92. ------------------------
+Reasoning: The random effects approach assumes that the unobserved individual effects are uncorrelated with the observed independent variables, which can lead to biased and inconsistent estimates if this assumption is violated. This is a significant disadvantage of the random effects approach in estimating a panel model.
+Answer: A
+------------------------
+93. ------------------------
+Reasoning: Autocorrelated residuals can occur due to slowness of response of the dependent variable to changes in the values of the independent variables, over-reactions of the dependent variable to changes in the independent variables, and omission of relevant explanatory variables that are autocorrelated. Outliers in the data may not necessarily lead to autocorrelated residuals.
+Answer: C. (i), (ii), and (iii) only
+------------------------
+94. ------------------------
+Reasoning: The acf and pacf are often hard to interpret in practice and can be influenced by noise and outliers in the data, making it challenging to determine the true underlying patterns. The acf and pacf can be difficult to calculate for some data sets due to complex mathematical operations and assumptions about the data distribution.
+Answer: D
+------------------------
+95. ------------------------
+Reasoning: A weakly stationary process must have a constant mean, constant variance, and constant autocovariances for given lags. The series does not need to have a constant probability distribution. Therefore, the correct conditions are (ii) and (iii) only.
+Answer: A
+------------------------
+96. ------------------------
+Reasoning: The equation includes both fixed effects represented by $\mu_i$ and random effects represented by $\nu_{it}$, indicating a panel data model that accounts for individual-specific and time-specific effects.
+Answer: C
+------------------------
+97. ------------------------
+Reasoning: The Dickey-Fuller test statistic values should be more negative than those in the left-hand tail of a normal distribution to provide evidence against the null hypothesis of non-stationarity in time series data.
+Answer: A
+------------------------
+98. ------------------------
+Reasoning: The significance level is equal to the size of the test because they both represent the probability of making a Type I error.
+Answer: B
+------------------------
+99. ------------------------
+Reasoning: The Engle-Yoo (EY) procedure addresses the issue of spurious regression results by overcoming endogeneity in cointegration analysis.
+Answer: D
+------------------------
+100. ------------------------
+Reasoning: The autocovariance at lag 1 for an MA(1) process with a moving average coefficient of 0.4 is equal to the moving average coefficient, which is 0.4.
+Answer: A
+------------------------
+101. ------------------------
+Reasoning: OLS is a widely used estimation technique that can be applied to over-identified systems of simultaneous equations. IV is specifically designed to address endogeneity issues in such systems. Therefore, the correct estimation techniques for over-identified systems are 2SLS and IV.
+Answer: B. (iii) and (iv) only
+------------------------
+102. ------------------------
+Reasoning: Describes the situation where the null hypothesis is not rejected when it is actually false because the sample data does not provide enough evidence to do so.
+Answer: D
+------------------------
+103. ------------------------
+Reasoning: A 95% confidence interval would require a wider range to capture the true parameter value with more certainty. Among the given options, (-1.98,1.98) provides the narrowest range, making it the most appropriate choice.
+Answer: C
+------------------------
+104. ------------------------
+Reasoning: A stationary process has a constant mean and variance, contains no trend component, and will be stationary in first difference form. It does not cross its mean value frequently. Therefore, the correct characteristics are (ii) and (iv) only.
+Answer: A
+------------------------
+105. ------------------------
+Reasoning: Bi-directional feedback in a VAR model implies that the coefficients of the lagged variables should be statistically significant in both directions, indicating a mutual relationship where changes in one variable affect the other and vice versa.
+Answer: D
+------------------------
+106. ------------------------
+Reasoning: The coefficient with a value less than -0.1 is statistically significant at the 5% level in autocorrelation analysis.
+Answer: B
+------------------------
+107. ------------------------
+Reasoning: The goodness of fit statistic is used to measure how well the observed data fits the model, providing a numerical value to assess the model's validity. It compares the observed data to the expected values based on the model, determining the level of agreement between them.
+Answer: A
+------------------------
+108. Reasoning: Among the given statements, only statement iii) accurately describes the process of using the negative of each of the random draws in antithetic variates. This process helps in reducing variance and improving the efficiency of Monte Carlo simulations.
+Answer: B
+109. ------------------------
+Reasoning: Mean squared error penalizes large forecast errors disproportionately more than small forecast errors, making it a useful measure for evaluating forecast accuracy.
+Answer: D
+------------------------
+110. ------------------------
+Reasoning: EGARCH models can address the criticisms of standard GARCH models by allowing for asymmetric responses to positive and negative shocks, which helps overcome the limitations related to leverage effects and negative coefficient values.
+Answer: A. (ii) and (iv) only
+------------------------
+111. ------------------------
+Reasoning: When considering the criteria used to define "beating the market" in the Jensen-type regression analysis, the clarity, consistency, and relevance to market efficiency are crucial. If the criteria are clear, consistent, and relevant to market efficiency, then the findings of 3 out of 100 firms beating the market may indeed suggest prima facie evidence for stock market inefficiency.
+Answer: A
+------------------------
+112. ------------------------
+Reasoning: The advantages of the use of panel data over pure cross-sectional or pure time-series modeling lie in its ability to capture variations in the dependent variable across both cross-sectional and time dimensions, providing a more robust and comprehensive analysis.
+Answer: D
+------------------------
+113. ------------------------
+Reasoning: The null hypothesis in the Engle-Granger test applied to the residuals of a potentially cointegrating regression is that there is no cointegration between the variables being tested, as the test is used to determine if a long-term relationship exists between the variables.
+Answer: B
+------------------------
+114. Reasoning: The acf and pacf are different concepts, so statement i is false. The pacf for an MA(q) model will be non-zero beyond lag q, making statement ii true. The pacf for an AR(p) model will be zero beyond lag p, making statement iii true. The acf and pacf will be the same at lag two for an MA(1) model, making statement iv true.
+Answer: D. (i), (ii), (iii), and (iv)

@@ -1,0 +1,1220 @@
+1. ------------------------
+Reasoning: Foods that are not traditionally grown or produced in Wales and Scotland are likely to be consumed in lower quantities due to the focus on traditional dishes made with locally sourced ingredients.
+Answer: C
+------------------------
+2. ------------------------
+Reasoning: An increase in the population in which the disease is measured would lead to a higher number of individuals affected by the disease, thus increasing the prevalence in the population.
+Answer: D
+------------------------
+3. ------------------------
+Reasoning: The statement "The flavonoid class comprises flavonoids and isoflavonoids" is accurate and directly related to the topic of flavonoids and isoflavonoids.
+Answer: A
+------------------------
+4. ------------------------
+Reasoning: Emphasis on increased availability of processed and high-calorie foods, influence of marketing strategies promoting unhealthy products, and prevalence of sedentary lifestyles in modern society are major contributors to the obesity epidemic.
+Answer: A
+------------------------
+5. ------------------------
+Reasoning: Vitamin E is a major lipid-soluble antioxidant that protects cell membranes from oxidative damage and can dissolve in lipids, making it essential for this function.
+Answer: C
+------------------------
+6. ------------------------
+Reasoning: Reduced secretion of intrinsic factor and atrophic gastritis are both age-related changes in the digestive system that can affect the absorption of vitamin B12 in older adults. These factors contribute to the deficiency by reducing the body's ability to absorb the vitamin. Helicobacter pylori infection, while a gastrointestinal issue, does not directly impact vitamin B12 absorption. Therefore, options A and B are correct, making option D ("All of the above") the correct answer.
+Answer: D
+------------------------
+7. ------------------------
+Reasoning: Estrogen is known to play a key role in the development of endometrial cancer in obese individuals, as obesity is associated with higher levels of estrogen. 
+Answer: B
+------------------------
+8. ------------------------
+Reasoning: Vitamin D is essential for the absorption of calcium in the small intestine as it helps regulate the levels of calcium and promotes the production of proteins involved in calcium absorption.
+Answer: B
+------------------------
+9. Reasoning: Amino acids are essential for protein synthesis and serve as precursors for various molecules in the body. Essential amino acids cannot be synthesized by the body and must be obtained from the diet.
+
+Answer: B
+10. ------------------------
+Reasoning: The amino acid requirements determined for adults are assumed to be the requirements for maintenance for all ages, which is a crucial factor in determining the daily amino acid needs for proper bodily functions and overall health.
+Answer: B
+------------------------
+11. ------------------------
+Reasoning: The correct answer should be based on rigorous testing in controlled studies involving both animals and humans, including long-term studies to assess potential health risks. This ensures that the food additive has been thoroughly evaluated for safety.
+Answer: A
+------------------------
+12. ------------------------
+Reasoning: Childhood stunting before 24 months of age has been shown to affect long term cognitive performance based on reliable sources and research.
+Answer: B
+------------------------
+13. ------------------------
+Reasoning: Women play a central role as producers of food, managers of natural resources, income earners, and caretakers of household nutrition. This aligns with the importance of women's empowerment, their roles in agriculture, and the challenges they face in accessing resources and making decisions related to food security. 
+Answer: B
+------------------------
+14. ------------------------
+Reasoning: The essential amino acids that must be obtained through the diet and play crucial roles in various bodily functions are leucine, methionine, and threonine.
+Answer: A
+------------------------
+15. ------------------------
+Reasoning: The correct answer should mention the key enzymes involved in fat digestion and absorption, such as lipase and bile salts, as they play a crucial role in breaking down fats.
+Answer: D
+------------------------
+16. ------------------------
+Reasoning: Omega-3 fatty acids, such as EPA and DHA, have been extensively studied and shown to have numerous cardiovascular benefits, including reducing the risk of cardiovascular mortality. They have anti-inflammatory and anti-arrhythmic properties that contribute to their positive effects on heart health.
+Answer: B
+------------------------
+17. ------------------------
+Reasoning: Crohn's disease is characterized by inflammation of the digestive tract, leading to symptoms such as abdominal pain, diarrhea, weight loss, fatigue, and sometimes blood in the stool. These symptoms are commonly seen in patients with Crohn's disease and are key indicators for diagnosis.
+Answer: B
+------------------------
+18. ------------------------
+Reasoning: Osteoporosis is defined as a bone density lower than 2.5 standard deviations below the average for age-matched controls, which is a common diagnostic criterion used in North America and Western Europe. Dual-energy X-ray absorptiometry (DXA) scans are typically utilized to measure bone mineral density (BMD) at the hip and spine, making this the correct answer.
+Answer: D
+------------------------
+19. ------------------------
+Reasoning: Considering the characteristics of a rapid nutrition transition such as significant increase in consumption of processed foods, high prevalence of obesity and diet-related non-communicable diseases, and rapid urbanization, the country that aligns with these factors is India.
+Answer: D
+------------------------
+20. ------------------------
+Reasoning: Acute binge drinking is associated with immediate intoxication, impaired judgment, increased heart rate, dehydration, and potential alcohol poisoning, which aligns with the characteristics of "Holiday heart syndrome."
+Answer: D
+------------------------
+21. ------------------------
+Reasoning: Serum ferritin and transferrin receptors provide a more accurate and direct measure of iron stores in the body, unlike blood haemoglobin levels which can be influenced by factors such as inflammation or hydration status.
+Answer: B
+------------------------
+22. ------------------------
+Reasoning: The stable isotope commonly given for the measurement of total body water should be non-radioactive, have a long half-life, and be easily detectable in biological samples. Additionally, it should be commonly administered orally or intravenously for accurate measurement of total body water distribution throughout the body. Stable isotopes are preferred in medical research due to their safety for human consumption and ability to provide accurate results without posing health risks. Based on these characteristics, the correct answer is A. Deuterium.
+Answer: A
+------------------------
+23. ------------------------
+Reasoning: The focus areas of nutritional epidemiology involve studying the role of nutritional factors in causing disease in a population and how changes in food intake can promote good health. These aspects are crucial in understanding the relationship between diet and health outcomes, which is a key objective of nutritional epidemiology research.
+Answer: C
+------------------------
+24. ------------------------
+Reasoning: The correct answer should be compounds that are known to directly influence gene expression through epigenetic mechanisms, which involve changes in gene expression without altering the underlying DNA sequence. This can impact human health and disease risk.
+Answer: D. All of the options given are correct
+------------------------
+25. ------------------------
+Reasoning: An increased appetite is not a common occurrence with increasing age, unlike the other options which typically happen as individuals get older.
+Answer: C
+------------------------
+26. ------------------------
+Reasoning: Vitamin K is essential for the synthesis of proteins such as prothrombin and factors VII, IX, and X, which are crucial for the blood clotting process.
+Answer: D
+------------------------
+27. ------------------------
+Reasoning: Liver glycogen, muscle glycogen, and intramuscular lipid are important endogenous substrate sources in the body, but adipose tissue is the largest source due to its high storage capacity and ability to be mobilized when needed for energy production.
+Answer: D
+------------------------
+28. ------------------------
+Reasoning: Transamination involves the transfer of an amino group from an amino acid to a keto acid, leading to the formation of a new amino acid. Enzymes like aminotransferases are crucial for catalyzing this process. Therefore, the correct statement concerning transamination should mention the specific enzyme involved in the process.
+Answer: D
+------------------------
+29. ------------------------
+Reasoning: Food security is not just about having enough food, but also about having access to it, ensuring it is available, being able to utilize it effectively, and maintaining stability in its supply. The key components of food security include availability, utilization, and stability, as well as access.
+Answer: C
+------------------------
+30. ------------------------
+Reasoning: The complexity of the mechanisms regulating the absorption of cholesterol and its export in lipoproteins, along with the presence of multiple variables such as genetics, overall diet, lifestyle factors, and individual response variability, can lead to inconclusive evidence when trying to establish a direct cause-and-effect relationship between dietary cholesterol intake and plasma LDL cholesterol levels.
+Answer: A
+------------------------
+31. ------------------------
+Reasoning: The amino acid score is calculated by comparing the amino acid pattern of the protein to that of egg protein, which accurately assesses the essential amino acid content, making it a correct statement for predicting protein quality in human nutrition.
+Answer: A
+------------------------
+32. ------------------------
+Reasoning: The most likely cause of the student's abdominal cramps and diarrhea after drinking milk is lactose intolerance, given his background as a recent arrival from Sudan, where individuals are more likely to be lactose intolerant due to genetic factors.
+Answer: C
+------------------------
+33. ------------------------
+Reasoning: Urea is the main nitrogenous compound in urine, produced in the liver as a result of protein metabolism and excreted in urine.
+Answer: C
+------------------------
+34. ------------------------
+Reasoning: The 'hygiene hypothesis' suggests that reduced exposure to pathogens due to improved hygiene can lead to an imbalance in the immune system, making individuals more susceptible to developing allergies. Living on a working farm is associated with increased exposure to a variety of microbes, which can help in immune system development and reduce the risk of developing atopic diseases, aligning with the hypothesis.
+Answer: B
+------------------------
+35. ------------------------
+Reasoning: Infections or inflammatory states can lead to fluctuations in the levels of biochemical indices of micronutrient status in the body, altering the accuracy of laboratory assays in samples from sick individuals.
+Answer: B
+------------------------
+36. ------------------------
+Reasoning: Plant-based sources of vitamin B12 are limited and not as bioavailable as animal-based sources, leading to a higher likelihood of deficiency among vegans. Factors such as longer duration of veganism, older age, and female gender also contribute to the risk of deficiency.
+Answer: C
+------------------------
+37. ------------------------
+Reasoning: Factors like smoking, excessive alcohol consumption, and poor diet have been scientifically proven to increase the risk of oesophageal cancer. Alcohol can irritate the oesophagus lining, while processed meat and salt are part of a poor diet that contributes to the risk. 
+Answer: D
+------------------------
+38. ------------------------
+Reasoning: The statement that accurately reflects the requirement for dietary protein is that the requirement is for individual amino acids, not simply the total amount of protein in the diet. This is crucial as proteins are broken down into amino acids during digestion, which are then used by the body for various functions.
+Answer: B
+------------------------
+39. ------------------------
+Reasoning: Higher dietary sodium intake is generally associated with negative health effects, increased risk of high blood pressure, and potential impact on cardiovascular health due to fluid retention, increased blood volume, and ultimately high blood pressure.
+Answer: D
+------------------------
+40. ------------------------
+Reasoning: Vitamin B6 is essential for the metabolism of amino acids, the synthesis of neurotransmitters, and the production of hemoglobin, which are crucial functions in the human body.
+Answer: B
+------------------------
+41. ------------------------
+Reasoning: The statement "There is increasing concern about the importance of adequate nutrition in the pre-conception period to support a successful pregnancy" highlights the significance of nutrition in preparing the body for pregnancy and ensuring positive outcomes. Options A, B, and C all contribute to the reasons why adequate nutrition in the pre-conception period is crucial for a successful pregnancy. Therefore, the correct answer is D, as all of the options given are true.
+Answer: D
+------------------------
+42. ------------------------
+Reasoning: Vitamin E forms a stable radical that can be reduced back to active vitamin E by reaction with glutathione and glutathione peroxidase, which is a crucial mechanism in neutralizing free radicals and protecting cells from oxidative damage.
+Answer: D
+------------------------
+43. ------------------------
+Reasoning: Consumption of salt and salt-preserved foods, such as pickled foods, has been linked to an increased risk of stomach cancer due to the potential harmful compounds and inflammation they can cause in the stomach lining.
+Answer: C
+------------------------
+44. ------------------------
+Reasoning: The main enzyme systems for catalyzing ethanol to acetaldehyde are alcohol dehydrogenase (ADH) and aldehyde dehydrogenase (ALDH). ADH is specifically responsible for converting ethanol to acetaldehyde, which is crucial in the biochemical pathway of ethanol metabolism.
+Answer: A
+------------------------
+45. ------------------------
+Reasoning: Metabolic processes constantly adjust energy intake and expenditure on a day-to-day basis to maintain energy balance in equilibrium.
+Answer: A
+------------------------
+46. ------------------------
+Reasoning: Fatty acid ß-oxidation is a crucial process for energy production in the body, and any statement suggesting otherwise would be incorrect.
+Answer: A
+------------------------
+47. ------------------------
+Reasoning: The approximate percentage of lactase non-persisters worldwide is around 65-75% due to specific genetic variants that result in decreased lactase production after weaning.
+Answer: B
+------------------------
+48. ------------------------
+Reasoning: Biotin is known to provide the coenzyme necessary for carboxylation reactions.
+Answer: A
+------------------------
+49. ------------------------
+Reasoning: Evidence-based recommendations for diabetes prevention in high-risk individuals include regular physical activity, a healthy diet, weight management, and avoiding tobacco use. Losing 5-7% of body weight through a hypocaloric low-fat diet and 30 minutes of daily activity align with these recommendations.
+Answer: C
+------------------------
+50. ------------------------
+Reasoning: IBS is a complex condition with symptoms including constipation, which is why option C, "May be associated with constipation," aligns with the common symptoms of IBS.
+Answer: C
+------------------------
+51. ------------------------
+Reasoning: TMAO has been shown to increase cardiovascular disease risk, making it the metabolite produced by gut microbes when metabolizing L-carnitine.
+Answer: C
+------------------------
+52. ------------------------
+Reasoning: Sulfur dioxide is known to cause destruction of thiamin, so the correct statement would be that it is not used in foods containing thiamin.
+Answer: A
+------------------------
+53. ------------------------
+Reasoning: Eosinophilic oesophagitis is a condition that can lead to oesophageal obstruction due to chronic inflammation and scarring of the esophagus.
+Answer: B
+------------------------
+54. ------------------------
+Reasoning: Vitamin B5 (Pantothenic Acid) is specifically required for fatty acid beta-oxidation as it is a component of coenzyme A, necessary for the breakdown of fatty acids into acetyl-CoA.
+Answer: B
+------------------------
+55. ------------------------
+Reasoning: Children who are obese should reduce their total energy intake, increase their activity level, and reduce their screen time to address obesity-related health risks and promote healthy habits.
+Answer: C
+------------------------
+56. ------------------------
+Reasoning: Lack of scientific evidence supporting its effectiveness in treating BED.
+Answer: D
+------------------------
+57. ------------------------
+Reasoning: Biotin is involved in carboxylation reactions, such as the conversion of pyruvate to oxaloacetate, which is essential for various metabolic processes.
+Answer: C
+------------------------
+58. ------------------------
+Reasoning: Iron is bound to transferrin in the circulation because transferrin is the main iron-binding protein in the blood and is responsible for transporting iron to various tissues and cells in the body.
+Answer: D
+------------------------
+59. ------------------------
+Reasoning: The safety of substances like pesticide chemicals, substances migrating from food packaging, and color additives must be demonstrated prior to their introduction into food due to potential health risks and unknown effects on human consumption.
+Answer: D
+------------------------
+60. ------------------------
+Reasoning: The presence of folds, villi, and microvilli on the surface of enterocytes magnifies the absorptive area by increasing the surface area available for absorption.
+Answer: D
+------------------------
+61. ------------------------
+Reasoning: Symptoms such as severe atopic dermatitis, enterocolitis, and diarrhea are common signs of cow's milk allergy/intolerance in infants and children. Therefore, the correct answer is D, all of the above.
+Answer: D
+------------------------
+62. ------------------------
+Reasoning: High intake of saturated fats and sugars can lead to inflammation and oxidative stress in the brain, impairing brain function and contributing to conditions like dementia and Alzheimer's disease.
+Answer: D
+------------------------
+63. ------------------------
+Reasoning: Smoking can suppress milk production, alter the composition of breast milk, and increase the risk of early cessation of breastfeeding, all of which can have negative effects on the infant's health and development.
+Answer: D
+------------------------
+64. ------------------------
+Reasoning: The correct statement about the global ageing population should accurately reflect the increasing average age of the population, the rising life expectancy worldwide, and the implications on healthcare and social systems.
+Answer: A
+------------------------
+65. ------------------------
+Reasoning: As people age, they tend to experience a decrease in muscle mass, an increase in body fat, and a decrease in bone density. These changes in body composition are associated with ageing in older adults.
+Answer: C
+------------------------
+66. ------------------------
+Reasoning: Meat and meat products such as beef, lamb, and pork, along with dairy products like cheese and milk, have been staples in British diets for centuries and are known to be rich sources of protein.
+Answer: C
+------------------------
+67. ------------------------
+Reasoning: Leptin resistance is a condition where the body becomes less responsive to the hormone leptin, leading to increased appetite, reduced energy expenditure, and difficulty in regulating body weight. This aligns with option C, which states high concentrations of leptin without reduction in energy intake.
+Answer: C
+------------------------
+68. ------------------------
+Reasoning: The two most common causes of foodborne illness in the United States and Europe are Salmonella and Campylobacter, making option A the correct answer.
+Answer: A
+------------------------
+69. ------------------------
+Reasoning: Bariatric surgery has been shown to significantly reduce the incidence of type 2 diabetes in obese individuals, with a typical reduction rate of around 80-90%.
+Answer: A
+------------------------
+70. ------------------------
+Reasoning: The disadvantages of identifying under-reporting of usual intake using the doubly labelled water technique include potential inaccuracies in measuring energy expenditure, reliance on assumptions for calculating energy intake, and high cost and complexity of the technique. These factors impact the accuracy and reliability of the results obtained.
+Answer: D
+------------------------
+71. ------------------------
+Reasoning: The deficiency of aldehyde dehydrogenase (ALDH) enzyme is responsible for metabolizing alcohol, leading to the accumulation of acetaldehyde and causing facial flushing in East Asians. Therefore, the correct answer is related to alcohol metabolism.
+Answer: B
+------------------------
+72. ------------------------
+Reasoning: Cows' milk does not contain added sugars or natural sugars that are not bound within the cellular structure of the food, making it free of free sugars.
+Answer: A
+------------------------
+73. ------------------------
+Reasoning: Acrodermatitis enteropathica is an inborn error of metabolism that leads to zinc deficiency due to impaired absorption or utilization of zinc.
+Answer: A
+------------------------
+74. ------------------------
+Reasoning: Ulcerative colitis is associated with symptoms such as abdominal pain, diarrhea, rectal bleeding, weight loss, and fatigue. It can lead to complications like colon cancer. Therefore, the correct answer is A. Carries a risk of colonic cancer.
+Answer: A
+------------------------
+75. ------------------------
+Reasoning: Type IIb muscle fibers are known for their fast contractile speed, low oxidative capacity, and high motor unit strength. Therefore, the characteristic not representative of a type IIb muscle fiber would be high oxidative capacity.
+Answer: C
+------------------------
+76. ------------------------
+Reasoning: The statement "Dairy products are a rich source of tryptophan" is not true because dairy products are not particularly rich in tryptophan compared to other sources like turkey, chicken, nuts, and seeds.
+Answer: D
+------------------------
+77. ------------------------
+Reasoning: Intestinal failure can result from conditions like short bowel syndrome, intestinal ischemia, inflammatory bowel disease, and congenital defects, leading to the inability of the intestines to absorb nutrients properly.
+Answer: B
+------------------------
+78. ------------------------
+Reasoning: Mycotoxins are toxins produced by fungi, not bacteria. The correct statement should mention fungi, not bacteria.
+Answer: D
+------------------------
+79. ------------------------
+Reasoning: Dairy products such as milk, cheese, and yogurt are rich sources of dietary calcium, as well as green leafy vegetables, nuts, and fortified foods, contributing significantly to meeting daily calcium requirements.
+Answer: C
+------------------------
+80. ------------------------
+Reasoning: Sucrose is a fermentable carbohydrate that oral bacteria utilize to synthesize extracellular glucans like dextran and mutan.
+Answer: C
+------------------------
+81. ------------------------
+Reasoning: From a medical perspective, overweight is typically defined as having a BMI between 25 to 29.9 kg/m2.
+Answer: C
+------------------------
+82. ------------------------
+Reasoning: Pregnancy and lactation increase the need for certain nutrients like calcium to support the growth and development of the fetus, therefore decreasing calcium requirements is incorrect. Bone mineral loss from the skeleton is not a desired outcome during pregnancy and lactation, making option B incorrect. Decreasing the rate of dietary calcium absorption would not be beneficial during these periods where increased nutrient intake is necessary, so option C is incorrect. Pregnancy and lactation can affect bone mineral content later in life due to the demands placed on the body during these periods, making option D the correct answer.
+Answer: D
+------------------------
+83. ------------------------
+Reasoning: Observational epidemiology studies can only show associations, not causation, and are subject to biases and confounding variables, making it difficult to know if observed effects are caused by the contaminant.
+Answer: A
+------------------------
+84. ------------------------
+Reasoning: Evidence-based therapies such as cognitive-behavioral therapy (CBT) are recommended for the treatment of Bulimia Nervosa. Medications like Fluoxetine may be considered as an adjunct to therapy, but they are not the first-line treatment. Discussing body image and weight are important aspects of therapy. Treatments should target both purging practices and other aspects of the disorder.
+Answer: A
+------------------------
+85. ------------------------
+Reasoning: The respiration quotient (RQ) is defined as the ratio of VO2 divided by VCO2, making option A the correct answer.
+Answer: A
+------------------------
+86. ------------------------
+Reasoning: Nitrites are added to processed meats to prevent the growth of Clostridium botulinum, which can cause botulism in humans if consumed in contaminated food products.
+Answer: B
+------------------------
+87. ------------------------
+Reasoning: The biggest effects on DNA methylation in blood cells from the adult offspring were observed when exposure occurred during the first trimester of pregnancy, as this is a critical period of fetal development where epigenetic changes can have long-lasting effects on gene expression.
+Answer: A
+------------------------
+88. ------------------------
+Reasoning: The body's adjustment of heat production to changes in nutrition levels to maintain energy balance is known as adaptive thermogenesis.
+Answer: C
+------------------------
+89. ------------------------
+Reasoning: Orlistat is approved for the treatment of obesity in Europe by the European Medicines Agency (EMA) and meets safety and efficacy standards for this indication.
+Answer: A
+------------------------
+90. ------------------------
+Reasoning: Older adults need a balanced intake of protein, complex carbohydrates, and healthy fats for muscle maintenance, sustained energy, and brain health. Easily digestible, nutrient-dense foods with adequate protein and fiber content are essential due to changes in absorption and metabolism as individuals age.
+Answer: B
+------------------------
+91. ------------------------
+Reasoning: The measurement of vitamin C's biochemical status index is crucial for assessing nutritional status and potential deficiencies accurately and reliably. 
+Answer: C
+------------------------
+92. ------------------------
+Reasoning: The correct answer should mention the products of protein digestion being absorbed as free amino acids or di- or tripeptides, which aligns with the key enzymes involved in protein digestion and absorption.
+Answer: A
+------------------------
+93. ------------------------
+Reasoning: The density of fat free mass is higher than that of fat mass because it is composed of denser tissues such as muscle, bone, and organs, contributing to overall health and athletic performance.
+Answer: C
+------------------------
+94. ------------------------
+Reasoning: The population at risk in an epidemiological context refers to the group of people that may experience the outcome we want to study. This definition aligns with the idea of individuals who share common risk factors or vulnerabilities that increase their likelihood of being affected by the disease or health issue being studied.
+Answer: B
+------------------------
+95. ------------------------
+Reasoning: The correct answer should address the negative impacts of climate change on food security in developing countries due to increased frequency of droughts, storms, and floods, which aligns with the information provided.
+Answer: A
+------------------------
+96. ------------------------
+Reasoning: BMI does not distinguish between fat and fat-free mass, as it is solely based on weight and height measurements.
+Answer: C
+------------------------
+97. ------------------------
+Reasoning: Vitamin C is essential for the hydroxylation of proline and lysine residues in collagen synthesis, making it a crucial cofactor for this process.
+Answer: D
+------------------------
+98. ------------------------
+Reasoning: Endurance exercise training typically leads to increased glycogen storage in muscles and improved ability to oxidize fatty acids for energy due to enhanced mitochondrial function. Therefore, the correct answer is increasing intramuscular lipid use during exercise.
+Answer: D
+------------------------
+99. ------------------------
+Reasoning: Vitamins B12, D, and omega-3 fatty acids are primarily found in animal products and may be challenging to obtain in sufficient amounts from plant-based sources, making them likely to be lacking in a vegan diet.
+Answer: C
+------------------------
+100. ------------------------
+Reasoning: Eating a meal, especially one containing carbohydrates like toast and egg, will lead to an increase in blood glucose levels due to the digestion and absorption of these carbohydrates.
+Answer: B
+------------------------
+101. ------------------------
+Reasoning: Adolescence is characterized by increased impulsivity, sensation-seeking behavior, and underdeveloped prefrontal cortex, leading to poor judgment and risk assessment. Brain growth is not faster than any other stage in life, peak bone mass occurs after the growth spurt ends, and girls physiologically increase their percentage body fat during this stage.
+Answer: A
+------------------------
+102. ------------------------
+Reasoning: The selenium in the 25 human selenoproteins is found in the form of selenocysteine, which is the unique amino acid essential for their function.
+Answer: B
+------------------------
+103. ------------------------
+Reasoning: Based on the characteristics mentioned in the information provided, the food commodity that aligns with being high in protein content, versatile in culinary applications, and having a long shelf life is Meat and Dairy products.
+Answer: D
+------------------------
+104. ------------------------
+Reasoning: The presence of food in the stomach triggers the release of hormones that stimulate intestinal motility, leading to an increase in movement to facilitate digestion and absorption of nutrients.
+Answer: B
+------------------------
+105. ------------------------
+Reasoning: Implementing multiple methods of data collection to cross-validate dietary intake reports helps in reducing information bias by providing a more accurate picture of an individual's dietary habits.
+Answer: A
+------------------------
+106. ------------------------
+Reasoning: A subjective component of lack of control and an objective component of large consumption of food in a discrete period of time align with the psychological triggers and emotional states associated with binge eating episodes.
+Answer: C
+------------------------
+107. ------------------------
+Reasoning: Parental anxiety is not typically associated with an increased risk of developing Eating Disorders, unlike perfectionism traits, female gender, and dieting during adolescence which are commonly linked to higher risk. 
+Answer: D
+------------------------
+108. ------------------------
+Reasoning: Glucose absorption is indeed associated with sodium uptake, which is a crucial mechanism for absorption in the GI tract. This relationship helps facilitate the absorption of glucose into the bloodstream efficiently.
+Answer: A
+------------------------
+109. ------------------------
+Reasoning: Unsaturated fatty acids, particularly omega-3 fatty acids, have been shown to have a beneficial effect on plasma LDL cholesterol levels by lowering LDL cholesterol and improving overall heart health.
+Answer: A
+------------------------
+110. ------------------------
+Reasoning: The function of being a lipid-soluble antioxidant in cell membranes is not typically associated with vitamin D, which is primarily known for its roles in calcium absorption, bone health, and supporting immune function.
+Answer: A
+------------------------
+111. ------------------------
+Reasoning: Ethanol is a type of alcohol that contains 7 calories per gram, making it a high-calorie substance due to its chemical structure that allows it to be metabolized for energy.
+Answer: C
+------------------------
+112. ------------------------
+Reasoning: The correct answer should be related to how the colonic microbiome can be changed or influenced for health benefits. Consumption of oligo-saccharides has been shown to positively impact the colonic microbiome by promoting the growth of beneficial bacteria and improving overall gut health.
+Answer: D
+------------------------
+113. ------------------------
+Reasoning: Leucine is a ketogenic amino acid that can be converted into acetyl-CoA or acetoacetate, which cannot be used as a substrate for gluconeogenesis. Therefore, it cannot provide a substrate for gluconeogenesis.
+Answer: A
+------------------------
+114. ------------------------
+Reasoning: Consuming high amounts of carbohydrates is essential for providing the necessary energy for prolonged endurance exercise. Carbohydrates are the body's preferred source of fuel during exercise, especially during endurance activities. Therefore, reducing carbohydrate intake or increasing fat intake would not be beneficial for improving performance during prolonged endurance exercise.
+Answer: C
+------------------------
+115. ------------------------
+Reasoning: Dual-energy X-ray absorptiometry (DXA) and Bioelectrical Impedance Analysis (BIA) are known to be more accurate in measuring body mineral content compared to other methods. They provide precise measurements and are specifically designed to assess mineral content in the body.
+Answer: B
+------------------------
+116. ------------------------
+Reasoning: Older age, female gender, Caucasian or Asian ethnicity are associated with a higher risk of osteoporotic fractures. Poor muscle strength is a risk factor for osteoporotic fractures.
+Answer: D
+------------------------
+117. ------------------------
+Reasoning: Fruits and vegetables are high in vitamins, minerals, and antioxidants essential for overall health, reducing the risk of chronic diseases. Consuming a variety of fruits and vegetables ensures a wide range of essential nutrients.
+Answer: B
+------------------------
+118. ------------------------
+Reasoning: The five main series of apoproteins are crucial components involved in lipid metabolism, transport of lipids, formation of lipoproteins, cholesterol homeostasis, and cell signaling pathways. Among the options provided, only A. apoA, apoB, apoC, apoD, and apoE include the correct series of apoproteins.
+Answer: A
+------------------------
+119. ------------------------
+Reasoning: The complete oxidation of glucose to carbon dioxide and water results in the production of 32 ATP molecules. This process involves glycolysis, the citric acid cycle, and oxidative phosphorylation, which collectively yield a total of 32 ATP molecules.
+Answer: D
+------------------------
+120. ------------------------
+Reasoning: Nutrients may pose health risks when intakes exceed established ULs (Upper Levels), as exceeding these levels can lead to adverse health effects.
+Answer: A
+------------------------
+121. ------------------------
+Reasoning: The Atherogenic Lipoprotein Phenotype (ALP) is characterized by elevated levels of small, dense LDL particles, decreased levels of HDL cholesterol, and increased levels of triglyceride-rich lipoproteins, which are known to contribute to cardiovascular disease.
+Answer: A
+------------------------
+122. ------------------------
+Reasoning: The microbiota in the colon plays a crucial role in maintaining gut health by interacting with the host in a symbiotic relationship, aiding in digestion and nutrient absorption, contributing to immune system function, and preventing the overgrowth of harmful bacteria. The statement "The establishment of an 'acetate buffer' in the colonic lumen suppresses the growth of some pathogenic bacteria" aligns with the functions of the microbiota in preventing the growth of harmful bacteria, making it the correct answer.
+Answer: D
+------------------------
+123. ------------------------
+Reasoning: The correct statement about glucose metabolism should involve glycolysis, which is the process where glucose is cleaved into two three-carbon products. This is a fundamental step in glucose metabolism.
+Answer: C
+------------------------
+124. ------------------------
+Reasoning: Potassium has been shown to improve hypertension in humans based on scientific research and studies linking its consumption to reduced blood pressure levels.
+Answer: A
+------------------------
+125. ------------------------
+Reasoning: Fats normally contain triacylglycerols at concentrations of 75-95%.
+Answer: A
+------------------------
+126. ------------------------
+Reasoning: The correct statement about protein structure should involve the sequence of amino acids, secondary structures like alpha helices and beta sheets, and the tertiary structure formed by interactions between amino acid side chains. Option A accurately describes the sequence of amino acids in a protein, which is its primary structure.
+Answer: A
+------------------------
+127. ------------------------
+Reasoning: When considering exposures in terms of health and safety impacts, the statement that "'Exposure' refers to contact with some factor that may be harmful or beneficial to health" aligns with the potential risks associated with exposures and the importance of minimizing exposure levels to protect health and safety.
+Answer: A
+------------------------
+128. ------------------------
+Reasoning: The test that checks mean plasma glucose concentration over the previous 8-10 weeks is specific to measuring glucose levels over an extended period of time, providing a more accurate representation of long-term glucose control. Among the options provided, Hemoglobin A1c fits this criteria as it reflects average blood sugar levels over the past 2-3 months.
+Answer: A
+------------------------
+129. ------------------------
+Reasoning: The correct answer should have low energy expenditure per unit of body mass, and the kidneys are relatively small organs compared to others in the body, requiring less energy for their functions.
+Answer: B
+------------------------
+130. ------------------------
+Reasoning: GM foods have the potential to increase crop yields, resist pests and diseases, and contribute to sustainable agriculture practices, making them a valuable tool to address global food security and climate change.
+Answer: B
+------------------------
+131. ------------------------
+Reasoning: Flavonoids (polyphenols), including isoflavones (phytoestrogens), inositol phosphates (phytates), lignans (phytoestrogens), isothiocyanates, indoles, phenols, sulphides, and thiols all have antioxidant properties, helping to protect cells from free radical damage.
+Answer: B
+------------------------
+132. ------------------------
+Reasoning: Vitamin D is primarily synthesized in the skin through exposure to sunlight, so factors that limit sunlight exposure like long winters or regions with limited sunlight exposure can lead to an increase in vitamin D deficiency.
+Answer: C
+------------------------
+133. ------------------------
+Reasoning: The 'mad cows disease' outbreak has significantly impacted food choices due to concerns about safety and health risks associated with beef consumption. This has led to a decrease in beef consumption among consumers.
+Answer: A
+------------------------
+134. ------------------------
+Reasoning: The definition of glycaemic index is a measure of how quickly a carbohydrate-containing food raises blood glucose levels compared to a reference food, typically pure glucose. This definition aligns with the scientific perspective on glycaemic index.
+Answer: B
+------------------------
+135. ------------------------
+Reasoning: IUGR is specifically defined as impaired foetal growth, which is distinct from low birth weight (LBW), very low birth weight (VLBW), and pre-term birth. The correct definition of IUGR is birth weight below a population threshold for gestational age, making option C the most accurate statement.
+Answer: C
+------------------------
+136. ------------------------
+Reasoning: The statement that best aligns with the characteristics of dietary fiber and its health benefits is that "Stool bulking occurs mainly through the action of insoluble fibres such as cellulose." Insoluble fibers like cellulose help add bulk to the stool, promote regular bowel movements, and aid in digestion, which are essential for maintaining a healthy gut and preventing constipation.
+Answer: D
+------------------------
+137. ------------------------
+Reasoning: A. Low income so decreased ability to purchase nutrient-rich foods is related to economic factors and lack of access to affordable and nutritious food options, which is not a reason for increased risk of deficiencies among older people in high income countries.
+Answer: A
+------------------------
+138. ------------------------
+Reasoning: A high estimated global prevalence of untreated dental caries indicates a significant impact on a global scale, leading to serious health issues and economic burdens worldwide.
+Answer: D
+------------------------
+139. ------------------------
+Reasoning: Bone mineral accretion in childhood, adolescence, and young adulthood predicts the risk of fracture in old age, highlighting the importance of optimal bone health during these stages.
+Answer: C
+------------------------
+140. ------------------------
+Reasoning: Depressive symptoms are not considered a diagnostic feature of Anorexia Nervosa, as they are more commonly associated with other mental health conditions. The key diagnostic features of Anorexia Nervosa typically revolve around behaviors related to food intake, body image distortion, and fear of weight gain.
+Answer: A
+------------------------
+141. ------------------------
+Reasoning: Supplementation with long-chain fatty acids EPA and DHA during pregnancy and infancy is likely to benefit cognitive development, brain function, and overall health, as they are essential for brain development and cognitive function. 
+Answer: A
+------------------------
+142. ------------------------
+Reasoning: Thiamin deficiency in alcoholics leads to neurological symptoms such as confusion, memory problems, and coordination issues, which are characteristic of Wernicke-Korsakoff syndrome.
+Answer: A
+------------------------
+143. ------------------------
+Reasoning: Methylation at the 5' position of cytosine is a common epigenetic modification that regulates gene expression by affecting chromatin structure and recruiting proteins that either activate or repress gene transcription.
+Answer: C
+------------------------
+144. ------------------------
+Reasoning: The correct statement regarding intracellular fat metabolism should involve a combination of diffusion and carrier-mediated transport involving fatty acid binding, translocase, and transport proteins, which aligns with the mechanisms of how non-esterified fatty acids are taken up by cells. This process includes both passive diffusion and active transport facilitated by specific proteins, which accurately reflects the uptake of fatty acids by cells.
+Answer: B
+------------------------
+145. ------------------------
+Reasoning: Individual differences such as age, health status, and gut microbiota composition can impact the digestibility of dietary proteins.
+Answer: A
+------------------------
+146. ------------------------
+Reasoning: Basal Metabolic Rate (BMR) is higher after weight gain because part of the excess weight is fat-free mass, which contributes to an increase in BMR.
+Answer: C
+------------------------
+147. ------------------------
+Reasoning: The best method to estimate changes in body fat during weight loss should be based on methods that provide precise and consistent results by directly measuring body composition. Among the options provided, DXA (Dual-energy X-ray absorptiometry) is known for its accuracy in measuring body fat percentage, making it a reliable choice for estimating changes in body fat during weight loss.
+Answer: B
+------------------------
+148. ------------------------
+Reasoning: Cholesterol is mainly found in the cell walls of mammalian cells, making statement B the correct answer.
+Answer: B
+------------------------
+149. ------------------------
+Reasoning: The statement that best aligns with the impact of gut microbiota on energy extraction and metabolism in the intestine, which can influence the development of obesity, is the one mentioning gut hormone secretion and PYY signaling.
+Answer: A
+------------------------
+150. ------------------------
+Reasoning: Unhealthy diet, lack of exercise, smoking, and excessive alcohol consumption are lifestyle factors associated with an increased risk of prostate cancer.
+Answer: B
+------------------------
+151. ------------------------
+Reasoning: The function of synthesizing blood clotting proteins is unrelated to the typical roles of vitamin A in the body, which primarily involve vision, immune function, and cell growth and development.
+Answer: A
+------------------------
+152. Reasoning: The correct answer should meet the specific diagnostic threshold for diabetes, considering factors like age, comorbidities, and medication use that can influence the interpretation of confirmed values.
+
+Answer: D
+153. ------------------------
+Reasoning: The basic functional unit of skeletal muscle tissue is the sarcomere, which is responsible for muscle contraction by containing actin and myosin filaments arranged in a repeating pattern.
+Answer: B
+------------------------
+154. ------------------------
+Reasoning: The epidemiological evidence linking maternal nutrition to early experience and later health outcomes suggests that programmed differences in physiology are linked to events before birth and in early postnatal life, not just adult lifestyle. This understanding emphasizes the importance of maternal nutrition during pregnancy and early childhood for long-term health implications.
+Answer: D
+------------------------
+155. ------------------------
+Reasoning: Technological and institutional innovations have permitted food supplies to more than keep pace with population growth, which challenges Malthus's conclusion.
+Answer: A
+------------------------
+156. ------------------------
+Reasoning: Histones are small proteins that interact with DNA to form nucleosomes, helping in packaging and organizing DNA into chromatin structure.
+Answer: D
+------------------------
+157. ------------------------
+Reasoning: Considering the importance of factors such as amino acid profile, digestibility, and bioavailability in evaluating protein quality for human nutrition, the statement that the rat protein efficiency ratio assay, (PER), is a good method of assessing protein quality for human nutrition is incorrect as it does not directly consider these crucial factors.
+Answer: A
+------------------------
+158. ------------------------
+Reasoning: Acetaldehyde is a known carcinogen and has been linked to DNA damage and cancer development, making it a prominent alcohol metabolite in cancer development.
+Answer: C
+------------------------
+159. ------------------------
+Reasoning: The BMI of vegetarians is typically lower than that of meat-eaters due to their lower calorie and saturated fat intake, leading to a difference of approximately 1 unit of BMI on average.
+Answer: C
+------------------------
+160. ------------------------
+Reasoning: Older people may face challenges such as decreased appetite, difficulty chewing or swallowing, and changes in metabolism which can lead to nutrient deficiencies if not addressed properly. Therefore, the statement that older people generally have a lower energy intake than younger adults is correct.
+Answer: C
+------------------------
+161. ------------------------
+Reasoning: Cholesterol and fatty acids absorbed from the intestinal lumen are packaged into chylomicrons, which are the largest and least dense lipoproteins that transport dietary lipids from the intestines to the rest of the body. Chylomicrons are formed in the enterocytes and secreted into the lymphatic system to eventually reach the bloodstream.
+Answer: A
+------------------------
+162. ------------------------
+Reasoning: Folate is a water-soluble vitamin that plays a crucial role in the transfer of one-carbon units in various metabolic pathways, including DNA synthesis and methylation reactions, which are essential for one-carbon metabolism.
+Answer: A
+------------------------
+163. ------------------------
+Reasoning: Hypoglycaemia is a condition characterized by low blood sugar levels, which is not a beneficial effect of exercise in people with diabetes.
+Answer: B
+------------------------
+164. ------------------------
+Reasoning: Palmitic acid is a fatty acid and cannot be converted into glucose through gluconeogenesis as it lacks the necessary precursors or enzymes for the process.
+Answer: C
+------------------------
+165. ------------------------
+Reasoning: Phytic acid has a higher affinity for binding with minerals such as iron, zinc, calcium, and magnesium, reducing their absorption in the body. Potassium is not commonly bound by phytic acid, so its intake is not affected by high intakes of foods containing phytic acid.
+Answer: B
+------------------------
+166. ------------------------
+Reasoning: The question asks for an exception among the listed mechanisms involved in the pathogenesis of hyperglycemia in type 2 diabetes. Since all options A, B, and C are known mechanisms contributing to hyperglycemia in type 2 diabetes, the correct answer must be D, indicating that all options given are correct except for the exception.
+Answer: D
+------------------------
+167. ------------------------
+Reasoning: The correct answer should be a food allergen that is not known to cross-react with latex, as individuals suffering from inhalant allergies, like natural latex allergy, may react to cross-reacting food allergens.
+Answer: C
+------------------------
+168. ------------------------
+Reasoning: The MUST tool is a validated screening tool that is quick and easy to administer, has high sensitivity and specificity, and is recommended by reputable healthcare organizations for screening for malnutrition on admission to the hospital.
+Answer: B
+------------------------
+169. ------------------------
+Reasoning: Zinc-dependent enzymes rely on zinc ions to facilitate their catalytic activity, so the correct answer should be the enzyme that does not require zinc as a cofactor.
+Answer: A
+------------------------
+170. ------------------------
+Reasoning: The protein requirement can be less than the demand, as it varies based on factors such as age, gender, activity level, and overall health status.
+Answer: C
+------------------------
+171. ------------------------
+Reasoning: The Mediterranean diet is rich in antioxidants, omega-3 fatty acids, and vitamins B12 and D, which are essential for maintaining cognitive function as individuals age. Additionally, the Mediterranean diet has been shown to be effective in preventing age-related cognitive decline due to its emphasis on plant-based foods, healthy fats, and moderate alcohol consumption, which have neuroprotective effects and reduce inflammation in the brain.
+Answer: B
+------------------------
+172. ------------------------
+Reasoning: DNA methyltransferase is the enzyme responsible for adding methyl groups to DNA, which plays a crucial role in regulating gene expression and maintaining epigenetic information. During DNA replication, it is important for the methylation marks to be accurately copied from the parental strand to the daughter strand to ensure the proper regulation of gene expression in the newly synthesized DNA. Therefore, DNA methyltransferase is essential for this process to maintain epigenetic information across generations.
+Answer: A
+------------------------
+173. ------------------------
+Reasoning: To accurately determine the worldwide prevalence of obesity, it is essential to consider the most up-to-date and comprehensive data available. Among the options provided, 39% seems to align more closely with the increasing rates of obesity globally and the diverse factors contributing to this epidemic.
+Answer: D
+------------------------
+174. ------------------------
+Reasoning: Understanding lactose intolerance and its effects on individuals, the correct answer should mention the inability to digest lactose due to a deficiency of the enzyme lactase, symptoms like bloating, diarrhea, and gas, and management strategies like avoiding lactose-containing foods or taking lactase supplements.
+Answer: C
+------------------------
+175. ------------------------
+Reasoning: Measuring food availability and consumption at multiple stages within the food supply chain, including production, processing, distribution, and consumption, allows for a comprehensive understanding of potential issues and interventions. 
+Answer: D
+------------------------
+176. ------------------------
+Reasoning: Folate is essential for DNA synthesis and repair, supporting the production of nucleotides and methylation reactions. It plays a crucial role in cell division and red blood cell formation.
+Answer: A
+------------------------
+177. ------------------------
+Reasoning: Heat-sensitive vitamins such as vitamin C and B vitamins are more prone to degradation when exposed to high temperatures during cooking.
+Answer: D
+------------------------
+178. ------------------------
+Reasoning: The correct answer is D because using doses many times greater than those experienced by people in animal toxicity studies helps ensure that the results obtained are applicable to humans by establishing safety margins for human exposure levels.
+Answer: D
+------------------------
+179. ------------------------
+Reasoning: The most effective approach for risk management of chemical contaminants in food involves prohibiting the introduction into commerce food containing contaminants at levels greater than a specified level (a risk-based MRL or tolerance). This method focuses on setting specific limits for contaminants in food products to ensure consumer safety and prevent harmful exposure.
+Answer: D
+------------------------
+180. ------------------------
+Reasoning: Iron plays a crucial role in influencing orientation/engagement behaviors in socio-emotional development by supporting cognitive development and neurotransmitter function.
+Answer: B
+------------------------
+181. ------------------------
+Reasoning: Insulin deficiency is associated with reduced lipolysis, which is the breakdown of fats into fatty acids. 
+Answer: A
+------------------------
+182. ------------------------
+Reasoning: Vitamin B6 is essential for providing the coenzyme pyridoxal phosphate, which is involved in reduction reactions in fatty acid synthesis.
+Answer: D
+------------------------
+183. ------------------------
+Reasoning: Digestible energy intake is calculated by subtracting the energy content of faeces from the gross energy intake. Metabolisable energy intake is lower than digestible energy intake due to energy lost through faeces and urine.
+Answer: D
+------------------------
+184. ------------------------
+Reasoning: When epidemiologists judge the evidence to establish possible causes of a health outcome, they consider specific criteria such as strength of association, consistency, temporality, biological gradient, plausibility, coherence, experiment, and analogy. These criteria help determine the likelihood of a causal relationship between an exposure and a health outcome.
+Answer: D
+------------------------
+185. ------------------------
+Reasoning: Folic acid supplementation is known to promote proper DNA methylation patterns, including the methylation of imprinted genes like IGF2, because folic acid is a key nutrient involved in one-carbon metabolism, which is essential for DNA methylation processes during fetal development.
+Answer: B
+------------------------
+186. ------------------------
+Reasoning: Recurrent severe infections, failure to thrive, chronic diarrhea, and oral thrush are common signs of a compromised immune system in infants, particularly those with severe combined immunodeficiency (SCID).
+Answer: A
+------------------------
+187. ------------------------
+Reasoning: Fibre supplements are usually derived from soluble fibre sources, which are beneficial for digestion and gut health.
+Answer: C
+------------------------
+188. ------------------------
+Reasoning: Vegetarians typically consume higher amounts of fruits, vegetables, whole grains, and legumes compared to meat-eaters, which are directly linked to improved health outcomes. Other lifestyle factors like smoking, social class, physical activity, and age can confound the interpretation of health differences between vegetarians and meat-eaters.
+Answer: A
+------------------------
+189. ------------------------
+Reasoning: Iron deficiency has been historically associated with causing oedema in kwashiorkor, making it a known factor in the past few decades.
+Answer: D
+------------------------
+190. ------------------------
+Reasoning: The correct answer should be an RNA molecule that does not serve as a template for protein synthesis, distinguishing it from coding RNAs.
+Answer: A
+------------------------
+191. ------------------------
+Reasoning: The societal factors of access to healthy food options and cultural norms play a significant role in influencing the prevalence of overweight and obesity in different populations.
+Answer: D
+------------------------
+192. ------------------------
+Reasoning: Adipose tissue lipoprotein lipase is activated by insulin and is most active following meal consumption, playing a crucial role in fat metabolism.
+Answer: B
+------------------------
+193. ------------------------
+Reasoning: Urban dwellers depend more than rural people on purchases to acquire food, have little opportunity to grow their own food, and are much more vulnerable to food price increases.
+Answer: C
+------------------------
+194. ------------------------
+Reasoning: Eicosanoids are derived from long-chain polyunsaturated fatty acids, such as arachidonic acid, eicosapentaenoic acid, and docosahexaenoic acid, which are commonly found in cell membranes. Therefore, C20 and C22 polyunsaturated fatty acids are the precursors for eicosanoids.
+Answer: D
+------------------------
+195. ------------------------
+Reasoning: Glutamate is an amino acid that is generally regarded as dispensable but can become conditionally essential under conditions of metabolic or other stress where the body may require higher amounts than it can readily synthesize. 
+Answer: A
+------------------------
+196. ------------------------
+Reasoning: The most direct method for measuring body composition that provides accurate and precise measurements of body fat percentage, muscle mass, and overall body composition is underwater weighing.
+Answer: A
+------------------------
+197. ------------------------
+Reasoning: The correct answer should focus on a balanced diet with a good balance of macronutrients, plenty of fruits and vegetables, adequate hydration, and portion control to support weight maintenance.
+Answer: D
+------------------------
+198. ------------------------
+Reasoning: The advancements in HIV prevention and treatment strategies should ideally result in decreasing infection rates in Europe over the years.
+Answer: A
+------------------------
+199. ------------------------
+Reasoning: The primary aim of using biochemical functional index measurements, such as serum methylmalonic acid for vitamin B12 status, is to provide an additional status estimate that can probe critical tissue adequacy and assess the risk of consequent clinical disease or physiological malfunction. These measurements help in early detection of deficiencies before clinical symptoms manifest.
+Answer: D
+------------------------
+200. ------------------------
+Reasoning: Broccoli has a high caloric density, is rich in essential nutrients like vitamins, minerals, and fiber, and has a low price per calorie, making it the most nutritious and cost-effective option.
+Answer: D
+------------------------
+201. ------------------------
+Reasoning: Excessive weight loss in newborns, along with the inability to regain birth weight by day 7 or 14, can be indicative of potential health issues or feeding problems that require attention.
+Answer: D
+------------------------
+202. ------------------------
+Reasoning: The statement that all of the reactions of glycolysis are freely reversible for gluconeogenesis accurately describes the process of glucose metabolism, specifically the interconversion of glucose to pyruvate and vice versa.
+Answer: A
+------------------------
+203. ------------------------
+Reasoning: Risk assessment involves evaluating the potential harm a substance may cause based on its toxicity and the level of human exposure. Both toxicity and human exposure data are crucial in determining the level of risk associated with a substance.
+Answer: D
+------------------------
+204. ------------------------
+Reasoning: The typical body composition of a normal weight young adult man includes an average body fat percentage between 15-20%, muscle mass percentage between 35-45%, bone density percentage around 15%, and water content percentage around 60%. Among the options provided, option A aligns most closely with these characteristics.
+Answer: A
+------------------------
+205. ------------------------
+Reasoning: The demineralisation of tooth enamel occurs when the pH of the mouth becomes too acidic, causing the minerals in the enamel to dissolve. Therefore, the correct answer should have a pH level that is acidic.
+Answer: C
+------------------------
+206. ------------------------
+Reasoning: Vitamin D and Vitamin K have been scientifically proven to reduce cardiovascular disease by reducing inflammation, improving blood vessel function, and preventing artery calcification.
+Answer: B
+------------------------
+207. ------------------------
+Reasoning: Vitamin D deficiency in well-nourished individuals can be attributed to limited sun exposure or medical conditions affecting absorption, which are highlighted in option C.
+Answer: C
+------------------------
+208. ------------------------
+Reasoning: The correct answer should mention the movement of water from an area of low solute concentration to an area of high solute concentration, reflecting the role of osmotic pressure in water transport in the intestine.
+Answer: C
+------------------------
+209. ------------------------
+Reasoning: The correct answer should have blood pressure < 130/80, Triglycerides < 150, and LDL < 100, as these are the recommended goals for preventing cardiovascular disease in adults with diabetes.
+Answer: D
+------------------------
+210. ------------------------
+Reasoning: All babies should be exclusively breastfed until around 6 months is the current recommendation according to expert advice and guidelines.
+Answer: A
+------------------------
+211. ------------------------
+Reasoning: Food allergies typically occur when an individual has been sensitized by prior exposure to a specific food trigger, leading to an immune system response. This aligns with the information provided about how food allergies develop and the underlying causes.
+Answer: C
+------------------------
+212. ------------------------
+Reasoning: Insufficient rainfall for agriculture (Option A) is not one of the underlying causes of malnutrition in the UNICEF model as it is more related to environmental factors affecting agriculture rather than the societal, economic, and environmental factors that contribute to malnutrition over time.
+Answer: A
+------------------------
+213. ------------------------
+Reasoning: The false statement is one that misrepresents the roles of intestinal "brakes" and "accelerators" in regulating digestion, which contradicts the established understanding of these mechanisms.
+Answer: A
+------------------------
+214. ------------------------
+Reasoning: Functional isolation refers to the separation of species based on their ecological roles within an ecosystem, leading to reduced competition and increased biodiversity. It is not related to a child's development or nutrition.
+Answer: D
+------------------------
+215. ------------------------
+Reasoning: ACAT2 is not directly involved in the absorption of cholesterol in the small intestine.
+Answer: C
+------------------------
+216. ------------------------
+Reasoning: Based on the information provided, the prevalence of alcoholic myopathy in alcoholics is higher in individuals who consume excessive amounts of alcohol over a long period of time. Therefore, the correct answer should be in the range of 30 to 50% or higher. 
+Answer: A
+------------------------
+217. ------------------------
+Reasoning: Natural polyunsaturated fatty acids in vegetable oils contain 18 carbon atoms with at least two carbon-carbon double bonds in the cis configuration, which aligns with the characteristics of omega-3 and omega-6 fatty acids commonly found in vegetable oils.
+Answer: D
+------------------------
+218. ------------------------
+Reasoning: The statement that docosahexaenoic acid is absent from vegan diets is factually incorrect as it can be synthesized from microalgae, which is commonly used in vegan supplements.
+Answer: B
+------------------------
+219. ------------------------
+Reasoning: A key step in the synthesis of glycogen is the formation of UDP-glucose, which is accurate information about glycogen metabolism.
+Answer: A
+------------------------
+220. ------------------------
+Reasoning: Excessive consumption of free sugars has been linked to various health issues, so the WHO recommends a low maximum intake to reduce the risk of developing these conditions.
+Answer: A
+------------------------
+221. ------------------------
+Reasoning: Vitamin D deficiency in the mother is a known risk factor for the development of rickets of prematurity, making option C a likely correct answer.
+Answer: C
+------------------------
+222. ------------------------
+Reasoning: When considering the relationship between obesity and disease development from the perspective of lifestyle factors such as diet and physical activity, it is important to focus on diseases that are commonly associated with poor diet and lack of physical activity. Obesity is often a result of consuming high-calorie, low-nutrient foods and not engaging in enough physical activity. Therefore, the diseases that are more likely to be linked to obesity are those that are influenced by these lifestyle choices.
+Answer: B
+------------------------
+223. ------------------------
+Reasoning: Young adults typically have higher protein requirements due to growth, repair, and maintenance of muscle mass, making them in need of the most protein dense food.
+Answer: C
+------------------------
+224. ------------------------
+Reasoning: The key initiatives and strategies implemented following the 1996 World Food Summit were designed to address food insecurity globally, leading to a decrease in the number of food insecure people.
+Answer: A
+------------------------
+225. ------------------------
+Reasoning: Starch mainly contains amylose, which is a polymer of glucose with alpha 1,4-linkages is the correct statement based on the chemical composition of starch.
+Answer: B
+------------------------
+226. ------------------------
+Reasoning: The food-price spike of 2007-2008 was influenced by factors such as speculation, market manipulation, and global trade policies, which directly impact food prices. These characteristics align with option C, which mentions commodity price speculation as a cause of the spike.
+Answer: C
+------------------------
+227. ------------------------
+Reasoning: Toxicity and dose-response data from animal studies, together with data on the daily intake of the substance by humans consuming the food, are crucial in evaluating the safety of a food substance. This data helps determine the potential risks associated with the substance and its consumption levels in humans.
+Answer: C
+------------------------
+228. ------------------------
+Reasoning: Epidemiological measures of effect quantify the strength of the association between an exposure and an outcome, providing numerical values that indicate the magnitude of the relationship.
+Answer: C
+------------------------
+229. ------------------------
+Reasoning: The risk factors for type 2 diabetes mellitus include family history, being overweight, and high intake of dietary fat, as mentioned from the perspectives of genetic predisposition, lifestyle factors, and medical conditions. Therefore, the correct answer is D. All of the options listed are correct.
+Answer: D
+------------------------
+230. ------------------------
+Reasoning: Pregnant women, children under five years old, and individuals with certain dietary restrictions are at higher risk of zinc deficiency and would benefit from zinc supplements according to the World Health Organization.
+Answer: A
+------------------------
+231. ------------------------
+Reasoning: The correct answer should encompass all the mentioned characteristics of specific epigenetic changes, their impact on health outcomes, the role in linking early experiences to later health, and be supported by scientific studies.
+Answer: D
+------------------------
+232. ------------------------
+Reasoning: Confounding variables can distort the true relationship between dietary factors and health outcomes, leading to misleading associations in nutritional epidemiology studies.
+Answer: D
+------------------------
+233. ------------------------
+Reasoning: Vitamin B12 is essential for growth and development, crucial for brain and nervous system development, and commonly found in animal products. Infants born to vegan mothers who are deficient in vitamin B12 may be at increased risk of deficiency.
+Answer: C
+------------------------
+234. ------------------------
+Reasoning: Understanding the different types of proteolysis, their mechanisms, and functions is crucial in grasping the overall concept of proteolysis. The statement that lysosomal enzymes provide the only mechanism for tissue protein catabolism is incorrect as there are other mechanisms involved in proteolysis. 
+Answer: D
+------------------------
+235. ------------------------
+Reasoning: Plant sources of amino acids may not always contain all essential amino acids in sufficient amounts compared to animal sources. However, by consuming a variety of plant-based foods, individuals can still obtain all essential amino acids as different plant sources complement each other in terms of amino acid profiles. This highlights the importance of a balanced and diverse plant-based diet to meet human nutritional needs for amino acids.
+Answer: B
+------------------------
+236. ------------------------
+Reasoning: Thiamin (Vitamin B1) is known to provide the coenzyme necessary for the oxidative decarboxylation of pyruvate, making it a crucial component in this metabolic process.
+Answer: D
+------------------------
+237. ------------------------
+Reasoning: Gluten is a protein found in wheat, barley, and rye, giving dough its elasticity and helping it rise. It is not a constituent of avenin (from oats), the main protein in maize, or may increase carbohydrate malabsorption. However, gluten may be contra-indicated in UC (Ulcerative Colitis) due to its potential inflammatory effects.
+Answer: D
+------------------------
+238. ------------------------
+Reasoning: Adaptive thermogenesis involves an increase in basal metabolic rate that is not fully explained by a change in body composition during chronic overfeeding, which aligns with the physiological mechanisms involved in regulating energy expenditure in response to changes in caloric intake.
+Answer: C
+------------------------
+239. ------------------------
+Reasoning: The central rule regarding the interconversion of fuels in metabolic pathways is that fatty acids can be made from and converted to carbohydrates and amino acids. This rule highlights the flexibility and interconnectedness of different metabolic pathways, allowing for efficient energy production and utilization.
+Answer: A
+------------------------
+240. ------------------------
+Reasoning: The assessment of growth in routine practice should involve measuring both weight and height to provide a comprehensive view of an individual's development.
+Answer: C
+------------------------
+241. ------------------------
+Reasoning: Protein oxidation in the body is closely related to metabolic processes involving oxygen consumption and carbon dioxide production. Therefore, the daily amount of protein oxidized can be determined from O2 consumption alone.
+Answer: A
+------------------------
+242. ------------------------
+Reasoning: The primary lipoprotein secreted from the liver that is at least partially composed of dietary derived lipids and responsible for transporting these lipids from the intestines to various tissues in the body is chylomicrons.
+Answer: A
+------------------------
+243. ------------------------
+Reasoning: Physical activity and medication use play a significant role in determining the nutritional status of older people as they can affect appetite, nutrient absorption, and overall health.
+Answer: D
+------------------------
+244. ------------------------
+Reasoning: Low intake of iodine-rich foods and excessive consumption of goitrogens can lead to iodine deficiency. 
+Answer: A
+------------------------
+245. ------------------------
+Reasoning: AN has the highest mortality rate across all mental disorders, making it a critical aspect to consider when discussing eating disorders.
+Answer: B
+------------------------
+246. ------------------------
+Reasoning: The limitations of food balance sheets include not accounting for waste or losses of food (Option A), consumption estimates potentially being higher than those from other surveys (Option B), and the lack of information on the distribution of consumption within a country (Option C). Therefore, all options given are correct.
+Answer: D
+------------------------
+247. ------------------------
+Reasoning: The pancreas secretes a variety of digestive enzymes to aid in the breakdown of macronutrients in food, including amylase, lipase, and proteases. Pancreatic á-amylase hydrolyses starch to free glucose, making option B the correct statement.
+Answer: B
+------------------------
+248. ------------------------
+Reasoning: Vitamin D is essential for the absorption of calcium and phosphate, necessary for the formation and maintenance of strong teeth and enamel. A deficiency in Vitamin D can lead to enamel defects, weakening of the teeth, and an increased risk of dental caries.
+Answer: D
+------------------------
+249. ------------------------
+Reasoning: Dietary fiber, high intake of fruits and vegetables, and low intake of processed meats are known to reduce the risk of colorectal cancer. 
+Answer: B
+------------------------
+250. ------------------------
+Reasoning: The correct answer should include nutrients essential for red blood cell production like iron, vitamin B12, and folate, as deficiencies in these nutrients can lead to anaemia.
+Answer: B
+------------------------
+251. ------------------------
+Reasoning: Leptin is the hormone that acts on the hypothalamus to increase satiety, signaling the brain to feel full and satisfied after eating. Ghrelin, on the other hand, is the hormone that acts on the hypothalamus to increase hunger, stimulating appetite and signaling the brain to increase food intake.
+Answer: C
+------------------------
+252. ------------------------
+Reasoning: The correct answer should exhibit abnormal weight gain, insatiable hunger, and early-onset obesity due to impaired secretion of leptin, which regulates appetite and metabolism.
+Answer: C
+------------------------
+253. ------------------------
+Reasoning: Globalisation has facilitated the movement of goods and ideas across borders, leading to an interconnected food market with increased variety of food choices and easier access to exotic ingredients.
+Answer: A
+------------------------
+254. ------------------------
+Reasoning: The statement that losses of vitamin C in canned foods during storage at ambient temperature tend to be small is accurate and relevant to the topic of canned food preservation.
+Answer: D
+------------------------
+255. ------------------------
+Reasoning: Engel's law states that as income rises, the proportion of income spent on food decreases, even though the actual amount spent on food increases due to more disposable income.
+Answer: A
+------------------------
+256. ------------------------
+Reasoning: Mucous cells are responsible for secreting the glycoprotein mucin, which helps protect the stomach lining from the acidic environment.
+Answer: A
+------------------------
+257. ------------------------
+Reasoning: Smoking tobacco products is the leading cause of lung cancer and the major risk factor associated with the disease.
+Answer: D
+------------------------
+258. ------------------------
+Reasoning: The consumption of saturated fat should be limited to less than 10% of total daily energy intake for patients with diabetes to help manage blood sugar levels and reduce the risk of cardiovascular complications.
+Answer: A
+------------------------
+259. ------------------------
+Reasoning: Muscle tissue has higher water content compared to fat tissue, which allows for faster electrical current conduction because water is a better conductor of electricity than fat.
+Answer: B
+------------------------
+260. ------------------------
+Reasoning: The correct answer should provide accurate information on the optimal weight gain during pregnancy, emphasize the risks associated with inadequate or excessive weight gain, and highlight the importance of monitoring maternal weight gain for the health of both the mother and the baby.
+Answer: D
+------------------------
+261. Reasoning: Muscle glycogen is the main fuel for muscle contraction during short-term intense activities like sprinting due to its immediate availability, rapid energy production through anaerobic metabolism, and limited storage capacity compared to other energy sources like fat.
+Answer: D
+262. ------------------------
+Reasoning: The correct answer should reflect the varying caloric needs throughout each trimester of pregnancy. While the caloric intake may not need to increase significantly in the first trimester, an additional 200 kCal is recommended in the third trimester to support the growth and development of the fetus.
+Answer: B
+------------------------
+263. ------------------------
+Reasoning: Vitamin K deficiency leads to increased bleeding tendencies as it impairs the blood clotting process. Therefore, the correct answer is B. The plasma concentration of prothrombin.
+Answer: B
+------------------------
+264. ------------------------
+Reasoning: A reduction in basal metabolic rate and lean body mass, as well as a decrease in physical activity, are all factors that contribute to reduced energy expenditure in older adults.
+Answer: D
+------------------------
+265. ------------------------
+Reasoning: In positive nitrogen balance, the excretion of nitrogenous metabolites is less than the dietary intake of nitrogenous compounds, indicating an anabolic state where protein synthesis exceeds breakdown.
+Answer: C
+------------------------
+266. ------------------------
+Reasoning: Vitamin A deficiency in children is associated with symptoms like poor growth, night blindness, and increased susceptibility to infections, indicating poor cognitive development.
+Answer: B
+------------------------
+267. ------------------------
+Reasoning: Factors such as obesity have been shown to increase the risk of postmenopausal breast cancer according to lifestyle factors.
+Answer: D
+------------------------
+268. ------------------------
+Reasoning: The correct answer should be a food that contains compounds that interfere with the thyroid's ability to produce thyroid hormones, potentially leading to thyroid-related issues. Cruciferous vegetables like Brassicas are known to be goitrogens, but their goitrogenic properties can be reduced through cooking methods.
+Answer: D
+------------------------
+269. ------------------------
+Reasoning: The autoimmune destruction of beta cells in type 1 diabetes and insulin resistance in type 2 diabetes are key differences in their characteristics. Additionally, type 1 diabetes is typically diagnosed in childhood or adolescence, while type 2 diabetes is more common in adults. Understanding these distinctions is crucial in managing and treating the conditions effectively.
+Answer: C
+------------------------
+270. ------------------------
+Reasoning: The nutritional intervention that includes essential nutrients such as iron, zinc, iodine, vitamin A, and omega-3 fatty acids has been shown to improve child development by supporting cognitive development, immune function, and overall growth.
+Answer: C
+------------------------
+271. ------------------------
+Reasoning: Consuming trace minerals and vitamins in excess of the recommended daily requirement can lead to toxicity symptoms in the body. For example, excessive intake of Vitamin A can cause liver damage, while too much Vitamin C can lead to digestive issues. Similarly, consuming high levels of certain minerals like iron or calcium can result in serious health problems. Therefore, it is important to be cautious and not exceed the recommended daily intake of these substances to avoid potential harm to overall health and well-being.
+Answer: D
+------------------------
+272. ------------------------
+Reasoning: The thermic effect of food is highest for protein, followed by carbohydrates, and lowest for fats. This means that the thermic effect is substantially higher for protein than for carbohydrates, making option A the correct choice.
+Answer: A
+------------------------
+273. ------------------------
+Reasoning: The primary method of dietary assessment used in epidemiological studies should be comprehensive, validated, and able to capture long-term dietary habits. Among the options provided, the Food Frequency Questionnaire (D) best fits these criteria as it is designed to assess habitual dietary intake over an extended period, making it suitable for epidemiological studies.
+Answer: D
+------------------------
+274. ------------------------
+Reasoning: The correct answer should be determined by calculating the BMI using the formula BMI = weight (kg) / height^2 (m^2). In this case, with a weight of 99 kg and height of 1.75 m, the BMI calculation would be 99 / (1.75^2) = 32.33. This falls within the obese category, indicating potential health risks.
+Answer: B
+------------------------
+275. ------------------------
+Reasoning: Severe infection can lead to decreased serum iron levels, decreased transferrin saturation, and increased ferritin levels. Therefore, the correct combination for a person with both iron deficiency and severe infection would be low haemoglobin, low ferritin, low serum transferrin receptors, and high hepcidin.
+Answer: D
+------------------------
+276. ------------------------
+Reasoning: The correct answer should consider the varying protein intake levels needed by athletes based on their type of sport and intensity of training. Different sports and training levels require different amounts of protein to support muscle recovery and growth.
+Answer: C
+------------------------
+277. ------------------------
+Reasoning: Vitamins B6, B12, and folate are essential in the metabolism of homocysteine, helping to convert it into other beneficial substances and lower its levels in the blood.
+Answer: D
+------------------------
+278. ------------------------
+Reasoning: The function most important for survival immediately after a meal is the extraction of maximum value from nutrients to provide quick energy release and support essential bodily functions.
+Answer: D
+------------------------
+279. ------------------------
+Reasoning: The statement that accurately describes the role of hormones in signaling hunger and fullness is the correct answer from the perspective of how the stomach communicates with the brain to regulate feelings of hunger and fullness.
+Answer: A
+------------------------
+280. ------------------------
+Reasoning: Omega-3 fatty acids have strong empirical evidence supporting their role in preventing age-related cognitive decline, as they have been linked to improved memory, attention, and overall cognitive performance in older adults.
+Answer: A
+------------------------
+281. ------------------------
+Reasoning: Diseases that are related to deficiencies in nutrients commonly found in non-vegetarian diets, such as vitamin B12, iron, and omega-3 fatty acids, can be more prevalent among vegetarians. 
+Answer: B
+------------------------
+282. ------------------------
+Reasoning: Bariatric surgery is not a recommended treatment option for Binge Eating Disorder as it may exacerbate the issue rather than address the underlying causes.
+Answer: C
+------------------------
+283. ------------------------
+Reasoning: The pairing that includes an allergen not part of the group of eight major allergens would be the most relevant for identifying potential new food allergens through ongoing research efforts.
+Answer: B
+------------------------
+284. ------------------------
+Reasoning: The correct answer should cover the impact of environmental factors during pregnancy on fetal development and long-term health outcomes, including the epigenetic effects of intrauterine nutritional inadequacy.
+Answer: B
+------------------------
+285. ------------------------
+Reasoning: The best available evidence for an association between amount of sugars and risk of dental caries comes from randomized controlled trials (RCTs) as they are considered the gold standard in research for establishing cause-and-effect relationships. RCTs involve randomly assigning participants to different groups to compare the effects of different interventions, in this case, levels of sugar intake, on the development of dental caries, minimizing bias and confounding variables.
+Answer: A
+------------------------
+286. ------------------------
+Reasoning: The statement that folate deficiency in older people is less prevalent in countries with mandatory fortification of flour with folic acid highlights the importance of adequate nutrient intake and the impact of policy interventions on nutritional status and health outcomes. This emphasizes the role of external factors in addressing nutritional deficiencies and promoting better health outcomes.
+Answer: D
+------------------------
+287. ------------------------
+Reasoning: An increase in adaptive metabolic demand leads to an increase in the minimum protein requirement because the body needs more protein to support the increased metabolic activity.
+Answer: B
+------------------------
+288. ------------------------
+Reasoning: De novo fatty acid synthesis signifies an excess of energy yielding substrates, as it is a process that is typically upregulated in conditions of excess caloric intake, leading to an increase in energy storage in the form of triglycerides.
+Answer: D
+------------------------
+289. ------------------------
+Reasoning: Chylomicrons are primarily produced in the intestine and transport dietary lipids to tissues for energy or storage, which aligns with the characteristics of the exogenous lipoprotein pathway.
+Answer: C
+------------------------
+290. ------------------------
+Reasoning: Long-term intervention studies with a large sample size focusing on nutrients like calcium, vitamin D, and protein are more likely to provide strong evidence for an association between diet and skeletal health.
+Answer: A
+------------------------
+291. ------------------------
+Reasoning: Vitamin A is essential for the production of rhodopsin, a pigment in the retina that helps with night vision, making it crucial for vision in dim light.
+Answer: A
+------------------------
+292. ------------------------
+Reasoning: Acknowledging the impact of genetic factors on blood lipid metabolism and the influence of different types of dietary fats on cholesterol levels, the correct statement should reflect the effects of specific fats on blood lipid levels.
+Answer: A
+------------------------
+293. ------------------------
+Reasoning: Additional dietary protein can stimulate production of insulin-like growth hormone, aiding in muscle growth and repair.
+Answer: C
+------------------------
+294. ------------------------
+Reasoning: The answer that aligns with the traditional dietary habits and beliefs of the population is likely to be the most accurate in terms of cultural and societal factors influencing milk consumption trends.
+Answer: C
+------------------------
+295. ------------------------
+Reasoning: Prevalence rates are not 2% for female adolescents, making option D incorrect. Females are indeed more affected than males, aligning with the epidemiology of Anorexia Nervosa.
+Answer: A
+------------------------
+296. ------------------------
+Reasoning: The correct answer should provide a combination of carbohydrates, electrolytes, and fluids to maintain energy levels, hydration, and electrolyte balance during prolonged high intensity exercise.
+Answer: D
+------------------------
+297. ------------------------
+Reasoning: Muscle glycogen is the endogenous substrate source that provides the most energy during moderate to high intensity exercise as it is readily available in the muscles and can be quickly converted to energy to support the increased demand during intense physical activity.
+Answer: B
+------------------------
+298. ------------------------
+Reasoning: Research focused on the problems of poor farmers and consumers is considered a 'public good' with high social benefits but little profit potential. Public investment is crucial to support this type of research, which aligns with the goal of reducing hunger and poverty.
+Answer: C
+------------------------
+299. ------------------------
+Reasoning: Specific anthropometric measurements such as weight-for-height, mid-upper arm circumference, and presence of nutritional edema, as well as clinical signs of severe malnutrition such as visible severe wasting or nutritional edema are internationally recognized and evidence-based indicators of severe acute malnutrition in young children.
+Answer: C
+------------------------
+300. ------------------------
+Reasoning: The main metabolites of alcohol metabolism are acetaldehyde and acetate, which are responsible for the toxic effects of alcohol and play a role in the development of alcohol-related diseases.
+Answer: A
+------------------------
+301. ------------------------
+Reasoning: From the information provided, the energy expenditure component for standing at an office desk, walking to a file cabinet, and other office job-related activities aligns with the concept of non-exercise activity thermogenesis (NEAT) as it involves energy expended during activities of daily living that are not structured exercise. 
+Answer: A
+------------------------
+302. ------------------------
+Reasoning: Factors influencing developing-country farmers to engage in subsistence farming include the need for self-sufficiency, small landholdings, limited access to markets, and lack of resources. 
+Answer: A
+------------------------
+303. ------------------------
+Reasoning: The correct statement about protein synthesis is that the mRNA formed by transcription of a region of DNA only contains information for the protein to be synthesized. This statement accurately reflects the process of transcription where mRNA is created from a specific region of DNA containing the necessary information for protein synthesis.
+Answer: B
+------------------------
+304. ------------------------
+Reasoning: The amount of retinol formed from ß-carotene is typically lower due to the conversion process, making the correct answer a value that reflects this lower yield. Option C (0.15 mol retinol /mol ß-carotene) seems to be the most reasonable choice considering the conversion efficiency.
+Answer: C
+------------------------
+305. ------------------------
+Reasoning: Streptococcus mutans is known to be the primary culprit in the initiation of dental caries due to its ability to metabolize sugars and produce acid, leading to demineralization of tooth enamel and cavity formation.
+Answer: A
+------------------------
+306. ------------------------
+Reasoning: The statement that "Salivary amylase digests the dextran film on tooth enamel formed from dietary sucrose" is incorrect because salivary amylase primarily acts on starches, not dextran. 
+Answer: D
+------------------------

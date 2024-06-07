@@ -1,0 +1,802 @@
+1. ------------------------
+Reasoning: Mass-society theory suggests that the media manipulate 'the masses' as vulnerable, passive consumers, shaping public opinion and behavior, and potentially manipulating individuals through the dissemination of information.
+Answer: C
+------------------------
+2. ------------------------
+Reasoning: The ecological approach in urban sociology involves studying the interactions between social structures, physical environments, and human behavior in urban areas. This approach emphasizes the interconnectedness of these factors in shaping urban life.
+Answer: A
+------------------------
+3. ------------------------
+Reasoning: Becker's proclamation on cannabis use should be based on scientific research to provide accurate and evidence-based information.
+Answer: A
+------------------------
+4. ------------------------
+Reasoning: The middle classes that developed over the nineteenth century were diverse in terms of occupations and income levels due to urbanization, industrialization, and the emergence of new job opportunities.
+Answer: B
+------------------------
+5. ------------------------
+Reasoning: Technological forms of surveillance can potentially infringe on individual privacy and civil liberties by accessing and exchanging 'private' information about consumers without consent or oversight.
+Answer: A
+------------------------
+6. ------------------------
+Reasoning: The concept of gemeinschaft by Ferdinand Tönnies focuses on close-knit communities, strong social bonds, shared values, and a sense of belonging. Among the options provided, the concept that shares similar relational characteristics to gemeinschaft is option A, organic solidarity.
+Answer: A
+------------------------
+7. ------------------------
+Reasoning: Technological advancements and globalization led to a shift in the demand for skilled labor, resulting in higher wages for those with specialized skills while leaving low-skilled workers behind, exacerbating income inequality.
+Answer: B
+------------------------
+8. ------------------------
+Reasoning: Normalizing deviant acts means that they become more accepted and less stigmatized by the general population due to repeated exposure, which challenges traditional norms and values, potentially leading to a breakdown of societal norms and values.
+Answer: C
+------------------------
+9. ------------------------
+Reasoning: John Scott argued that ownership and management were becoming increasingly separate functions, highlighting the shift in power dynamics within organizations and the emergence of professional managers as key decision-makers.
+Answer: B
+------------------------
+10. ------------------------
+Reasoning: Marxist feminists believe that patriarchy is explained in terms of sex classes, through which men oppress women economically, politically, and sexually, emphasizing the exploitation of women's labor within the capitalist system.
+Answer: B
+------------------------
+11. ------------------------
+Reasoning: Putting an end to privatization was not defined by Giddens (1998) as part of New Labour's 'third way'.
+Answer: B
+------------------------
+12. ------------------------
+Reasoning: Laing & Esterson were known for their emphasis on the role of family dynamics and societal influences in mental health issues, believing that behavior that seemed bizarre could be seen as a reasonable response to disturbed patterns of family interaction.
+Answer: D
+------------------------
+13. ------------------------
+Reasoning: The historical context of economic conditions, social inequality, and the emergence of the Labour movement influenced working class support for the Labour Party during the time period discussed by Butler & Stokes (1969).
+Answer: A
+------------------------
+14. ------------------------
+Reasoning: Social institutions in contemporary societies are highly specialized, interrelated sets of social practices that are dynamic, interconnected, and adaptive to meet the changing needs of individuals and communities.
+Answer: A
+------------------------
+15. ------------------------
+Reasoning: The term 'emotion work' according to Hochschild in 1983 refers to the techniques used to consciously manage and present emotions that are deemed appropriate for public settings of interaction, involving the management of one's own and others' emotions to create a desired emotional state.
+Answer: A
+------------------------
+16. ------------------------
+Reasoning: The term used by sociologists to describe the structured inequalities between layers in society is social stratification, which involves the analysis of the hierarchical arrangement of individuals into social classes or layers. 
+Answer: A
+------------------------
+17. ------------------------
+Reasoning: The fourth ideal type of social action identified by Weber should be related to emotional or affectual behavior, representing actions driven by emotions or feelings rather than rationality or tradition.
+Answer: A
+------------------------
+18. ------------------------
+Reasoning: Based on the historical origin and evolution of the term "ecclesia" from ancient Greek and Roman history where it referred to a political assembly of citizens, the correct answer is A. a religious organization that claims total spiritual authority over its members.
+Answer: A
+------------------------
+19. ------------------------
+Reasoning: Former slaves migrating to cities in the USA and British Empire post-abolition faced challenges in terms of racial discrimination and segregation, making it difficult for them to fully integrate into society and achieve social and economic mobility.
+Answer: C
+------------------------
+20. ------------------------
+Reasoning: Sutherland's study of the 'professional thief' highlighted the traits of detailed knowledge of criminal techniques, ability to rationalize criminal behavior, and involvement in organized crime networks. The correct answer should reflect these characteristics.
+Answer: D
+------------------------
+21. ------------------------
+Reasoning: The New Labour government did not pursue setting and streaming pupils by ability as it did not align with their political agenda or priorities at the time.
+Answer: A
+------------------------
+22. ------------------------
+Reasoning: Stone's research focused on understanding the structure and dynamics of families before the industrial revolution, highlighting extended family structures, communal living arrangements, and the role of kinship networks. The correct answer should align with Stone's definition of the nuclear family during the pre-industrialization era.
+Answer: B
+------------------------
+23. ------------------------
+Reasoning: Based on the information provided, the correct answer should be one that includes specific criteria for population size, economic ties, and commuting patterns. Option B fits this description as it states that an MSA is composed of at least one central city with a population of at least 50,000 and surrounds densely urbanized counties, capturing the social and economic connections between urban centers and surrounding areas.
+Answer: B
+------------------------
+24. ------------------------
+Reasoning: The ruling elite identified by Mosca and Pareto is characterized as a small group with power and influence over society, filling all the top positions of political authority. This aligns with their belief that a minority group controls decision-making processes and societal structures.
+Answer: A
+------------------------
+25. ------------------------
+Reasoning: Bourdieu's theory emphasizes the interplay between cultural capital, social capital, and economic capital in the reproduction of social class.
+Answer: C
+------------------------
+26. ------------------------
+Reasoning: Secularization involves the ideas of disengagement and disenchantment, where religious influence diminishes and societal norms shift towards a more secular society.
+Answer: C
+------------------------
+27. ------------------------
+Reasoning: The decrease in the general fertility rate between 1964 and 2000 can be attributed to changes in societal attitudes towards family planning and childbearing, leading to an increase in the use of contraception methods and a shift towards smaller family sizes. 
+Answer: A
+------------------------
+28. ------------------------
+Reasoning: Howard's idea of the garden city focused on creating a sustainable and harmonious urban environment through urban planning, integration of nature and community, self-sufficiency, and social equality. The concept included six small towns surrounded by green belts and linked to a larger central city.
+Answer: A
+------------------------
+29. ------------------------
+Reasoning: The 'third age' of the life course is typically described as a period of active retirement, freedom from work and family responsibilities, and a focus on personal fulfillment and leisure activities. This aligns with option A, which involves active non-work and independence after retirement.
+Answer: A
+------------------------
+30. ------------------------
+Reasoning: Weber (1919) argued that the state's monopoly of the use of force was legitimated by rational-legal authority, as he believed that a centralized authority with clear rules and regulations was necessary to maintain order and stability in society.
+Answer: B
+------------------------
+31. ------------------------
+Reasoning: In Sullivan's (2000) study, the proportion of housework men did was greatest when it reflected traditional gender roles and expectations, influencing their behaviors and decisions.
+Answer: A
+------------------------
+32. ------------------------
+Reasoning: The shift from custodial to joint parenthood after divorce typically involves both parents cooperating in the continued care of their children, as it is essential for successful co-parenting dynamics and ensuring the best interests of the child are met.
+Answer: C
+------------------------
+33. ------------------------
+Reasoning: Émile Durkheim believed that the primary focus of sociology should be on studying social facts, which are external to individuals and exert control over them. This aligns with his key beliefs and theories in sociology.
+Answer: B
+------------------------
+34. ------------------------
+Reasoning: Auguste Comte is considered the father of sociology and was a prominent figure in the field of social sciences during the early 1800s. He had a background in studying human societies and social interactions, making him a likely candidate to have coined the term "sociology."
+Answer: A
+------------------------
+35. ------------------------
+Reasoning: Brown & Harris (1978) focused on the relationship between depression and social factors over time, indicating that women's susceptibility to stress depended on their levels of social support.
+Answer: A
+------------------------
+36. ------------------------
+Reasoning: The alternative form of 'network organization' implies a decentralized decision-making process, interconnected teams, and a focus on collaboration rather than hierarchy, which aligns with the characteristics of a lateral network of flexible roles as seen in the Japanese model.
+Answer: C
+------------------------
+37. ------------------------
+Reasoning: Margaret Mead believed in cultural relativism and the influence of culture on human behavior, emphasizing the importance of understanding different societies. The correct answer should align with these principles.
+Answer: A
+------------------------
+38. ------------------------
+Reasoning: The term 'secondary deviation' refers to behaviors that occur as a result of societal reactions to primary deviance, often leading to further stigmatization and deviant behavior. It highlights the social construction of deviance and the labeling theory in understanding the criminal justice system.
+Answer: B
+------------------------
+39. ------------------------
+Reasoning: The Internet has had a positive impact on the public sphere by increasing access to information, facilitating communication, and allowing for diverse viewpoints to be shared, which aligns with the characteristics of option B.
+Answer: B
+------------------------
+40. ------------------------
+Reasoning: The correct answer should focus on the influence of Protestantism on the development of capitalism, specifically highlighting the Protestant work ethic and values. Calvinists engaging in ascetic practices to gain signs of salvation aligns with Weber's argument about the origins of the 'spirit of capitalism'.
+Answer: D
+------------------------
+41. ------------------------
+Reasoning: The terms 'crisis of the 1970s' is primarily associated with economic factors such as declining profits, rising unemployment, oil price shocks, stagflation, and global economic instability.
+Answer: A
+------------------------
+42. ------------------------
+Reasoning: The Macpherson Report highlighted the issue of institutional racism within the police force and called for urgent reforms to address this systemic problem. The correct answer is B. institutional racism: systematic forms of disadvantage built into the routines and practices of social institutions.
+Answer: B
+------------------------
+43. ------------------------
+Reasoning: Seven people standing silently while waiting for a bus at a bus stop aligns with the cultural norms and expectations surrounding behavior in that context, reflecting common behavior and adherence to social norms.
+Answer: A
+------------------------
+44. ------------------------
+Reasoning: Environmentalist social movements are global in the sense that they increase our awareness of risks that affect the whole planet, appeal to universal values and human rights, and use global media to generate publicity. These movements aim to address environmental issues that transcend borders and require collective action on a global scale.
+Answer: D
+------------------------
+45. ------------------------
+Reasoning: Chodorow (1978) argued that gender socialization occurred through both boys and girls being closely attached to their mothers, but then boys breaking away.
+Answer: A
+------------------------
+46. ------------------------
+Reasoning: When considering the societal expectations and cultural norms of the 1980s, the 'new man' was expected to be progressive, sensitive, and in touch with their emotions, breaking away from traditional gender roles. 
+Answer: A
+------------------------
+47. ------------------------
+Reasoning: Lack of equal access to quality resources and opportunities for all students due to inadequate funding and resources in schools serving lower socioeconomic classes perpetuated class inequalities in education.
+Answer: B
+------------------------
+48. ------------------------
+Reasoning: The experimental method in science involves isolating and measuring the effect of one variable upon another, which aligns with the key components of systematic observation, controlled variables, hypothesis testing, and data analysis essential for conducting valid scientific experiments.
+Answer: B
+------------------------
+49. ------------------------
+Reasoning: An 'open' society allows people to move between levels of the hierarchy, promoting inclusivity, diversity, and equal opportunities for all individuals to participate and contribute.
+Answer: D
+------------------------
+50. ------------------------
+Reasoning: The Nation of Islam group appealed to African-Americans who felt excluded from the 'ethnic melting pot' in the USA, promoting black pride and self-reliance, and advocating for separation from white society as a means of achieving social and economic independence.
+Answer: C
+------------------------
+51. ------------------------
+Reasoning: Comte developed positivism as a way to apply scientific principles to the study of society and social progress, emphasizing empirical observation and scientific methods.
+Answer: B
+------------------------
+52. ------------------------
+Reasoning: Theories of racialized discourse focus on the social construction of race and ethnicity, power dynamics, and the intersectionality of race with other social categories. The idea that race is socially constructed through powerful ideologies aligns with these key characteristics.
+Answer: B
+------------------------
+53. ------------------------
+Reasoning: The scenario described in the question highlights the influence of social norms, the impact of seeing others help, and altruistic behavior, which align with the principles of social psychology. The man stopping to help and others following suit indicate the power of social influence and norms in guiding behavior.
+Answer: B
+------------------------
+54. ------------------------
+Reasoning: The construction of a new highway through farmland can lead to increased economic activity and development in the major city and surrounding areas, potentially attracting businesses, tourists, and residents. This can result in suburbanization as commuting to the city becomes easier, impacting the farmland region.
+Answer: C
+------------------------
+55. ------------------------
+Reasoning: According to W. E. B. Dubois, progress for African Americans in the aftermath of slavery focused on achieving social, political, and economic equality, which aligns with the need for education, political rights, and systemic change.
+Answer: A
+------------------------
+56. ------------------------
+Reasoning: Pluralist theories emphasize the existence of multiple centers of power in society, advocate for the representation of diverse interests, and promote the idea of competition and negotiation among different groups. This aligns with the option stating that political parties must compete for the votes of 'consumers' in the electorate.
+Answer: C
+------------------------
+57. ------------------------
+Reasoning: The term 'over-urbanization' refers to the phenomenon where rapidly developing cities in poorer countries drain resources from rural areas, leading to strain on infrastructure and resources in urban areas.
+Answer: B
+------------------------
+58. ------------------------
+Reasoning: The correct answer should reflect the accumulation of wealth, networking with elite individuals, and participation in high-status cultural activities that were crucial in the transition of the capitalist class to the upper class during the mid-twentieth century.
+Answer: B
+------------------------
+59. ------------------------
+Reasoning: Inter-generational mobility refers to movement into different occupational categories between generations, indicating the ability of individuals to change their social or economic status compared to their parents. This definition aligns with the key concept of inter-generational mobility in social mobility studies.
+Answer: B
+------------------------
+60. ------------------------
+Reasoning: The term 'culture industry' was coined by members of the Frankfurt School to describe the mass production of culture in capitalist societies, aimed at manipulating and controlling the masses through entertainment and media. It reflects a critical view towards the commodification of culture and its impact on society.
+Answer: B
+------------------------
+61. ------------------------
+Reasoning: The correct answer should mention societal expectations placed on women to prioritize caregiving responsibilities and maintain work-life balance, which often lead women to seek part-time work opportunities.
+Answer: B
+------------------------
+62. ------------------------
+Reasoning: A sect is typically organized around a central set of beliefs that define the group's identity and guide its practices. Additionally, a charismatic leader plays a significant role in leading and influencing the members, while openness to new recruits ensures growth and sustainability.
+Answer: A
+------------------------
+63. ------------------------
+Reasoning: The process by which we acquire a sense of identity and become members of society involves stages of development, social interactions, and self-reflection, which align with the characteristics of socialization.
+Answer: D
+------------------------
+64. ------------------------
+Reasoning: Pre-testing a questionnaire is useful for identifying any problems with the question wording and routing, ensuring that the questions are clear and comprehensible to the target audience.
+Answer: C
+------------------------
+65. ------------------------
+Reasoning: Judith Butler introduced the concept of performativity, suggesting that gender is performed through bodily gestures and styles to create 'sex'. This aligns with her idea that gender is not fixed but rather fluid and socially constructed.
+Answer: D
+------------------------
+66. ------------------------
+Reasoning: Patterns of drug use in Britain have shown an increase and are no longer confined to a hedonistic youth subculture, indicating a shift in demographics and prevalence.
+Answer: A
+------------------------
+67. ------------------------
+Reasoning: The correct answer aligns with Murray's view that the 'underclass' consists of individuals who are trapped in a cycle of poverty, lack of education, and dependency on welfare programs.
+Answer: D
+------------------------
+68. ------------------------
+Reasoning: The correct answer should be D as all the mentioned religious organizations (Church of Norway, Islam, Church of England, Church of Greece) are monotheistic, believing in one supreme deity.
+Answer: D
+------------------------
+69. ------------------------
+Reasoning: The results based only on the returned questionnaires are most likely contaminated by response rate bias, as the 700 members who did not respond may have different perspectives or levels of satisfaction with the union compared to those who did respond.
+Answer: A
+------------------------
+70. ------------------------
+Reasoning: Role-learning theory posits that individuals acquire and internalize roles through observation, imitation, and reinforcement from their social environment, emphasizing the importance of social interactions and cultural context in shaping behaviors and identities. The correct answer should reflect this focus on learning roles through interaction with others.
+Answer: B
+------------------------
+71. ------------------------
+Reasoning: Post-modernist writers often challenge traditional narrative structures and conventions by deconstructing them, incorporating intertextuality, and employing metafiction to question the nature of storytelling itself.
+Answer: D
+------------------------
+72. ------------------------
+Reasoning: The characteristics described in the information provided align with the process of gentrification, where economic growth, an influx of wealthier residents, and changes in housing market dynamics lead to rising property values and upscale developments in Leroy's old neighborhood.
+Answer: A
+------------------------
+73. ------------------------
+Reasoning: In the historical context of Natchez in the American Deep South during the time of Warner's study, the 'colour line' was likely a sharp division between black and white castes, underpinned by beliefs about white superiority, reflecting the strict racial segregation and discrimination prevalent in the region during that era.
+Answer: D
+------------------------
+74. ------------------------
+Reasoning: The social construction of childhood is influenced by historical perspectives, cultural influences, psychological theories, and socioeconomic factors. The introduction of compulsory education, increasingly emotional ties between parents and children, and new consumer goods for children all contribute to the evolution of childhood as a social construct.
+Answer: D
+------------------------
+75. ------------------------
+Reasoning: The 'mode of production' in Marx's theory refers to the specific economic system in place in a society at a given time, including the means of production, the relations of production, and the social classes involved. It determines the social, political, and cultural aspects of a society.
+Answer: C
+------------------------
+76. ------------------------
+Reasoning: The trend of decarceration involves focusing on community alternatives to imprisonment and institutional care to reduce the number of individuals in prisons and alleviate issues related to overcrowding.
+Answer: A
+------------------------
+77. ------------------------
+Reasoning: Smart's work suggested that women's criminal behavior tended to reflect traditional gender roles, which is a key concept in his research.
+Answer: C
+------------------------
+78. ------------------------
+Reasoning: The role of the nurse being ambiguous and constantly redefined in interactions with staff and patients aligns with the challenges faced by nurses as highlighted in Allen's study.
+Answer: D
+------------------------
+79. ------------------------
+Reasoning: The practice of placing the blame for the problems of a society on one particular group, targeting them as a scapegoat for societal issues, and often leading to discrimination and persecution aligns with the concept of scapegoating.
+Answer: C
+------------------------
+80. ------------------------
+Reasoning: The correct answer should focus on power, domination, and conflict, which align with the key ideas and theories proposed by Dahrendorf, Rex, and Habermas in their works.
+Answer: D
+------------------------
+81. ------------------------
+Reasoning: Promoting local content, encouraging media diversity, and fostering cultural policies that support local productions can help resist American cultural domination by maintaining cultural authenticity and diversity in the media landscape.
+Answer: A
+------------------------
+82. ------------------------
+Reasoning: Privatization often leads to increased pressure on managers to prioritize financial performance over other considerations, shifting the focus towards shareholder value and profit maximization.
+Answer: D
+------------------------
+83. ------------------------
+Reasoning: The correct answer should align with the idea that gender stereotypes still influence hiring and promotion decisions, as evidenced by statistical data and case studies in recent research on gender roles in the workplace.
+Answer: D
+------------------------
+84. ------------------------
+Reasoning: Socialization is the process of becoming part of a society by learning its norms and values, which aligns with the diverse examples of socialization practices in different cultures, impacts individual behavior and personality development, shapes societal norms and values, and involves various factors such as family, education, media, and peer groups.
+Answer: C
+------------------------
+85. ------------------------
+Reasoning: Assets are a stock of economic resources, including land, shares, and bank deposits, which aligns with the comprehensive coverage of various types of assets and how they are classified based on their nature and liquidity.
+Answer: C
+------------------------
+86. ------------------------
+Reasoning: The correct order should prioritize lineage, followed by wealth, education, and then occupation. Among the options provided, the order of Marquesses of England, Earls of Great Britain, King's Brothers aligns with this criteria.
+Answer: B
+------------------------
+87. ------------------------
+Reasoning: Social norms are rules and expectations about interaction that regulate social life, reflecting the unwritten rules and expectations of a society, influencing behavior through social pressure and conformity, and varying across cultures. 
+Answer: D
+------------------------
+88. ------------------------
+Reasoning: The traditional and most commonly recognized definition of a nuclear family in sociology is a two-generation unit of parents and their children living together in one household.
+Answer: D
+------------------------
+89. ------------------------
+Reasoning: New social movements often prioritize inclusivity, flexibility, and innovation to address contemporary social issues in a rapidly changing world.
+Answer: C
+------------------------
+90. ------------------------
+Reasoning: The functionalist perspective views society as a system of interdependent and coordinated parts, emphasizing social order, cohesion, and consensus. 
+Answer: A
+------------------------
+91. ------------------------
+Reasoning: Post-Fordist forms of media production and consumption involve integration of digital platforms, personalized content delivery, and increased user participation, reflecting flexibility, customization, decentralization, and digital technology integration.
+Answer: C
+------------------------
+92. ------------------------
+Reasoning: The working class would be turned into a revolutionary force due to the exploitation and alienation experienced in factory-based production, leading to class consciousness and a desire for social change.
+Answer: C
+------------------------
+93. ------------------------
+Reasoning: During stage 3 of the health transition, the main causes of illness and death shift towards chronic, degenerative diseases such as cancer, heart disease, and strokes. This aligns with the characteristics of non-communicable diseases prevalent during this stage.
+Answer: C
+------------------------
+94. ------------------------
+Reasoning: The new ideal of independent, self-assured femininity, combined with cultural values of achievement and control, aligns with the societal beauty standards, emphasis on thinness, and media influence that are key contributors to the prevalence of anorexia in Western cultures.
+Answer: D
+------------------------
+95. ------------------------
+Reasoning: Definitions and indicators of social class can vary, making valid comparisons problematic, which aligns with the challenges of operationalizing the concept due to its multidimensional nature and varying perspectives.
+Answer: A
+------------------------
+96. ------------------------
+Reasoning: The 1990 reform of the National Health Service aimed to increase efficiency, promote competition, and improve patient care by restructuring hospitals to have more autonomy, focus on efficiency, and introduce internal markets. This aligns with hospitals becoming self-governing trusts competing for purchasing contracts from health authorities.
+Answer: A
+------------------------
+97. ------------------------
+Reasoning: The privatization of law and order in the 1980s and 1990s involved the expansion of private security companies, building private prisons, and introducing market disciplines to measure police performance, aligning with the characteristics of cost-cutting measures, efficiency, and involvement of private companies.
+Answer: D
+------------------------
+98. ------------------------
+Reasoning: Critics of the correspondence principle argue against its oversimplification of the relationship between education and the economy in modern society.
+Answer: A
+------------------------
+99. ------------------------
+Reasoning: Working class communities formed in the inner cities, while the middle classes moved out to the suburbs aligns with the key factors contributing to class segregation, unequal access to quality education, limited housing options for lower classes, and discriminatory employment practices during mid-twentieth century Britain.
+Answer: B
+------------------------
+100. ------------------------
+Reasoning: The correct answer should emphasize how one's self-concept is based on one's perception of how others see them, which aligns with Charles Cooley's theory of the looking-glass self.
+Answer: C
+------------------------
+101. ------------------------
+Reasoning: Queer Theory focuses on deconstructing traditional norms of gender and sexuality, emphasizing the fluidity and diversity of identities, and challenging the binary understanding of gender. It recognizes the pluralistic and fragmented nature of all sexualities, advocating for a more inclusive and reconstructed view of sexuality.
+Answer: D
+------------------------
+102. ------------------------
+Reasoning: Scott (1991) introduced the term 'power elite' to describe a small group of individuals from key sectors like the economy, politics, and the military who hold significant power and influence in society by making important decisions that shape the direction of society.
+Answer: D
+------------------------
+103. ------------------------
+Reasoning: The method of research described, involving direct observation and data collection within the hospital setting, focusing on interactions and relationships between individuals and departments, and utilizing field notes aligns with participant observation.
+Answer: C
+------------------------
+104. ------------------------
+Reasoning: Mead defined the 'generalized other' as a concept representing the internalized attitudes, viewpoints, and expectations of society as a whole towards the self. This aligns with the idea that individuals develop their sense of self through interactions with others and by internalizing the perspectives of the 'generalized other', which represents the collective societal norms and values.
+Answer: D
+------------------------
+105. ------------------------
+Reasoning: Women may seek cosmetic surgery due to societal pressure and beauty standards that promote unrealistic ideals of beauty, leading to a sense of inadequacy and the belief that they need to conform to these expectations.
+Answer: B
+------------------------
+106. ------------------------
+Reasoning: Marx believed that capitalism alienated workers from the product they were making, the production process, each other, and humanity in general.
+Answer: D
+------------------------
+107. ------------------------
+Reasoning: Herberg's study of religion in America focused on providing a comprehensive overview of religious diversity, emphasizing the threefold religious structure and the role of religion in American society. The option "D. all of the above" aligns with this approach as it encompasses various aspects highlighted in Herberg's study.
+Answer: D
+------------------------
+108. ------------------------
+Reasoning: Emphasizes social order, stability, and interdependence, highlighting the importance of social institutions and shared values.
+Answer: D
+------------------------
+109. ------------------------
+Reasoning: Based on Booth's (1901) study, which had a clear definition of poverty, specific measurement criteria, and reliable data sources, the percentage of people in London living in poverty was 30.70%.
+Answer: A
+------------------------
+110. ------------------------
+Reasoning: Traditional working class identity was often defined by individuals who worked in manual labor jobs, had lower income levels, and shared a strong sense of community and solidarity with other workers in similar positions.
+Answer: C
+------------------------
+111. ------------------------
+Reasoning: Bernstein believed that 'restricted codes' of language, characterized by short, simple sentences and a small vocabulary, disadvantaged pupils at school by hindering their ability to effectively communicate and engage in academic settings.
+Answer: D
+------------------------
+112. ------------------------
+Reasoning: Telework involves working at home for an outside employer, using information technology, which aligns with the benefits of telework for employees, company operations, challenges, and best practices.
+Answer: B
+------------------------
+113. ------------------------
+Reasoning: Based on economic exploitation and dependency theory, Frank (1967) argued that underdeveloped societies were economically dependent on the wealthy countries that exploited them.
+Answer: C
+------------------------
+114. ------------------------
+Reasoning: The case of the former Soviet Union aligns with Kerr et al.'s claim that advanced industrial technology strengthens the power of totalitarian regimes, as the Soviet Union utilized technology to control and monitor its population.
+Answer: C
+------------------------
+115. ------------------------
+Reasoning: The print revolution of the nineteenth century resulted in increased literacy rates, improved access to information, and dissemination of knowledge to a wider audience. It democratized access to education and information, empowering individuals to educate themselves and participate more actively in society.
+Answer: A
+------------------------
+116. ------------------------
+Reasoning: The term 'feminist standpoint' suggests studying society from the perspective of women, emphasizing the importance of women's experiences and perspectives in understanding social and political issues, challenging traditional power structures, and recognizing the intersectionality of gender with other social identities.
+Answer: B
+------------------------
+117. ------------------------
+Reasoning: Ethnographic research involves immersing oneself in the culture or community being studied, allowing for rich, detailed descriptions and interpretations of social interactions and behaviors.
+Answer: C
+------------------------
+118. ------------------------
+Reasoning: Marx believed that religion would disappear when the economic system was restructured to eliminate class divisions and inequality, making it unnecessary as a means of social control.
+Answer: B
+------------------------
+119. ------------------------
+Reasoning: The extended power of nation states is not a feature of globalization from an economic impact perspective as it does not involve the increase in international trade, investment, or economic growth.
+Answer: B
+------------------------
+120. ------------------------
+Reasoning: The correct answer should reflect the concept of social mobility, which is essential for individuals to gain a higher or lower social position than the one they were born into. Vertical mobility refers to moving up or down the social hierarchy, making it the most suitable option in this context.
+Answer: C
+------------------------
+121. ------------------------
+Reasoning: Leading questions can bias responses and skew survey results, so it is important to avoid them.
+Answer: C
+------------------------
+122. ------------------------
+Reasoning: The theory of development that suggests societies move from traditional to modern, industrial forms of organization aligns with the characteristics of focusing on societal progress, technological advancements, economic growth, and cultural changes. This theory emphasizes the transition from traditional to modern forms of organization and highlights the role of industrialization in societal development.
+Answer: B
+------------------------
+123. ------------------------
+Reasoning: Wealth, influence, and visibility are key markers of social status in modern societies, making income the most relevant option.
+Answer: B
+------------------------
+124. ------------------------
+Reasoning: Sociology relies on systematic research, empirical evidence, and critical analysis, which distinguishes it from common sense that is based on personal experiences and beliefs.
+Answer: C
+------------------------
+125. ------------------------
+Reasoning: World-affirming religions typically emphasize the goodness of the world and the importance of living a fulfilling and joyful life, which aligns with embracing conventional cultural values but offering new means of achieving them.
+Answer: A
+------------------------
+126. ------------------------
+Reasoning: Based on the criteria used by Parker (1976) to identify the extension pattern, the correct answer should be specific, detailed, and based on empirical evidence. Option B, characteristic of professionals and skilled workers, whose work interests spilled over into leisure time, fits this description as it provides a specific group of individuals and their behavior supported by empirical evidence.
+Answer: B
+------------------------
+127. Reasoning: Weber defined a 'class situation' as involving economic interests, social status, and power dynamics within society, not solely based on economic factors.
+Answer: C
+128. ------------------------
+Reasoning: The introduction of market principles in educational policy in the 1980s led to increased competition among schools, a focus on performance metrics, and potential disparities in funding distribution, which align with the characteristics associated with this shift.
+Answer: A
+------------------------
+129. ------------------------
+Reasoning: Smith & Tomlinson's argument focuses on the significance of differences in ethnic background in predicting educational achievement, which is a key point they emphasize in their work.
+Answer: A
+------------------------
+130. ------------------------
+Reasoning: The characteristics of a post-industrial society according to Bell (1973) include a shift towards a service economy, based on knowledge and information, which aligns with the correct answer.
+Answer: C
+------------------------
+131. ------------------------
+Reasoning: White-collar crime is low in visibility because it goes undetected in the context of everyday business transactions, involving complex financial transactions that are hard to detect for the average person.
+Answer: D
+------------------------
+132. ------------------------
+Reasoning: When considering the impact of industrial capitalism on working conditions and hours of labor, it is evident that leisure emerged as a concept meaning distinct periods of non-work and relaxation to provide a break from the longer working hours and harsh conditions imposed by industrial capitalism.
+Answer: A
+------------------------
+133. ------------------------
+Reasoning: A moral panic occurs when the media exaggerate reports of deviant groups, generating hostile reactions.
+Answer: A
+------------------------
+134. ------------------------
+Reasoning: The correct answer should reflect a decline in the birth rate, greater life expectancy, and an aging population, which are key characteristics of the demographic transition model.
+Answer: D
+------------------------
+135. ------------------------
+Reasoning: 'Snowballing' is commonly used in a specific context related to a particular concept or action, where it refers to a strategy where something grows in size or significance at an increasing rate because of compounding effects.
+Answer: B
+------------------------
+136. ------------------------
+Reasoning: The correct answer aligns with Marx's theory of class polarization, focusing on the growing gap between rich and poor and the resulting class consciousness.
+Answer: B
+------------------------
+137. ------------------------
+Reasoning: Incorporation in the context of the labour movement in the nineteenth century meant including working class organizations in political bargaining and representation, granting them legal recognition and protection.
+Answer: D
+------------------------
+138. ------------------------
+Reasoning: The information provided emphasizes the importance of acculturation, integration, and socialization processes in public schools for immigrant children to learn English and citizenship duties. This aligns with the concept of acculturation, which involves adapting to a new culture, making it the most suitable answer.
+Answer: A
+------------------------
+139. ------------------------
+Reasoning: The correct answer should reflect the interconnectedness of economies, division of labor on a global scale, and unequal power dynamics within the world system, as emphasized by Wallerstein's theory of the capitalist world economy.
+Answer: D
+------------------------
+140. ------------------------
+Reasoning: According to Foucault, carceral organizations are designed to isolate people and put them under surveillance as mechanisms of social control, which aligns with the focus on surveillance, discipline, and normalization of behavior within these institutions.
+Answer: D
+------------------------
+141. ------------------------
+Reasoning: The correct answer should be a level of society that is not widely acknowledged or recognized by mainstream society, indicating a lack of influence or power within social structures and interactions.
+Answer: C
+------------------------
+142. ------------------------
+Reasoning: Ethnic identity refers to a felt sense of group membership on the basis of religion, language, or history, which aligns with the cultural components of ethnic identity and the psychological aspects of ethnic identity.
+Answer: B
+------------------------
+143. ------------------------
+Reasoning: Marriage may appear to be in decline due to economic factors influencing the decision to marry, such as a decrease in financial stability, rising costs of living, and changing societal norms.
+Answer: B
+------------------------
+144. ------------------------
+Reasoning: The market model of state welfare emphasizes competition, private sector involvement, and consumer choice, which align with the characteristics mentioned in the information provided.
+Answer: D
+------------------------
+145. ------------------------
+Reasoning: The term feminization of poverty refers to women's increased chances of being in poverty, due to low pay and greater welfare dependency, which highlights the systemic barriers that disproportionately affect women in accessing resources and opportunities.
+Answer: B
+------------------------
+146. ------------------------
+Reasoning: Sociological communities formed by unpopular lecturers do not align with the characteristics of new forms of community that transcend physical boundaries and rely on digital platforms for communication and connection. This type of community is more traditional and does not involve innovative ways of connecting people.
+Answer: C
+------------------------
+147. ------------------------
+Reasoning: The use of 'indentured labour' in the nineteenth century involved people being transported to the British colonies and forced to work for one employer under poor conditions, which aligns with the economic impact, social conditions, legal aspects, and cultural implications of the practice.
+Answer: A
+------------------------
+148. ------------------------
+Reasoning: Cultural restructuring involves regenerating cities in economic decline, turning industrial landscapes into tourist attractions, and selling sites and images through the 'symbolic economy' of media advertising. These actions target specific cultural elements, involve active participation from individuals and communities, align with organizational strategies, and face challenges and resistance. Therefore, the correct answer is D, all of the above.
+Answer: D
+------------------------
+149. ------------------------
+Reasoning: The concept of salaries was not a key part of Weber's ideal type of bureaucracy, which focused more on hierarchy, division of labor, and impersonal rules.
+Answer: D
+------------------------
+150. ------------------------
+Reasoning: Parents are the primary caregivers and role models for young children, having the most direct and consistent impact on a child's socialization process during early childhood.
+Answer: D
+------------------------
+151. ------------------------
+Reasoning: The research purpose of 'triangulation' is not aligned with the goals of generating new knowledge, testing hypotheses, or solving practical problems through systematic investigation, making it the correct answer.
+Answer: A
+------------------------
+152. ------------------------
+Reasoning: Height was not commonly considered in the 'scientific' theories of race during the nineteenth century because it did not align with prevailing scientific beliefs of that time period.
+Answer: C
+------------------------
+153. ------------------------
+Reasoning: The Fashion Sensibility Survey is not a well-known or recognized national survey carried out by the British government, making it the correct choice.
+Answer: C
+------------------------
+154. ------------------------
+Reasoning: Based on Blauner's (1964) definition of alienation in the workplace, the industry that involves repetitive and monotonous tasks, lack of autonomy and control over work processes, and little opportunity for meaningful social interactions is machine-based factory work.
+Answer: A
+------------------------
+155. ------------------------
+Reasoning: The characteristics of a decentralized city include a shift of employment and services away from the inner city towards multiple centers in smaller towns and rural areas, which aligns with the distributed nature of decision-making and governance in a decentralized city.
+Answer: A
+------------------------
+156. ------------------------
+Reasoning: Lombroso believed that biological failings drove some people into crime, focusing on the idea that criminal behavior is determined by biological factors such as genetics and physical characteristics.
+Answer: C
+------------------------
+157. ------------------------
+Reasoning: Warner and Myrdal claimed that black former slaves were not joining the 'ethnic melting pot' of North American cities because they believed that systemic racism and discrimination were major barriers preventing black former slaves from fully integrating into society.
+Answer: D
+------------------------
+158. ------------------------
+Reasoning: Berger & Luckmann argue that reality is socially constructed through shared definitions of situations and social worlds, which individuals live by, emphasizing the influence of social interactions and cultural norms.
+Answer: B
+------------------------
+159. ------------------------
+Reasoning: The characteristics of a bureaucracy include hierarchical structure, division of labor, rules and regulations, impersonal relationships, and formalized communication. Among the options provided, the government of a large city best fits these criteria as it typically exhibits a hierarchical structure, division of labor, rules and regulations, impersonal relationships, and formalized communication, making it a bureaucratic entity.
+Answer: B
+------------------------
+160. ------------------------
+Reasoning: Emphasis on emotional storylines, focus on interpersonal relationships, and reinforcement of traditional gender roles align with the characteristics of soap operas as a 'feminine genre' according to Pilcher (1999).
+Answer: B
+------------------------
+161. ------------------------
+Reasoning: The indicator "buying fewer than twenty DVDs in the previous year" does not align with Townsend's (1979) indicators of relative deprivation, which focused on material deprivation, social exclusion, and lack of opportunities. This indicator does not fit within those criteria.
+Answer: C
+------------------------
+162. ------------------------
+Reasoning: The social sanction applied in this instance involves teasing and ridicule, which can be considered a form of negative reinforcement as it involves the removal of a negative stimulus to discourage the behavior of thumb-sucking. 
+Answer: D
+------------------------
+163. ------------------------
+Reasoning: The concept of political culture refers to the basic beliefs and orientation toward politics that are shared widely by the members of a culture, which aligns with the shared beliefs, values, and norms that shape political behavior within a society.
+Answer: B
+------------------------
+164. ------------------------
+Reasoning: Walt Disney is a well-established company with a diversified business model and significant influence on the entertainment industry. Sony has a diversified business portfolio with a strong focus on innovation and technology, while Time Warner has major subsidiaries with diverse portfolios and global reach. Therefore, the correct answer is A. transnational corporations.
+Answer: A
+------------------------
+165. ------------------------
+Reasoning: Equilibrium theories of social change emphasize stability and the structure of society, gradual transformation, and the idea that society naturally seeks balance. These theories posit that social change occurs as a response to disruptions in the existing balance of society, leading to gradual adjustments and transformations to restore stability and equilibrium within the social system.
+Answer: B
+------------------------
+166. ------------------------
+Reasoning: The United States government defines poverty based on specific income thresholds and poverty guidelines, which are used to determine eligibility for assistance programs.
+Answer: A
+------------------------
+167. ------------------------
+Reasoning: The 'absolute' poverty line is drawn to show the estimated minimum level of income needed for subsistence, based on a fixed minimum income level or standard of living necessary for basic human needs like food, shelter, and clothing.
+Answer: B
+------------------------
+168. ------------------------
+Reasoning: 'Eyeballing' involves making a rough estimate or measurement based on visual observation rather than precise measurement tools. It typically refers to visually assessing or approximating something without using specific measuring instruments.
+Answer: C
+------------------------
+169. ------------------------
+Reasoning: The strategy of making all strike action illegal was not used by the Conservative government of 1979 to reduce the power of the labour movement.
+Answer: A
+------------------------
+170. ------------------------
+Reasoning: From the perspective of medical professionals in the nineteenth century, homosexuality was often viewed as a mental disorder or illness, which aligns with the understanding that it was considered a subordinate form of masculinity that threatened 'compulsory heterosexuality.'
+Answer: C
+------------------------
+171. ------------------------
+Reasoning: A broad base with a gradual narrowing towards the top indicates a population with a high proportion of young individuals and a lower proportion of elderly individuals, which aligns with a population that has had a slightly larger birth rate than death rate for several generations.
+Answer: B
+------------------------
+172. ------------------------
+Reasoning: The 'new racism' is characterized by more covert and indirect forms of discrimination compared to overt and explicit forms seen in traditional racism. It also tends to target cultural differences rather than biological ones, and often employs coded language or symbols to convey racist ideas without being as easily identifiable as traditional racism.
+Answer: A
+------------------------
+173. ------------------------
+Reasoning: The phenomenon that best explains Giselle's lack of promotion despite her qualifications and performance is the glass ceiling, which refers to invisible barriers that prevent women from advancing to higher positions in the corporate world. This is often due to gender bias in decision-making processes and lack of diversity in leadership roles.
+Answer: A
+------------------------
+174. ------------------------
+Reasoning: The Mafia is a classic example of organized crime due to its secretive and hierarchical structure, involvement in illegal activities like extortion and racketeering, and adherence to a code of silence known as omertà. 
+Answer: B
+------------------------
+175. ------------------------
+Reasoning: Goldthorpe identified the 'service class' as a social class characterized by individuals with advanced education, typically working in professional or managerial roles that involve non-manual labor.
+Answer: A
+------------------------
+176. ------------------------
+Reasoning: The correct answer should reflect the use of power-driven machinery and the concentration of workers in large workplaces, which were key characteristics of industrial production in the nineteenth century driven by technological advancements and the growth of urban centers.
+Answer: D
+------------------------
+177. ------------------------
+Reasoning: The term 'collective consumption' as defined by Manuel Castells in 1977 refers to the provision of health, housing, and education services by the state.
+Answer: D
+------------------------
+178. ------------------------
+Reasoning: The term "mollies" accurately describes the deviant subculture of homosexuals in seventeenth and eighteenth century London, reflecting the historical context and societal attitudes towards homosexuality at that time.
+Answer: B
+------------------------
+179. ------------------------
+Reasoning: The correct answer should reflect the dynamic of Robert and Tanya's family unit where both parents and children are involved in living together and sharing responsibilities, indicating a balanced division of household responsibilities and roles within the family.
+Answer: B
+------------------------
+180. ------------------------
+Reasoning: The term 'collective representations' in Durkheim's work refers to shared ideas and moral values, often symbolized by an object or figurehead, which aligns with his belief that these shared beliefs, values, and norms are essential for creating social cohesion and solidarity within a society.
+Answer: C
+------------------------
+181. ------------------------
+Reasoning: Totalitarian societies are characterized by lack of individual freedoms, government control over all aspects of life, propaganda and censorship, and a single-party system. Freedom of movement for citizens goes against the control and restriction typically seen in totalitarian regimes.
+Answer: B
+------------------------
+182. ------------------------
+Reasoning: The ego is defined by Freud as the part of the personality that mediates between the demands of the id, superego, and reality, balancing desires and moral standards. Based on this definition, the correct answer is C. 
+Answer: C
+------------------------
+183. ------------------------
+Reasoning: The theory that focuses on how society manages to carry out the activities necessary to maintain order and stability by emphasizing the interdependence of social institutions, social cohesion, and shared values is Functionalism.
+Answer: A
+------------------------
+184. ------------------------
+Reasoning: The correct answer should be a personal document with closed access, containing sensitive personal information, and not intended for public viewing. Among the options provided, confidential medical records best fit these criteria.
+Answer: B
+------------------------
+185. ------------------------
+Reasoning: The tripartite system used the 11+ exam to select pupils for grammar, technical, and secondary modern schools based on their academic abilities and potential, aiming to provide tailored education paths for students with varying capabilities.
+Answer: C
+------------------------
+186. ------------------------
+Reasoning: Durkheim defined social facts as ways of acting, thinking, and feeling that are collective and social in origin, emphasizing the coercive nature of these external forces on individuals' behavior.
+Answer: A
+------------------------
+187. ------------------------
+Reasoning: The media-themes model of media influence focuses on how audiences selectively interpret the themes and messages portrayed in media content, rather than passively absorbing them. This model suggests that audiences actively engage with media content and choose what they want to hear or see.
+Answer: A
+------------------------
+188. ------------------------
+Reasoning: Bowlby's maternal deprivation thesis focused on the negative consequences of children being deprived of an early, secure attachment to their mother, leading to physical, intellectual, and social issues in later life.
+Answer: B
+------------------------
+189. ------------------------
+Reasoning: Industrialization provided better transport, technology, and administration, leading to the development of more powerful weapons and faster transportation methods, which allowed nation states to engage in large-scale conflicts.
+Answer: B
+------------------------
+190. ------------------------
+Reasoning: The criterion "a fixed geographical location" is not aligned with the key elements of shared values, social interaction, and a sense of belonging emphasized by Fulcher & Scott as essential for defining a community.
+Answer: C
+------------------------
+191. ------------------------
+Reasoning: The Great Migration of 1916-1919 brought a significant increase in the population of African Americans and immigrants from Southern and Eastern Europe to Chicago, leading to a more ethnically diverse city. This suggests that most ethnic groups were integrated into mainstream society, but the black population remained in the city's ghettos.
+Answer: C
+------------------------
+192. ------------------------
+Reasoning: According to Scott (1990), a document is considered 'authentic' if it is a 'sound' original, or reliable copy, of known authorship. This aligns with Scott's criteria for document authenticity.
+Answer: D
+------------------------
+193. ------------------------
+Reasoning: Decreased rates of prostitution and sex tourism are not typically associated with global tourism, while the other options have negative consequences related to environmental impact, socio-cultural effects, and economic implications.
+Answer: A
+------------------------
+194. ------------------------
+Reasoning: Thatcher's government was known for its emphasis on free-market capitalism, privatization, and reducing the role of the state in the economy. Therefore, the goal of generous financial benefits for single parents, students, and the unemployed does not align with these principles.
+Answer: C
+------------------------
+195. ------------------------
+Reasoning: Covert participant observation involves deceiving the respondents as to the reason for the researcher's presence, violating the principle of informed consent and potentially leading to feelings of betrayal among participants.
+Answer: B
+------------------------
+196. ------------------------
+Reasoning: The embourgeoisement thesis suggests that the affluent working class is adopting middle class values and ways of life, blurring the lines between the two classes.
+Answer: B
+------------------------
+197. ------------------------
+Reasoning: The correct answer reflects traditional gender roles, societal norms, and historical beliefs that limited women's participation in the public sphere due to prevailing attitudes about women's roles in society. Options A, B, and C do not directly address these factors, while option D encompasses all the mentioned perspectives, making it the most comprehensive and accurate choice.
+Answer: D
+------------------------
+198. ------------------------
+Reasoning: Economic aid may fail to promote modernization in developing countries due to the lack of effective governance structures, corruption, lack of transparency, and inefficiency in decision-making processes. Without proper governance mechanisms in place, aid funds may be mismanaged or diverted for personal gain rather than used for development projects.
+Answer: C
+------------------------
+199. ------------------------
+Reasoning: Terrorism is different from the types of crime described by the Chicago School because it is committed on a larger, often global, scale, is well organized, associated with political conflict, can have far-reaching effects upon international relations, and is driven by political or ideological motives, targeting civilians to create fear and achieve larger goals.
+Answer: A
+------------------------
+200. ------------------------
+Reasoning: The human relations approach emphasized teamwork, communication, and employee satisfaction to promote better relationships and productivity in the workplace.
+Answer: B
+------------------------
+201. ------------------------
+Reasoning: Domhoff did not identify the exploitation process as a process of decision-making in the USA in his research.
+Answer: B
+------------------------

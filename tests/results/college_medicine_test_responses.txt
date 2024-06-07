@@ -1,0 +1,682 @@
+1. ------------------------
+Reasoning: The psychological framework that directly addresses the unconscious bias in the officer's behavior, stemming from his childhood trauma and personal experiences, is the Psychoanalytic approach. This approach focuses on exploring the unconscious mind, childhood experiences, and past relationships to understand how they influence current behavior and biases. 
+Answer: B
+------------------------
+2. ------------------------
+Reasoning: The world record for the mile race in 1886 should be a specific time measurement in minutes and seconds, which is crucial for historical accuracy and comparison with current records.
+Answer: D
+------------------------
+3. ------------------------
+Reasoning: The gustatory system (sense of taste) and the olfactory system (sense of smell) are both chemically based sensory systems that rely on the detection of specific chemical molecules to elicit a response. The auditory system, on the other hand, processes sound waves and does not involve chemical stimuli. Therefore, the correct answer is D. I and III only.
+Answer: D
+------------------------
+4. ------------------------
+Reasoning: The resynthesis of phosphocreatine after very high intensity exercise is a slow process that requires energy and time, so the correct answer should reflect a relatively long timeframe.
+Answer: D
+------------------------
+5. ------------------------
+Reasoning: The initial velocity of the race car is 0 km/h because it is at rest before accelerating towards the ramp. The acceleration required is determined by the force applied, which is independent of the mass of the car. Considering additional forces like air resistance and friction, a higher initial acceleration is needed to reach the target velocity of 130 km/h.
+Answer: A
+------------------------
+6. ------------------------
+Reasoning: Long-chain fatty acids require carnitine for transport into the mitochondria, and the carnitine shuttle system is specifically designed for this purpose.
+Answer: D
+------------------------
+7. ------------------------
+Reasoning: The author is likely to agree with the statement that sauna use may reduce the risk of developing psychotic disorders, regardless of other lifestyle factors, based on the evidence presented in the article.
+Answer: A
+------------------------
+8. ------------------------
+Reasoning: DFP specifically binds to the active site of ACE through a covalent bond formation, leading to irreversible inactivation of the enzyme. This aligns with irreversible inhibition characteristics.
+Answer: C
+------------------------
+9. ------------------------
+Reasoning: The process of translation requires the presence of mRNA, tRNA, and ribosomes as they are essential components for protein synthesis, which is the basis of translation.
+Answer: A
+------------------------
+10. ------------------------
+Reasoning: Performance enhancing synthetic steroids are designed to mimic the effects of testosterone in order to enhance athletic performance and muscle growth.
+Answer: A
+------------------------
+11. ------------------------
+Reasoning: Strong acids completely dissociate in water, donate protons easily, and have a low pH. The statement that corresponds most accurately with strong acids is that they have stable conjugate bases.
+Answer: C
+------------------------
+12. ------------------------
+Reasoning: The E2 elimination mechanism favors the formation of the more substituted alkene, which in this case is 2-butene. This is due to the fact that the E2 mechanism involves the removal of a proton and a leaving group in a concerted manner to form a double bond, leading to the more stable alkene being the major product.
+Answer: A
+------------------------
+13. Reasoning: The most severe ethical violation in this scenario is having non-consensual sexual relations with an unknown woman, as it directly violates the principle of consent and causes harm to the individual. 
+Answer: D
+14. ------------------------
+Reasoning: The correct answer should be D because the maximum sustainable power is inversely related to muscle glycogen content, as glycogen is a key energy source for sustained power output during physical activities.
+Answer: D
+------------------------
+15. ------------------------
+Reasoning: The patient's symptoms of aggression, agitation, and urgency are indicative of an overactive dopamine system, which would result in increased dopamine levels.
+Answer: A
+------------------------
+16. ------------------------
+Reasoning: The power level at which the highest percentage of mice pressed the lever indicates the point at which the mice were able to hear the bell most consistently, representing the absolute threshold for hearing.
+Answer: B
+------------------------
+17. ------------------------
+Reasoning: The transcription of DNA to messenger RNA occurs in the nucleus, involving the RNA polymerase enzyme, and results in the formation of a complementary RNA strand, which is crucial for gene expression and protein synthesis.
+Answer: C
+------------------------
+18. ------------------------
+Reasoning: The new enzyme that catalyzes a process switching a nitrogen group between two reactants falls under the category of Transferase, as it involves the transfer of a functional group (nitrogen group) from one molecule to another.
+Answer: B
+------------------------
+19. ------------------------
+Reasoning: A higher pKb value indicates a weaker base in the solution. 
+Answer: B
+------------------------
+20. ------------------------
+Reasoning: The genome refers to the entire DNA sequence of an organism, containing all the genetic information necessary for development, functioning, and regulation. It includes genes and non-coding sequences, making option B the correct choice.
+Answer: B
+------------------------
+21. ------------------------
+Reasoning: Testosterone and Progesterone are steroid-based molecules with a specific four-ring structure that act as signaling molecules to regulate physiological functions in the body. Triglycerides and DNA do not have the same structure or function as steroid-based molecules. 
+Answer: C. I and III
+------------------------
+22. ------------------------
+Reasoning: Free fatty acids are transported in the blood bound to albumin, which acts as a carrier protein for efficient transport and prevents precipitation. 
+Answer: D
+------------------------
+23. ------------------------
+Reasoning: Both temperature and pH can significantly impact enzyme activity by denaturing enzymes and affecting their active sites. The presence of certain metal ions can also influence enzyme activity. 
+Answer: D
+------------------------
+24. ------------------------
+Reasoning: Passive transport processes such as diffusion and osmosis rely solely on the concentration gradient of materials to move them across the cell membrane without requiring energy input. This process allows for efficient and passive movement of materials, making it crucial for maintaining cellular homeostasis.
+Answer: A
+------------------------
+25. ------------------------
+Reasoning: Proteins involved in the electron transport chain and ATP synthesis are crucial components embedded in the inner membrane of the mitochondrion.
+Answer: B
+------------------------
+26. ------------------------
+Reasoning: The correct answer should exhibit both a point mutation and a deletion. Option B (5’ – TGATCCCAG – 3’) shows a point mutation with a substitution of 'G' to 'T' and a deletion of 'TCC' compared to the original sequence, fulfilling the criteria.
+Answer: B
+------------------------
+27. ------------------------
+Reasoning: The Doppler effect formula for sound frequency takes into account the relative motion of the source and the observer, which is crucial in this scenario where the gunshot is coming from an actor inside a moving car and being recorded by a camera on a moving platform. By using this formula, the sound technician can accurately calculate the perceived frequency of the gunshot as picked up by the camera, taking into consideration the speeds and directions of both the source and the observer.
+Answer: A
+------------------------
+28. ------------------------
+Reasoning: The acceleration of the object is directly proportional to the sine of the angle of incline, and the equation should include the acceleration due to gravity term. 
+Answer: A
+------------------------
+29. ------------------------
+Reasoning: David's perfectionism, comparison to better players, and self-criticism indicate high standards, a desire for excellence, and fear of failure, suggesting he has high self-esteem, strong self-efficacy, and an internal locus of control.
+Answer: B
+------------------------
+30. ------------------------
+Reasoning: A ventricular septal defect would lead to an increased blood flow from the left ventricle to the right ventricle, resulting in a higher percentage of oxygen in the right ventricle due to the mixing of oxygen-rich blood from the left ventricle.
+Answer: D
+------------------------
+31. ------------------------
+Reasoning: The student's method of actively relating new information to previous knowledge promotes a deeper understanding of the material, enhances retention of information, and allows for building upon basic knowledge to grasp advanced concepts. 
+Answer: D
+------------------------
+32. ------------------------
+Reasoning: The study that shows long periods of stagnant growth followed by short bursts of massive evolution directly supports the idea that advantageous traits can arise randomly and spread rapidly through a population, aligning with the second scientist's theory.
+Answer: B
+------------------------
+33. ------------------------
+Reasoning: When sound waves travel from one medium to a denser medium, the speed of sound remains constant, but the wavelength decreases and the frequency increases to maintain the same speed. This means that the velocity of sound is the only parameter that does not change when transitioning between different mediums.
+Answer: A
+------------------------
+34. ------------------------
+Reasoning: The energy charge of a cell is calculated based on the ratio of ATP to ADP levels within the cell, reflecting the balance between ATP production and consumption.
+Answer: A
+------------------------
+35. ------------------------
+Reasoning: The body compensates for increased environmental temperature by increasing water lost through the skin, which is a mechanism to dissipate excess heat and maintain a stable internal temperature.
+Answer: D
+------------------------
+36. ------------------------
+Reasoning: Palmitic acid has a high carbon and hydrogen content, making it release the most energy when completely oxidized in the body.
+Answer: B
+------------------------
+37. ------------------------
+Reasoning: Fetal hemoglobin has a higher affinity for oxygen and can provide benefits such as increased oxygen-carrying capacity and potential protection against certain diseases.
+Answer: D
+------------------------
+38. ------------------------
+Reasoning: Advancements in training methods, technology, and specialized coaching for female athletes have contributed to the rapid improvement in women's world record performances.
+Answer: D
+------------------------
+39. ------------------------
+Reasoning: The correct process of muscle contraction that requires ATP, in addition to the power stroke, is the detachment of myosin from actin. This process involves the binding of ATP to myosin, leading to the release of myosin from actin, which requires energy input.
+Answer: D
+------------------------
+40. ------------------------
+Reasoning: Creatine kinase is an enzyme primarily found in muscle cells and is involved in energy production during muscle contraction, so the correct answer should reflect this by being related to muscle activity.
+Answer: D
+------------------------
+41. ------------------------
+Reasoning: The observation that performance on quizzes has increased significantly suggests that the extrinsic rewards are effective in motivating students to study and perform well. However, the fact that tardiness has only decreased slightly indicates that the extrinsic rewards may not be as effective in changing behavior that is more closely tied to intrinsic motivation, such as punctuality. Additionally, the timing of the rewards (daily vs weekly) may also play a role in their effectiveness, as immediate rewards are generally more impactful in shaping behavior than delayed rewards.
+Answer: B
+------------------------
+42. ------------------------
+Reasoning: When considering the overall efficiency of ATP production through substrate-level phosphorylation in glycolysis, the answer that aligns with high efficiency is 2 from glucose and 4 from glycogen. Glycolysis is known for its efficiency in ATP production, and the option B provides a higher total ATP production compared to the other choices.
+Answer: B
+------------------------
+43. ------------------------
+Reasoning: The tissue that secretes B-hCG is the placenta, and its function is to support the growth of the embryo by maintaining the corpus luteum during early pregnancy.
+Answer: D
+------------------------
+44. ------------------------
+Reasoning: The son of a bricklayer going from college to becoming a teacher at a medical school shows intergenerational mobility with respect to the father, followed by upward mobility as he gets promoted to a tenured professor, and finally horizontal mobility as he moves across the country for a new tenured professor position at a different school.
+Answer: C
+------------------------
+45. ------------------------
+Reasoning: The ratio of A:T in the newly synthesized complimentary strand of DNA will be 2:3 because DNA polymerase adds nucleotides that are complementary to the template strand.
+Answer: C
+------------------------
+46. ------------------------
+Reasoning: The tricarboxylic acid cycle (Krebs' cycle) produces 2 CO2 molecules and 1 ATP molecule per turn. Therefore, in one complete turn of the cycle, the total number of CO2 and ATP molecules formed would be 2CO2 and 1ATP.
+Answer: D
+------------------------
+47. ------------------------
+Reasoning: The concerning sign during the evaluation would be if the child shows extreme distress or anxiety when the mother leaves the room, as this could indicate attachment issues or separation anxiety.
+Answer: B
+------------------------
+48. ------------------------
+Reasoning: The spectator's perception of welfare recipients as lazy is influenced by stereotypes, biases, lack of understanding of diverse circumstances, and an emotional response, which align with the characteristics of prejudice.
+Answer: A
+------------------------
+49. ------------------------
+Reasoning: Surfactant reduces surface tension in the alveoli by interfering with the attractive forces between water molecules, preventing their collapse during exhalation. This is achieved by surfactant molecules being hydrophobic and inserting themselves between water molecules, reducing surface tension and allowing the alveoli to remain open.
+Answer: B
+------------------------
+50. ------------------------
+Reasoning: Balancing the chemical equation, C2H4 + 3O2 -> 2CO2 + 2H2O, we can see that 1 mole of ethane (C2H4) produces 2 moles of carbon dioxide (CO2). Given 84g of ethane, we can calculate the moles of ethane, convert it to moles of carbon dioxide, and then determine the mass of carbon dioxide produced. 
+Answer: D
+------------------------
+51. ------------------------
+Reasoning: Sauna use results in a significant increase in core body temperature, leading to sweating and fluid loss. Adequate hydration is essential to replenish lost fluids and prevent dehydration. Replenishing lost fluids also helps maintain plasma volume, which plays a crucial role in regulating core body temperature and preventing overheating. Therefore, hydrating adequately after sauna use is important to support the body's physiological responses and promote overall health and well-being.
+Answer: D
+------------------------
+52. ------------------------
+Reasoning: Palmitic acid does not contain an amine group or a carboxylic acid group, unlike amino acids which are characterized by having both groups in their structure.
+Answer: D
+------------------------
+53. ------------------------
+Reasoning: Energy expenditure during exercise is directly related to the amount of oxygen consumed by the athlete. To calculate the energy expended, we need to consider the conversion factor between liters of oxygen consumed and kilojoules of energy expended. Given the oxygen uptake of 3.0 l/min for 5 minutes, the total energy expended would be 3.0 l/min * 5 min = 15 liters of oxygen consumed. Using the conversion factor, the correct answer is 300 kJ.
+Answer: C
+------------------------
+54. ------------------------
+Reasoning: A low intake of carbohydrate in the diet may impair high intensity exercise performance due to the body's reliance on carbohydrates for quick energy during intense physical activity.
+Answer: C
+------------------------
+55. ------------------------
+Reasoning: Lipidation is not a common process used to modify protein structure after translation, unlike phosphorylation, glycosylation, and acetylation. Post-translational modifications typically involve processes like phosphorylation, glycosylation, acetylation, and proteolytic cleavage.
+Answer: A
+------------------------
+56. ------------------------
+Reasoning: Insulin is a key regulator of glucose uptake in muscle cells, and essential amino acids stimulate insulin release, promoting glucose uptake by muscle cells.
+Answer: B
+------------------------
+57. ------------------------
+Reasoning: The deamination of branched chain amino acids in muscle results in the production of ammonia, which is mostly utilized for the synthesis of glutamine, a key amino acid involved in nitrogen transport and detoxification in the body.
+Answer: B
+------------------------
+58. ------------------------
+Reasoning: The molecule binding to cytochrome oxidase A3 would disrupt cellular respiration and ATP production, leading to potential cell death.
+Answer: A
+------------------------
+59. ------------------------
+Reasoning: The patient's description aligns with the characteristics of depersonalization, which is commonly associated with dissociative disorders and can occur in response to severe stress or trauma.
+Answer: C
+------------------------
+60. ------------------------
+Reasoning: Endurance training primarily focuses on increasing slow-twitch muscle fibers, improving oxygen utilization, and enhancing muscle glycogen storage capacity, which aligns with the ability to burn fat and carbohydrate for energy.
+Answer: C
+------------------------
+61. ------------------------
+Reasoning: Metabolism is influenced by diet and exercise, with different types of food and physical activity levels affecting metabolic rate. 
+Answer: C
+------------------------
+62. ------------------------
+Reasoning: The speed of sound in the medium is a crucial variable that directly affects the calculation of the doppler shift in perceived sound frequency. Additionally, the frequency of the emitted sound is essential in determining the doppler shift. 
+Answer: D
+------------------------
+63. ------------------------
+Reasoning: The key attribute in successful marathon running is a combination of strong cardiovascular endurance, muscular strength and endurance, proper running form, and a well-rounded training program. This ensures that the runner can sustain the long distance and intensity of a marathon race.
+Answer: D
+------------------------
+64. ------------------------
+Reasoning: The S phase is common to both meiosis and mitosis as it involves DNA replication, which is essential for cell division.
+Answer: D
+------------------------
+65. ------------------------
+Reasoning: Oxygen consumption is directly proportional to energy expenditure in the human body, so if the mean rate of oxygen consumption is 2 l/min, the rate of energy expenditure would be approximately 400 kJ/min.
+Answer: A
+------------------------
+66. ------------------------
+Reasoning: An equal ratio of purines to pyrimidines ensures stability and proper functioning of the DNA molecule by maintaining proper base pairing.
+Answer: D
+------------------------
+67. Reasoning: The cultural acceptance and prevalence of sauna use in Finland make it more plausible for sauna bathing to be a common and regular activity compared to other countries.
+Answer: A
+68. ------------------------
+Reasoning: Avoiding challenges or difficult tasks is not a strategy that therapists would typically recommend to raise self-efficacy as it hinders the opportunity to build confidence in one's abilities.
+Answer: D
+------------------------
+69. ------------------------
+Reasoning: The inhibition of phosphocreatine resynthesis during recovery from exercise is influenced by factors like lactate accumulation, high intensity and long duration of exercise, absence of carbohydrates in the diet, and individual differences in metabolism and muscle composition. Among the given options, a lack of oxygen would lead to anaerobic metabolism, resulting in lactate accumulation and hindering phosphocreatine resynthesis.
+Answer: D
+------------------------
+70. ------------------------
+Reasoning: The products having a higher Rf value compared to the reactants in thin layer chromatography suggests that the products are more polar than the reactants, causing them to interact more strongly with the stationary phase. 
+Answer: B
+------------------------
+71. ------------------------
+Reasoning: The process described involves the conversion of non-carbohydrate sources such as lactate, glycerol, or amino acids into glucose, which aligns with the process of gluconeogenesis.
+Answer: D
+------------------------
+72. ------------------------
+Reasoning: Maximal dynamic exercise becomes predominantly aerobic after a longer period of time with moderate intensity, allowing for the gradual transition from anaerobic to aerobic energy production.
+Answer: C
+------------------------
+73. ------------------------
+Reasoning: The solid phase of water (H2O(s)) has a greater density than the liquid phase (H2O(l)), which results from the crystalline framework that forms due to hydrogen bonds. This difference in density between the solid and liquid phases leads to a negative slope in the equilibrium line.
+Answer: C
+------------------------
+74. ------------------------
+Reasoning: The addition of 0.1 M HCl to the saturated solution of Mg(OH)2 will lead to the formation of MgCl2 and water, causing the precipitation of Mg(OH)2 due to the decrease in OH- ions. This shift in equilibrium towards the reactants will result in the precipitation of Mg(OH)2.
+Answer: B
+------------------------
+75. ------------------------
+Reasoning: The correct answer should consider the mode of inheritance for MERRF syndrome, which is through mitochondrial DNA inherited exclusively from the mother. Since the affected male with MERRF syndrome cannot pass on the mutated mtDNA to his offspring, the expected phenotypic ratios would depend on the mother's mitochondrial DNA status, resulting in none of the offspring being affected.
+Answer: A
+------------------------
+76. ------------------------
+Reasoning: SARMs are non-steroid drugs that act on androgen receptors mimicking the effects of natural steroid hormones, targeting specific tissues like muscle and bone for increased muscle growth and performance enhancement while minimizing side effects.
+Answer: C
+------------------------
+77. ------------------------
+Reasoning: The information provided highlights that the arrival of an action potential at the motor endplate leads to the release of neurotransmitters due to the influx of calcium ions triggering vesicle fusion. Acetylcholine is the primary neurotransmitter released at the neuromuscular junction.
+Answer: A
+------------------------
+78. ------------------------
+Reasoning: The correct answer should not involve a situation where the sensory system adjusts to a constant stimulus over time, as this is a common example of sensory adaptation. Option B fits this criteria as it describes getting used to the buzz of conversation in a crowded room, which is a form of sensory adaptation.
+Answer: B
+------------------------
+79. ------------------------
+Reasoning: The second shock would be characterized as having a threshold response because the neurons required a higher voltage to elicit a response after the initial stimulation.
+Answer: A
+------------------------
+80. ------------------------
+Reasoning: The β-oxidation process of palmitic acid involves the sequential removal of two-carbon units in the form of acetyl-CoA, along with the generation of reducing equivalents in the form of NADH and FADH2.
+Answer: B
+------------------------
+81. ------------------------
+Reasoning: The modification in the RNA sequence results in a change in the amino acid sequence of the transmembrane protein, potentially affecting its function in facilitating potassium entry into muscle cells. This alteration in the protein structure can lead to dysfunctional protein production, as the change from a serine to a proline amino acid may impact its ability to regulate potassium entry.
+Answer: B
+------------------------
+82. ------------------------
+Reasoning: Glycolysis is a metabolic pathway that breaks down glucose into pyruvate, producing ATP in the process. The correct answer should involve the conversion of glycogen or glucose to pyruvate or lactate.
+Answer: C
+------------------------
+83. ------------------------
+Reasoning: The number of facts the subjects can recall is a dependent variable that is directly influenced by the experimental manipulation of the researchers. It is being measured to see how it is affected by the independent variables in the experiment, such as the amount of compensation, the room setting, and the time given to learn the facts.
+Answer: D. I and III and IV only
+------------------------
+84. ------------------------
+Reasoning: The accumulation of inorganic phosphate is related to the development of peripheral muscle fatigue during multiple sprint activities as it impairs muscle contraction and contributes to fatigue.
+Answer: A
+------------------------
+85. ------------------------
+Reasoning: The muscle fibre relaxes when the nerve stimulus is removed, leading to a decrease in calcium ion concentration, detachment of myosin cross-bridges from actin, and active transport of calcium ions back into the sarcoplasmic reticulum, which are essential processes for muscle relaxation.
+Answer: A
+------------------------
+86. ------------------------
+Reasoning: Understanding the structure and function of the pyruvate dehydrogenase complex reveals that it catalyzes the conversion of pyruvate to acetyl CoA, making option B the correct choice.
+Answer: B
+------------------------
+87. ------------------------
+Reasoning: Glycolysis is a process that involves the breakdown of glucose to produce ATP, and during this process, hydrogen ions are formed when water molecules dissociate into H+ and OH- ions. This aligns with the characteristic of the correct answer involving the presence of water or acidic solutions for the formation of hydrogen ions.
+Answer: D
+------------------------
+88. ------------------------
+Reasoning: Our genetic material is primarily composed of deoxyribonucleic acid (DNA) and ribonucleic acid (RNA). DNA carries genetic instructions, while RNA is involved in protein synthesis and gene regulation.
+Answer: A
+------------------------
+89. ------------------------
+Reasoning: The patient's behavior of belittling the dental hygienist, asserting superiority based on income, lack of empathy, and entitlement align with common symptoms of narcissistic personality disorder.
+Answer: B
+------------------------
+90. ------------------------
+Reasoning: The correct answer should describe a situation where an individual can perform a task with the assistance of a more knowledgeable other, emphasizing the importance of social interaction and collaboration in learning and development within the zone of proximal development.
+Answer: D
+------------------------
+91. ------------------------
+Reasoning: The young man's difficulty with cleanliness and organization, along with issues related to control and orderliness, align with characteristics of the anal stage in Freud's theory of psychosexual development.
+Answer: A
+------------------------
+92. ------------------------
+Reasoning: Peptide bonds are the primary type of covalent bond that links amino acids in a protein through a condensation reaction between the amino group of one amino acid and the carboxyl group of another amino acid.
+Answer: A
+------------------------
+93. ------------------------
+Reasoning: The pedestrian's level of first aid training greatly influences their reaction in this scenario. A pedestrian with higher first aid training would be more likely to render aid immediately upon seeing the young woman on the ground, regardless of her ethnicity or socioeconomic status. Individuals with first aid training have the knowledge and skills to provide assistance effectively, overcoming the bystander effect and taking action in emergency situations.
+Answer: A
+------------------------
+94. Reasoning: The paragraph following the excerpt is likely to focus on the mechanisms behind the observed health benefits of sauna use, such as hormesis and thermoregulatory responses. This discussion would provide a deeper understanding of how sauna-induced mild hyperthermia elicits a range of physiological responses that contribute to improved health outcomes. By exploring the concept of hormesis and how the body adapts to heat stress through repeated sauna use, the paragraph would shed light on why sauna bathing has been associated with increased lifespan and reduced risk of various diseases. Additionally, drawing parallels between the physiological responses to sauna use and exercise would highlight the potential of sauna bathing as an alternative for individuals who cannot engage in physical activity due to health conditions.
+Answer: A
+95. ------------------------
+Reasoning: Muscle cells rely on anaerobic metabolism to produce energy quickly during intense exercise when oxygen availability is limited, leading to an increase in lactate production.
+Answer: D
+------------------------
+96. ------------------------
+Reasoning: Triacylglycerides consist of a glycerol backbone with three ester linkages, not a ribose backbone or phosphodiester linkages. 
+Answer: D
+------------------------
+97. ------------------------
+Reasoning: Increasing the substrate concentration would not affect the binding of noncompetitive inhibitors to the enzyme, as they bind to an allosteric site separate from the active site where the substrate binds.
+Answer: D
+------------------------
+98. ------------------------
+Reasoning: Tyler critiques his study methods and tries to find out which led to poor returns, indicating a willingness to learn from past experiences and adapt accordingly.
+Answer: D
+------------------------
+99. ------------------------
+Reasoning: The disruption of intracellular transport due to increased microtubule degradation as a result of reduced function of MAPs in nerve cells would likely affect cellular activities related to the movement of organelles and vesicles within the cell.
+Answer: D
+------------------------
+100. ------------------------
+Reasoning: The correct answer involves the release of calcium ions from the sarcoplasmic reticulum, as calcium binding to troponin leads to the exposure of myosin-binding sites on actin filaments, initiating muscle contraction.
+Answer: D
+------------------------
+101. ------------------------
+Reasoning: The sarcoplasmic reticulum in muscle cells is responsible for storing and releasing calcium ions during muscle contraction, making it a store of calcium ions.
+Answer: D
+------------------------
+102. ------------------------
+Reasoning: Dopamine and serotonin are neurotransmitters commonly targeted by pharmacological agents to influence fatigue development in the brain.
+Answer: D
+------------------------
+103. ------------------------
+Reasoning: Oxygen is crucial for respiration and oxygenation of tissues, making it essential for sustaining life and treating respiratory conditions. It is commonly administered in medical settings through nasal cannula or face mask.
+Answer: C
+------------------------
+104. ------------------------
+Reasoning: Mutations can occur spontaneously due to errors in DNA replication or exposure to mutagens, and they are not always harmful. Some mutations can be neutral or even beneficial.
+Answer: D
+------------------------
+105. ------------------------
+Reasoning: The enzymes of glycolysis are typically located in the cytoplasm because glycolysis is a metabolic pathway that takes place in the cytoplasm of the cell. This is where glucose is broken down into pyruvate to produce ATP.
+Answer: C
+------------------------
+106. ------------------------
+Reasoning: Rational choice theory is centered around the idea that individuals make decisions based on maximizing their own utility or benefit, guided by assumptions of completeness, transitivity, and independence of variables. This aligns with a system that prioritizes individual benefit and emphasizes individual preferences and rational decision-making.
+Answer: A
+------------------------
+107. ------------------------
+Reasoning: The products of ADP degradation that increase in concentration in the blood during multiple sprint sports are ammonia and lactate, not urea, creatinine, or creatine. 
+Answer: A
+------------------------
+108. ------------------------
+Reasoning: The rate-limiting enzyme in glycolysis is the enzyme that catalyzes a reaction with a large negative ΔG value, is irreversible, and regulates the overall speed of the pathway. It is often regulated by feedback inhibition and plays a crucial role in controlling the flux of glucose through glycolysis. Among the options provided, phosphofructokinase fits these criteria as the correct answer.
+Answer: D
+------------------------
+109. ------------------------
+Reasoning: The correct answer should be related to the failure of the ATP supply to match the demand, which directly impacts the body's ability to sustain high intensity exercise due to energy depletion.
+Answer: C
+------------------------
+110. ------------------------
+Reasoning: The rate of blood lactate accumulation is determined by the rate of muscle lactate production and the rate of muscle lactate efflux, which are crucial factors in understanding the process of blood lactate accumulation during exercise.
+Answer: A
+------------------------
+111. ------------------------
+Reasoning: Type I muscle fibers are red, oxidative, and slow contracting, with high oxidative capacity and resistance to fatigue.
+Answer: C
+------------------------
+112. ------------------------
+Reasoning: According to Boyle's Law, the volume of a gas is inversely proportional to its pressure. As the pressure decreases from 200atm to 1atm, the volume of the gas will increase. Therefore, the correct answer is A. slightly less than 20L.
+Answer: A
+------------------------
+113. ------------------------
+Reasoning: The blood pressure in a fluid system is directly related to the velocity of the fluid flow, according to Bernoulli's principle. Since the blood pressure is the same in both capillaries, the velocity of blood flow must be higher in the capillary of the neck compared to the capillary in the right knee due to the difference in height between the two locations.
+Answer: B
+------------------------
+114. ------------------------
+Reasoning: Sodium bicarbonate acts as a buffer to neutralize lactic acid buildup in the muscles, increasing buffering capacity and delaying muscle fatigue, leading to improved performance during exercise.
+Answer: A
+------------------------
+115. ------------------------
+Reasoning: The individual's gender identity is female, their preferred pronouns are She/Her, and they are sexually active with females only, indicating a lesbian orientation. This aligns with being transgender and homosexual.
+Answer: D
+------------------------
+116. ------------------------
+Reasoning: Carnosine has the ability to quickly absorb or release protons to maintain a stable pH level within the cell, making it an effective intracellular buffer during high rates of glycolysis.
+Answer: C
+------------------------
+117. ------------------------
+Reasoning: In terms of Signal Detection Theory, the pilot's inability to see the light at 1 mile away would be considered a false negative because the signal (light) was present but not detected.
+Answer: B
+------------------------
+118. ------------------------
+Reasoning: This phenomenon of maintaining customs and traditions from a prior country of inhabitance within a specific community in New York City aligns with the concept of a microculture.
+Answer: C
+------------------------
+119. ------------------------
+Reasoning: Prosthetic groups are tightly bound to enzymes and are required for their activity, providing specific chemical functionalities necessary for enzyme function.
+Answer: D
+------------------------
+120. ------------------------
+Reasoning: Codons are composed of three nucleotide bases in mRNA or DNA, corresponding to specific amino acids during protein synthesis.
+Answer: A
+------------------------
+121. ------------------------
+Reasoning: Blood lactate concentration increases during intense exercise as a byproduct of anaerobic metabolism, impacting fatigue, endurance, and recovery time in soccer players.
+Answer: D
+------------------------
+122. ------------------------
+Reasoning: The transmitting neuron secretes neurotransmitters into the synaptic cleft from its dendrites is false because neurotransmitters are released from the axon terminals, not the dendrites.
+Answer: C
+------------------------
+123. ------------------------
+Reasoning: Creatine supplements have been extensively studied and shown to increase muscle strength and power, making option B the correct choice.
+Answer: B
+------------------------
+124. ------------------------
+Reasoning: The statement in option D contradicts the fact that with an increasing number of repeated sprints, the rate of accumulation of lactate in muscle actually increases, not declines.
+Answer: D
+------------------------
+125. ------------------------
+Reasoning: The most rapid method to resynthesize ATP during high-intensity, short-duration exercises is through the phosphocreatine breakdown, which is part of the phosphagen system. This system provides immediate energy for intense muscle contractions without the need for oxygen, making it the fastest way to generate ATP during such activities.
+Answer: B
+------------------------
+126. ------------------------
+Reasoning: The correct answer should involve the movement of H+ ions across the inner mitochondrial membrane, as this process is crucial for the generation of ATP through oxidative phosphorylation in the electron transport chain.
+Answer: C
+------------------------
+127. ------------------------
+Reasoning: Oxaloacetate is a molecule involved in the initial steps of the citric acid cycle, which requires oxygen for its proper functioning. Without oxygen, the citric acid cycle cannot proceed, leading to the cessation of oxaloacetate production first.
+Answer: A
+------------------------
+128. ------------------------
+Reasoning: Substance abuse during adolescence can lead to pathological changes in the prefrontal cortex, affecting cognitive abilities and behavioral control in young adults. Therefore, it is likely true that this patient may experience pathological changes to the prefrontal cortex as a result of substance abuse throughout adolescence.
+Answer: A
+------------------------
+129. ------------------------
+Reasoning: The formation of glucose-1-phosphate is the first product formed during glycogen breakdown in muscle and is catalyzed by the enzyme glycogen phosphorylase.
+Answer: B
+------------------------
+130. ------------------------
+Reasoning: The method described in option B, rewarding himself with a savory meal every Saturday for meeting his calorie goals, is not a good method to restrict caloric intake as it involves a potential binge-eating behavior that could offset the progress made during the week.
+Answer: B
+------------------------
+131. ------------------------
+Reasoning: The detergent helps denature the proteins and gives them a negative charge by disrupting non-covalent interactions and binding to the proteins, allowing for better separation based on size during electrophoresis.
+Answer: D
+------------------------
+132. ------------------------
+Reasoning: The initial energy source for very high force contractions lasting 1-2 seconds is primarily derived from non-oxidative pathways like the phosphocreatine (PCr) system, which provides rapid energy without the need for oxygen. This system allows for immediate energy supply for short bursts of high intensity muscle contractions.
+Answer: C
+------------------------
+133. ------------------------
+Reasoning: Ingestion of carnitine during exercise is not related to an individual's genetic makeup, psychological mindset, access to resources, or the level of competition in a particular sport. Therefore, it does not influence success in sport.
+Answer: D
+------------------------
+134. ------------------------
+Reasoning: The endoderm germ layer is responsible for forming the epithelial lining of the digestive tract and respiratory tract during embryonic development.
+Answer: A
+------------------------
+135. ------------------------
+Reasoning: Glycine is the most likely amino acid to be inside the transmembrane domain based on its small size, flexibility, and hydrophobic nature. Small amino acids like glycine are often found in transmembrane domains as they can easily fit within the tightly packed environment of the lipid bilayer. Additionally, the flexibility of glycine allows it to adopt different conformations necessary for spanning the membrane. The hydrophobic nature of glycine is also advantageous for anchoring the protein within the hydrophobic core of the lipid bilayer. Overall, these physicochemical properties make glycine a favorable choice for being inside the transmembrane domain.
+Answer: A
+------------------------
+136. ------------------------
+Reasoning: Thymine is a nucleotide base that is found in DNA but not in RNA. In RNA, uracil replaces thymine. The presence of thymine in RNA would disrupt the normal structure and function of RNA molecules, as it is not a naturally occurring base in RNA.
+Answer: A
+------------------------
+137. ------------------------
+Reasoning: Fast-twitch fibers are specialized for quick, powerful movements, so they require high force production and quick contractions.
+Answer: C
+------------------------
+138. ------------------------
+Reasoning: The net formation of pyruvate from glucose during glycolysis results in the production of ATP and NADH, which are crucial for energy production in cellular respiration.
+Answer: C
+------------------------
+139. ------------------------
+Reasoning: The correct answer should be D because in Acute Myeloid Leukemia, myeloid progenitor cells become rapidly dividing and retain their semi-stem cell state, leading to the production of abnormal blast cells that do not differentiate properly, which aligns with the characteristics of a lymphoid progenitor.
+Answer: D
+------------------------
+140. ------------------------
+Reasoning: Lactate and hydrogen ions leave the muscle by simple diffusion, as they are byproducts of anaerobic metabolism and can passively diffuse out of the muscle cells into the bloodstream.
+Answer: D
+------------------------
+141. ------------------------
+Reasoning: The dissolution of nucleoli is a key event in Prophase of mitosis, marking the beginning of chromatin condensation and nuclear envelope breakdown.
+Answer: A
+------------------------
+142. ------------------------
+Reasoning: The study demonstrates that students with social networks overlapping with alumni networks of selective colleges were even more likely to be admitted, with a correlation value of +0.61, indicating the significance of networking and connections in the college admissions process.
+Answer: C
+------------------------
+143. ------------------------
+Reasoning: The patient is receiving pre-formed antibodies from an external source, indicating passive immunity.
+Answer: A
+------------------------
+144. ------------------------
+Reasoning: Semi-periphery countries are characterized by moderate levels of economic development, industrialization, and a mix of characteristics from both core and periphery countries. A diversified and developed economy aligns best with these characteristics.
+Answer: C
+------------------------
+145. ------------------------
+Reasoning: Kinase reactions involve the addition or removal of a phosphate group, which is a characteristic feature of kinases in various cellular processes and signaling pathways.
+Answer: B
+------------------------
+146. ------------------------
+Reasoning: The liver plays a crucial role in converting lactate to glucose through gluconeogenesis, which is essential for maintaining blood glucose levels. This conversion process is part of the Cori cycle, where lactate is converted to pyruvate in the liver. 
+Answer: B
+------------------------
+147. ------------------------
+Reasoning: ATP stores in muscle can only supply energy for a short duration during high intensity exercise before being depleted.
+Answer: C
+------------------------
+148. ------------------------
+Reasoning: The activation of glycogen breakdown in exercising muscle is intensity-dependent and sustained during prolonged exercise, involving specific signaling pathways like protein kinase A (PKA) and calcium/calmodulin-dependent protein kinase II (CaMKII).
+Answer: D
+------------------------
+149. ------------------------
+Reasoning: The child who exhibits secure attachment style is most likely to attach to a male psychologist in a psychological study, as secure attachment is characterized by trust, comfort with exploration, and seeking support from caregivers.
+Answer: A
+------------------------
+150. ------------------------
+Reasoning: The correct answer should involve amino acids such as arginine, glycine, and methionine, which are essential precursors for the synthesis of creatine.
+Answer: B
+------------------------
+151. ------------------------
+Reasoning: The correct answer should involve a negative feedback loop of cortisol to suppress the release of CRF and ACTH, which are responsible for cortisol release, in order to maintain homeostasis and prevent excessive stress response. 
+Answer: C
+------------------------
+152. ------------------------
+Reasoning: The recommendations provided by the task force align with the Contact hypothesis, which emphasizes the importance of increased contact between different groups to reduce prejudice and hate crimes. Additionally, the focus on stricter anti-hate ordinances corresponds to the Legal hypothesis perspective, which aims to address hate crimes through legal means. 
+Answer: D
+------------------------
+153. ------------------------
+Reasoning: The energy for all forms of muscle contraction is primarily provided by ATP, which is the immediate source of energy for muscle contractions, regardless of the type of contraction. ATP is essential for the cross-bridge cycling between actin and myosin filaments, which is necessary for muscle contraction to occur.
+Answer: A
+------------------------
+154. ------------------------
+Reasoning: The correct answer involves the process of alternative splicing, which allows for different combinations of exons to be included in the final mRNA transcript, leading to the production of multiple protein isoforms from a single gene.
+Answer: C
+------------------------
+155. Reasoning: Phosphocreatine in muscle cells serves as a rapidly mobilizable reserve of high-energy phosphates located in the cytoplasm to regenerate ATP during intense physical activity.
+Answer: D
+156. ------------------------
+Reasoning: The characteristics of being a steroid hormone align with the fact that this newly discovered hormone is found both inside and outside of cells, indicating its ability to pass through cell membranes. Steroid hormones are derived from a structure containing four hydroxycarbon rings, which matches the description provided in the question. This hormone's ability to interact with intracellular receptors and affect gene expression suggests that it functions by altering protein synthesis and cellular processes, which is typical of steroid hormones.
+Answer: B
+------------------------
+157. ------------------------
+Reasoning: The coding sequences of genes refer to the part of a gene that codes for a specific protein or functional RNA molecule, essential for the production of functional molecules in an organism.
+Answer: B
+------------------------
+158. ------------------------
+Reasoning: In the context of macaque monkeys, the transmission of knowledge typically involves direct observation and imitation of behavior by younger individuals from older individuals. The example of a young macaque monkey learning to rinse off food in the ocean from an older monkey fits this characteristic.
+Answer: A
+------------------------
+159. ------------------------
+Reasoning: Processes that inhibit transcription or translation will lead to a decrease in gene expression when coding regions are condensed, as they prevent the expression of genes.
+Answer: C
+------------------------
+160. ------------------------
+Reasoning: Anaerobic metabolism refers to the generation of ATP in the absence of available oxygen, primarily through glycolysis and fermentation pathways.
+Answer: C
+------------------------
+161. ------------------------
+Reasoning: The molecule that does not contain deoxyribose sugar and phosphate groups, which are essential components of DNA, is an amino acid.
+Answer: D
+------------------------
+162. ------------------------
+Reasoning: The quantum number l = 2 corresponds to the d subshell in the electron configuration of an atom. Each orbital within the d subshell can hold a maximum of 2 electrons, and since there are 5 orbitals in the d subshell, the total number of electrons that can be accommodated in the d subshell of gold (Au) is 10.
+Answer: D
+------------------------
+163. ------------------------
+Reasoning: The article does not mention or compare the physiological responses to sauna use with those experienced during moderate- to vigorous-intensity exercise.
+Answer: D
+------------------------
+164. ------------------------
+Reasoning: With an increasing number of sprints, the relative contribution of aerobic metabolism increases, which aligns with the need for more detailed planning and coordination among team members to handle the workload effectively.
+Answer: D
+------------------------
+165. ------------------------
+Reasoning: The final velocity of water will be greater than the starting velocity due to the principle of conservation of mass and Bernoulli's equation. As the area of the nozzle is smaller than the start of the hose, the velocity of the water must increase to maintain the same flow rate, resulting in a more forceful stream. 
+Answer: D
+------------------------
+166. Reasoning: FADH2 and NADH+H carry high-energy electrons that are utilized in the electron transport chain to generate ATP through oxidative phosphorylation. Therefore, the correct answer should be able to rephosphorylate molecules using the energy from these electron carriers.
+Answer: A. 6 ATP.
+167. ------------------------
+Reasoning: The energy released from the breakdown of high-energy phosphates ATP and phosphocreatine can sustain maximal exertion exercise for a short duration due to their immediate availability and fast energy release for high-intensity activities.
+Answer: A
+------------------------
+168. ------------------------
+Reasoning: The sex of a child is determined by the inheritance of sex chromosomes from the parents.
+Answer: D
+------------------------
+169. ------------------------
+Reasoning: The blood glucose concentration during 80-90 minutes of intermittent high intensity exercise is expected to frequently rise by 1 - 3 mM initially, remain relatively stable or slightly increase in the middle, and potentially fall towards the end due to the utilization of glycogen stores and glucose from the bloodstream.
+Answer: A
+------------------------
+170. ------------------------
+Reasoning: The repair mechanism that involves the removal of incorrect bases shortly following the time RNA primer is removed to correct mistakes in the newly synthesized DNA strand during replication is the mismatch repair mechanism.
+Answer: C
+------------------------
+171. ------------------------
+Reasoning: Phosphorylase activity is actually higher in Type I fibers than in Type II fibers, making statement B false.
+Answer: B
+------------------------
+172. ------------------------
+Reasoning: A dissolution of hierarchical modes of authority into collaborative team-based decision protocols does not align with the key aspects of the McDonaldization of Society, which focus on efficiency, predictability, calculability, and control.
+Answer: C
+------------------------
+173. ------------------------
+Reasoning: The descending loop of Henle is permeable to water but not to ions, allowing for the passive reabsorption of water. This unique characteristic is essential for concentrating urine and maintaining proper fluid balance in the body.
+Answer: B
+------------------------

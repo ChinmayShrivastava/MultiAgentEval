@@ -1,0 +1,400 @@
+1. ------------------------
+Reasoning: Robertsonian translocation involves fusion of the long arms of two acrocentric chromosomes, resulting in a single chromosome with a single centromere.
+Answer: D
+------------------------
+2. ------------------------
+Reasoning: Zinc finger proteins and helix-turn-helix proteins are types of DNA-binding proteins with distinct structural characteristics that are crucial for their functions in gene regulation.
+Answer: A
+------------------------
+3. ------------------------
+Reasoning: The expected frequency of affected females will be higher than that of affected males in an X-linked recessive condition because females need to inherit two copies of the recessive allele to be affected.
+Answer: C
+------------------------
+4. ------------------------
+Reasoning: Adenine pairs with thymine due to complementary base pairing rules in DNA.
+Answer: C
+------------------------
+5. ------------------------
+Reasoning: Malignant hyperthermia is associated with mutations in the RYR1 gene on chromosome 19, leading to an autosomal dominant pattern of inheritance.
+Answer: A
+------------------------
+6. ------------------------
+Reasoning: The mapping of human chromosomes has proceeded much more successfully as large numbers of DNA markers became available, allowing for a more detailed and comprehensive understanding of chromosome structure and location.
+Answer: B
+------------------------
+7. ------------------------
+Reasoning: The correct answer should be related to environmental factors or toxins that can alter gene expression or DNA methylation in parents, leading to changes in offspring through epigenetic modifications.
+Answer: D
+------------------------
+8. ------------------------
+Reasoning: The correct answer should indicate that aspartic acid has been replaced by phenylalanine at position 235 in the protein sequence.
+Answer: A
+------------------------
+9. ------------------------
+Reasoning: Phenylketonuria is an autosomal recessive genetic disorder that can lead to serious health problems if left untreated, resulting in a high risk of abnormality in the child of an affected mother.
+Answer: D
+------------------------
+10. ------------------------
+Reasoning: Exon skipping is a form of alternative splicing where specific exons are excluded from the final mRNA transcript, leading to different protein isoforms being produced.
+Answer: C
+------------------------
+11. ------------------------
+Reasoning: Klinefelter syndrome is not a chromosome instability syndrome as it is not associated with frequent breaks, rearrangements, or mutations in chromosomes, which are characteristic of chromosome instability syndromes.
+Answer: A
+------------------------
+12. ------------------------
+Reasoning: Normal adult haemoglobin (Hb A) is composed of two alpha and two beta globin chains, making it a tetramer protein.
+Answer: A
+------------------------
+13. ------------------------
+Reasoning: A first-degree relative such as a sibling shares a higher percentage of genetic material with the affected individual, increasing the likelihood of inheriting the genetic predisposition for schizophrenia.
+Answer: A
+------------------------
+14. ------------------------
+Reasoning: The mutation in sickle-cell disease involves a point mutation in the beta-globin gene, specifically a substitution of adenine for thymine in the sixth codon, resulting in the production of abnormal hemoglobin molecules. This leads to the characteristic sickle-shaped red blood cells and various complications associated with sickle-cell disease.
+Answer: D
+------------------------
+15. ------------------------
+Reasoning: Monosomy refers to the loss of one chromosome in an otherwise diploid cell, resulting in a total of 45 chromosomes. Among the options provided, 45,X fits this description as it signifies the loss of one X chromosome, making it an example of monosomy.
+Answer: D
+------------------------
+16. ------------------------
+Reasoning: QTL analysis is used to identify chromosome regions associated with a complex trait in a genetic cross, determine the genetic markers linked to these regions, and quantify the effect of each marker on the trait of interest. This method helps pinpoint the genetic variants responsible for complex traits.
+Answer: A
+------------------------
+17. ------------------------
+Reasoning: The frequency of AABBCC individuals would be 1/64 because AABBCC is a homozygous genotype that requires all alleles to be present in the offspring.
+Answer: A. 1.0/64
+------------------------
+18. ------------------------
+Reasoning: The current estimate of human protein-coding genes is subject to change over time due to advancements in technology, improved understanding of gene regulation, and increased knowledge of alternative splicing, which can lead to a more accurate identification and annotation of genes.
+Answer: B
+------------------------
+19. ------------------------
+Reasoning: Siblings share 50% of their HLA haplotypes from each parent, making them more likely to have a common HLA haplotype compared to other relatives.
+Answer: C
+------------------------
+20. ------------------------
+Reasoning: The gene that conveys susceptibility for polygenic Alzheimer's disease should have multiple genetic variations across different loci, involvement in various biological pathways related to Alzheimer's disease, be influenced by environmental factors, and be associated with increased risk of developing Alzheimer's disease in individuals with specific genetic variations.
+Answer: D
+------------------------
+21. ------------------------
+Reasoning: The deletion associated with DiGeorge/Shprintzen syndrome occurs in chromosome 22q11, which is crucial for the development of various organs and systems in the body.
+Answer: D
+------------------------
+22. ------------------------
+Reasoning: X-chromosome inactivation involves genetically turning off one of the two X chromosomes in female mammals to balance gene expression levels between males and females.
+Answer: A
+------------------------
+23. ------------------------
+Reasoning: G6PD deficiency is known to follow an X-linked recessive inheritance pattern, meaning the gene responsible for the condition is located on the X chromosome.
+Answer: D
+------------------------
+24. ------------------------
+Reasoning: Homeobox sequences are highly conserved DNA sequences that encode for homeodomain proteins, which act as transcription factors to regulate gene expression. Mutations in these sequences can lead to developmental abnormalities and diseases. Therefore, option A is the correct answer as homeobox sequences are present in the genome of many animal species.
+Answer: A
+------------------------
+25. ------------------------
+Reasoning: The karyotype that is diagnostic of Down syndrome should show the presence of an extra copy of chromosome 21 (trisomy 21). Among the options provided, option B (47,XY,+13) indicates the presence of an extra chromosome 13, not 21, so it is incorrect. Options A, C, and D do not show the characteristic trisomy 21 seen in Down syndrome. Therefore, the correct answer is A. 46,XX,der(14;21)(q10;q10)pat+21
+Answer: A
+------------------------
+26. ------------------------
+Reasoning: Nature is more important for genetic differences, while nurture has greater influence on environmental differences. Genetic traits are inherited and passed down through DNA, making nature more significant for structural and anatomical differences. Nurture, on the other hand, refers to external influences that shape psychological and social differences.
+Answer: B
+------------------------
+27. ------------------------
+Reasoning: The correct answer for Angelman syndrome would involve a deletion in the maternally derived chromosome 15, particularly in the UBE3A gene, as this specific deletion or mutation is known to cause Angelman syndrome.
+Answer: A
+------------------------
+28. ------------------------
+Reasoning: Recombinant alpha-iduronidase is used for the treatment of lysosomal storage disorders such as Hurler syndrome or Hunter syndrome due to its ability to break down glycosaminoglycans that accumulate in these disorders.
+Answer: C
+------------------------
+29. ------------------------
+Reasoning: The research from Moshe Szyf and colleagues on the epigenetic influences of prenatal maternal stress is significant and provides detailed insights into specific epigenetic changes, such as DNA methylation patterns, which are crucial in understanding how maternal stress can affect gene expression and offspring health outcomes.
+Answer: A
+------------------------
+30. ------------------------
+Reasoning: Autosomal recessive disorders require two copies of the affected gene (one from each parent) in order for an individual to be affected. Therefore, if both parents are affected with the same autosomal recessive disorder, they would each pass on one copy of the affected gene to their children, resulting in a 100% probability that each of their children will be affected.
+Answer: A
+------------------------
+31. ------------------------
+Reasoning: The mutational mechanism in δβ-thalassaemia involves specific mutations in the δ- and β-globin genes that affect the synthesis of hemoglobin, leading to reduced or absent production of functional hemoglobin molecules.
+Answer: D
+------------------------
+32. ------------------------
+Reasoning: In Hardy-Weinberg equilibrium, the genotype frequency of heterozygotes can be calculated using the formula 2pq, where p and q represent the frequencies of the two alleles. Given that the allele frequencies are 0.6 and 0.4, the genotype frequency of heterozygotes would be 2 * 0.6 * 0.4 = 0.48.
+Answer: C
+------------------------
+33. ------------------------
+Reasoning: Mutations in the gene encoding the Low density lipoprotein receptor lead to dysfunctional or reduced production of the protein, resulting in high levels of cholesterol in the blood, which is characteristic of familial hypercholesterolaemia.
+Answer: D
+------------------------
+34. ------------------------
+Reasoning: Incomplete dominance because the F1 offspring displaying light blue color suggests that neither dark blue nor bright white is dominant over the other, resulting in a blending of the two colors in the heterozygous state.
+Answer: B
+------------------------
+35. ------------------------
+Reasoning: Based on statistical data and research studies, the proportion of babies with an abnormality identifiable at birth is relatively low.
+Answer: D
+------------------------
+36. ------------------------
+Reasoning: Understanding the genetic mutations responsible for alkaptonuria and albinism is crucial for explaining these genetic disorders.
+Answer: A
+------------------------
+37. ------------------------
+Reasoning: Fragile X syndrome is a condition where the severity of symptoms increases in successive generations due to expansion of trinucleotide repeats in the paternal germline, which is commonly associated with anticipation in paternal transmission.
+Answer: D
+------------------------
+38. ------------------------
+Reasoning: Homeotic mutations typically result in the transformation of one body part into another due to misregulation of homeotic genes.
+Answer: B
+------------------------
+39. ------------------------
+Reasoning: Waardenburg syndrome is not a familial cancer syndrome and is not associated with a clear pattern of inheritance or genetic mutations that increase the risk of cancer within a family.
+Answer: D
+------------------------
+40. ------------------------
+Reasoning: The term "soft inheritance" accurately reflects the description provided by Mayr and Provine in 1980, as they used this term to describe the concept of epigenetic inheritance.
+Answer: B
+------------------------
+41. ------------------------
+Reasoning: Severe anaemia at birth is often associated with genetic disorders like thalassemia or sickle cell disease, which can lead to inadequate oxygen supply to vital organs, impacting the health and development of newborns.
+Answer: B
+------------------------
+42. ------------------------
+Reasoning: The expected incidence of affected homozygous females would be lower than the expected incidence in males due to the requirement of inheriting two copies of the recessive allele. Therefore, the correct answer is 1 in 10,000.
+Answer: C
+------------------------
+43. ------------------------
+Reasoning: The deficiency of Hexosaminidase A enzyme leads to the accumulation of GM2 ganglioside in individuals with Tay-Sachs disease, causing neurological damage and symptoms. Enzyme replacement therapy is a potential treatment option for Tay-Sachs disease, emphasizing the importance of the enzyme in breaking down lipids in the brain.
+Answer: C
+------------------------
+44. ------------------------
+Reasoning: A nonsense mutation results in the creation of a stop codon in the DNA sequence, leading to premature termination of protein synthesis.
+Answer: D
+------------------------
+45. ------------------------
+Reasoning: PCR is a technique that involves the amplification of DNA using short DNA primers and a thermostable DNA polymerase to replicate specific DNA sequences in vitro. This process includes thermal cycling, denaturation, annealing of primers, and extension by DNA polymerase. 
+Answer: C
+------------------------
+46. ------------------------
+Reasoning: The correct answer should reflect the fact that AFP levels can vary based on maternal age and ethnicity. Younger mothers tend to have lower AFP levels compared to older mothers, so the correct answer should indicate a situation where AFP levels are lower than average. Additionally, certain ethnic groups may also have different baseline AFP levels, so the correct answer should take this into consideration as well.
+Answer: D
+------------------------
+47. ------------------------
+Reasoning: Phenotypic plasticity refers to the ability of one genotype to produce a range of different physiological or morphological states in response to environmental conditions during development. This aligns with the concept described in the question.
+Answer: C
+------------------------
+48. ------------------------
+Reasoning: Arabidopsis is advantageous for plant genetic research due to its small plant size, small genome size, and ease of genetic manipulation, allowing for the study of specific genetic traits related to plant development, stress responses, and flowering time.
+Answer: D
+------------------------
+49. ------------------------
+Reasoning: First cousins share a set of grandparents, which means they share about 1/8 or 12.5% of their genes on average.
+Answer: C
+------------------------
+50. ------------------------
+Reasoning: The correct answer should be a gene that is not involved in inhibiting cell growth or preventing cancer development, as tumour suppressor genes play a crucial role in regulating cell growth and preventing tumours. 
+Answer: D
+------------------------
+51. ------------------------
+Reasoning: X-linked dominant inheritance involves the trait being passed from an affected father to all his daughters, but none of his sons. This means that the trait is transmitted by males only to females, making option D the correct choice.
+Answer: D
+------------------------
+52. ------------------------
+Reasoning: The number of fragments cleaved will depend on how many times the specific 4 base sequence recognized by the restriction enzyme appears in the DNA.
+Answer: C
+------------------------
+53. ------------------------
+Reasoning: Positional cloning involves mapping a gene to a chromosomal region and then identifying and cloning a genomic copy of the gene from the region. This technique is used to locate and identify genes based on their physical position on a chromosome, making it the correct answer.
+Answer: D
+------------------------
+54. ------------------------
+Reasoning: Plasmid vectors for cloning should generally accommodate larger inserts than phage vectors can, allowing for the insertion of larger DNA fragments.
+Answer: A
+------------------------
+55. ------------------------
+Reasoning: Transcriptional activator proteins bind regions near a eukaryotic gene and allow an RNA polymerase to transcribe a gene, which aligns with their function in gene regulation by recruiting RNA polymerase and initiating transcription.
+Answer: A
+------------------------
+56. ------------------------
+Reasoning: The lac operon should be constitutively expressed regardless of the presence of glucose because the mutation prevents the repressor from binding to lactose, leading to continuous expression of the genes involved in lactose metabolism.
+Answer: A
+------------------------
+57. ------------------------
+Reasoning: Recombination occurs during Prophase I of meiosis, where homologous chromosomes pair up and exchange genetic material through crossing over.
+Answer: B
+------------------------
+58. ------------------------
+Reasoning: Leber's hereditary optic atrophy is primarily caused by mutations in mitochondrial DNA, leading to dysfunction in the mitochondria responsible for energy production in cells, including those in the optic nerve.
+Answer: D
+------------------------
+59. ------------------------
+Reasoning: Exons are the coding regions of a gene that are transcribed into mRNA and translated into proteins. Therefore, the statement that accurately describes exons as the coding regions of a gene is: A. Some exons in protein-coding genes consist of noncoding DNA.
+Answer: A
+------------------------
+60. ------------------------
+Reasoning: Humans typically have 23 pairs of chromosomes in each cell, resulting in a total of 46 chromosomes.
+Answer: D
+------------------------
+61. ------------------------
+Reasoning: An increase in the inbreeding coefficient, F, is likely to result in a decrease in genetic diversity within a population because inbreeding leads to an increase in homozygosity, reducing the likelihood of heterozygotes being present.
+Answer: A
+------------------------
+62. ------------------------
+Reasoning: Duodenal atresia is a structural abnormality that is not typically associated with chromosome abnormalities on prenatal ultrasound examination.
+Answer: A
+------------------------
+63. ------------------------
+Reasoning: The likelihood of an individual carrying two specific alleles is calculated by multiplying the frequencies of each allele together, which in this case would be 0.2 * 0.2 = 0.04.
+Answer: D
+------------------------
+64. ------------------------
+Reasoning: Hfr strains of E. coli are characterized by having the F factor integrated into the bacterial chromosome, allowing for high frequency recombination during conjugation.
+Answer: C
+------------------------
+65. ------------------------
+Reasoning: The correct answer should involve traits or disorders that are passed exclusively from father to son, indicating a Y-linked pattern of inheritance.
+Answer: D
+------------------------
+66. ------------------------
+Reasoning: Simple tandem repeat polymorphisms are highly variable and can be used as genetic markers to track the inheritance of specific alleles within populations, providing insights into population structure, migration patterns, and evolutionary relationships.
+Answer: A
+------------------------
+67. ------------------------
+Reasoning: Oculocutaneous albinism is a disorder that is not typically included in population carrier screening programs due to its rarity, low carrier frequency in the general population, and the fact that carriers do not have significant health implications. 
+Answer: B
+------------------------
+68. ------------------------
+Reasoning: Tay-Sachs disease is not associated with X-linked inheritance, as it is an autosomal recessive disorder that affects both males and females equally.
+Answer: B
+------------------------
+69. ------------------------
+Reasoning: Trisomy 16 is the most common chromosome abnormality found in first trimester spontaneous miscarriages.
+Answer: A
+------------------------
+70. ------------------------
+Reasoning: The karyotype 45,Y indicates a male individual with only one copy of the Y chromosome, which is known as Turner syndrome. This condition is not compatible with survival to birth due to severe developmental abnormalities and is associated with miscarriage.
+Answer: D
+------------------------
+71. ------------------------
+Reasoning: Mutations in BRCA2 gene are known to be associated with an increased risk of male breast cancer.
+Answer: B
+------------------------
+72. ------------------------
+Reasoning: Pseudocholinesterase deficiency is associated with increased sensitivity to drugs that are metabolized by this enzyme, such as succinylcholine. 
+Answer: D
+------------------------
+73. ------------------------
+Reasoning: The most common cystic fibrosis mutation, known as the ΔF508 mutation, involves a deletion of a specific amino acid in the CFTR gene, resulting in a defective CFTR protein.
+Answer: A
+------------------------
+74. ------------------------
+Reasoning: The diploid number in humans refers to the total number of chromosomes in a somatic cell, which is 46. Each somatic cell contains two sets of 23 chromosomes, one set inherited from each parent.
+Answer: C
+------------------------
+75. ------------------------
+Reasoning: Adenoviruses are known for their high transduction efficiency and temporary gene expression, making them suitable for gene therapy applications. 
+Answer: A
+------------------------
+76. ------------------------
+Reasoning: Hirschsprung disease is actually more common in boys than in girls, so statement B is incorrect.
+Answer: B
+------------------------
+77. ------------------------
+Reasoning: Huntington disease is a genetic disorder caused by the expansion of a specific trinucleotide repeat sequence in the affected gene, leading to abnormal functioning of the associated gene and the manifestation of the genetic condition.
+Answer: C
+------------------------
+78. ------------------------
+Reasoning: The correct answer for female pseudohermaphroditism should involve mutations in genes responsible for sexual development or hormonal imbalances, which can disrupt the normal development of female reproductive organs and secondary sexual characteristics.
+Answer: C
+------------------------
+79. ------------------------
+Reasoning: The correct answer is a non-coding sequence that is present in the initial transcript but is removed before translation occurs. In this case, introns fit this description as they are segments of transcribed RNA that are spliced out during RNA processing.
+Answer: A
+------------------------
+80. ------------------------
+Reasoning: Cancer of the oesophagus is not a recognized complication of cystic fibrosis.
+Answer: A
+------------------------
+81. ------------------------
+Reasoning: Amniocentesis, Chorion villus sampling (CVS), and Maternal serum screening are commonly used and reliable diagnostic techniques for the diagnosis of neural tube defects. Ultrasonography, on the other hand, may not accurately detect neural tube defects due to its limitations in sensitivity and specificity.
+Answer: D
+------------------------
+82. ------------------------
+Reasoning: Zellweger syndrome is a peroxisomal disorder characterized by neurological abnormalities, liver dysfunction, and vision problems, which are common symptoms associated with peroxisomal disorders. This aligns with the information provided, making it the correct answer.
+Answer: D
+------------------------
+83. ------------------------
+Reasoning: Marked microsatellite instability is often caused by defects in the DNA mismatch repair system, leading to the accumulation of errors in microsatellite regions of the genome.
+Answer: B
+------------------------
+84. ------------------------
+Reasoning: The most common mutation in α-thalassaemia is a deletion of one or more α-globin genes, leading to reduced or absent production of alpha globin chains.
+Answer: A
+------------------------
+85. ------------------------
+Reasoning: The baby born with pulmonary hypoplasia secondary to oligohydramnios caused by renal agenesis would be classified as having Potter syndrome, which is characterized by these specific conditions. This classification helps guide treatment decisions and predict outcomes, making it the most appropriate choice.
+Answer: A
+------------------------
+86. ------------------------
+Reasoning: The correct answer should be a combination of traits influenced by both genetic and environmental factors, as observable characteristics are a result of the interaction between an individual's genetic makeup and their environment.
+Answer: B
+------------------------
+87. ------------------------
+Reasoning: The trisomy karyotype that has the mildest effect on human development in terms of physical and cognitive impairments would be the one with less severe symptoms, impacting overall development to a lesser extent.
+Answer: A
+------------------------
+88. ------------------------
+Reasoning: Mutations in the FGFR3 gene are responsible for causing achondroplasia, leading to abnormal cartilage formation and impaired bone growth, which can be classified as a gain-of-function effect.
+Answer: B
+------------------------
+89. ------------------------
+Reasoning: Chimaerism typically occurs when two fertilized eggs fuse together to form a single individual with cells from each original embryo, resulting in the presence of two or more cell lines from different zygotes in one individual.
+Answer: D
+------------------------
+90. ------------------------
+Reasoning: The risk of miscarriage associated with amniocentesis is approximately 0.3% to 0.6%, which is a low percentage due to advancements in technology and expertise of healthcare professionals.
+Answer: C
+------------------------
+91. ------------------------
+Reasoning: Autozygosity mapping is used to map disorders that show autosomal recessive inheritance because it relies on identifying regions of the genome where an individual has inherited two identical copies of a chromosomal segment from a common ancestor, which is more likely to occur in autosomal recessive disorders.
+Answer: B
+------------------------
+92. ------------------------
+Reasoning: Consanguinity increases the likelihood of inheriting two copies of a mutated gene from a common ancestor, leading to autosomal recessive inheritance.
+Answer: B
+------------------------
+93. ------------------------
+Reasoning: Most new mutations are random and can have a variety of effects on an organism's phenotype, which aligns with the idea that they are mostly neutral or deleterious.
+Answer: B
+------------------------
+94. ------------------------
+Reasoning: Twin studies in humans are useful because they allow genetic as opposed to environmental influences on variation in a trait to be estimated. By comparing identical twins (who share 100% of their genes) with fraternal twins (who share 50% of their genes), researchers can determine the extent to which traits are influenced by genetics versus environmental factors.
+Answer: A
+------------------------
+95. ------------------------
+Reasoning: The Philadelphia chromosome is a product of a reciprocal translocation, specifically between chromosomes 9 and 22, leading to the formation of the BCR-ABL fusion gene, which is associated with chronic myeloid leukemia.
+Answer: B
+------------------------
+96. ------------------------
+Reasoning: Enzyme assays are known for their high sensitivity and specificity in accurately detecting enzyme deficiencies associated with genetic disorders, making them a reliable method for carrier identification.
+Answer: D
+------------------------
+97. ------------------------
+Reasoning: High blood ammonia levels are typically associated with urea cycle disorders, which are genetic disorders affecting the body's ability to process ammonia. Among the options provided, ornithine transcarbamylase (OTC) deficiency is a urea cycle disorder that can lead to high blood ammonia levels.
+Answer: C
+------------------------
+98. ------------------------
+Reasoning: Known SNPs in genome-wide association studies only explain a small portion of the variation in body mass index, despite the evidence of high heritability from twin and family studies. This indicates limited explanatory power of known SNPs in explaining the variation in body mass index.
+Answer: B
+------------------------
+99. ------------------------
+Reasoning: Differential distribution of substances in the egg most typically results in differences in gene expression which may establish a pattern in the embryo as the cells divide.
+Answer: A
+------------------------
+100. ------------------------
+Reasoning: Crouzon syndrome is caused by mutations in the FGFR2 gene, not FGFR3, making it the only option not related to mutations in FGFR3.
+Answer: B
+------------------------

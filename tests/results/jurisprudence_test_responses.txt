@@ -1,0 +1,430 @@
+1. ------------------------
+Reasoning: The purpose of Hart's distinction between 'being obliged' and 'having an obligation' is to differentiate between the internal and external aspects of a rule, highlighting the difference between moral and legal duties.
+Answer: A
+------------------------
+2. ------------------------
+Reasoning: The correct answer should acknowledge the historical context in which Maine's aphorism was formulated and recognize that societal progress has taken different forms over time.
+Answer: A
+------------------------
+3. ------------------------
+Reasoning: The international recognition of human rights after World War II played a significant role in the revival of natural law principles in the 20th century, aligning with shifting societal values and norms and influencing legal systems and institutions.
+Answer: C
+------------------------
+4. ------------------------
+Reasoning: It is misleading to pigeon-hole judges in this way, as this criticism addresses the practical implications and limitations of Llewellyn's distinction between the grand and formal styles of legal reasoning in real-world legal contexts.
+Answer: C
+------------------------
+5. ------------------------
+Reasoning: The POP in Rawls' theory would prioritize equality over power and wealth, as well as prioritize the needs of the least advantaged individuals in society. This aligns with the principles of justice as fairness and the fair distribution of social primary goods.
+Answer: B
+------------------------
+6. ------------------------
+Reasoning: The Law and Economics School emphasizes the importance of free markets, competition, and economic efficiency in legal decision-making, making it the correct choice.
+Answer: A
+------------------------
+7. ------------------------
+Reasoning: Statement D suggests that a command confers power to change one's legal status, which does not directly relate to the concept of a sanction consisting of the smallest chance of incurring the smallest evil. This statement does not align with Austin's argument.
+Answer: D
+------------------------
+8. ------------------------
+Reasoning: By distinguishing certain features of the English legal system that facilitated the development of capitalism.
+Answer: C
+------------------------
+9. ------------------------
+Reasoning: The principles of natural law are discoverable by reason.
+Answer: B
+------------------------
+10. ------------------------
+Reasoning: The proposition that women can achieve equality through political pressure suggests that equality can be attained through advocacy and activism, which implies that power dynamics can be shifted through collective action. This aligns with Catharine MacKinnon's argument that the domination of women by men is fundamentally about power. 
+Answer: A
+------------------------
+11. ------------------------
+Reasoning: Stammler believed in the concept of natural law with a variable content, where principles could change based on circumstances and societal values, aligning with the idea of adaptability and variability in natural law.
+Answer: B
+------------------------
+12. ------------------------
+Reasoning: The Sociological School of jurisprudence emphasizes the law as a means of achieving and advancing certain sociological goals, making option D the correct choice.
+Answer: D
+------------------------
+13. ------------------------
+Reasoning: The Trobriand Islanders organized their society around the concept of reciprocity and exchange, specifically highlighted by Malinowski's emphasis on the Kula exchange system. This system influenced their economic activities, social relationships, and religious beliefs, making it central to their cultural norms and practices.
+Answer: D
+------------------------
+14. ------------------------
+Reasoning: The correct answer should demonstrate a deep understanding of Hume's principle and its historical significance in philosophy, serving as a foundational concept for Dworkin's argument on moral and legal principles.
+Answer: C
+------------------------
+15. ------------------------
+Reasoning: Lyotard's dictum 'I define postmodern as incredulity toward meta-narratives' refers to skepticism or disbelief towards grand, overarching narratives that claim to explain all of human history and society.
+Answer: C
+------------------------
+16. ------------------------
+Reasoning: Habermas views 'law as medium' as a tool for communication and consensus-building, while 'law as institution' is seen as a mechanism for social regulation and control.
+Answer: A
+------------------------
+17. ------------------------
+Reasoning: Supporters of the idea of a prima facie duty to obey the law argue that laws are essential for maintaining order and justice in society, and that individuals have a moral obligation to follow them unless there are strong reasons not to. However, opponents argue that blind obedience to the law can lead to unjust outcomes and that individuals should have the autonomy to disobey laws that conflict with their moral principles.
+Answer: A
+------------------------
+18. ------------------------
+Reasoning: Judges exercise strong discretion implies that judges have the freedom to make decisions based on their own judgment, suggesting that there could be multiple right answers to legal questions, which contradicts Dworkin's claim of a single right answer.
+Answer: C
+------------------------
+19. ------------------------
+Reasoning: Robert's statement that his car is the sharpest on the market can create a perception of high value and uniqueness in the buyer's mind, potentially leading to a higher sale price.
+Answer: A
+------------------------
+20. ------------------------
+Reasoning: Austin believed that jurisprudence is primarily concerned with understanding the nature of law, its sources, and the relationship between law and morality, focusing on positive law and legal concepts.
+Answer: B
+------------------------
+21. ------------------------
+Reasoning: The 'inner morality of law' according to Fuller emphasizes the importance of internal criteria, coherence, consistency, and moral principles within the legal system, which aligns with the characteristics of an Aquinian concept of natural law.
+Answer: C
+------------------------
+22. ------------------------
+Reasoning: The rule of recognition does not fit Hart's characterization of secondary rules as 'power-conferring' because it serves as a criterion for identifying valid laws within a legal system, rather than empowering individuals to create or modify primary rules.
+Answer: D
+------------------------
+23. ------------------------
+Reasoning: The doctrine of adherence to precedent is based on the idea of following established legal principles set by previous court decisions, emphasizing consistency and stability in legal rulings.
+Answer: B
+------------------------
+24. ------------------------
+Reasoning: The proposition that directly challenges the idea of morality being solely based on social cohesion and provides a more nuanced understanding of the relationship between law and morality is the most powerful refutation of Lord Devlin's argument.
+Answer: A
+------------------------
+25. ------------------------
+Reasoning: Durkheim identifies that mechanical solidarity leads to repressive law, while organic solidarity leads to restitutive law. This aligns with his argument that in traditional societies with shared beliefs and values (mechanical solidarity), repressive law is necessary for social order, whereas in more complex, interdependent societies (organic solidarity), restitutive law is required to regulate relationships and resolve conflicts.
+Answer: B
+------------------------
+26. ------------------------
+Reasoning: The quotation that best describes the central thesis of difference feminism by emphasizing the fundamental differences between individual women and celebrating these distinctions is option A. 
+Answer: A
+------------------------
+27. ------------------------
+Reasoning: The statement that contradicts the idea of law as integrity or fails to uphold the principles of interpretation and coherence in legal reasoning is "C. It opens the door to authoritarianism."
+Answer: C
+------------------------
+28. ------------------------
+Reasoning: Moral values are both independent and objective align with Dworkin's central argument in Justice for Hedgehogs, where he emphasizes the importance of a coherent and comprehensive understanding of morality and ethical principles.
+Answer: D
+------------------------
+29. ------------------------
+Reasoning: Kelsen's Grundnorm serves as the foundational norm from which all other legal norms derive their validity, providing a basis for the hierarchical structure of legal norms. It was developed in response to the chaos and uncertainty following World War I, aiming to bring order and coherence to legal systems. 
+Answer: D
+------------------------
+30. ------------------------
+Reasoning: Both Critical Legal Studies (CLS) and American realism do not adopt a liberal ideology. CLS is known for its critique of liberalism, while American realism focuses on the practical aspects of law without a specific ideological alignment.
+Answer: C
+------------------------
+31. ------------------------
+Reasoning: Dworkin argues that principles are overarching moral considerations that guide decision-making and are based on fundamental values, while policies are specific rules or guidelines that are derived from principles and are more context-specific in nature.
+Answer: D
+------------------------
+32. ------------------------
+Reasoning: Statutes are specifically written laws enacted by a legislative body, distinguishing them from other sources of law. The term "codified" accurately reflects this characteristic.
+Answer: D
+------------------------
+33. ------------------------
+Reasoning: Legal positivism is based on the idea that law is separate from morality, focuses on the existence of legal rules rather than their moral content, and emphasizes the role of social facts in determining the validity of law. Any description that inaccurately represents these core principles would be considered the least accurate.
+Answer: A
+------------------------
+34. ------------------------
+Reasoning: The most powerful refutation of Bentham's felicific calculus would be one that challenges the core principles of the theory and provides a compelling argument against its effectiveness in measuring happiness and pleasure. Option B, stating that it is impossible to calculate all the consequences of one's acts, directly challenges the feasibility and accuracy of Bentham's approach, weakening the foundation of felicific calculus.
+Answer: B
+------------------------
+35. ------------------------
+Reasoning: Donny intended to injure Sally by throwing the knife, which aligns with the legal definition of assault and battery in the relevant jurisdiction.
+Answer: C
+------------------------
+36. ------------------------
+Reasoning: Marxism views law as a tool of the ruling class to maintain power and oppress the working class, therefore rejecting individual rights.
+Answer: B
+------------------------
+37. ------------------------
+Reasoning: Kelsen's pure theory of law emphasizes the separation of law from morality and focuses on the hierarchical structure of legal norms. He believed that law should be studied as a self-contained system separate from personal beliefs and values. 
+Answer: C
+------------------------
+38. ------------------------
+Reasoning: The 'internal point of view' in Hart's concept of law refers to the perspective of someone who accepts the legal system as authoritative and feels obligated to follow its rules. It helps individuals understand the moral obligations associated with legal rules and guides their behavior accordingly. 
+Answer: A
+------------------------
+39. ------------------------
+Reasoning: The body of law that establishes rights between persons and provides for redress for violation of those rights is typically associated with civil law, which focuses on individual rights, provides mechanisms for redress, and emphasizes equality and fairness.
+Answer: B
+------------------------
+40. ------------------------
+Reasoning: Parfit's philosophical beliefs prioritize personal identity over equality, emphasizing the continuity of psychological connectedness. He argues that strict equality may not lead to the best outcomes for individuals and society as a whole.
+Answer: D
+------------------------
+41. ------------------------
+Reasoning: The correct answer should align with the claim that social facts are the basis of knowledge and truth in the world, emphasizing empirical evidence and scientific methods, which are fundamental to positivism.
+Answer: A
+------------------------
+42. ------------------------
+Reasoning: Nozick addresses the criticism by emphasizing that if each person's holdings are just, then the total distribution of holdings is just, regardless of the unequal outcomes. This aligns with his belief in justice in acquisition and transfer, ensuring that even those at the bottom have the opportunity to improve their position through voluntary exchanges.
+Answer: B
+------------------------
+43. ------------------------
+Reasoning: The Analytical School of jurisprudence emphasizes the importance of logic in shaping the law, deriving legal rules from rational reasoning and logical principles.
+Answer: B
+------------------------
+44. ------------------------
+Reasoning: Dworkin suggests that equality of resources should be measured by ensuring that no one would prefer another's bundle of resources to their own, as this aligns with his definition of equality of resources and how it can lead to equality of welfare.
+Answer: A
+------------------------
+45. ------------------------
+Reasoning: Non-positivist legal theorists believe that law and morality are intertwined concepts that influence each other, and that moral principles should inform legal decisions. The correct answer should acknowledge the inextricable relationship between law and morality.
+Answer: C
+------------------------
+46. ------------------------
+Reasoning: Both communitarianism and Aristotle's philosophy prioritize the well-being of the community over individual rights, emphasize the cultivation of virtues for the betterment of society, and stress the importance of living a virtuous life within a community.
+Answer: C
+------------------------
+47. ------------------------
+Reasoning: The proposition that "Punishment should fit the crime" is inconsistent with a consequentialist justification of punishment because it focuses on retribution and moral desert rather than solely maximizing overall well-being or minimizing harm.
+Answer: D
+------------------------
+48. ------------------------
+Reasoning: The philosophers of the Command School of jurisprudence believe that law is a set of rules developed, communicated, and enforced by the ruling party rather than a reflection of the society's morality, history, logic, or sociology.
+Answer: A
+------------------------
+49. ------------------------
+Reasoning: Emphasizing the role of punishment in maintaining social order and reinforcing societal norms aligns with Durkheim's view on the function of punishment.
+Answer: D
+------------------------
+50. ------------------------
+Reasoning: Dworkin used the term 'semantic sting' to highlight the challenges of relying solely on the literal meaning of legal texts without considering the underlying principles and values they are meant to uphold.
+Answer: D
+------------------------
+51. ------------------------
+Reasoning: The term that accurately describes the concept of concealing the alteration of a rule of law while keeping its wording the same is "Legal fiction."
+Answer: A
+------------------------
+52. ------------------------
+Reasoning: Hume's criticisms against natural law highlight the subjective nature of moral judgments and the lack of empirical evidence to support universal moral principles. He argues that moral judgments are based on sentiment and emotions rather than reason, and there is no empirical evidence to prove the existence of universal moral principles.
+Answer: A
+------------------------
+53. ------------------------
+Reasoning: Dworkin supports liberal egalitarianism because it aligns with his emphasis on equal opportunity, focus on individual rights and freedoms, and commitment to reducing inequalities.
+Answer: A
+------------------------
+54. ------------------------
+Reasoning: Scandinavian legal realism values practicality, empirical observation, and skepticism towards abstract concepts, which aligns with rejecting a metaphysical approach to law.
+Answer: A
+------------------------
+55. ------------------------
+Reasoning: The statement that best aligns with the argument that judges in an unjust legal system ought to resign is the one that highlights the potential consequences of resigning, such as personal and professional repercussions. This reflects the societal norms and pressures that influence the decision-making process for judges in such situations.
+Answer: C
+------------------------
+56. Reasoning: Normative legal theory is most accurately summarized by its principal concern with moral or political values, focusing on justice, fairness, and the ideal relationship between law and society.
+
+Answer: A
+57. ------------------------
+Reasoning: Hart's statement emphasizes the need for moral scrutiny of legal demands and highlights the distinction between legal validity and moral obligation, suggesting that there is no moral duty to obey an unjust law.
+Answer: D
+------------------------
+58. ------------------------
+Reasoning: The proposition that "Law is determinate" would be rejected by critical legal theorists as it implies a fixed and predictable nature of the law, which goes against their belief in challenging traditional legal norms and advocating for social justice.
+Answer: B
+------------------------
+59. ------------------------
+Reasoning: Posner denies that law develops independently of social and economic forces.
+Answer: A
+------------------------
+60. ------------------------
+Reasoning: The presence of dead insects in the can of Sipep constitutes a breach of implied warranty of merchantability by Ajax Minimart, making them liable for the defective product.
+Answer: B
+------------------------
+61. ------------------------
+Reasoning: The Historical School of jurisprudence emphasizes the importance of social traditions and customs that have evolved over time, viewing law as a product of societal norms and practices. This aligns with the characteristics described in the information provided.
+Answer: A
+------------------------
+62. ------------------------
+Reasoning: Austin's theory of law is based on the attributes of command, sovereign, and enforceability, making option A the most accurate response.
+Answer: A
+------------------------
+63. ------------------------
+Reasoning: The school of thought that supports the view that a custom becomes law when it receives the stamp of judicial recognition by courts is the Historical School, as it emphasizes the role of courts in formalizing customs into legal norms.
+Answer: C
+------------------------
+64. ------------------------
+Reasoning: Asserting that X has a right whenever the protection of his interest is recognized as a reason for imposing duties -only when they are actually imposed aligns with formulating the interest theory without assuming the correlativity of rights and duties. This approach focuses on individual interests rather than the exercise of will by another party.
+Answer: D
+------------------------
+65. ------------------------
+Reasoning: They differ in respect of their account of life before the social contract.
+Answer: D
+------------------------
+66. ------------------------
+Reasoning: The postmodernist project is characterized by the rejection of absolute truths, emphasis on deconstruction of grand narratives, skepticism towards metanarratives, and celebration of diversity and difference. It challenges traditional notions of truth, authority, and cultural hierarchies.
+Answer: D
+------------------------
+67. ------------------------
+Reasoning: Lon Fuller's objective in the hypothetical case of the Speluncean Explorers was to highlight the complexities of legal reasoning, the importance of legal principles, consistency in judicial decision-making, and the role of morality in law.
+Answer: B
+------------------------
+68. ------------------------
+Reasoning: The argument that the legal system is, in fact, unfair provides a strong rebuttal to the 'fair play' argument by highlighting the flaws in assuming individuals have a choice in their participation in society. It challenges the idea that individuals have implicitly consented to obey the law by benefiting from society's structure and protections.
+Answer: B
+------------------------
+69. ------------------------
+Reasoning: Critical Race Theorists are hostile to concepts like 'justice', 'neutrality', and 'truth' because they argue that these ideas are often used to maintain existing power structures and perpetuate racial inequalities, rather than address them. They believe that traditional notions of justice, neutrality, and truth are inadequate in addressing systemic racism and oppression, requiring a more nuanced and critical approach.
+Answer: B
+------------------------
+70. ------------------------
+Reasoning: John Finnis rejects Hume's conception of practical reason due to his belief in the existence of objective moral principles that can be discovered through reason, as opposed to Hume's emphasis on subjective sentiments and passions.
+Answer: D
+------------------------
+71. ------------------------
+Reasoning: The recognition of the distinction between general and particular jurisprudence and its significance in legal theory and practice points towards the answer being B. Salmond, who was known for his contributions to jurisprudence and understanding of legal principles.
+Answer: B
+------------------------
+72. ------------------------
+Reasoning: The phrase 'Lex iniusta non est lex' translates to "an unjust law is not a law" in Latin, suggesting that laws that are inherently unjust do not have the moral authority to be considered legitimate laws. This challenges the idea that all laws must be followed simply because they are laws, and instead emphasizes the importance of justice and morality in the legal system.
+Answer: C
+------------------------
+73. ------------------------
+Reasoning: The idea of 'natural law' first appeared in ancient Greece where philosophers like Plato and Aristotle discussed the concept of natural justice and universal principles that govern human behavior.
+Answer: D
+------------------------
+74. ------------------------
+Reasoning: The contract between Tom and Jerry for the sale of heroin is void and unenforceable due to the illegal nature of the substance involved, making it against public policy and not legally binding.
+Answer: B
+------------------------
+75. ------------------------
+Reasoning: Tom Regan criticizes the attribution of human-like emotions to animals as a flawed basis for animal rights advocacy, focusing instead on recognizing animals' inherent value and rights based on their own experiences and interests.
+Answer: A
+------------------------
+76. ------------------------
+Reasoning: American realism in legal theory emphasizes the role of judicial decisions in shaping the law and believes that legal rules are ultimately derived from these decisions, reflecting societal values and norms.
+Answer: A
+------------------------
+77. ------------------------
+Reasoning: The author of 'The Concept of Law' should be a renowned legal philosopher or scholar with expertise in jurisprudence, as the book is a seminal work in the field of legal philosophy.
+Answer: A
+------------------------
+78. ------------------------
+Reasoning: Gemeinschaft is a society based on community, while Gesellschaft is one based on association, highlighting the key differences in social structure and relationships between the two concepts.
+Answer: C
+------------------------
+79. ------------------------
+Reasoning: The judicial branch of the United States government has the power to interpret the law.
+Answer: A
+------------------------
+80. ------------------------
+Reasoning: Based on the characteristics of being a prominent figure in natural law theory, emphasizing the connection between natural law, human nature, and society, and having expertise in philosophy and law, the most suitable answer is Locke.
+Answer: C
+------------------------
+81. ------------------------
+Reasoning: The individual who made the statement should have a strong understanding of the role of law in society and the importance of the State in upholding justice for its citizens. This implies that the State plays a crucial role in recognizing and applying legal principles and rules to ensure justice is served within its jurisdiction.
+Answer: B
+------------------------
+82. ------------------------
+Reasoning: The 'capability' approach to justice rejects Rawls' theory because it values the actual opportunities available to individuals to lead a fulfilling life, prioritizes agency and freedom, and emphasizes personal development and well-being over just the distribution of primary goods.
+Answer: A
+------------------------
+83. ------------------------
+Reasoning: The pair of apparent correlatives that contradicts Hohfeld's scheme of 'jural relations' is Privilege and no-right, as they do not align with Hohfeld's categorization of jural relations based on clear distinctions between different types of legal rights and duties.
+Answer: B
+------------------------
+84. ------------------------
+Reasoning: Separating the concept of punishment from its justification promotes accountability, ensures proportionality, and fosters rehabilitation, leading to a more fair and just society.
+Answer: D
+------------------------
+85. ------------------------
+Reasoning: According to Hobbes, peace is the first law of nature because without peace, everyone has a right to everything - including another's life, which would result in a constant state of war and insecurity.
+Answer: A
+------------------------
+86. Reasoning: The United States Supreme Court's decision in Roe v Wade is highly controversial because the majority held that the abortion law of Texas was unconstitutional because it violated a woman's right to privacy. This decision established the constitutional right to privacy in the context of abortion rights, sparking ongoing debates and legal challenges surrounding women's autonomy and access to reproductive healthcare services.
+
+Answer: C
+87. ------------------------
+Reasoning: Radical feminists criticize the focus on equality alone as insufficient for achieving true gender equality, as it fails to address the underlying power structures and systemic oppression that perpetuate gender inequality.
+Answer: D
+------------------------
+88. ------------------------
+Reasoning: The quote "Jurisprudence is the eye of law" reflects a belief in the importance of jurisprudence in understanding and interpreting the law, which aligns with the characteristics of the correct answer.
+Answer: A
+------------------------
+89. ------------------------
+Reasoning: The statement that jurisprudence is the philosophy of positive law indicates a deep understanding of the relationship between legal theory and the principles of positive law.
+Answer: D
+------------------------
+90. ------------------------
+Reasoning: Hart's analysis of law distinguishes between primary rules, which govern behavior directly, and secondary rules, which provide the framework for the creation, modification, and enforcement of primary rules. This distinction is crucial in understanding how legal systems operate according to Hart's theory.
+Answer: C
+------------------------
+91. ------------------------
+Reasoning: The definition of jurisprudence as the knowledge of things divine and human, the science of right and wrong aligns with a traditional or classical understanding of the term. Among the options provided, Ulpian reflects this traditional definition.
+Answer: B
+------------------------
+92. ------------------------
+Reasoning: The international recognition of human rights after WWII highlighted the importance of universal moral principles and human dignity, contributing significantly to the revival of natural law in the 20th century.
+Answer: C
+------------------------
+93. ------------------------
+Reasoning: The correct answer should be related to the regulation of foreign and interstate commerce, within the scope of the powers granted by the Commerce Clause, and aligned with the constitutional authority of the U.S. Congress. Federal statutes are the primary legislative tools used by Congress to regulate commerce, making them the most appropriate choice in this context.
+Answer: B
+------------------------
+94. ------------------------
+Reasoning: The statement reflects a philosophical and legal discourse of the time, discussing the distinction between rights as a child of law and natural rights.
+Answer: B
+------------------------
+95. ------------------------
+Reasoning: American realists argued that formalism limited the judge's ability to shape the law based on societal needs and values, as it focused on rigid adherence to legal rules and precedent without considering the judge's discretion or interpretation. Therefore, the correct answer should reflect this limitation.
+Answer: B
+------------------------
+96. ------------------------
+Reasoning: Hart provided a nuanced critique of Fuller's argument by acknowledging the importance of morality in law while also emphasizing the role of social facts and legal positivism in determining the validity of laws.
+Answer: C
+------------------------
+97. ------------------------
+Reasoning: The correct answer should acknowledge the importance of universal human rights while respecting cultural diversity and recognizing the need for universal standards to protect fundamental human rights.
+Answer: B
+------------------------
+98. ------------------------
+Reasoning: The formula r x H combines retributive justice and utilitarianism to determine the appropriate punishment, balancing the severity of the crime with the harm caused.
+Answer: B
+------------------------
+99. ------------------------
+Reasoning: The correct answer is D because Rousseau is known for emphasizing that the social contract is not a historical fact but a hypothetical construction of reason, highlighting the philosophical nature of the concept.
+Answer: D
+------------------------
+100. ------------------------
+Reasoning: The legislative branch of the United States government has the power to make and pass new laws, which aligns with the characteristics of proposing and passing legislation.
+Answer: B
+------------------------
+101. ------------------------
+Reasoning: The correct answer should be related to the functioning and structure of legal systems, contributing to a comprehensive understanding of the legal principles outlined by Pospisil.
+Answer: D
+------------------------
+102. ------------------------
+Reasoning: The correct answer should focus on universalizability, moral duty, and treating others as ends in themselves, which are core principles of Kant's categorical imperative.
+Answer: D
+------------------------
+103. ------------------------
+Reasoning: The "reasonable person" standard in tort law is an objective standard that considers how a hypothetical reasonable person would act in similar circumstances, and it is not based on the individual's subjective mental state. Therefore, option B is incorrect. Option A is incorrect because the standard is consistent and not based on individual variations. Option C is incorrect because the standard does not require a person with a physical disability to act as another person with the same disability. The correct statement is that a person with a mental disability must act as would a person with the same mental disability, making option D the correct answer.
+Answer: D
+------------------------
+104. ------------------------
+Reasoning: Aristotle believed that the purpose of politics was to produce virtuous citizens and encourage righteousness in individuals, emphasizing the importance of the common good and ethics in governance.
+Answer: B
+------------------------
+105. ------------------------
+Reasoning: The correct answer should highlight the importance of strategic thinking, planning, and adaptability in navigating both social interactions and the game of chess, which aligns with Ross' comparison.
+Answer: A
+------------------------
+106. ------------------------
+Reasoning: Law being the deliberate expression of a sovereign's will does not align with Savigny's notion of Volksgeist, which emphasizes the collective spirit or culture of a people in shaping their laws and institutions.
+Answer: C
+------------------------
+107. ------------------------
+Reasoning: The Critical Legal Studies School argues that legal rules are unnecessary and are used as obstacles by the powerful to maintain the status quo, favoring a more flexible and equitable approach to governance.
+Answer: B
+------------------------
+108. ------------------------
+Reasoning: Austin's classification as a 'naive empiricist' is due to his tendency to rely on direct observation and experience, neglecting theoretical knowledge or abstract reasoning.
+Answer: C
+------------------------

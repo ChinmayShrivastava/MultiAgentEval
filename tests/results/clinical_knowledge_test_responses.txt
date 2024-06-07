@@ -1,0 +1,1054 @@
+1. ------------------------
+Reasoning: Larger sizes of cannulas such as 14G or 16G are recommended for rapid blood transfusion as of 2020 to allow for a faster flow rate.
+Answer: A
+------------------------
+2. ------------------------
+Reasoning: The key attribute in successful marathon running is stamina, as it encompasses endurance, strength, and proper training techniques required for long-distance running.
+Answer: D
+------------------------
+3. ------------------------
+Reasoning: Alzheimer's disease is age-related, has a strong genetic component, and is associated with cardiovascular risk factors, making it the commonest cause of dementia in the UK.
+Answer: A
+------------------------
+4. ------------------------
+Reasoning: Bradycardia is not a symptom commonly associated with anaphylaxis, as it involves a slow heart rate which is not typically a primary indicator of this severe allergic reaction. The other options, Stridor, Severe wheeze, and Rash, are more commonly linked to anaphylaxis.
+Answer: B
+------------------------
+5. ------------------------
+Reasoning: Closed pouches are typically used for colostomies or ileostomies where the output is more formed and predictable, as they are effective in containing solid waste and are convenient for individuals with a regular elimination pattern.
+Answer: A
+------------------------
+6. ------------------------
+Reasoning: With an increasing number of sprints, there is a higher chance of burnout, decreased focus, and increased pressure on the team, leading to a decline in overall productivity and efficiency. This suggests that the relative contribution of aerobic metabolism increases, as anaerobic contribution may not be sustainable over multiple sprints.
+Answer: D
+------------------------
+7. ------------------------
+Reasoning: Diplopia can occur even if one eye is covered, so option A is incorrect. The outer image is not always the false image, so option B is incorrect. A fourth nerve palsy typically causes vertical diplopia when looking downwards, not upwards, making option C incorrect. A sixth nerve palsy does cause a divergent squint, which can lead to horizontal diplopia, making option D the correct answer.
+Answer: D
+------------------------
+8. ------------------------
+Reasoning: Sodium bicarbonate ingestion improves middle distance running performance by elevating the pH and buffering capacity of the extracellular fluid allowing a faster efflux of hydrogen ions from muscle.
+Answer: A
+------------------------
+9. ------------------------
+Reasoning: Codons are composed of triplet sequences of nucleotide bases in mRNA or DNA, with each codon consisting of three nucleotide bases that code for a specific amino acid or a stop signal in protein synthesis.
+Answer: A
+------------------------
+10. ------------------------
+Reasoning: Fatty acids need to be converted to acylcarnitine in order to enter the mitochondria for beta-oxidation, and carnitine acts as a carrier molecule that facilitates their transport across the mitochondrial membrane.
+Answer: D
+------------------------
+11. ------------------------
+Reasoning: Individuals with blood group B (rhesus negative) can receive blood from donors with blood types B and O, and the blood should also be Rh negative to avoid any potential adverse reactions due to Rh incompatibility.
+Answer: C
+------------------------
+12. ------------------------
+Reasoning: Lower motor neurone lesions in the arm typically lead to weakness, muscle atrophy, fasciculations, and decreased reflexes. Therefore, the correct answer is not A or C. Fasciculations can be seen in lower motor neurone lesions, ruling out option B. An ulna nerve palsy is an example of a lower motor neurone lesion, making option D the correct choice.
+Answer: D
+------------------------
+13. ------------------------
+Reasoning: The statement "With an increasing number of repeated sprints the rate of accumulation of lactate in muscle declines" is commonly misunderstood as lactate accumulation actually increases with more intense exercise.
+Answer: D
+------------------------
+14. ------------------------
+Reasoning: The formation of glucose-1-phosphate is the initial product during glycogen breakdown in muscle, catalyzed by the enzyme glycogen phosphorylase. This is crucial for energy production in muscle cells.
+Answer: B
+------------------------
+15. ------------------------
+Reasoning: The two principal contractile proteins found in skeletal muscle responsible for muscle contraction are actin and myosin, which work together in the sliding filament theory. 
+Answer: B
+------------------------
+16. ------------------------
+Reasoning: The correct answer should involve symptoms such as sudden onset of ptosis, diplopia, and a dilated pupil that does not constrict in response to light, which are classic signs of a IIIrd cranial nerve palsy. These symptoms indicate dysfunction of the oculomotor nerve and suggest a neurosurgical emergency.
+Answer: C
+------------------------
+17. ------------------------
+Reasoning: A thyroid swelling can be caused by conditions such as goiter, thyroid nodules, thyroiditis, or thyroid cancer, making option D the most likely correct answer as it states that a functioning nodule on isotope scanning is unlikely to be due to cancer.
+Answer: D
+------------------------
+18. ------------------------
+Reasoning: Hepatomegaly is commonly associated with liver diseases such as hepatitis, cirrhosis, or fatty liver disease.
+Answer: C
+------------------------
+19. ------------------------
+Reasoning: The root value of the knee reflex is L1, L2, which is true regarding reflexes.
+Answer: D
+------------------------
+20. ------------------------
+Reasoning: An inability to close the eyelid on the paralyzed side is a characteristic of lower motor neurone lesion, which is true for facial nerve palsy.
+Answer: C
+------------------------
+21. ------------------------
+Reasoning: The most common cause of a colles fracture is a fall onto an outstretched hand, typically due to a slip or trip, causing the radius bone in the forearm to break.
+Answer: D
+------------------------
+22. ------------------------
+Reasoning: The correct answer involves turning off the transfusion, informing medical staff immediately, and following transfusion policy advice on dealing with acute transfusion reactions, which aligns with the steps recommended to manage a suspected transfusion reaction effectively.
+Answer: A
+------------------------
+23. ------------------------
+Reasoning: Different blood products have varying stability outside of refrigeration, and it is crucial to adhere to specific time frames to ensure patient safety and effectiveness of the transfusion process. Based on the information provided, the correct answer is 30 minutes.
+Answer: A
+------------------------
+24. ------------------------
+Reasoning: One in six over 65s is providing some form of informal care, which accurately reflects the role of informal carers in 2020.
+Answer: B
+------------------------
+25. ------------------------
+Reasoning: Lipidation is not a common post-translational modification process used to modify protein structure after translation. It involves the attachment of lipids to proteins, not altering the protein structure directly.
+Answer: A
+------------------------
+26. ------------------------
+Reasoning: The correct answer for the need to carry out a bladder washout for a patient at home is when the catheter is blocked, as this situation requires intervention to clear the blockage and prevent complications.
+Answer: B
+------------------------
+27. ------------------------
+Reasoning: A 14-16 gauge needle is most likely to be used for procedures that require the administration of thick or viscous fluids, such as blood transfusions or chemotherapy, due to its larger diameter allowing for efficient flow of these substances.
+Answer: A
+------------------------
+28. ------------------------
+Reasoning: A pleural friction rub is typically described as a grating or rubbing sound that is synchronous with the respiratory cycle, occurring during both inspiration and expiration, whereas crackles are typically described as discontinuous, non-musical sounds that occur predominantly during inspiration. Therefore, the feature of being more prominent in expiration suggests that the sound is more likely due to a pleural friction rub.
+Answer: A
+------------------------
+29. ------------------------
+Reasoning: Based on the information provided, blood lactate concentration in games like soccer is usually higher at the end of the game than at the end of the first half due to the utilization of anaerobic energy systems during active play, leading to an increase in blood lactate levels.
+Answer: C
+------------------------
+30. ------------------------
+Reasoning: Efficient transport systems such as monocarboxylate transporters and sodium-hydrogen exchangers are crucial in removing lactate and hydrogen ions from muscle tissue during exercise.
+Answer: D
+------------------------
+31. ------------------------
+Reasoning: Schober's test is designed to quantify the flexion of the lumbar spine, which is a true statement related to the spine.
+Answer: B
+------------------------
+32. ------------------------
+Reasoning: Psoriatic arthropathy is associated with skin psoriasis, asymmetrical joint involvement, and nail changes, making option D the correct choice.
+Answer: D
+------------------------
+33. ------------------------
+Reasoning: Graves Disease of the thyroid is commonly associated with symptoms such as weight loss, rapid heartbeat, bulging eyes, and fatigue. Therefore, the correct answer is not A or C. Additionally, Graves Disease does not typically cause a large multi-nodular goitre. 'Derbyshire Neck' is not a known consequence of Graves Disease. 
+Answer: B
+------------------------
+34. ------------------------
+Reasoning: Primary hyperparathyroidism is a condition where the parathyroid glands produce too much parathyroid hormone (PTH), leading to increased calcium levels in the blood. This condition is often asymptomatic or may present with vague symptoms, making it challenging to diagnose without specific tests. 
+Answer: B
+------------------------
+35. ------------------------
+Reasoning: Kinase reactions involve the addition or removal of a phosphate group, which is a common mechanism for controlling protein activity in cells.
+Answer: B
+------------------------
+36. ------------------------
+Reasoning: Considering the factors influencing variations in the normal respiratory rate for adult males, which include age, physical activity level, and underlying health conditions, the range of 14-16 breaths per minute seems to be the most appropriate as it aligns with the general range for adults and accounts for potential variations based on these factors.
+Answer: D
+------------------------
+37. ------------------------
+Reasoning: Collagen fibres take some time to re-establish during wound healing, as the process involves the synthesis and organization of new collagen to repair the damaged tissue.
+Answer: C
+------------------------
+38. ------------------------
+Reasoning: One gram of palmitic acid has high carbon and hydrogen content, making it release the most energy when completely oxidized in the body.
+Answer: B
+------------------------
+39. ------------------------
+Reasoning: The proteins embedded in the inner membrane of the mitochondrion are crucial components of the electron transport chain and ATP synthase complexes, responsible for generating ATP through oxidative phosphorylation. These proteins play a vital role in cellular respiration and energy production.
+Answer: B
+------------------------
+40. ------------------------
+Reasoning: Oxygen consumption is directly proportional to energy expenditure in the human body, and male athletes typically have higher energy expenditure rates due to higher muscle mass and metabolic rates compared to females. Considering the intensity and duration of the training session, a rate of 2 l/min of oxygen consumption would correspond to a higher energy expenditure rate.
+Answer: A
+------------------------
+41. ------------------------
+Reasoning: Considering the average resting heart rate range for adults, the impact of physical fitness level, medical conditions, and potential implications, the correct answer is 60-100 bpm.
+Answer: B
+------------------------
+42. ------------------------
+Reasoning: Phosphorylase activity is actually higher in Type I fibers than in Type II fibers, making statement B false.
+Answer: B
+------------------------
+43. ------------------------
+Reasoning: Ulnar nerve palsy is commonly caused by trauma, compression, or entrapment of the ulnar nerve. The symptoms typically include weakness in hand muscles innervated by the ulnar nerve, numbness or tingling in the ring and little fingers, and difficulty with fine motor skills involving the hand. 
+Answer: C
+------------------------
+44. ------------------------
+Reasoning: The recommended amount of toothpaste for cleaning teeth is a pea-sized amount for adults and a smear for children under 3 years old to prevent excessive foaming and potential ingestion of too much fluoride.
+Answer: B
+------------------------
+45. ------------------------
+Reasoning: A deficiency of cortisol hormone is not the cause of Cushing's Syndrome, it is actually due to prolonged exposure to high levels of cortisol in the body.
+Answer: D
+------------------------
+46. ------------------------
+Reasoning: The correct answer should emphasize innate ability and the capacity to respond to the training stimulus, which aligns with the importance of physical fitness, mental toughness, technical skills, and coaching in determining success in sport.
+Answer: D
+------------------------
+47. ------------------------
+Reasoning: The equal ratio of purines (adenine and guanine) to pyrimidines (cytosine and thymine) is crucial for maintaining the stability and proper base pairing in a double-stranded DNA molecule.
+Answer: D
+------------------------
+48. ------------------------
+Reasoning: Performance enhancing synthetic steroids are designed to mimic the effects of the natural hormone on the body's receptors. Therefore, the correct answer should have a similar structure to the natural hormone in order to effectively interact with the body's hormone receptors and produce the desired performance enhancing effects.
+Answer: A
+------------------------
+49. ------------------------
+Reasoning: The correct answer should involve specific signaling pathways such as protein kinase A (PKA), calcium/calmodulin-dependent protein kinase II (CaMKII), and AMP-activated protein kinase (AMPK) which are key regulators of glycogen breakdown in response to exercise.
+Answer: D
+------------------------
+50. ------------------------
+Reasoning: Free fatty acids are transported in the blood bound to albumin as carrier proteins to ensure their solubility in the aqueous environment of the blood.
+Answer: D
+------------------------
+51. ------------------------
+Reasoning: Following the recommended guidelines and best practices for flushing a cannula, it should typically be flushed every 8-12 hours to prevent blockages and infections.
+Answer: B
+------------------------
+52. ------------------------
+Reasoning: The activity of creatine kinase is typically increased after a period of endurance training due to the increased demand for energy production in muscles during prolonged exercise.
+Answer: D
+------------------------
+53. ------------------------
+Reasoning: The smallest increments on a mercury sphygmomanometer are typically 2 mmHg, allowing for more precise blood pressure readings.
+Answer: C
+------------------------
+54. ------------------------
+Reasoning: The abnormal breathing pattern that is not typically associated with head injury and altered conscious level is Anaerobic respiration, as it is not a recognized abnormal breathing pattern in this context.
+Answer: B
+------------------------
+55. ------------------------
+Reasoning: The recommended ratio of chest compressions to ventilations during CPR for adults is 30:2, as this ratio has been shown to be the most effective in providing adequate circulation and oxygenation to the patient.
+Answer: D
+------------------------
+56. ------------------------
+Reasoning: The correct answer involves multiplying the person's weight by the drug dose per kg to calculate the total dose in grams. In this case, 62 kg multiplied by 15 mg/kg gives a total dose of 930 mg. To convert this to grams, we need to multiply by 0.001 (since there are 1000 mg in 1 gram), resulting in 0.93 grams.
+Answer: D
+------------------------
+57. ------------------------
+Reasoning: Common side effects of creatine supplementation include muscle cramps and dehydration, which are often reported in research studies.
+Answer: C
+------------------------
+58. ------------------------
+Reasoning: The phases of the cardiac cycle include systole (contraction), diastole (relaxation), and the period of rest. These phases are essential for the efficient pumping function of the heart and the coordinated flow of blood throughout the body.
+Answer: A
+------------------------
+59. ------------------------
+Reasoning: Ingestion of carnitine during exercise is not a factor that is determined by genetics, physical attributes, or natural talent, making it the factor that does not influence success in sport.
+Answer: D
+------------------------
+60. ------------------------
+Reasoning: Early defibrillation is crucial in restoring a normal heart rhythm and increasing the chances of survival in cardiac arrest cases, making it the first link in the chain of survival.
+Answer: C
+------------------------
+61. ------------------------
+Reasoning: The correct answer should be related to the failure of the ATP supply to match the demand, as during high intensity exercise, the demand for ATP (energy) increases significantly, and if the supply of ATP cannot meet this demand, fatigue will occur.
+Answer: C
+------------------------
+62. ------------------------
+Reasoning: Impacted faeces can sometimes be mistaken for a rectal tumour, which is a possible rectal finding that can be observed during a physical examination.
+Answer: B
+------------------------
+63. ------------------------
+Reasoning: Leakage of effluent onto peristomal skin can lead to skin excoriation due to the exposure of the skin to irritants and moisture, causing inflammation and damage.
+Answer: C
+------------------------
+64. ------------------------
+Reasoning: Systemic Sclerosis is characterized by skin thickening, Raynaud's phenomenon, joint pain, and internal organ involvement, not by arachnodactyly, a beaked shaped nose, or affecting males more than females. Telangiectasia can be seen in Systemic Sclerosis but is not a definitive diagnostic feature.
+Answer: B
+------------------------
+65. ------------------------
+Reasoning: A palpable left parasternal impulse is often associated with conditions affecting the heart, and specifically the left side of the heart. This suggests that the correct answer should be related to left ventricular abnormalities. 
+Answer: D
+------------------------
+66. ------------------------
+Reasoning: The body's compensatory mechanisms in hypovolaemic shock allow for a significant percentage of blood loss before changes in heart rate and blood pressure are evident.
+Answer: D
+------------------------
+67. ------------------------
+Reasoning: Morphine reduces pain intensity but also causes sedation, which is a common short-term effect of this opioid. It acts on the central nervous system to provide pain relief and can lead to respiratory depression. Additionally, morphine has a high potential for addiction due to its euphoric effects.
+Answer: B
+------------------------
+68. ------------------------
+Reasoning: Tension headaches are a common cause of headaches, which aligns with the information provided about common causes of headaches.
+Answer: D
+------------------------
+69. ------------------------
+Reasoning: The arteries have elastic recoil, which allows them to stretch and recoil, helping to propel blood forward even when the heart is not contracting. This characteristic of arteries is crucial in maintaining blood flow between contractions of the left ventricle.
+Answer: D
+------------------------
+70. ------------------------
+Reasoning: The correct answer should consider physical impairment as a factor that might make a patient unable to use an inhaler effectively.
+Answer: D
+------------------------
+71. ------------------------
+Reasoning: The removal of adhesive strips should be gentle, non-abrasive, and residue-free to minimize damage to surfaces.
+Answer: A
+------------------------
+72. ------------------------
+Reasoning: Consistent and appropriate rate of 100-120 compressions per minute has been shown to optimize blood flow and increase the chances of successful resuscitation.
+Answer: C
+------------------------
+73. ------------------------
+Reasoning: When considering the importance of physiological characteristics for success in endurance events like the marathon race, having a high body fat percentage is not beneficial as it can hinder performance.
+Answer: A
+------------------------
+74. ------------------------
+Reasoning: To prevent potential side effects like oral thrush and fungal infections, it is recommended to rinse the mouth after using an inhaler. Therefore, the correct answer is to rinse the mouth after using their bronchodilator inhaler.
+Answer: B
+------------------------
+75. ------------------------
+Reasoning: Muscle cells switch to anaerobic metabolism when oxygen availability is limited during high-intensity exercise, leading to an increase in lactate production. Glycolysis being activated at the onset of exercise is a key factor in this process.
+Answer: D
+------------------------
+76. ------------------------
+Reasoning: Holding a stretch for a longer duration allows the muscle fibers to relax and elongate, leading to increased flexibility and range of motion.
+Answer: D
+------------------------
+77. ------------------------
+Reasoning: Preload, contractility, and afterload are the three factors that regulate stroke volume. Preload affects the amount of blood returning to the heart during diastole, contractility impacts the heart's ability to pump blood effectively, and afterload is the pressure the heart must work against to eject blood. 
+Answer: B
+------------------------
+78. ------------------------
+Reasoning: The correct order of bones in the middle finger from the hand towards the fingertip is proximal phalanx, middle phalanx, and distal phalanx.
+Answer: A
+------------------------
+79. ------------------------
+Reasoning: Insulin is known to stimulate glucose and amino acid uptake by muscle cells, which is essential for muscle growth and repair. Additionally, resistance training and a high-protein diet are factors that enhance this process, making insulin the most suitable option among the given choices.
+Answer: B
+------------------------
+80. ------------------------
+Reasoning: An ileostomy opening should be below skin level to ensure it is clean, dry, and protected, which is essential for preventing infection and promoting healing.
+Answer: C
+------------------------
+81. ------------------------
+Reasoning: The correct answer should involve not cleaning the area around the urethra with antiseptic solution, as this step is essential before catheterizing to prevent infection.
+Answer: B
+------------------------
+82. ------------------------
+Reasoning: Glycolysis is a process that involves the breakdown of glucose to produce ATP, and during this process, hydrogen ions are released. This release of hydrogen ions is a result of the dissociation of acids formed during glycolysis, making option D the correct answer.
+Answer: D
+------------------------
+83. ------------------------
+Reasoning: Central painful stimuli are typically associated with pain originating from the brain or spinal cord, rather than from peripheral nerves. Among the options provided, pressure on the little finger pulp is more likely to stimulate peripheral nerves rather than the central nervous system.
+Answer: B
+------------------------
+84. ------------------------
+Reasoning: To convert micrograms to milligrams, you need to divide by 1000. Since the rate is 4 micrograms/kg/min, for a 65 kg person, the total amount received in an hour would be 4 x 65 x 60 / 1000 = 15.6 mg.
+Answer: B
+------------------------
+85. ------------------------
+Reasoning: The rectal examination is indicated for the assessment of some gastrointestinal disorders, such as hemorrhoids, prostate cancer, and rectal prolapse, allowing healthcare providers to physically examine these areas for abnormalities or signs of disease.
+Answer: D
+------------------------
+86. ------------------------
+Reasoning: The cuff blocks the airway passage, preventing air from passing through and inhibiting the ability to speak.
+Answer: D
+------------------------
+87. ------------------------
+Reasoning: Thorough assessment of wound drainage volume and consistency is crucial for monitoring the healing process and detecting any signs of infection or complications. It is essential to assess the volume and consistency regularly to ensure proper healing and prevent complications.
+Answer: A
+------------------------
+88. ------------------------
+Reasoning: The synthesis of creatine involves amino acids such as arginine, glycine, and methionine, which are essential precursors in the process. 
+Answer: B
+------------------------
+89. ------------------------
+Reasoning: Leaving a blocked catheter in place can lead to serious complications such as infection, tissue damage, and sepsis. Therefore, seeking immediate medical assistance is crucial to address the issue and prevent potential risks.
+Answer: D
+------------------------
+90. ------------------------
+Reasoning: Bladder washout solutions need to be safe, effective, and compatible with the patient's condition to prevent infection, maintain bladder health, and improve overall well-being. The solution should also have minimal irritant properties and low risk of allergic reactions to avoid any adverse effects. Therefore, the solution should be at room temperature to ensure patient comfort and safety.
+Answer: D
+------------------------
+91. ------------------------
+Reasoning: When developing a plan of care for managing a person's pain, it is crucial to address not only the physical and pharmacological needs but also the psychological aspects. Additionally, regular reassessment is necessary to ensure the effectiveness of the plan. This comprehensive approach takes into account the root cause of the pain, individual pain tolerance, preferences, goals, cultural background, and social factors, leading to a more personalized and effective pain management strategy.
+Answer: C
+------------------------
+92. ------------------------
+Reasoning: The apolipoprotein E gene is known to be a risk factor for developing Alzheimer's disease.
+Answer: C
+------------------------
+93. ------------------------
+Reasoning: Antidepressants are known to have anticholinergic effects, which can inhibit saliva production and lead to dry mouth as a common side effect.
+Answer: C
+------------------------
+94. ------------------------
+Reasoning: Insulin does not promote glucose uptake by all tissues in the body, as some tissues like the brain do not require insulin for glucose uptake.
+Answer: D
+------------------------
+95. ------------------------
+Reasoning: Cyanosis is typically caused by low oxygen saturation levels in the blood, indicating that the correct answer should reflect a low oxygen saturation level.
+Answer: C
+------------------------
+96. ------------------------
+Reasoning: When assessing a patient's breathing, it is essential to look for chest movements, listen for breath sounds, and feel for exhaled air on your cheek to gather comprehensive information about the patient's respiratory status. This approach allows for a thorough assessment of breathing patterns, sounds, and effectiveness, which are crucial indicators of respiratory health.
+Answer: C
+------------------------
+97. ------------------------
+Reasoning: When considering the conversion factor from milligrams to micrograms, each dose of Ropinirole 1.5 mg should be 1500 micrograms (1.5 mg * 1000 = 1500 mcg). Dividing this by three doses results in each dose being 500 micrograms.
+Answer: D
+------------------------
+98. ------------------------
+Reasoning: The accumulation of inorganic phosphate is related to the development of peripheral muscle fatigue during multiple sprint activities as it is a byproduct of anaerobic metabolism and can impair muscle function, leading to fatigue.
+Answer: A
+------------------------
+99. ------------------------
+Reasoning: The ATP store in muscle can only supply energy for a short period of time during high intensity exercise due to its rapid depletion, making the correct answer reflect this limitation.
+Answer: C
+------------------------
+100. ------------------------
+Reasoning: To convert 960 mg to grams, we need to divide by 1000 since there are 1000 milligrams in a gram. Therefore, 960 mg is equal to 0.96 grams. 
+Answer: D
+------------------------
+101. ------------------------
+Reasoning: Hypothyroidism is characterized by symptoms such as fatigue, weight gain, cold intolerance, dry skin, and hair loss due to the underproduction of thyroid hormones. A raised TSH level is a common indicator of hypothyroidism.
+Answer: C
+------------------------
+102. ------------------------
+Reasoning: Hypochlorhydria is characterized by reduced amounts of gastric acid, which aligns with the information provided regarding factors contributing to its development, its impact on digestion and nutrient absorption, symptoms associated with it, and treatment options available.
+Answer: C
+------------------------
+103. ------------------------
+Reasoning: Sterile saline is a safe and effective solution for irrigating the bladder without causing harm or irritation to the patient's urinary tract, making it the most appropriate choice in this scenario.
+Answer: B
+------------------------
+104. ------------------------
+Reasoning: Keloids are abnormal growths of scar tissue that form at the site of a skin injury, characterized by raised, smooth, shiny appearance, and may be pink, red, or flesh-colored.
+Answer: B
+------------------------
+105. ------------------------
+Reasoning: The correct answer should not contain both an amino group and a carboxyl group, which are essential for defining an amino acid.
+Answer: D
+------------------------
+106. ------------------------
+Reasoning: Serous wound drainage is described as clear or slightly yellow in color, which aligns with the characteristics of serous drainage being watery and having a low protein content.
+Answer: D
+------------------------
+107. ------------------------
+Reasoning: The sex of a child is determined by the inheritance of specific sex chromosomes, specifically the X and Y chromosomes from the parents.
+Answer: D
+------------------------
+108. ------------------------
+Reasoning: Spastic paraplegia is characterized by muscle stiffness and weakness in the legs, so the correct answer should reflect this by mentioning normal or flaccid tone, which is not a characteristic of spasticity.
+Answer: D
+------------------------
+109. ------------------------
+Reasoning: The synthesis of glucose from lactate, glycerol, or amino acids is specifically known as gluconeogenesis, which is the process by which glucose is synthesized from non-carbohydrate sources. This process is crucial in maintaining glucose levels during fasting or low carbohydrate intake.
+Answer: D
+------------------------
+110. ------------------------
+Reasoning: Discard the blood unit because it may have been compromised and pose a risk to the recipient.
+Answer: B
+------------------------
+111. ------------------------
+Reasoning: The auscultatory gap is a temporary disappearance of sound between the systolic and diastolic readings during blood pressure measurement, which is accurately described in option B.
+Answer: B
+------------------------
+112. ------------------------
+Reasoning: The mouth provides an ideal environment for various microorganisms to thrive, including bacteria, viruses, fungi, and protozoa, contributing to the diversity of microorganisms that can colonize the mouth.
+Answer: C
+------------------------
+113. ------------------------
+Reasoning: Shampoo typically contains harsher cleansing agents and higher levels of surfactants compared to body wash, which can be too harsh for the skin and may lead to dryness or irritation.
+Answer: D
+------------------------
+114. ------------------------
+Reasoning: The correct answer should have a concentration similar to Adrenaline 1 in 1000, which is 1 mg in 1000 mL of solution.
+Answer: A
+------------------------
+115. ------------------------
+Reasoning: The correct answer is recessive because in genetics, an allele that is masked is typically the recessive allele, which is hidden by the presence of a dominant allele in the phenotype.
+Answer: A
+------------------------
+116. ------------------------
+Reasoning: Hypernatraemic dehydration is caused by a deficit of water intake relative to water loss, leading to an imbalance in the body's water and sodium levels.
+Answer: A
+------------------------
+117. ------------------------
+Reasoning: A respiratory rate of 16 breaths per minute does not require the use of respiratory muscles, therefore not contributing to an increase in the work of breathing.
+Answer: D
+------------------------
+118. ------------------------
+Reasoning: Carnosine can act as an intracellular buffer to limit pH changes when the rate of glycolysis is high by quickly absorbing or releasing protons to maintain a stable pH level within the cell.
+Answer: C
+------------------------
+119. ------------------------
+Reasoning: The correct answer should mention common symptoms of Addison's Disease, such as generalized pigmentation, which is characterized by darkening of the skin.
+Answer: B
+------------------------
+120. ------------------------
+Reasoning: Signs and symptoms of circulatory overload include dyspnoea (shortness of breath), tachycardia (rapid heart rate), and distended neck veins. These are classic indicators of fluid retention and increased blood volume in the circulatory system.
+Answer: D
+------------------------
+121. ------------------------
+Reasoning: The most likely cause of acute urinary retention of urine is related to bladder outflow obstruction, which can be caused by conditions like prostate enlargement, urinary tract infections, or neurological disorders. These conditions can obstruct the flow of urine and lead to acute urinary retention.
+Answer: B
+------------------------
+122. ------------------------
+Reasoning: The tool that is gentle on the gums, effective in removing plaque and food debris, and can reach all areas of the mouth is the small, soft toothbrush.
+Answer: A
+------------------------
+123. ------------------------
+Reasoning: The drug that may be used to enhance gastric motility should have stimulant properties to increase smooth muscle contractions in the gastrointestinal tract. Erythromycin fits this criteria as it is known to stimulate gastric motility.
+Answer: C
+------------------------
+124. ------------------------
+Reasoning: The creatine kinase reaction involves the transfer of a phosphate group from ATP to creatine, forming phosphocreatine and ADP, making it irreversible.
+Answer: A
+------------------------
+125. ------------------------
+Reasoning: Considering the importance of proper stoma placement for patient well-being, it is crucial to choose a location that is easily accessible, away from bony prominences, scars, and skin folds to prevent complications. The correct answer should align with these considerations.
+Answer: C
+------------------------
+126. ------------------------
+Reasoning: Advancements in training techniques, access to state-of-the-art equipment, and advancements in sports science research have contributed to the significant improvement in women's world record performances in recent years.
+Answer: D
+------------------------
+127. ------------------------
+Reasoning: Our genetic material is made up of nucleic acids such as DNA and RNA, which store and transmit genetic information in cells.
+Answer: A
+------------------------
+128. ------------------------
+Reasoning: Excessive weight loss is not a type of insensible loss, as insensible loss refers to the loss of fluid that cannot be easily measured or perceived by an individual. Excessive weight loss is a measurable and noticeable form of weight reduction.
+Answer: C
+------------------------
+129. ------------------------
+Reasoning: The symptoms of exhaustion, confusion, and unresponsiveness are often indicative of underlying health issues, and these can be signs of respiratory failure, which can lead to decreased oxygen levels in the body causing fatigue, confusion, and unresponsiveness.
+Answer: A
+------------------------
+130. ------------------------
+Reasoning: FADH2 and NADH+H collectively contain enough free energy to rephosphorylate molecules with high-energy bonds, which is crucial for ATP synthesis through oxidative phosphorylation. This indicates that they can generate a sufficient amount of ATP, making option A. 6 ATP the correct answer.
+Answer: A
+------------------------
+131. ------------------------
+Reasoning: The muscle fibre relaxes when the actin binding sites are uncovered, allowing for the detachment of myosin cross-bridges and the muscle to return to a relaxed state. 
+Answer: C
+------------------------
+132. ------------------------
+Reasoning: The Golgi tendon organ is a proprioceptive sensory receptor found at the junction between muscle and tendon, allowing it to detect changes in muscle tension accurately.
+Answer: B
+------------------------
+133. ------------------------
+Reasoning: The correct answer is when an artery is close to the surface of the skin because the pulse can be palpated by feeling the pulsations of an artery, such as the radial artery in the wrist or the carotid artery in the neck, when it is close to the skin surface.
+Answer: D
+------------------------
+134. ------------------------
+Reasoning: The pyruvate dehydrogenase complex is a multi-enzyme complex located in the mitochondrial matrix that catalyzes the conversion of pyruvate to acetyl CoA, linking glycolysis to the citric acid cycle, which is essential for ATP production in aerobic respiration.
+Answer: B
+------------------------
+135. ------------------------
+Reasoning: The patellar tap is used to demonstrate an effusion, which is a common test for knee joint issues related to fluid accumulation.
+Answer: C
+------------------------
+136. ------------------------
+Reasoning: The publication Your guide to the NHS is written for individuals seeking information about navigating the NHS system, including patients, caregivers, and those interested in healthcare services, making it accessible to the general public.
+Answer: C
+------------------------
+137. ------------------------
+Reasoning: The triceps tendon is struck in the antecubital fossa, which is a common method used to assess arm reflexes.
+Answer: C
+------------------------
+138. ------------------------
+Reasoning: The most likely cause of tracheal deviation is a large mediastinal mass or tumor that can physically push the trachea to one side. Among the options provided, the presence of a small right pleural effusion or previous tuberculosis of the right upper lobe is less likely to cause significant deviation of the trachea compared to a left basal pneumonia or idiopathic fibrosing alveolitis. Therefore, the correct answer is A. A left basal pneumonia.
+Answer: A
+------------------------
+139. ------------------------
+Reasoning: Using water for bladder washout in secondary care can introduce contaminants into the bladder, leading to potential infections and electrolyte imbalances, making option C the most appropriate choice.
+Answer: C
+------------------------
+140. ------------------------
+Reasoning: The 'normal' range of flexion at the knee joint is typically between 0 to 135 degrees, allowing for optimal mobility, stability, and joint health.
+Answer: B
+------------------------
+141. ------------------------
+Reasoning: A controlled drug is typically a substance with a high potential for abuse, commonly used for recreational purposes, and poses a risk to public health. Among the options provided, a 500 ml bottle of Morphine 10 mg in 5 ml in oral suspension does not fit these criteria, making it the correct answer.
+Answer: D
+------------------------
+142. ------------------------
+Reasoning: Based on the information provided, maximal dynamic exercise becomes predominantly aerobic after approximately 2-3 minutes due to the gradual shift towards aerobic metabolism during this time period.
+Answer: C
+------------------------
+143. ------------------------
+Reasoning: The trigger to initiate the contractile process in skeletal muscle involves the release of calcium ions from the sarcoplasmic reticulum, which then bind to troponin, leading to the exposure of myosin binding sites on actin filaments and muscle contraction.
+Answer: D
+------------------------
+144. ------------------------
+Reasoning: The absence of redness, warmth, and swelling at the site of the IV catheter insertion is not a sign of phlebitis, as these are typical symptoms of inflammation in the vein.
+Answer: D
+------------------------
+145. ------------------------
+Reasoning: The energy charge of a cell is determined by the levels of ATP, ADP, and AMP within the cell, making the extent to which the total adenine nucleotide pool is phosphorylated the most accurate representation of the energy charge.
+Answer: D
+------------------------
+146. ------------------------
+Reasoning: The sarcoplasmic reticulum in muscle cells is responsible for storing and releasing calcium ions during muscle contraction and relaxation, regulating calcium levels within the muscle cell.
+Answer: D
+------------------------
+147. Reasoning: Vital signs, level of consciousness, pupil size and reactivity, motor function, and sensory function are essential parameters typically seen on neurological observation charts.
+Answer: B
+148. ------------------------
+Reasoning: The individuals involved in completing the discharge checklist should be responsible for key aspects of patient care, such as the attending physician, nurse, and pharmacist, as they are directly involved in the patient's treatment and medication management.
+Answer: D
+------------------------
+149. ------------------------
+Reasoning: A large goitre can cause hoarseness due to compression of the trachea, leading to difficulty speaking.
+Answer: C
+------------------------
+150. ------------------------
+Reasoning: The heart has four chambers (two atria and two ventricles) and four valves (tricuspid, mitral, pulmonary, and aortic) to ensure proper blood flow and circulation throughout the body.
+Answer: B
+------------------------
+151. ------------------------
+Reasoning: Patients who are acutely unwell pre-operatively or post-operatively and those who have undergone major surgery are at higher risk of deterioration and would benefit from early detection through EWS monitoring.
+Answer: D
+------------------------
+152. ------------------------
+Reasoning: The purpose of the cuff on a tracheostomy tube is to create an air seal within the trachea and reduce the risk of aspirating saliva or gastric contents.
+Answer: A
+------------------------
+153. ------------------------
+Reasoning: From the perspective of different types of covalent bonds that link amino acids in a protein, peptide bonds are formed through a condensation reaction between the carboxyl group of one amino acid and the amino group of another amino acid, resulting in the release of a water molecule.
+Answer: A
+------------------------
+154. ------------------------
+Reasoning: Inspect the nail-bed angle from the side is the most reliable way to assess for clubbing as it allows for a clear view of the nail curvature, softening of the nail bed, and loss of the normal angle between the nail and the nail bed, which are classic physical signs of clubbing.
+Answer: D
+------------------------
+155. ------------------------
+Reasoning: Gene doping involves the use of genetic manipulation techniques to enhance performance in sport, which aligns with the potential risks, differences from traditional doping, detection methods, and ethical implications associated with this practice.
+Answer: B
+------------------------
+156. ------------------------
+Reasoning: The correct answer should involve grasping, holding, and manipulating objects, which are essential for performing various tasks that require fine motor skills and precision.
+Answer: D
+------------------------
+157. ------------------------
+Reasoning: A large mass arising out of the pelvis which disappears following urethral catheterization is caused by an ovarian cyst, making option C the correct answer.
+Answer: C
+------------------------
+158. ------------------------
+Reasoning: The correct answer should be a category that is not used to classify patients according to the Glasgow Coma Scale. Pupil response is not a category included in the Glasgow Coma Scale assessment, which focuses on eye opening, verbal response, and motor response.
+Answer: D
+------------------------
+159. ------------------------
+Reasoning: The combination of displaced apex beat, normal first heart sound, pan-systolic murmur, and long mid-diastolic murmur is most suggestive of mixed mitral valve disease with a predominance of mitral regurgitation based on the clinical features commonly seen in such patients.
+Answer: C
+------------------------
+160. ------------------------
+Reasoning: The patient's understanding of what to expect and how their pain will be controlled can help reduce anxiety and perceived pain intensity, leading to a more positive experience during the procedure.
+Answer: A
+------------------------
+161. ------------------------
+Reasoning: The conversion of one molecule of glucose to two molecules of pyruvate results in the net formation of two molecules of ATP, which are essential energy carriers in the process of glycolysis.
+Answer: B
+------------------------
+162. ------------------------
+Reasoning: Substrate-level phosphorylation in glycolysis involves the direct transfer of a phosphate group from a high-energy substrate to ADP to form ATP. The correct answer should reflect the lower yield of ATP produced through this mechanism compared to oxidative phosphorylation.
+Answer: A
+------------------------
+163. ------------------------
+Reasoning: Rectal bleeding can be caused by various conditions such as hemorrhoids, anal fissures, inflammatory bowel disease, or colorectal cancer. Therefore, rectal cancer is not the commonest cause of rectal bleeding.
+Answer: D
+------------------------
+164. ------------------------
+Reasoning: Mutations can have varying effects on an organism's traits, including being harmful, neutral, or beneficial. They can result from various factors such as exposure to mutagens, errors during DNA replication, or mistakes during cell division.
+Answer: D
+------------------------
+165. ------------------------
+Reasoning: Consistency in peak flow readings is crucial for monitoring respiratory health, indicating stable lung function over time.
+Answer: A
+------------------------
+166. ------------------------
+Reasoning: Peak flow meters measure the highest rate of air expelled from the lungs through an open mouth, which is crucial for assessing lung function and conditions like asthma. Factors such as age, gender, and underlying health conditions can affect these readings.
+Answer: D
+------------------------
+167. ------------------------
+Reasoning: Patients should remember to carefully check the contents of over-the-counter cold remedies in order to prevent accidental overdose, as such preparations often contain additional paracetamol.
+Answer: C
+------------------------
+168. ------------------------
+Reasoning: The molecule that does not form part of DNA is an amino acid, as it is not a component of the nucleotides that make up DNA. Amino acids are the building blocks of proteins, not DNA.
+Answer: D
+------------------------
+169. ------------------------
+Reasoning: Pale stools and dark urine are characteristic of the jaundice of haemalytic anaemia, which is a common cause of jaundice. 
+Answer: A
+------------------------
+170. ------------------------
+Reasoning: Thymine is not found in RNA, as RNA contains adenine (A), cytosine (C), guanine (G), and uracil (U) instead.
+Answer: A
+------------------------
+171. ------------------------
+Reasoning: Bronchial breathing is characterized by loud, high-pitched sounds heard over the trachea and large bronchi due to increased transmission of breath sounds through consolidated lung tissue. This is typically associated with conditions like pneumonia. 
+Answer: C
+------------------------
+172. ------------------------
+Reasoning: Alcohol is known to have sedative properties and can impair cognitive function, leading to acute confusion in patients.
+Answer: C
+------------------------
+173. ------------------------
+Reasoning: The frontal lobe of the brain's cortex is responsible for decision making, problem solving, planning, and personality traits. Therefore, the correct answer should align with these cognitive functions.
+Answer: B. The ability to draw shapes
+------------------------
+174. ------------------------
+Reasoning: The carpal bones in the wrist are named as follows: scaphoid, lunate, triquetral, pisiform, trapezium, trapezoid, capitate, and hamate. Option A accurately lists all eight carpal bones.
+Answer: A
+------------------------
+175. ------------------------
+Reasoning: The process of translation involves converting text from one language to another, which requires the presence of mRNA (messenger RNA) to carry the genetic information, tRNA (transfer RNA) to bring the corresponding amino acids, and ribosomes to facilitate the actual translation process. DNA and RNA polymerase are not directly involved in the translation process.
+Answer: A
+------------------------
+176. ------------------------
+Reasoning: Coring involves drilling into the earth to extract cylindrical samples of rock or soil for analysis, making option D the most fitting description.
+Answer: D
+------------------------
+177. ------------------------
+Reasoning: The correct answer should involve ensuring that the patient is able to tolerate the speaking valve, including their respiratory function and risk of aspiration, to prevent complications.
+Answer: A
+------------------------
+178. ------------------------
+Reasoning: Intravenous drug administration allows for rapid absorption into the bloodstream, leading to quick onset of action and potentially higher bioavailability compared to other routes of administration. This is because it bypasses first-pass metabolism in the liver.
+Answer: C
+------------------------
+179. ------------------------
+Reasoning: Temperature extremes can denature enzymes, pH levels can enhance or inhibit enzyme activity, and substrate concentration affects enzyme activity positively. Inhibitors or activators can also influence enzyme activity. Therefore, all the factors mentioned in options A, B, and C can affect enzyme activity.
+Answer: D
+------------------------
+180. ------------------------
+Reasoning: The initial energy source for very high force contractions lasting 1-2 seconds is from phosphocreatine stores and ATP stores, which can rapidly provide energy for short bursts of intense activity without the need for oxygen.
+Answer: C
+------------------------
+181. ------------------------
+Reasoning: Baroreceptors are specialized sensors located in the walls of blood vessels that are sensitive to changes in blood pressure, making them the correct choice for detecting alterations in blood pressure.
+Answer: A
+------------------------
+182. ------------------------
+Reasoning: The correct answer should involve addressing underlying medical conditions, proper catheter care, and use of anticoagulants to prevent blood clots from blocking the catheter.
+Answer: B
+------------------------
+183. ------------------------
+Reasoning: The pH of water should be neutral (pH 7) for aquatic life to thrive.
+Answer: B
+------------------------
+184. ------------------------
+Reasoning: The recommended duration for a cannula to remain in situ is typically 72-96 hours to minimize the risk of infection, phlebitis, and tissue damage.
+Answer: D
+------------------------
+185. ------------------------
+Reasoning: Proteins formed as dictated by the genetic material influence an individual's metabolism as genes play a significant role in determining factors such as basal metabolic rate, enzyme production, and hormone regulation.
+Answer: C
+------------------------
+186. ------------------------
+Reasoning: The normal chromosome count in human somatic cells is 46, which includes 22 pairs of autosomes and 1 pair of sex chromosomes (XX for females and XY for males).
+Answer: D
+------------------------
+187. ------------------------
+Reasoning: Patients with a history of recurrent urinary tract infections or those who are immunocompromised have a higher risk of developing infections post-catheterization due to their weakened immune system.
+Answer: C
+------------------------
+188. ------------------------
+Reasoning: The correct answer should be strong and synchronized with the heartbeat, which suggests arterial pulsation. 
+Answer: C
+------------------------
+189. ------------------------
+Reasoning: The rate-limiting enzyme in glycolysis is the enzyme that catalyzes the slowest or most regulated step in the pathway, ultimately determining the overall rate of the pathway. It plays a crucial role in regulating the speed at which glucose is broken down into pyruvate.
+Answer: D
+------------------------
+190. ------------------------
+Reasoning: Pregnancy is a predisposing factor in causing haemorrhoids, which aligns with the common causes of haemorrhoids such as increased pressure on the veins in the rectal area.
+Answer: B
+------------------------
+191. ------------------------
+Reasoning: SARMs are non-steroid drugs that act on androgen receptors mimicking the effects of natural steroid hormones, providing targeted muscle growth with fewer side effects and legal status.
+Answer: C
+------------------------
+192. ------------------------
+Reasoning: The β-oxidation process of palmitic acid involves a series of enzymatic reactions that break down the fatty acid into acetyl-CoA molecules, yielding 8 molecules of acetyl-CoA, along with some ATP and water as byproducts.
+Answer: A
+------------------------
+193. ------------------------
+Reasoning: The products of ADP degradation that increase in concentration in the blood during multiple sprint sports are known to cause fatigue and muscle soreness, impacting athletic performance and recovery. The correct answer should focus on specific products like lactate and ammonia.
+Answer: A
+------------------------
+194. ------------------------
+Reasoning: Proper hand placement over the lower half of the sternum and between the nipples is crucial for effective chest compressions directly over the heart. 
+Answer: C
+------------------------
+195. ------------------------
+Reasoning: Phosphocreatine resynthesis is a slow process that can take several minutes to fully recover, as indicated by exercise physiology. 
+Answer: D
+------------------------
+196. ------------------------
+Reasoning: The elbow joint primarily allows for flexion and extension movements in one plane, similar to a hinge.
+Answer: C
+------------------------
+197. ------------------------
+Reasoning: A hypertonic solution has a higher concentration of solutes compared to the normal human cell, causing water to move out of the cell through osmosis.
+Answer: A
+------------------------
+198. ------------------------
+Reasoning: Timing the pulsation with the radial pulse is not necessary when examining the jugular venous pulse as they are two separate pulses and do not need to be synchronized.
+Answer: B
+------------------------
+199. ------------------------
+Reasoning: The maximum sustainable power output is achieved when the system operates at its highest efficiency with minimal energy loss. A system that can convert a higher percentage of input energy into useful output power will have a higher maximum sustainable power. Therefore, the correct answer is D because the maximum sustainable power is inversely related to muscle glycogen content, indicating that a lower muscle glycogen content leads to a higher sustainable power output.
+Answer: D
+------------------------
+200. ------------------------
+Reasoning: Fast-twitch fibers are known for their fast contraction speed and high force production, indicating a need for high ATPase activity. Additionally, they have a relatively small number of mitochondria to support quick bursts of energy production.
+Answer: C
+------------------------
+201. ------------------------
+Reasoning: Factors such as exercise intensity, duration, fitness level, muscle mass, and oxygen availability directly impact the rate of blood lactate accumulation during physical activity. Higher intensity exercise leads to increased lactate production, longer durations result in higher levels of lactate, trained individuals clear lactate more efficiently, larger muscle mass can produce more lactate, and lactate is produced when oxygen availability is limited.
+Answer: A
+------------------------
+202. ------------------------
+Reasoning: The enzymes of glycolysis are located in the cytoplasm where glycolysis takes place.
+Answer: C
+------------------------
+203. ------------------------
+Reasoning: ATP and phosphocreatine provide immediate energy for short bursts of high-intensity exercise, sustaining maximal exertion for about 5-10 seconds.
+Answer: B
+------------------------
+204. ------------------------
+Reasoning: Prosthetic groups are tightly bound to enzymes and are required for their activity, making option D the correct choice.
+Answer: D
+------------------------
+205. ------------------------
+Reasoning: Sensory loss in a stocking distribution is a common presentation in peripheral neuropathy, affecting the feet and lower legs first.
+Answer: A
+------------------------
+206. ------------------------
+Reasoning: Writer's cramp is an example of a focal dystonia, which is a type of involuntary movement disorder affecting specific muscles or muscle groups. This aligns with the characteristics of involuntary movements in the arm associated with neurological disorders.
+Answer: D
+------------------------
+207. ------------------------
+Reasoning: Sodium valproate is not recognized as a cause of chronic cough in medical literature.
+Answer: D
+------------------------
+208. ------------------------
+Reasoning: The correct answer for cleaning the mouth should be gentle, non-abrasive, effective in removing plaque and bacteria, safe, and proven to kill bacteria. Water (Option B) fits all these criteria as it is safe, non-abrasive, and effective in rinsing away food particles and bacteria without causing harm to the teeth or gums.
+Answer: B
+------------------------
+209. ------------------------
+Reasoning: The best approach to the use of analgesic drugs following surgery involves giving drugs regularly with provision for additional 'as required' pain relief for breakthrough pain. This approach allows for consistent pain management while also addressing any sudden spikes in pain intensity. Using a combination of different types of analgesic drugs can target multiple pain pathways, providing more effective pain relief post-surgery.
+Answer: B
+------------------------
+210. ------------------------
+Reasoning: Nociceptive pain is typically caused by actual tissue damage or inflammation, resulting in sharp or aching pain that is localized to a specific area. It responds well to traditional pain medications.
+Answer: A
+------------------------
+211. Reasoning: Peak flow readings are commonly used to monitor and diagnose asthma, and variations over a two week period can be diagnostic.
+Answer: A
+212. ------------------------
+Reasoning: The patient having bladder sensation indicates that they are able to feel when their bladder is full and needs to be emptied, which is a crucial aspect when using a catheter valve to prevent overfilling and potential complications.
+Answer: C
+------------------------
+213. ------------------------
+Reasoning: Paget's Disease is characterized by abnormal bone remodeling, leading to enlarged and weakened bones, which can result in deformities and fractures. Therefore, the statement that "Pathological fractures are not a feature" is incorrect.
+Answer: D
+------------------------
+214. ------------------------
+Reasoning: The first action following confirmation of cardiac arrest should involve checking for responsiveness, calling for help, and assessing breathing to determine the next steps in providing care. Giving chest compressions or rescue breaths may be necessary but should come after these initial assessments.
+Answer: A
+------------------------
+215. ------------------------
+Reasoning: Addressing urinary retention and preventing complications is crucial for the patient's well-being.
+Answer: A
+------------------------
+216. ------------------------
+Reasoning: Creatine supplements have been extensively studied and shown to increase muscle strength and power, making option B the correct choice.
+Answer: B
+------------------------
+217. ------------------------
+Reasoning: The named consultant is the healthcare provider who has legal responsibility for a patient's care during hospital admission, stay, and discharge. They are responsible for clear communication with the patient and their family, adherence to medical standards and protocols, and documentation of all decisions and actions taken.
+Answer: B
+------------------------
+218. ------------------------
+Reasoning: Endurance training primarily targets increased mitochondria density, improved oxygen utilization, and enhanced muscle glycogen storage in muscles, which are related to burning fat and carbohydrate for energy.
+Answer: C
+------------------------
+219. ------------------------
+Reasoning: The release of neurotransmitters at the motor endplate in response to an action potential involves calcium influx and exocytosis, which triggers the fusion of synaptic vesicles and the release of neurotransmitters. Acetylcholine is the primary neurotransmitter released at the neuromuscular junction.
+Answer: A
+------------------------
+220. ------------------------
+Reasoning: Proper blood sugar regulation is crucial for overall health as it affects various bodily functions and organs. In diabetes, the body either does not produce enough insulin or cannot effectively use the insulin it produces, leading to high blood sugar levels. This can result in serious complications such as cardiovascular disease, nerve damage, kidney problems, and vision issues.
+Answer: B
+------------------------
+221. ------------------------
+Reasoning: Passive movements involve the therapist or external force moving the patient's body without active participation from the patient to improve joint mobility, prevent contractures, and maintain range of motion.
+Answer: B
+------------------------
+222. ------------------------
+Reasoning: A tracheostomy involves creating an opening in the neck to insert a tube into the windpipe, making option A, "An opening in the anterior wall of the trachea above the cricoid cartilage," the correct choice.
+Answer: A
+------------------------
+223. ------------------------
+Reasoning: Haematemesis is often caused by conditions such as peptic ulcers, esophageal varices, or gastritis, leading to bleeding in the upper gastrointestinal tract and resulting in the presence of blood in vomit. Therefore, a low blood pressure and tachycardia would be worrying features associated with haematemesis.
+Answer: A
+------------------------
+224. ------------------------
+Reasoning: Describes joint pain, swelling, stiffness, and fatigue as common symptoms, which are hallmark signs of rheumatoid arthritis.
+Answer: C
+------------------------
+225. ------------------------
+Reasoning: Providing people aged over 65 with internet-based information sources should focus on accessibility, relevance, and user-friendly interfaces to meet their specific needs effectively.
+Answer: B
+------------------------
+226. ------------------------
+Reasoning: The correct answer is A because carpal tunnel syndrome can be caused by conditions like rheumatoid arthritis, which can lead to inflammation and compression of the median nerve in the wrist, resulting in symptoms like pain, numbness, and tingling in the hand and fingers.
+Answer: A
+------------------------
+227. Reasoning: The Krebs' cycle produces 2 molecules of CO2 in each turn, and the ATP is generated indirectly through the production of high-energy electron carriers like NADH and FADH2, which are then used in the electron transport chain to produce ATP. Therefore, the correct answer is 2CO2 and 1ATP.
+Answer: D
+228. ------------------------
+Reasoning: The description provided in the question matches the potential complication of IV therapy known as extravasation, which involves the leakage of vesicant medication or fluid into surrounding tissues, causing tissue damage.
+Answer: A
+------------------------
+229. ------------------------
+Reasoning: The antibacterial action in saliva is attributed to enzymes or proteins like lysozyme, which disrupt bacterial cell walls and inhibit their growth.
+Answer: A
+------------------------
+230. ------------------------
+Reasoning: The genome refers to the entire DNA sequence of an organism, including all genes and non-coding sequences, which encode the instructions for building and maintaining an organism.
+Answer: B
+------------------------
+231. ------------------------
+Reasoning: Dopamine and serotonin are key neurotransmitters involved in regulating fatigue levels in the brain, and pharmacological agents targeting these neurotransmitters can influence fatigue development.
+Answer: D
+------------------------
+232. ------------------------
+Reasoning: Fast-twitch muscle fibers are responsible for generating quick, powerful movements and are the first to fatigue during intense, all-out exercise like sprinting.
+Answer: C
+------------------------
+233. ------------------------
+Reasoning: The main fate of lactate leaving muscle and entering the circulation involves conversion back into glucose through gluconeogenesis in the liver, which is crucial for maintaining blood glucose levels and energy homeostasis.
+Answer: D
+------------------------
+234. ------------------------
+Reasoning: The most rapid method to resynthesize ATP during exercise is through anaerobic pathways like phosphocreatine breakdown and glycolysis, which can quickly generate ATP without the need for oxygen, making them the most rapid methods during high-intensity exercise.
+Answer: B
+------------------------
+235. ------------------------
+Reasoning: Pain is an important aspect of sensory assessment, but it is not typically tested with a venepuncture needle as it can cause unnecessary discomfort and potential harm to the patient.
+Answer: A
+------------------------
+236. ------------------------
+Reasoning: The blood glucose concentration during 80-90 minutes of intermittent high intensity exercise is likely to remain relatively unchanged or slightly rise due to the body's utilization of glucose for energy production during exercise.
+Answer: B
+------------------------
+237. ------------------------
+Reasoning: Carcinoma is a medical condition that often necessitates stoma formation, especially in cases of colorectal cancer where the normal waste elimination is compromised, requiring an alternative route for waste removal.
+Answer: C
+------------------------
+238. ------------------------
+Reasoning: A surgical support can be used for prolapsed stomas, which are characterized by the protrusion of the stoma beyond the skin level. Surgical support can help in providing stability and preventing further prolapse.
+Answer: A
+------------------------
+239. ------------------------
+Reasoning: The correct size of catheter bag for nighttime use should be larger in capacity, typically ranging from 2000ml to 4000ml, to accommodate the expected urine output during the night and prevent overflow. 
+Answer: D
+------------------------
+240. ------------------------
+Reasoning: Anaerobic metabolism refers to the generation of ATP in the absence of available oxygen, as it does not require oxygen for ATP production.
+Answer: C
+------------------------
+241. ------------------------
+Reasoning: Energy expenditure is directly related to oxygen uptake, and the conversion factor of 20.1 kJ per liter of oxygen consumed is typically used to calculate energy expenditure during exercise.
+Answer: C
+------------------------
+242. ------------------------
+Reasoning: The common signs and symptoms of pressure damage, such as redness, skin discoloration, blisters, or skin breakdown, may start to become visible within a few hours of sustained pressure on the skin. Prolonged pressure can restrict blood flow to the affected area, leading to tissue damage and skin breakdown. 
+Answer: A
+------------------------
+243. ------------------------
+Reasoning: Eccrine glands are responsible for regulating body temperature through sweat production, while apocrine glands produce a thicker type of sweat associated with body odor. Based on this distinction, the correct answer is A. sweat glands.
+Answer: A
+------------------------
+244. ------------------------
+Reasoning: Grade 1/5 power represents no movement or muscle contraction, which aligns with the assessment of power in the arms.
+Answer: D
+------------------------
+245. ------------------------
+Reasoning: The symptoms described - pain at IV site, erythema, and swelling - are indicative of phlebitis, an inflammatory condition of the vein. Based on the characteristics provided, this corresponds to Stage 2 on the phlebitis scale. The appropriate action to take at this stage is to re-site the cannula.
+Answer: B
+------------------------
+246. ------------------------
+Reasoning: The hormone primarily responsible for fluid regulation in the body is antidiuretic hormone (ADH), which directly affects the balance of fluids, regulates water reabsorption in the kidneys, and helps prevent dehydration.
+Answer: A
+------------------------
+247. ------------------------
+Reasoning: A low intake of carbohydrate in the diet may impair high intensity exercise performance due to the body's reliance on carbohydrates for energy during intense physical activity.
+Answer: C
+------------------------
+248. ------------------------
+Reasoning: Factors inhibiting phosphocreatine resynthesis during recovery from exercise include low oxygen availability, high levels of lactate, and insufficient ATP production, which hinder the enzymatic reactions necessary for resynthesis.
+Answer: D
+------------------------
+249. ------------------------
+Reasoning: The transcription of DNA to a molecule of messenger RNA occurs in the nucleus in eukaryotic cells. This is because eukaryotic cells have a distinct nucleus where DNA is housed, and transcription takes place in this compartment. 
+Answer: C
+------------------------
+250. ------------------------
+Reasoning: Oedema is the accumulation of excess fluid in the body tissues, leading to swelling and puffiness in various areas. The correct answer should reflect the presence of excessive extravascular fluid.
+Answer: B
+------------------------
+251. ------------------------
+Reasoning: Short-acting bronchodilators act quickly to provide immediate relief of symptoms, making them more suitable for acute situations like asthma attacks. 
+Answer: A
+------------------------
+252. ------------------------
+Reasoning: An intention tremor is indicative of a cerebellar lesion and is typically associated with cerebellar dysfunction.
+Answer: C
+------------------------
+253. ------------------------
+Reasoning: Glucose is transported into the muscle cell via protein transporters called GLUT4, which are responsible for facilitating the uptake of glucose into muscle cells in response to insulin signaling.
+Answer: A
+------------------------
+254. ------------------------
+Reasoning: Oxygen is essential for the tricarboxylic acid cycle (Krebs' cycle) which is a crucial part of cellular respiration, providing energy for the cell. It is also utilized in various industrial processes, including oxidation reactions, making it a versatile compound.
+Answer: C
+------------------------
+255. ------------------------
+Reasoning: Gravity will cause less resistance to blood flow, resulting in a falsely low reading.
+Answer: D
+------------------------
+256. ------------------------
+Reasoning: Joint stiffness of 5 minutes duration suggests an arthropathy is a common symptom that should be explored during the musculoskeletal history-taking process.
+Answer: D
+------------------------
+257. ------------------------
+Reasoning: When considering cultural or personal preferences, bringing their own electric razor to the hospital allows male patients to maintain a sense of familiarity and comfort during their stay, alleviating potential discomfort or anxiety. Additionally, using their own razor ensures better hygiene practices.
+Answer: B
+------------------------
+258. ------------------------
+Reasoning: Insulin is secreted by the pancreas, specifically by the beta cells, in response to glucose levels in the blood to regulate blood sugar levels.
+Answer: B
+------------------------
+259. ------------------------
+Reasoning: To ensure that a large proportion of the drug reaches the lower airways when using an inhaler, it is crucial to ask the patient to hold their breath at the end of the inspiration. This technique allows for more time for the medication to reach the lower airways before exhaling, maximizing drug delivery effectiveness.
+Answer: D
+------------------------
+260. ------------------------
+Reasoning: Standing or sitting upright allows for maximum lung expansion, optimal airflow, and accurate peak flow rate measurements.
+Answer: A
+------------------------
+261. ------------------------
+Reasoning: A tracheostomy is typically needed to aid in weaning patients from a ventilator, ensuring proper airflow and oxygenation for those who have a prolonged need for mechanical ventilation.
+Answer: C
+------------------------
+262. ------------------------
+Reasoning: High-intensity exercise is associated with a greater reliance on anaerobic energy production systems.
+Answer: B
+------------------------
+263. ------------------------
+Reasoning: The second commonest hospital acquired infection should have a high prevalence rate in hospital settings, but not as high as the most common one.
+Answer: D
+------------------------
+264. ------------------------
+Reasoning: Phosphocreatine is located in the cytoplasm of muscle cells and serves as a rapid energy reserve for high-intensity activities, providing a quick source of ATP. 
+Answer: D
+------------------------
+265. ------------------------
+Reasoning: The patient's self-report of pain is crucial for determining the appropriate pain management strategies, ensuring patient-centered care, tailoring treatment plans to meet individual needs, and ultimately leading to more effective pain management and improved patient outcomes.
+Answer: B
+------------------------

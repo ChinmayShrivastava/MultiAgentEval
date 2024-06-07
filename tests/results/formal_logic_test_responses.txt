@@ -1,0 +1,506 @@
+1. ------------------------
+Reasoning: The argument emphasizes the role of arrogance in blocking the recognition of unconscious complexes and defense mechanisms, leading to difficulties in convincing people of the unconscious and teaching them about concepts that contradict their conscious knowledge.
+Answer: B
+------------------------
+2. ------------------------
+Reasoning: The relationship between David and Chris, where David teaches Chris, can be accurately represented as Tdc in predicate logic notation.
+Answer: A
+------------------------
+3. ------------------------
+Reasoning: The proposition states that there exists an apartment that is large and there exists a house that is smaller than the apartment. The correct interpretation based on the translation key provided is that some houses are bigger than some large apartments.
+Answer: D
+------------------------
+4. ------------------------
+Reasoning: By constructing a truth table with columns for G, H, ~G, ~H, and ~G ⊃ H, we can systematically evaluate all possible truth value combinations. After analyzing the truth table, we can determine that the argument is invalid. The counterexample occurs when G is true and H is false, as in this case, both premises (~G ⊃ H and ~H) are true, but the conclusion (G) is false.
+Answer: C
+------------------------
+5. ------------------------
+Reasoning: The formula (~B • E) ⊃ D translates to "If it's not the case that Izzy plays Minecraft and Ashleigh stops by, then Russell makes dinner." This is because the formula represents a conditional statement where the absence of Izzy playing Minecraft and the presence of Ashleigh stopping by leads to Russell making dinner.
+Answer: A
+------------------------
+6. ------------------------
+Reasoning: The proposition states that there exists a house that is bigger than all apartments, which aligns with the interpretation that some houses are bigger than every apartment.
+Answer: D
+------------------------
+7. ------------------------
+Reasoning: By constructing a truth table for the premises ~K ≡ L and the conclusion (K · L) ∨ (K · ~L), we can systematically evaluate all possible truth values to determine the validity of the argument. If there exists a row where the premises are true but the conclusion is false, it indicates an invalid argument. 
+Answer: D
+------------------------
+8. ------------------------
+Reasoning: The antecedent of the conditional proposition is the event that triggers the subsequent actions mentioned in the statement. In this case, the antecedent is "the university does not increase financial aid," as it sets off the conditions where the president fails to approve it or the board of trustees prevents it.
+Answer: B
+------------------------
+9. ------------------------
+Reasoning: The proposition that can be directly inferred from the given premises in one step is H ⊃ ~E, as it follows from the third premise H ∨ ~E through the Disjunctive Syllogism rule.
+Answer: C
+------------------------
+10. ------------------------
+Reasoning: The correct answer should include a universal quantifier, a disjunction, and a negation to accurately symbolize the sentence "Everybody loves Raymond, or not."
+Answer: D
+------------------------
+11. ------------------------
+Reasoning: The correct translation should involve universal quantifiers for kings and paupers, along with the predicate for being luckier than. The translation (∀x)[Kx ⊃ (∀y)(Py ⊃ Lxy)] accurately represents the statement that all kings are luckier than all paupers.
+Answer: A
+------------------------
+12. ------------------------
+Reasoning: By constructing the truth tables for both pairs of propositions and analyzing the truth values obtained, we can determine whether the statements are logically equivalent, contradictory, consistent, or inconsistent. The systematic comparison of truth values for each combination of variables allows for a clear evaluation of the relationship between the statements.
+Answer: C. Neither logically equivalent nor contradictory, but consistent
+------------------------
+13. ------------------------
+Reasoning: The correct answer should be the proposition that can be directly derived from the premises E ⊃ ~F and ~F ⊃ G, which is ~F. This makes option D, ~~F, the immediate consequence in PL of the given premises.
+Answer: D
+------------------------
+14. ------------------------
+Reasoning: In order to determine the validity of the argument using indirect truth tables, we need to find a counterexample that demonstrates the conclusion ~(E ≡ F) to be false while the premises E ⊃ (F ∨ ~G) and F ⊃ (~E ∨ ~G) are true. Option C provides a counterexample where E and F are true while G is false, making the conclusion ~(E ≡ F) false, thus showing the argument to be invalid.
+Answer: C
+------------------------
+15. ------------------------
+Reasoning: By constructing an indirect truth table to evaluate the validity of the argument, we can determine that the argument is invalid. A counterexample can be found when H, I, and J are all false, which satisfies the premises but does not lead to the conclusion.
+Answer: B
+------------------------
+16. ------------------------
+Reasoning: The correct translation ∃x(Fx ∧ ∃y(Vy ∧ Dx) ∧ Rxyz) accurately represents the statement "Some firefighters rescue victims from danger."
+Answer: A
+------------------------
+17. ------------------------
+Reasoning: The governor approves of it because the conditional proposition states that the university raises tuition only if the governor approves of it, indicating the governor's crucial role in the decision-making process.
+Answer: B
+------------------------
+18. ------------------------
+Reasoning: The correct translation into predicate logic for the statement "All planets are smaller than Jupiter" is represented as (∀x)(Px → Sxj) where Px represents x is a planet and Sxj represents x is smaller than Jupiter.
+Answer: D
+------------------------
+19. ------------------------
+Reasoning: The correct translation should be Ijwk because it represents the action of José introducing Wilma to Kevin.
+Answer: B
+------------------------
+20. ------------------------
+Reasoning: Utilization of the universal quantifier (∀) and the negation operator (~) accurately represents the relationship between artifacts and people in predicate logic, ensuring that no artifacts are classified as people.
+Answer: B
+------------------------
+21. ------------------------
+Reasoning: By constructing a truth table with all possible combinations of truth values for P, Q, and R, it can be determined that the argument is invalid. A counterexample can be found when P is false, Q is true, and R is false, which makes the premises true but the conclusion false.
+Answer: C
+------------------------
+22. ------------------------
+Reasoning: The predicate logic representation "Mism" correctly captures the action of Marco moving from Italy to Spain.
+Answer: C
+------------------------
+23. ------------------------
+Reasoning: The proposition states that for all apartments, if they are apartments and for all houses that are large, the apartments are not bigger than those houses. This implies that no apartment is bigger than any large house.
+Answer: B
+------------------------
+24. ------------------------
+Reasoning: By constructing a truth table for the given argument and evaluating all possible truth value combinations for propositions J, K, and L, it can be determined that the argument is invalid. A counterexample can be found when J is true, K is false, and L is false, which contradicts the conclusion ~K / L. 
+Answer: B
+------------------------
+25. ------------------------
+Reasoning: The correct answer should capture the biconditional relationship between the conditions mentioned in the sentence using the biconditional operator (↔) and variables representing Pablo going to the store (P), his brother driving him (D), and his brother paying for gas (G).
+Answer: D
+------------------------
+26. ------------------------
+Reasoning: The set of propositions is consistent if there exists at least one row in the truth table where all propositions are true. This means that the truth values of the propositions do not lead to a contradiction.
+Answer: C
+------------------------
+27. ------------------------
+Reasoning: The correct symbolization should utilize the disjunction symbol "∨" to represent "or" in the sentence, and each option of pie, cheesecake, and ice cream should be represented with distinct propositional logic variables. Additionally, the symbolization should capture the inclusive nature of "or" in the context of the restaurant serving dessert options.
+Answer: A
+------------------------
+28. ------------------------
+Reasoning: The correct answer should include a propositional variable representing Beth riding her bike (B) and a conditional operator (→) with the antecedent on the left side and the consequent on the right side. Option A (B ⊃ W) fits these criteria.
+Answer: A
+------------------------
+29. ------------------------
+Reasoning: The statement "Either Taylor or Eric is a latte boy" suggests that one of them, but not necessarily both, is a latte boy. Therefore, the translation into predicate logic should include predicates for Taylor and Eric being latte boys, along with the logical operator for "either/or" to capture this relationship accurately.
+Answer: A
+------------------------
+30. ------------------------
+Reasoning: In order to determine the validity of the argument, we need to find a counterexample where the premises are true, but the conclusion is false. Looking at option C, if we assume E and G are true while F is false, the premises E ⊃ F and G ⊃ ~F are satisfied, but the conclusion ~G ∨ ~E is not true. Therefore, option C provides a valid counterexample, making the argument invalid.
+Answer: C
+------------------------
+31. ------------------------
+Reasoning: The set of propositions is consistent if there exists a truth assignment that makes all the propositions true at the same time without leading to contradictions. By carefully analyzing the logical relationships between the propositions, the correct answer can be determined.
+Answer: C
+------------------------
+32. ------------------------
+Reasoning: By constructing a truth table with columns for each variable and intermediate step in the argument, we can systematically evaluate the validity of the argument. If there is at least one row where the premises are true but the conclusion is false, the argument is considered invalid. 
+Answer: B
+------------------------
+33. ------------------------
+Reasoning: The most straightforward deduction based on the premises is to negate X, leading to ~X, which directly contradicts the premise (X ≡ ~Y) ⊃ Z.
+Answer: D
+------------------------
+34. ------------------------
+Reasoning: The antecedent in the conditional proposition is the part that comes before the "then" clause, which in this case is "the Bees don't win their first game" as it is the condition that must be met for the consequent to happen.
+Answer: B
+------------------------
+35. ------------------------
+Reasoning: The correct answer should be Lhf because it represents the statement "Holly loves Frances" where Lxy is the predicate for "x loves y", h represents Holly, and f represents Frances.
+Answer: D
+------------------------
+36. ------------------------
+Reasoning: To determine the validity of the argument using indirect truth tables, we need to construct a truth table for the premises and the conclusion. If there is a row where all premises are true but the conclusion is false, the argument is invalid. In this case, the argument is invalid, and we need to provide a counterexample. By assigning truth values as follows: P = true, Q = false, R = true, and S = false, we can show that all premises are true, but the conclusion is false (~P). 
+Answer: D
+------------------------
+37. ------------------------
+Reasoning: By constructing a complete truth table for the argument, we can evaluate all possible truth values for T, U, and W. After analyzing the truth table, we can determine whether the argument is valid or invalid based on the truth values of the premises and the conclusion.
+Answer: B
+------------------------
+38. ------------------------
+Reasoning: The antecedent of the conditional proposition is the governor approves of it.
+Answer: B
+------------------------
+39. ------------------------
+Reasoning: The antecedent of the conditional proposition is "The restaurant does not have peas" as it is the condition that leads to the consequent "so instead they serve corn and potatoes."
+Answer: B
+------------------------
+40. ------------------------
+Reasoning: The correct answer should represent "all jellybeans" using the predicate Jx and "all fruit" using the predicate Fx, along with the sweeter than relationship Sxy. The option that correctly translates the statement "All jellybeans are sweeter than all fruit" into predicate logic is (∀x)[Jx ⊃ (∀y)(Fy ⊃ Sxy)].
+Answer: D
+------------------------
+41. ------------------------
+Reasoning: The conclusion that best encapsulates the central thesis of Schopenhauer's philosophy, emphasizing the subjective nature of reality and the role of human consciousness in shaping our understanding of the world is that the world is an idea.
+Answer: A
+------------------------
+42. ------------------------
+Reasoning: The correct translation into predicate logic should be Tlc because it accurately represents the relationship between Leo and Cathy in terms of height.
+Answer: A
+------------------------
+43. ------------------------
+Reasoning: By constructing the truth table for the propositions C ⊃ (D ∨ C) and C · ~D, we can determine their logical relationship. The truth table shows that the two propositions are logically equivalent since they have the same truth values for all possible combinations of truth values of propositions C and D.
+Answer: A
+------------------------
+44. ------------------------
+Reasoning: The truth table for ~O ⊃ P and O ∨ P should be constructed to determine the logical relationship between the two propositions. By evaluating the truth values of both statements for all possible combinations of truth values for O and P, we can determine if they are logically equivalent, contradictory, consistent, or inconsistent.
+Answer: C
+------------------------
+45. ------------------------
+Reasoning: The correct answer should involve assigning truth values to T, U, W, X, and Z in a way that satisfies the premises but leads to a false conclusion, thus showing the argument is invalid.
+Answer: B
+------------------------
+46. ------------------------
+Reasoning: The correct translation into predicate logic should accurately represent the relationship between Cecilia breaking the speaker's heart and Maria being either a problem or a girl. The statement implies a conditional relationship where Cecilia breaks the speaker's heart if, and only if, Maria is either a problem or a girl. The correct answer should reflect this relationship.
+Answer: A
+------------------------
+47. ------------------------
+Reasoning: The correct answer should include a conditional statement involving Delilah being in New York City and the locations of Juana and Layla, as the statement is about the relationship between Delilah's location and the locations of Juana and Layla.
+Answer: D
+------------------------
+48. Reasoning: The formula ~(A ⊃ B) • (B ⊃ ~E) translates to "Marina does not read a Percy Jackson book implies Izzy does not play Minecraft, and if Izzy plays Minecraft, then Ashleigh does not stop by." Therefore, the correct answer should involve Izzy playing Minecraft and Ashleigh not stopping by.
+Answer: A
+49. ------------------------
+Reasoning: The correct answer should involve providing a specific assignment of truth values to the propositional variables that makes the premises true and the conclusion false, thus showing that the argument is invalid. Option B presents a counterexample where B, C, and D are true, but A is false, which results in the conclusion being false, indicating the argument is invalid.
+Answer: B
+------------------------
+50. ------------------------
+Reasoning: The conclusion ~Dh can be derived from the premises provided through logical deduction, as the arguments lead to the negation of Dh.
+Answer: B
+------------------------
+51. ------------------------
+Reasoning: The immediate consequence can be derived using Modus Tollens, which states that if we have a conditional statement A ⊃ B and the negation of B, we can infer the negation of A. In this case, the premises A ⊃ (B • C) and ~(B • C) allow us to apply Modus Tollens to conclude ~A.
+Answer: B. ~A
+------------------------
+52. ------------------------
+Reasoning: The proposition N ⊃ ~O is an immediate consequence in PL of the given premises because it can be directly inferred from the premises N ⊃ ~O, P ⊃ (N ⊃ ~O), and N ⊃ P through the application of the rules of implication and negation.
+Answer: B
+------------------------
+53. ------------------------
+Reasoning: The correct representation in predicate logic for "Earth isn't bigger than Jupiter" is ¬B(e,j) because it accurately captures the statement that Earth is not bigger than Jupiter in terms of the variables e, j, and the predicate Bxy.
+Answer: A
+------------------------
+54. ------------------------
+Reasoning: The antecedent of the conditional proposition is the Aardvarks not winning their first game because the statement specifies that the Bees winning their first game is necessary for either the Aardvarks or the Chipmunks not winning their first game.
+Answer: A
+------------------------
+55. ------------------------
+Reasoning: The antecedent of the conditional proposition is the condition that must be met for the consequent to occur, which in this case is the Aardvarks or the Chipmunks not winning their first games.
+Answer: D
+------------------------
+56. ------------------------
+Reasoning: The correct translation should involve an existential quantifier (∃) representing "some," the variable for athletes (x), the predicate for being an athlete (Ax), and the negation of the predicate for getting injured (~Ix) to accurately represent the statement "Some athletes don't get injured."
+Answer: B
+------------------------
+57. ------------------------
+Reasoning: By constructing a complete truth table for the propositions I ≡ ~H and ~(~I ≡ H) and comparing the truth values for each row, it can be determined that the statements are consistent because their truth values do not contradict each other in all rows of the truth table.
+Answer: C
+------------------------
+58. ------------------------
+Reasoning: The correct answer should have a consistent valuation for each proposition in the set, meaning that there will be no row in the truth table where all propositions are false. This indicates that the set of propositions is consistent and can be satisfied by a truth assignment.
+Answer: B
+------------------------
+59. ------------------------
+Reasoning: The correct translation should involve a biconditional operator to represent the relationship between Caroline being sweet and Janet being engaged to Brad.
+Answer: B
+------------------------
+60. ------------------------
+Reasoning: The correct answer should accurately represent the relationships between the different parts of the sentence using conditional statements and logical connectives.
+Answer: A
+------------------------
+61. ------------------------
+Reasoning: The formula (~A ∨ ~B) ⊃ C translates to "If neither Marina reads a Percy Jackson book nor Izzy plays Minecraft, then Emily stops working." This is because the formula involves negation, disjunction, and implication, where the absence of Marina reading a book or Izzy playing Minecraft leads to Emily stopping working.
+Answer: A
+------------------------
+62. ------------------------
+Reasoning: Predicates are wanted in all sentences regardless of attributes to refer to because they play a crucial role in providing structure and meaning to sentences, establishing relationships between subjects and objects, ensuring clarity and coherence in communication.
+Answer: B
+------------------------
+63. ------------------------
+Reasoning: The symbol "~" negates the statement following it, so "~C" translates to "Emily does not stop working." The logical operator "∨" means "or," so the formula ~C ∨ D translates to "Emily does not stop working or Russell makes dinner."
+Answer: A
+------------------------
+64. ------------------------
+Reasoning: The correct translation should represent both Abdul and Cleopatra being Egyptian using a conjunction. The translation Ea • Ec correctly represents this relationship.
+Answer: A
+------------------------
+65. ------------------------
+Reasoning: The predicate "P(x)" representing "x is a punk rocker" and the constant symbol "s" representing "Sheena" accurately translate the statement "Sheena is a punk rocker" into predicate logic.
+Answer: D
+------------------------
+66. ------------------------
+Reasoning: The correct translation should represent Wilma introducing Kevin to José, which is accurately captured by Iwjk.
+Answer: A
+------------------------
+67. ------------------------
+Reasoning: The correct translation of "Eileen plays fiddle" into predicate logic is Fe, and the correct translation of "Sherri sings" is Ss. The implication symbol "->" should be used to represent the conditional statement "If Eileen plays fiddle then Sherri sings." Therefore, the correct answer is Fe ⊃ Ss.
+Answer: D
+------------------------
+68. ------------------------
+Reasoning: In order to determine the validity of the argument, we need to construct a truth table with columns for ~C, D, ~C ⊃ D, D ⊃ C, and the final conclusion C. By analyzing all possible truth value combinations, we can assess if the conclusion follows logically from the premises.
+Answer: B. Invalid. Counterexample when C and D are true
+------------------------
+69. ------------------------
+Reasoning: The correct translation should include an existential quantifier (∃) to signify the existence of at least one blue heron that migrates. It should also involve a predicate symbol and variables representing the subject and predicate of the statement.
+Answer: D
+------------------------
+70. ------------------------
+Reasoning: The correct answer should involve the interpretation of the existential quantifier (∃x) and the conjunction (•) in the argument (∃x)(Cx • Ox). Additionally, the conclusion ~Og is derived from the premise (∀x)[(~Cx ⊃ ~Bx) ⊃ ~Og] by applying universal instantiation and modus tollens.
+Answer: B
+------------------------
+71. ------------------------
+Reasoning: The conclusion of the argument is that psychology becomes again the path to fundamental problems when individuals begin to lose themselves and sail over morality by recognizing the effects of hatred, envy, covetousness, and the lust to rule as essential factors in life.
+Answer: D
+------------------------
+72. ------------------------
+Reasoning: The set of propositions is consistent because there is no direct contradiction between the propositions. Indirect truth tables help in systematically analyzing the truth values of each proposition and their logical relationships to determine consistency.
+Answer: B
+------------------------
+73. ------------------------
+Reasoning: The correct answer should accurately represent the key components of the sentence, including person, living with you, born/died in present year, home, and time alive. Option C includes these components in a structured manner.
+Answer: C
+------------------------
+74. ------------------------
+Reasoning: By constructing a complete truth table for the argument and evaluating the truth values of each proposition, we can determine the validity of the argument. Looking for a row where the premises are true ((O ≡ P) ∨ P) but the conclusion is false (P ∨ ~O) will help identify if the argument is valid or invalid. 
+Answer: C
+------------------------
+75. ------------------------
+Reasoning: The correct translation into predicate logic should represent the relationship where Leroy being bad leads to DJ Khaled shouting his name. The correct representation is Leroy is bad implies DJ Khaled shouts his name, which translates to Bl ⊃ Sk.
+Answer: D
+------------------------
+76. ------------------------
+Reasoning: The correct answer should include the disjunction operator (OR) to represent "either George enrolls or Harry enrolls", the negation operator to represent "does not enroll", and the implication operator to represent the conditional relationship between the two parts of the statement.
+Answer: B
+------------------------
+77. ------------------------
+Reasoning: The correct answer should represent the statement "Ms. Jackson lent me some sugar" with an existential quantifier, predicate symbol, variables, and constants. It should also include the negation of Janet and Latoya lending sugar with the utilization of the negation symbol (~) before their respective predicates. The correct answer that fulfills these requirements is D. Lm ∨ ~(Lj • Ll).
+Answer: D
+------------------------
+78. ------------------------
+Reasoning: The correct answer should include an existential quantifier to indicate the existence of at least one animal neglected by a cruel person, predicates for animals and cruel people, and a relation for neglect. Option A fits these criteria by stating that there exists an animal that is both an animal and cruel, and there exists a person who neglects that animal.
+Answer: A
+------------------------
+79. ------------------------
+Reasoning: By carefully analyzing the conditional statements within the set of propositions, we can determine that a consistent valuation exists when E is true and F, G, H, I, and J are false. This assignment satisfies all the propositions without any logical contradictions.
+Answer: B
+------------------------
+80. ------------------------
+Reasoning: The correct answer should involve an existential quantifier (∃) followed by a variable representing students and a predicate representing working hard, as it accurately captures the statement "Some students work hard" in predicate logic.
+Answer: A
+------------------------
+81. ------------------------
+Reasoning: The correct answer should accurately represent the logical connectives "either...or", "not", "necessary condition", "if...then" and the relationships between the countries and their actions. Option A captures these components the best.
+Answer: A
+------------------------
+82. ------------------------
+Reasoning: By constructing a truth table for the argument ~A · ~B / (A ∨ C) ∨ B / C, we can evaluate all possible combinations of truth values for the variables A, B, and C. After analyzing the truth table, if there is at least one scenario where the premises are true but the conclusion is false, the argument is considered invalid. Looking at the options, option B provides a counterexample when A and B are true, and C is false, making the argument invalid.
+Answer: B
+------------------------
+83. ------------------------
+Reasoning: The correct translation should include a universal quantifier (∀) to represent "All birds," an existential quantifier (∃) to indicate "some nest," and a binary relation symbol (Lxy) to show the relationship between birds and nests.
+Answer: B
+------------------------
+84. ------------------------
+Reasoning: The conclusion of the argument presented is that the sacrifices of even large numbers of other people are outweighed by the gains of the utility monster, which challenges the utilitarian theory of maximizing overall utility.
+Answer: D
+------------------------
+85. ------------------------
+Reasoning: The formula (A ∨ ~E) ≡ (D • ~B) translates to "Either Marina reads a Percy Jackson book or Ashleigh does not stop by if, and only if, both Russell makes dinner and Izzy doesn't play Minecraft." This translation accurately reflects the logical operations of "or" and "and" in the formula.
+Answer: D
+------------------------
+86. ------------------------
+Reasoning: The correct answer should accurately represent the conjunction of "Brittany likes fish and lizards" and the negation of "Brittany likes cats" to capture the logical structure of the sentence.
+Answer: B
+------------------------
+87. ------------------------
+Reasoning: The correct answer should include the disjunction operator (either...or), the negation operator (not), and the implication operator (if...then) to accurately symbolize the given sentence in propositional logic.
+Answer: C
+------------------------
+88. ------------------------
+Reasoning: By constructing a truth table with columns for X, Y, Z, ~X, ~X ⊃ Y, Y ⊃ Z, and ~Z, we can systematically evaluate all possible truth values for each variable and determine the truth value of the conclusion based on the premises. If there is a row where all premises are true but the conclusion is false, then the argument is invalid. 
+Answer: C
+------------------------
+89. ------------------------
+Reasoning: The correct answer should involve existential quantifiers to indicate the existence of kind people and endangered species being helped, along with appropriate predicates to represent the relationship between them. Option A fits these criteria by stating that there exists a kind person who is a person and helps an endangered species.
+Answer: A
+------------------------
+90. ------------------------
+Reasoning: The proposition states that for every apartment, there exists at least one house that is larger than that apartment. This relationship is accurately represented by option A, which states that every apartment is bigger than some house.
+Answer: A
+------------------------
+91. ------------------------
+Reasoning: To determine the validity of the argument, we need to construct a truth table for the premises and conclusion. Given the premises Q ≡ R and ~(S ∨ Q), we can evaluate all possible truth value combinations for Q, R, and S. After constructing the truth table, we can see that the argument is invalid. A counterexample can be when Q is true, S is false, and R is false, which falsifies the conclusion R.
+Answer: B
+------------------------
+92. ------------------------
+Reasoning: The antecedent of the conditional proposition is the combined approval of both the governor and the board of trustees, as stated in the statement. 
+Answer: D
+------------------------
+93. ------------------------
+Reasoning: The immediate consequence of the premise (A ∨ B) ⊃ (C ∨ D) when A ∨ B is true is ~D. Therefore, the correct answer is D because it includes the negation of D.
+Answer: D
+------------------------
+94. ------------------------
+Reasoning: The antecedent of the conditional proposition is the action or event that triggers the university to raise tuition, as it is the necessary condition for the consequent to occur.
+Answer: A
+------------------------
+95. ------------------------
+Reasoning: The correct translation should reflect the relationship where Marco does not move from Spain to Italy.
+Answer: A
+------------------------
+96. ------------------------
+Reasoning: By constructing a complete truth table for the given argument, we can evaluate all possible combinations of truth values for the premises and the conclusion. After analyzing the truth table, we can determine that the argument is invalid. The counterexample when S, T, and U are all true shows that the conclusion T · U is false, while the premises are true, indicating the invalidity of the argument.
+Answer: B
+------------------------
+97. ------------------------
+Reasoning: The correct answer should utilize the implication operator to represent the concept of "unless" in the given sentence, where the antecedent implies the negation of the consequent.
+Answer: C
+------------------------
+98. ------------------------
+Reasoning: The correct answer should involve a scenario where R is true and Q is false, leading to a counterexample for the argument.
+Answer: D
+------------------------
+99. ------------------------
+Reasoning: The conclusion emphasizes that meanings are not determined by thoughts and are not in the head, which aligns with the argument presented by Hilary Putnam.
+Answer: D
+------------------------
+100. ------------------------
+Reasoning: By constructing a complete truth table for the pairs of propositions (G ∨ ~H) ⊃ G and ~G ≡ (~H · G), we can analyze all possible truth values for G and H. Based on the truth tables, if the truth values of the two statements are the same for all possible combinations, they are logically equivalent. If the truth values are opposite for all possible combinations, they are contradictory. If neither of these conditions is met, we can determine if they are consistent or inconsistent.
+Answer: A. Logically equivalent
+------------------------
+101. ------------------------
+Reasoning: The correct answer should accurately represent the relationships between necessary and sufficient conditions, clearly identify the different countries and their actions, and properly connect the conditions with logical operators. The disjunction operator (v) should be used to symbolize the logical connective "either...or."
+Answer: A
+------------------------
+102. ------------------------
+Reasoning: The correct interpretation of the arguments in predicate logic involves the use of negation, conjunction, disjunction, universal quantification, and conditional statements. The conclusion should logically follow from the premises, and the application of valid rules of inference should be considered.
+Answer: B
+------------------------
+103. ------------------------
+Reasoning: The conclusion of the argument is that it is wrong for society to kill a murderer because if a murderer is wrong in killing his victim, then society is also wrong in killing the murderer. Additionally, the argument states that a murderer is wrong in killing his victim.
+Answer: A
+------------------------
+104. ------------------------
+Reasoning: The correct answer should be the proposition that is not directly linked or deducible from the given premises. Option C involves a disjunction (∨) which is not directly connected to the premises, making it the correct answer.
+Answer: C
+------------------------
+105. ------------------------
+Reasoning: In order to determine the validity of the argument using a truth table, we need to analyze the relationship between the premises (I ∨ J) and the conclusion (I). If in every row where the premises are true, the conclusion is also true, then the argument is valid. However, if there is at least one row where the premises are true but the conclusion is false, then the argument is invalid. This is where a counterexample would be presented to show that the argument does not hold in all cases.
+Answer: C
+------------------------
+106. ------------------------
+Reasoning: The correct translation should include an existential quantifier (∃) to indicate the existence of at least one lucky individual among folks. The predicates Fx and Lx represent "folks" and "lucky" respectively, capturing the statement accurately.
+Answer: A
+------------------------
+107. ------------------------
+Reasoning: The correct translation should accurately represent the action of Ben greeting Alexis, which is represented by Gba.
+Answer: D
+------------------------
+108. ------------------------
+Reasoning: For the given question, when looking at it from the perspective of accurately translating the statement "Not all lobsters are red" into predicate logic, the correct answer should have the following characteristics: using the universal quantifier (∀), the negation symbol (~), and the predicate for being red because it accurately captures the meaning of the original statement.
+The reasoning behind this is that the universal quantifier (∀) is used to indicate "all" or "every", the negation symbol (~) is used to indicate "not", and the predicate for being red is necessary to specify the property of lobsters that is being referred to in the statement.
+Answer: A
+------------------------
+109. ------------------------
+Reasoning: Indirect truth tables require a systematic analysis of the truth values of propositions to determine the validity of an argument. By constructing truth tables for each proposition and examining the logical relationships between them, we can determine if the conclusion follows logically from the premises.
+Answer: B
+------------------------
+110. ------------------------
+Reasoning: The truth table for ~(J ∨ K) · L and (L ⊃ J) · K should be constructed accurately to determine if they are logically equivalent, contradictory, consistent, or inconsistent. 
+For ~(J ∨ K) · L, the truth value is dependent on the truth values of propositions J, K, and L. 
+For (L ⊃ J) · K, the truth value should be true only when L implies J and K is true. 
+By comparing the truth values of both statements in the truth tables, we can determine if they are logically equivalent, contradictory, consistent, or inconsistent.
+Answer: C. Neither logically equivalent nor contradictory, but consistent
+------------------------
+111. ------------------------
+Reasoning: The correct translation into predicate logic should include a universal quantifier, a predicate symbol representing the action, variables representing the subjects, and implication to show the relationship between the subject and the action. The translation (∀x)(Sx ⊃ Fx) accurately represents the statement "All first-year students take a swim test."
+Answer: A
+------------------------
+112. ------------------------
+Reasoning: The correct translation into predicate logic for "Johnny came late" should include predicates representing Johnny and the action of coming late, with a logical connective between them. The subject should be represented as an individual entity. 
+Answer: A
+------------------------
+113. ------------------------
+Reasoning: The correct translation should include a universal quantifier, negation, implication, and specific predicates to accurately represent the original statement in predicate logic.
+Answer: D
+------------------------
+114. ------------------------
+Reasoning: The conclusion of the argument is that the importance of DNA was not really understood until the 1950s, which is highlighted as the final key milestone in the development of genetics.
+Answer: B
+------------------------
+115. ------------------------
+Reasoning: The correct answer should accurately represent the conditional statements and necessary conditions in the sentence. Option A, (E ⊃ F) ∨ (C ≡ ~S), correctly symbolizes the necessary condition and conditional statements present in the sentence.
+Answer: A
+------------------------
+116. ------------------------
+Reasoning: The correct answer should accurately represent the relationships between sufficient and necessary conditions, clearly identify the countries and their actions, and properly connect the conditions with logical operators. Looking at the options, option A, (E ⊃ F) ∨ (S ⊃ C), accurately captures the relationships between the conditions and countries mentioned in the sentence.
+Answer: A
+------------------------
+117. ------------------------
+Reasoning: The correct answer should include negations for both "math" and "science" and use a logical operator that represents "neither/nor" to accurately symbolize Dylan's dislike for both subjects in propositional logic.
+Answer: D
+------------------------
+118. ------------------------
+Reasoning: The correct translation should include a universal quantifier (∀) followed by the predicates representing robots and artifacts. The statement "All robots are artifacts" implies that every object classified as a robot is also classified as an artifact, which aligns with the use of the universal quantifier.
+Answer: C
+------------------------
+119. ------------------------
+Reasoning: The correct answer should accurately symbolize the causal relationship between the university raising tuition, the president's approval, and the board not preventing it using implication, conjunction, and negation. Option C (U ⊃ (P • ~B)) correctly represents this relationship.
+Answer: C
+------------------------
+120. ------------------------
+Reasoning: The conclusion that capital punishment should not be abolished is supported by the potential negative outcomes mentioned in the argument, such as overcrowded prisons and the need for more prison facilities.
+Answer: A
+------------------------
+121. ------------------------
+Reasoning: The correct answer should accurately represent the conditional relationships, negations, necessary conditions, and biconditional statements present in the sentence. Option A includes the necessary condition symbolized by the implication (⊃), the negation (~), and the biconditional (≡) accurately, making it the best symbolization.
+Answer: A
+------------------------
+122. ------------------------
+Reasoning: To determine the validity of the argument using indirect truth tables, we need to systematically evaluate the truth values of each proposition and identify a row where the premises are true but the conclusion is false. Looking at the options, option B provides a counterexample where L, M, and N are true, but K is false, making the conclusion false despite the premises being true. This counterexample demonstrates the invalidity of the argument.
+Answer: B
+------------------------
+123. ------------------------
+Reasoning: By constructing a complete truth table for the argument and evaluating the truth values of the premises and conclusion, it can be determined that the argument is invalid. The correct answer is B because a counterexample can be found when H and I are true, but G is false, which results in the premises being true while the conclusion is false.
+Answer: B
+------------------------
+124. ------------------------
+Reasoning: By constructing a truth table for the argument ~(M ≡ ~N) and evaluating the truth values of the premises and conclusion, we can determine the validity of the argument. If there is at least one row where the premises are true but the conclusion is false, the argument is invalid. Therefore, we need to look for a counterexample where M and N are true to show the argument is invalid.
+Answer: B
+------------------------
+125. ------------------------
+Reasoning: The correct translation should include the existence of at least one CEO (∃x), the universal quantifier for everyone (∀y), and the comparison of wealth represented by the predicate Wxy.
+Answer: A
+------------------------
+126. ------------------------
+Reasoning: The correct translation should include the predicate Gxy, where x represents a child and y represents a school. This accurately captures the concept of children going to a school in the predicate logic translation. Additionally, the translation should utilize both universal and existential quantifiers to represent "All children go to some school."
+Answer: A
+------------------------

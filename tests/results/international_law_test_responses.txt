@@ -1,0 +1,483 @@
+1. ------------------------
+Reasoning: Based on the principle of flag state jurisdiction and the recognition of territorial jurisdiction, the state that ordinarily exercises jurisdiction in respect of crimes committed on board vessels is the flag State.
+Answer: B
+------------------------
+2. ------------------------
+Reasoning: Justiciability refers to the ability of a court to hear and determine a legal issue, making option C the most fitting definition.
+Answer: C
+------------------------
+3. ------------------------
+Reasoning: R2P requires a call for assistance by the State in distress, involves some UNSC input, and focuses on averting a humanitarian crisis, which distinguishes it from traditional humanitarian intervention.
+Answer: C
+------------------------
+4. ------------------------
+Reasoning: The so-called Lotus principle is that 'restrictions upon the independence of States cannot therefore be presumed', or, as it has been construed, 'whatever is not prohibited is permitted in international law'
+Answer: A
+------------------------
+5. ------------------------
+Reasoning: The UK Constitution is uncodified and can be found in a number of sources, including statutes, common law, conventions, and works of authority.
+Answer: C
+------------------------
+6. ------------------------
+Reasoning: The obligation of peaceful settlement of disputes emphasizes negotiation, mediation, and arbitration as primary methods of resolving disputes, which aligns with the characteristics of option B.
+Answer: B
+------------------------
+7. ------------------------
+Reasoning: Protocol 14 did not abolish the Commission of Human Rights, making statement C false.
+Answer: C
+------------------------
+8. ------------------------
+Reasoning: According to the UN Convention of the Law of the Sea (UNCLOS), a 'rock' is defined as a landmass that cannot sustain human habitation or economic life of its own. Therefore, the correct answer is C as it aligns with this definition.
+Answer: C
+------------------------
+9. ------------------------
+Reasoning: International legal personality refers to having rights and duties under international law and a capacity to enforce these by or against the relevant actor, which includes recognition by other states, the ability to enter into international agreements, and the capacity to sue and be sued in international courts.
+Answer: B
+------------------------
+10. ------------------------
+Reasoning: The UN Human Rights Committee is a treaty-based human rights mechanism established under the International Covenant on Civil and Political Rights, which obligates states parties to submit regular reports on their compliance with the treaty provisions.
+Answer: A
+------------------------
+11. ------------------------
+Reasoning: The UN Vienna Declaration 1993 emphasized that all types of rights are indivisible, interrelated, and interdependent, reflecting the core principles of human rights outlined in the declaration.
+Answer: C
+------------------------
+12. ------------------------
+Reasoning: The principal source of immunity for IOs is derived from international law principles and treaties, as well as the host country's domestic laws which may grant specific immunities to IOs.
+Answer: B
+------------------------
+13. ------------------------
+Reasoning: The principle of sovereign equality enshrined in the UN Charter dictates that all States are considered equal as sovereign States, and no hierarchy exists among them. This principle is fundamental in international law and guides the relationships among States.
+Answer: C
+------------------------
+14. ------------------------
+Reasoning: The declaratory theory of recognition emphasizes that recognition is declaratory of statehood based on objective criteria, such as effective control over a territory and acceptance by other states, rather than being determinate or requiring a specific declaration.
+Answer: B
+------------------------
+15. ------------------------
+Reasoning: Standard-setting in human rights diplomacy helps to create a common framework for countries to follow, promotes accountability and transparency, and ensures consistency in promoting and protecting human rights globally.
+Answer: A
+------------------------
+16. ------------------------
+Reasoning: The Kadi judgment introduced the dimension of judicial review and due process considerations, emphasizing the need for domestic courts to ensure individuals have the right to challenge the implementation of UN Security Council resolutions in their national legal systems.
+Answer: A
+------------------------
+17. ------------------------
+Reasoning: The Magna Carta was an agreement in 1215 between the King and his barons, which guaranteed certain protections for subjects, limiting the power of the monarchy and protecting the rights of the nobility.
+Answer: B
+------------------------
+18. ------------------------
+Reasoning: Individuals, as physical persons, do not enjoy international legal personality in the same manner as States and international organizations. States and international organizations are considered subjects of international law and have the capacity to enter into legal relations with other entities on the international stage. They have rights and obligations under international law that individuals do not possess. Individuals, on the other hand, are typically subject to the jurisdiction of their own State and do not have the same level of legal capacity in the international arena.
+Answer: C
+------------------------
+19. ------------------------
+Reasoning: When considering the information provided from different perspectives, it is evident that there is no hierarchy among the methods of peaceful settlement of disputes. The choice of method ultimately belongs to the disputing States, and there is no universal rule dictating a specific order of preference. 
+Answer: C
+------------------------
+20. ------------------------
+Reasoning: The false statement is that the European Court of Human Rights was a part-time court that could not process the growing number of complaints, which is not accurate.
+Answer: C
+------------------------
+21. ------------------------
+Reasoning: Proportionality in international law requires that the response of a victim State should be commensurate with the harm suffered and necessary to achieve a legitimate aim. The victim State may only use such means and force as it is necessary to defeat the aggressor, ensuring that the response is not excessive or disproportionate.
+Answer: C
+------------------------
+22. ------------------------
+Reasoning: Jurisdiction is typically based on the principle of territorial sovereignty, where a state has authority over its own territory and its inhabitants, making it ordinarily territorial.
+Answer: C
+------------------------
+23. ------------------------
+Reasoning: When considering the formal sources of international law, treaties, custom, and general principles of law are the primary sources that are legally binding, widely accepted, and crucial in shaping the legal framework of the international system.
+Answer: C
+------------------------
+24. ------------------------
+Reasoning: Baselines are crucial for establishing the starting point for measuring the breadth of all maritime zones, including the territorial sea, contiguous zone, exclusive economic zone, and continental shelf of a coastal state. They serve as the foundation for determining the extent of a state's jurisdiction over its maritime areas.
+Answer: B
+------------------------
+25. ------------------------
+Reasoning: Conciliation involves a neutral third party facilitating communication and negotiation between the parties in conflict, with the goal of reaching a mutually acceptable resolution. The conciliator may provide recommendations or suggestions to help the parties reach an agreement. This process is typically less formal than mediation. The key principle in conciliation is the impartiality and neutrality of the conciliator, who helps the parties communicate effectively and find common ground. 
+Answer: C
+------------------------
+26. ------------------------
+Reasoning: The statement "A state should take reasonable steps to prevent death/harm occurring" is not part of the Osman test as it does not align with the criteria set by the European Court in the case.
+Answer: C
+------------------------
+27. ------------------------
+Reasoning: The correct answer is that the principal organs of the UN may request an advisory opinion as well as the State that have been authorized by the General Assembly. This is because only United Nations organs or specialized agencies authorized by the General Assembly have the legal standing to request advisory opinions from the ICJ.
+Answer: D
+------------------------
+28. ------------------------
+Reasoning: The purpose of universal jurisdiction is to provide jurisdiction to all States in respect of particular crimes, such as genocide, war crimes, crimes against humanity, and torture, regardless of the nationality of the perpetrator or where the crimes were committed. This allows for accountability and justice on a global scale.
+Answer: C
+------------------------
+29. ------------------------
+Reasoning: The conduct of any State organ shall be considered an act of that State, even in the case that this conduct was unauthorized or ultra vires
+Answer: A
+------------------------
+30. ------------------------
+Reasoning: The Vienna Convention on the Law of Treaties defines a treaty as an international agreement concluded between states in written form and governed by international law. This definition emphasizes the formal nature of treaties, the involvement of states as parties, and the binding nature of the agreement under international law.
+Answer: B
+------------------------
+31. ------------------------
+Reasoning: Based on the legal definitions of act jure imperii and act jure gestionis in international law, the unlawful homicide committed by the Minister of country X abroad would likely be considered a public act (jure imperii) if it was performed in the exercise of sovereign authority.
+Answer: A
+------------------------
+32. ------------------------
+Reasoning: The outcome before the European Court of Human Rights in the Al-Adsani case was that the Court held that the right to a fair trial trumped the privilege of immunity.
+Answer: A
+------------------------
+33. ------------------------
+Reasoning: The Badinter Commission required a commitment to human rights and democracy as a criteria for the former Yugoslav republics to meet in order to gain recognition.
+Answer: C
+------------------------
+34. ------------------------
+Reasoning: Treaties are to be interpreted in good faith in accordance with the ordinary meaning to be given to the terms of the treaty in their context and in the light of its object and purpose
+Answer: A
+------------------------
+35. ------------------------
+Reasoning: Based on international laws and agreements governing the enforcement of criminal jurisdiction by coastal States over foreign vessels in their ports, the correct answer should be that port States generally do not enforce their criminal jurisdiction over crimes that do not infringe their customs laws or disrupt peace and public order.
+Answer: A
+------------------------
+36. ------------------------
+Reasoning: UN General Assembly resolutions are not legally binding on member states, meaning they do not have the force of law. Instead, they serve as recommendations or expressions of the will of the international community. While they can carry significant political weight and influence state behavior, there are no formal mechanisms for enforcing compliance with these resolutions. Therefore, their value as a source of international law lies more in their persuasive nature rather than their legal binding effect.
+Answer: A
+------------------------
+37. ------------------------
+Reasoning: The correct answer is that treaties do not create obligations or rights for third States without their consent, as per the principle of pacta tertiis nec nocent nec prosunt.
+Answer: C
+------------------------
+38. ------------------------
+Reasoning: Articles that can be limited under certain circumstances or conditions are considered not qualified rights.
+Answer: C
+------------------------
+39. ------------------------
+Reasoning: Dualism is a philosophical concept that involves the idea of two fundamental substances or entities being separate and distinct from each other, such as mind-body dualism. This aligns with option B, where international and domestic laws are seen as distinct legal systems.
+Answer: B
+------------------------
+40. ------------------------
+Reasoning: Act jure imperii refers to acts done by a state in its governmental or sovereign capacity, such as military operations or diplomatic activities. This aligns with option B, which states that an act is jure imperii when undertaken in an official State capacity.
+Answer: B
+------------------------
+41. ------------------------
+Reasoning: Treaties are considered one of the primary sources of international law, setting legal obligations for states. They play a crucial role in shaping international law and have significant implications on states. Customary international law is also significant, formed through consistent state practice and opinio juris. Decisions by international courts contribute to interpreting and applying formal sources of international law. Resolutions by international organizations influence the creation and implementation of international legal principles.
+Answer: A. There is no hierarchy between the formal sources of international law
+------------------------
+42. ------------------------
+Reasoning: UNSC Resolution 678 provided a specific mandate for the use of force in response to Iraq's invasion of Kuwait, which garnered broader international support compared to a collective defensive action under Article 51 of the UN Charter. This made Resolution 678 broader in scope and more effective in addressing the Gulf War situation.
+Answer: D
+------------------------
+43. ------------------------
+Reasoning: Treaties may 1) codify customary law, 2) 'crystallise' customary law, 3) lead to the emergence of customary law
+Answer: C
+------------------------
+44. ------------------------
+Reasoning: From a legal, political, historical, and international relations perspective, sovereignty means the freedom to determine one's own affairs without external interference, including the ability to make laws, enforce laws, enter into agreements, and control territory and population.
+Answer: C
+------------------------
+45. ------------------------
+Reasoning: Functional recognition in a professional context involves recognizing and appreciating employees for their specific job roles and responsibilities, acknowledging their individual contributions towards the success of the organization, and ensuring that the recognition is in line with the overall goals and objectives of the organization.
+Answer: A
+------------------------
+46. ------------------------
+Reasoning: The act of State doctrine is a legal principle that holds that one country's courts will not judge the validity of another country's sovereign acts within its own territory because of the principle of state sovereignty. It is based on the respect for the sovereignty of other nations and the need to avoid interference in their internal affairs. This aligns with option D, which states that the act of State doctrine is a legal mechanism that allows the courts to provide immunity to public acts of foreign States.
+Answer: D
+------------------------
+47. ------------------------
+Reasoning: International society consists of a constellation of sovereign States and other international organizations, which are dispersed in a rather horizontal order of authority. This aligns with the key institutions and organizations that make up the international society's structure, involving organizations like the United Nations, World Trade Organization, and International Monetary Fund.
+Answer: B
+------------------------
+48. ------------------------
+Reasoning: The situation is not clear-cut, and an act of parliament would most probably be required to incorporate customary crimes under English law, considering the need for legal clarity and formal adoption.
+Answer: D
+------------------------
+49. ------------------------
+Reasoning: The contiguous zone allows a country to exercise limited control for the purpose of preventing or punishing infringement of its customs, fiscal, immigration, or sanitary laws and regulations because it extends the reach of a country's authority beyond its territorial waters.
+Answer: C
+------------------------
+50. ------------------------
+Reasoning: The European Court of Human Rights typically focuses on cases where the state has failed to fulfill its obligations to protect individuals from violations of their human rights by state actors. Providing housing for all those homeless within a state is not directly related to state actions or inactions causing harm, unlike the other options.
+Answer: D
+------------------------
+51. ------------------------
+Reasoning: The case that was the first to define the meaning of the doctrine of 'margin of appreciation' as applied by the European Court of Human Rights is crucial in establishing the foundational principles and guidelines for the Court to follow in future cases involving the doctrine. Among the options provided, Handyside v UK (1976) is the most likely to be the correct answer as it set the precedent for the interpretation of the doctrine of 'margin of appreciation' by the European Court of Human Rights.
+Answer: D
+------------------------
+52. ------------------------
+Reasoning: The members of the arbitral tribunal are typically appointed by the parties involved in the dispute or by a designated appointing authority within the arbitration institution to ensure impartiality, independence, and expertise of the tribunal members.
+Answer: D
+------------------------
+53. ------------------------
+Reasoning: Even though peremptory norms of international law are fundamental and non-derogable, they are not the only norms that set out obligations erga omnes. Other sources such as decisions of international courts, acts of international organizations, treaties regulating objective regimes, and unilateral acts can also establish obligations erga omnes.
+Answer: D
+------------------------
+54. ------------------------
+Reasoning: The constitutive theory of recognition emphasizes that recognition is determinative of statehood, meaning that the act of recognition actually creates the entities being recognized. It is not just a passive acknowledgment but an active process that shapes identities and relationships.
+Answer: A
+------------------------
+55. ------------------------
+Reasoning: The correct answer should involve a reporting mechanism and the right to individual petition, as these elements are crucial for monitoring violations, reviewing reports, and potentially addressing issues through recommendations or individual complaints.
+Answer: D
+------------------------
+56. ------------------------
+Reasoning: Piracy under international (jure gentium) law is subject to universal jurisdiction as it is considered a crime that poses a threat to the international community as a whole and is not limited to any specific territory or nationality. This allows any state to prosecute individuals accused of piracy, regardless of where the crime took place or the nationality of the perpetrator.
+Answer: B
+------------------------
+57. ------------------------
+Reasoning: Self-executing treaties are clear and precise enough so as not to require any further implementing measures, making them directly applicable in domestic law upon ratification.
+Answer: B
+------------------------
+58. ------------------------
+Reasoning: The ICJ has historically taken a broad and flexible approach to interpreting the concept of armed attack, especially when it involves lower intensity, cumulative instances of armed force, in order to adapt to evolving forms of warfare and security threats.
+Answer: A
+------------------------
+59. ------------------------
+Reasoning: Since there is no lis pendens rule in international law and all depends on the consent of the parties to a dispute, there is no priority or hierarchy among international courts and tribunals.
+Answer: C
+------------------------
+60. ------------------------
+Reasoning: Third States do not have automatic fishing rights within the EEZ of another State unless granted permission by that State through agreements or treaties as per international laws and agreements governing fishing rights in EEZs.
+Answer: B
+------------------------
+61. ------------------------
+Reasoning: The purpose of sovereign immunity is to shield States from being sued in the courts of other States, allowing them to carry out their functions without constant litigation.
+Answer: C
+------------------------
+62. Reasoning: Passive personality jurisdiction allows a state to assert jurisdiction over a defendant based on harm caused to one of its citizens, regardless of where the harm occurred. This principle focuses on protecting the interests of its citizens rather than the location of the crime or the perpetrator's nationality.
+
+Answer: C
+63. ------------------------
+Reasoning: First generation rights are typically associated with civil and political liberties that protect individual freedoms and are essential for democracy.
+Answer: B
+------------------------
+64. ------------------------
+Reasoning: Fragmentation of international law refers to the existence of multiple legal frameworks and institutions that may overlap, conflict, or leave gaps in addressing global issues, leading to lack of interconnectedness, coherence, and difficulty in enforcement for global governance systems.
+Answer: B
+------------------------
+65. ------------------------
+Reasoning: Functional immunity covers the act and incidentally also the person committing the act, protecting state officials from legal actions in foreign jurisdictions for acts performed in their official capacity.
+Answer: B
+------------------------
+66. ------------------------
+Reasoning: Implied authorisation does not involve explicit verbal or written consent from the principal, but rather is inferred from the circumstances or actions of the parties involved. It is based on the understanding that certain actions or behaviors imply consent, even if it is not explicitly stated. 
+Answer: B
+------------------------
+67. ------------------------
+Reasoning: The philosopher who called the idea of natural rights 'nonsense on stilts' is Jeremy Bentham, known for his skepticism towards natural rights and his criticism of the concept as being absurd or unreasonable.
+Answer: D
+------------------------
+68. ------------------------
+Reasoning: The head of state or government, the foreign minister, or a representative with specific authority delegated by the state are typically recognized as having the legal authority to represent the state in treaty negotiations and agreements, in accordance with the Vienna Convention on the Law of Treaties.
+Answer: A
+------------------------
+69. ------------------------
+Reasoning: The State which persistently and publicly objects to the formation of a rule of customary law from its outset
+Answer: C
+------------------------
+70. ------------------------
+Reasoning: Collective security is a system where states agree to take collective action against any state that commits aggression or threatens peace, with the goal of maintaining international peace and security through cooperation among states. The correct answer should reflect this emphasis on cooperation and collective action.
+Answer: A
+------------------------
+71. ------------------------
+Reasoning: The European Convention on Human Rights is primarily concerned with safeguarding civil and political rights, economic and social rights, minority rights, and prohibiting torture and inhuman treatment.
+Answer: C
+------------------------
+72. ------------------------
+Reasoning: International tribunals share some, but not all, of the jurisdictional principles applicable to national courts. While there may be similarities in foundational principles, the unique global scale and issues that international tribunals deal with require specific considerations in their jurisdictional regulations.
+Answer: C
+------------------------
+73. ------------------------
+Reasoning: Collective rights entail a right of the group as such as well as individual rights of the group's members, recognizing the importance of group identity and cultural preservation.
+Answer: D
+------------------------
+74. ------------------------
+Reasoning: The correct answer should recognize the obligation of States to conduct negotiations in a meaningful manner, guided by the principle of good faith and adherence to international agreements and conventions.
+Answer: B
+------------------------
+75. ------------------------
+Reasoning: Naturalism emphasizes the idea that reality exists independently of human perception and observation, belief in the scientific method as the primary means of understanding the world, and rejection of supernatural explanations because they cannot be tested or verified through empirical evidence. Positivism, on the other hand, emphasizes empirical evidence, quantifiable data, and the scientific method in order to understand the world. Therefore, the major difference between naturalism and positivism lies in their approach to the nature of reality and the methods used to gain knowledge about it.
+Answer: A
+------------------------
+76. ------------------------
+Reasoning: An internationally wrongful conduct consists of an action or omission attributable to the State, which constitutes a breach of an international obligation of the State, as it clearly violates established norms and principles of international law.
+Answer: C
+------------------------
+77. ------------------------
+Reasoning: The effects doctrine serves to confer jurisdiction to the State on whose territory the conduct produces effects, allowing countries to regulate conduct that has significant impacts on their interests, even if the conduct occurs outside their borders.
+Answer: D
+------------------------
+78. ------------------------
+Reasoning: Individuals who exercise elements of governmental authority on behalf of the State, act in an official capacity, and are empowered by the State to perform governmental functions are considered 'de facto' organs of the State under the law of international responsibility.
+Answer: A
+------------------------
+79. ------------------------
+Reasoning: Custom must first be recognised by Parliament before the courts can bring it into the domestic sphere, as it needs to be consistent with existing laws and widely accepted by the community over a significant period of time to be incorporated under English law.
+Answer: C
+------------------------
+80. ------------------------
+Reasoning: Based on the prevailing international laws and norms before the establishment of the United Nations Charter, armed force was generally permitted in self-defense or in response to an armed attack, indicating that it was not strictly prohibited.
+Answer: C
+------------------------
+81. ------------------------
+Reasoning: The protective principle of jurisdiction is based on the harm to national interests by conduct committed abroad, allowing a country to assert jurisdiction over acts that threaten its national security or interests.
+Answer: A
+------------------------
+82. ------------------------
+Reasoning: The Council of Europe was established in 1949, not 1950, and it consists of 47 member states, not 27, making option B the correct statement.
+Answer: B
+------------------------
+83. ------------------------
+Reasoning: An equitable result in maritime delimitation aims to ensure fairness and balance in the allocation of maritime boundaries, considering factors like geographical features, historical context, and the rights of all parties involved. Option B aligns with this definition by stating that an equitable result is determined based on what a judge or arbitrator deems fair and equitable in a delimitation case.
+Answer: B
+------------------------
+84. ------------------------
+Reasoning: Derogation is a legal concept that refers to the partial repeal or exemption from a law or regulation. Therefore, the correct answer is A. Derogations are exemptions from particular human rights obligations contained in a treaty.
+Answer: A
+------------------------
+85. ------------------------
+Reasoning: Act jure gestionis refers to actions taken by a state that are considered commercial or business-like in nature, rather than sovereign or governmental. This means that option A, which states that acts jure gestionis are those undertaken by States in a private capacity, aligns with this definition.
+Answer: A
+------------------------
+86. ------------------------
+Reasoning: Cultural relativism posits that moral values are relative to the culture in which they are held, emphasizes understanding and respecting different cultural practices, and rejects ethnocentrism. This aligns with the definition of cultural relativism.
+Answer: B
+------------------------
+87. ------------------------
+Reasoning: When considering the criteria used to determine the recognition of governments in contemporary international practice, the key factors such as a clear legal framework, diplomatic recognition, effective control over territory and population, and respect for human rights are crucial. Based on this, option A, stating that recognition of governments is very prevalent in contemporary practice, aligns with these criteria.
+Answer: A
+------------------------
+88. ------------------------
+Reasoning: The Universal Declaration of Human Rights (UDHR) is a non-binding declaration adopted by the United Nations General Assembly in 1948, making it a statement of principles and values rather than a legally binding treaty. It has influenced the development of international human rights law but does not create legally enforceable obligations on states.
+Answer: B
+------------------------
+89. ------------------------
+Reasoning: The ECHR applies extraterritorially in circumstances where a member State exercises effective control.
+Answer: B
+------------------------
+90. ------------------------
+Reasoning: The principle 'pacta sunt servanda' means that parties to a treaty should adhere to its terms in good faith, reflecting the fundamental obligation to honor agreements they have made.
+Answer: C
+------------------------
+91. ------------------------
+Reasoning: The absence of implementing legislation with respect to the Council's founding treaty meant that individuals did not derive rights and duties from it in the English legal system.
+Answer: C
+------------------------
+92. ------------------------
+Reasoning: The Human Rights Act 1998 does indeed incorporate the European Convention on Human Rights into UK law, making statement A true.
+Answer: A
+------------------------
+93. ------------------------
+Reasoning: Different legal systems and international treaties recognize various forms of reparation, including monetary compensation, restitution, and satisfaction. The obligation of reparation can take different forms depending on the specific circumstances and jurisdiction.
+Answer: C
+------------------------
+94. ------------------------
+Reasoning: Jus cogens refers to peremptory norms of international law that are recognized by the international community as a whole and cannot be derogated from by states through treaty or custom because they are considered fundamental to the international legal order.
+Answer: A
+------------------------
+95. ------------------------
+Reasoning: Unilateral acts are acts creating unilateral legal obligations to the acting State, which aligns with the definition and characteristics of unilateral acts in international law.
+Answer: B
+------------------------
+96. ------------------------
+Reasoning: Understanding the legal framework and how English courts handle cases involving extra-territorial abduction, it is clear that such abduction can be a ground for refusal of jurisdiction by English courts if there are violations of international law or risks to the administration of justice.
+Answer: A
+------------------------
+97. ------------------------
+Reasoning: Secondary rules in the law of international responsibility refer to rules that govern the creation, modification, and application of primary rules. They are essential for the functioning of the legal system and provide a framework for the enforcement and interpretation of primary rules. The correct definition aligns with option B, which states that secondary rules govern the legal consequences arising from a breach of the primary rules, i.e., the international obligations of the States.
+Answer: B
+------------------------
+98. ------------------------
+Reasoning: The doctrine of incorporation suggests that ratified treaties automatically pass into the sphere of domestic law, making them directly enforceable in domestic courts without the need for additional legislation.
+Answer: D
+------------------------
+99. ------------------------
+Reasoning: From the perspective of specific provisions in the ICJ statute and how previous cases have interpreted the binding nature of provisional measures, it is clear that they are binding on the parties involved.
+Answer: D
+------------------------
+100. ------------------------
+Reasoning: Countermeasures are illegal when inter alia are disproportionate or in violation of a peremptory norm of international law (e.g. the use of force, human rights)
+Answer: A
+------------------------
+101. ------------------------
+Reasoning: Political means of dispute settlement involve negotiation, mediation, and diplomacy, focusing on resolving disputes through peaceful and diplomatic methods rather than legal processes.
+Answer: B
+------------------------
+102. ------------------------
+Reasoning: The local remedies rule aims to respect the sovereignty of states and promote the principle of subsidiarity in addressing human rights violations by allowing domestic authorities the opportunity to address the issue before international intervention is sought.
+Answer: C
+------------------------
+103. ------------------------
+Reasoning: The 'living instrument principle' emphasizes interpreting human rights laws in a dynamic and evolving manner to adapt to societal changes and values. Among the given options, the case that best illustrates this principle is Goodwin v UK (2002), where the European Court of Human Rights interpreted the European Convention on Human Rights in a way that reflected changing societal norms and values.
+Answer: C
+------------------------
+104. ------------------------
+Reasoning: The recognition of foreign judgments and the incorporation/transformation of treaties involve the acceptance and enforcement of legal decisions made outside of one's own jurisdiction, suggesting they are subject to similar rules. Therefore, the correct answer is not dependent on bilateral or multilateral treaties, but rather on the rule of comity.
+Answer: D
+------------------------
+105. ------------------------
+Reasoning: The House of Lords ruled that Pinochet was not immune from prosecution based on his status as a former head of state, setting a significant precedent for universal jurisdiction in cases of human rights abuses committed by former heads of state.
+Answer: C
+------------------------
+106. ------------------------
+Reasoning: The statement "The war crimes trials at Nuremberg and Tokyo took place immediately after the First World War" is factually incorrect as the trials actually took place after the Second World War.
+Answer: A
+------------------------
+107. ------------------------
+Reasoning: The correct answer should recognize the United Nations Convention on the Law of the Sea (UNCLOS) and the role of flag states in exercising jurisdiction over vessels on the high seas.
+Answer: C
+------------------------
+108. ------------------------
+Reasoning: Treaties should be flexible, specific, and legally binding to accommodate different needs, ensure clarity, and enforceability.
+Answer: C
+------------------------
+109. ------------------------
+Reasoning: Monist theory focuses on the belief that all things are ultimately one and interconnected, rejecting the idea of dualism or separation between entities. It asserts that international and domestic law are part of the same legal order, emphasizing unity and interconnectedness.
+Answer: B
+------------------------
+110. ------------------------
+Reasoning: The 'general principles of law recognized by civilized nations' are common to all major legal systems, making them universally accepted and applicable across different legal frameworks.
+Answer: B
+------------------------
+111. ------------------------
+Reasoning: The act of violence on the high seas falls short of qualifying as piracy when it is committed for 'private ends' according to international law criteria.
+Answer: B
+------------------------
+112. ------------------------
+Reasoning: The correct interpretation of "armed attack" in Article 51 of the UN Charter should be specific, clear, and consistent to guide states on the legality of self-defense actions. This definition is crucial for upholding the principles of the UN Charter.
+Answer: B
+------------------------
+113. ------------------------
+Reasoning: A State is 'injured' in case that it has suffered a damage from the internationally wrongful conduct.
+Answer: A
+------------------------
+114. ------------------------
+Reasoning: Personal immunity is a concept rooted in international law that aims to protect certain individuals from legal jurisdiction based on their roles or functions, making option D the correct choice as it aligns with the characteristics of personal (ratione personae) immunity.
+Answer: D
+------------------------
+115. ------------------------
+Reasoning: The UN Human Rights Council is responsible for promoting and protecting human rights globally, addressing violations, and making recommendations for action. Therefore, the statement that best describes its role is B. The UN Human Rights Council scrutinises the human rights records of member states on the Council and each member state of the UN.
+Answer: B
+------------------------
+116. ------------------------
+Reasoning: The reservation is considered invalid when it is incompatible with the object and purpose of the treaty, as it undermines the fundamental goals and objectives of the treaty.
+Answer: D
+------------------------
+117. ------------------------
+Reasoning: Based on the information provided from the legal framework and resource exploitation perspectives, the coastal State enjoys ipso facto and ab initio sovereign rights over its continental shelf for the purpose of exploring it and exploiting its natural resources, as defined by UNCLOS.
+Answer: A
+------------------------
+118. ------------------------
+Reasoning: Article 103 of the UN Charter may not trump multilateral treaties in certain circumstances, as conflicting obligations under specific treaties could take precedence over obligations under the Charter.
+Answer: B
+------------------------
+119. ------------------------
+Reasoning: International law takes precedence over domestic law in case of conflict because international treaties and agreements are binding on countries and require them to uphold their obligations regardless of domestic laws.
+Answer: C
+------------------------
+120. ------------------------
+Reasoning: Implied powers are necessary for an organization to carry out its tasks and are not stipulated in its charter, providing flexibility and adaptability.
+Answer: A
+------------------------
+121. ------------------------
+Reasoning: The criteria for statehood under the 1933 Montevideo Convention include a permanent population, a defined territory, a government, and a capacity to enter into foreign relations. This aligns with option C.
+Answer: C
+------------------------

@@ -1,0 +1,398 @@
+1. ------------------------
+Reasoning: A high percentage of overweight adults in 2016 indicates a higher risk of chronic diseases such as heart disease, diabetes, and certain types of cancer.
+Answer: D
+------------------------
+2. ------------------------
+Reasoning: When considering the information provided, the correct answer should be around $3k as it reflects the adjusted GDP per capita in the United States in 1850 when accounting for inflation and PPP in 2011 prices.
+Answer: B
+------------------------
+3. ------------------------
+Reasoning: The correct answer should reflect an increasing trend in acceptance of homosexuality in the United States.
+Answer: C
+------------------------
+4. ------------------------
+Reasoning: Considering the total energy generation from solar sources in 2019, China had the highest capacity and infrastructure for solar energy production, making it the country that generated the most solar energy.
+Answer: A
+------------------------
+5. ------------------------
+Reasoning: When considering the impact of inflation and PPP-adjustment on GDP per capita in Japan from 1950 to 2016, it is important to note that the correct answer should reflect the actual increase in real terms. A 20-fold increase would be a significant growth rate that aligns with the economic development and advancements seen in Japan during this period.
+Answer: D
+------------------------
+6. ------------------------
+Reasoning: Lower respiratory infections, such as pneumonia, are one of the biggest causes of death in children under five years old globally in 2017. This information is data-driven, evidence-based, and reflective of global trends, making it a likely correct answer.
+Answer: A
+------------------------
+7. ------------------------
+Reasoning: Based on current statistics and the global water crisis situation, the percentage of the global population without access to safe drinking water is estimated to be around 30%, making option C (30%) the most accurate representation.
+Answer: C
+------------------------
+8. ------------------------
+Reasoning: Considering the decreasing trend in the percentage of survey respondents reporting paying bribes for public services in India over the years leading up to 2017, the correct answer should reflect this positive change, indicating a lower percentage. 
+Answer: A
+------------------------
+9. ------------------------
+Reasoning: Considering the increasing availability and affordability of internet access, as well as the growing importance of the internet in daily life and communication, the percentage of the population using the internet in Brazil in 2017 is likely to be higher than in previous years.
+Answer: C
+------------------------
+10. ------------------------
+Reasoning: Considering the information provided, it is evident that the internet penetration rate in India in 2017 was relatively low, possibly less than half of the population. Given that, the most plausible option from the given choices is A. 11%, as it aligns with the idea of a lower internet penetration rate in developing countries like India during that time.
+Answer: A
+------------------------
+11. ------------------------
+Reasoning: Considering the historical and cultural factors influencing attitudes towards diversity in India, where the country has a long history of diversity and multiculturalism, it is likely that a high percentage of Indians believe that having an increasing number of people of different races, ethnic groups, and nationalities makes their country a better place to live. Therefore, the most plausible answer is D. 68%.
+Answer: D
+------------------------
+12. ------------------------
+Reasoning: Based on the most recent and reliable data sources such as the World Bank or United Nations reports, the percentage of the world population living in extreme poverty is lower than 25%. Additionally, considering the decreasing trend in the percentage of people living in extreme poverty over the past decade due to global efforts to reduce poverty, the correct answer is likely to be lower than 25%. Therefore, the most appropriate option is A. 5%.
+Answer: A
+------------------------
+13. ------------------------
+Reasoning: Due to global efforts to reduce open defecation through sanitation programs and initiatives, the percentage of the world population practicing open defecation is relatively low.
+Answer: A
+------------------------
+14. ------------------------
+Reasoning: Increased access to education is not directly related to addressing income inequality or poverty, which are key focuses of the redistribution-with-growth policy approach.
+Answer: D
+------------------------
+15. ------------------------
+Reasoning: The definition of literacy in 1950 was likely focused on basic reading and writing skills, so the percentage of the global population that was literate would align with this basic understanding.
+Answer: A
+------------------------
+16. ------------------------
+Reasoning: Considering the methodology used to determine the percentage of obese adults in 2016 requires reliable data sources, large sample size, and standardized measurement techniques, the most accurate answer would be a higher percentage. Additionally, looking at the trend of increasing obesity rates over time, the percentage should be higher compared to previous years. 
+Answer: D
+------------------------
+17. ------------------------
+Reasoning: Considering recent surveys and studies, the percentage of Germans who say the relationship between the U.S. and Germany is good is likely to be positive, but not overwhelmingly high. Option A (34%) seems more realistic compared to the higher percentages provided in the other options.
+Answer: A
+------------------------
+18. ------------------------
+Reasoning: Considering the trend of urbanization in the United States and the increase in the number of people living in urban areas over the years, the correct answer should reflect this by showing a higher percentage of Americans living in urban areas in 2017 compared to previous years.
+Answer: C
+------------------------
+19. ------------------------
+Reasoning: When considering the accuracy, reliability, and sourcing of historical economic data, the correct answer for GDP per capita in the United States in 1950 when adjusting for inflation and PPP in 2011 prices is about $8k.
+Answer: B
+------------------------
+20. ------------------------
+Reasoning: The estimated total number of homeless individuals in the United States in 2016 was around 550,000 according to the Annual Homeless Assessment Report to Congress.
+Answer: B
+------------------------
+21. ------------------------
+Reasoning: Based on the information provided, a significant minority of Americans thought sending troops to Vietnam was a mistake in 1965 due to increasing casualties and doubts about the war's purpose.
+Answer: A
+------------------------
+22. ------------------------
+Reasoning: Analyzing the change in perception of political party corruption in Ethiopia over time, a decrease in the percentage of people who think political parties are corrupt after 2013 could indicate progress in combating corruption and improving governance. 
+Answer: A
+------------------------
+23. ------------------------
+Reasoning: The correct answer should reflect a significant proportion of the world's population living in low and lower-middle income countries in 1997, highlighting the challenges faced by these countries in terms of poverty, economic growth, and development.
+Answer: D
+------------------------
+24. ------------------------
+Reasoning: Considering the significant contribution from crop production and livestock farming to the Indian agricultural GDP, it is likely that agriculture made up around 16% of the total Indian GDP in 2015.
+Answer: B
+------------------------
+25. ------------------------
+Reasoning: When considering the information provided from the perspective of current global economic trends in 2020, the impact of the COVID-19 pandemic, and reliable sources, it is evident that the correct answer is B. females are more likely to have depression and are more likely to have an alcohol use disorder than males.
+Answer: B
+------------------------
+26. ------------------------
+Reasoning: To provide a more comprehensive understanding of the attitudes towards homosexuality in Brazilian society, data from a diverse range of age groups, regions, socio-economic backgrounds, and educational levels would be necessary. Considering this, the percentage of people from Brazil who say homosexuality should be accepted by society is likely to be higher, around 57%.
+Answer: C
+------------------------
+27. ------------------------
+Reasoning: Saudi Arabia has a significant GDP and allocates a large portion of it towards military expenditures, indicating a relatively high share of GDP spent on the military.
+Answer: C
+------------------------
+28. ------------------------
+Reasoning: Based on the historical reliance on fossil fuels for electricity generation in the United States and the dominance of coal, natural gas, and oil in the energy mix, the share of electricity from fossil fuels in 2019 is likely to be high. Among the options provided, the closest to this expectation is 63%.
+Answer: C
+------------------------
+29. ------------------------
+Reasoning: The accuracy of the reported percentage of children aged 13-15 in Egypt who reported being bullied at least once in the past couple of months in 2015 relies on a clear definition of bullying behaviors. Without a consistent understanding of what constitutes bullying, the reported percentage may not accurately reflect the reality of the situation.
+Answer: B
+------------------------
+30. ------------------------
+Reasoning: The concerns about bias, lack of transparency, and potential for discrimination in algorithmic decision making for criminal risk assessment for parolees would likely lead to a higher percentage of US adults viewing it as an unreasonable application compared to other countries or regions.
+Answer: C
+------------------------
+31. ------------------------
+Reasoning: Considering the high demand for chicken meat globally and the need to meet this demand, the correct answer should reflect a high number of chickens killed for meat production. Option C, 69 billion, aligns with this perspective.
+Answer: C
+------------------------
+32. ------------------------
+Reasoning: To determine the correct answer, we need to consider the challenges faced by South Sudan in providing electricity access to its population in 2016. Given the political instability, lack of infrastructure, and limited financial resources, it is reasonable to assume that the percentage of the population with access to electricity was relatively low. Therefore, the most plausible option is A. 9%.
+Answer: A
+------------------------
+33. ------------------------
+Reasoning: Considering the comprehensive sampling, random selection of participants, and clear survey questions used in conducting the survey on bribery in accessing public services in Mexico, the percentage of survey respondents reporting having paid a bribe is likely to be lower. Additionally, looking at trends, there might have been improvements in anti-corruption measures leading up to 2017. Therefore, the most plausible answer would be A. 31%.
+Answer: A
+------------------------
+34. ------------------------
+Reasoning: Considering the steady and consistent increase in GDP per capita over the period from 1950 to 2016 in China, the most appropriate answer would be a significant growth rate. Among the options provided, the closest one to reflect this growth is D. by 32 fold.
+Answer: D
+------------------------
+35. ------------------------
+Reasoning: Ross Perot's initial surge in popularity in June with 39% of the vote indicates a significant level of support at that time. However, considering that his popularity likely decreased throughout the presidential race, the correct answer should reflect a decrease in the percentage of the popular vote compared to June.
+Answer: C
+------------------------
+36. ------------------------
+Reasoning: Given the strong cultural and historical connection to religion, particularly Islam, in Turkey, it is likely that a high percentage of Turks would say God plays an important role in their life. This is further supported by the prevalence of religious practices in daily life and the impact of political and social events on religious beliefs in the country.
+Answer: C
+------------------------
+37. ------------------------
+Reasoning: Wars and armed conflicts, pandemics and diseases, and genocides and mass killings have been major contributors to the death toll in the 20th century, resulting in millions of casualties. Among the options provided, the most deaths were caused by wars and armed conflicts.
+Answer: A
+------------------------
+38. ------------------------
+Reasoning: The percentage of children aged 13-15 in the United States who reported being in a physical fight at school during the past 12 months in 2015 is likely to be higher than 15% but not as high as 75%. Considering the prevalence of physical fights among this age group, 35% seems like a reasonable estimate.
+Answer: B
+------------------------
+39. ------------------------
+Reasoning: Considering the consistent and steady increase in GDP per capita in South Korea from 1950 to 2016 due to sustained economic growth and development, the most appropriate choice would be a significant multiplier. Among the options provided, the most substantial increase is represented by option D, by 32 fold, which aligns with the country's remarkable economic progress during this period.
+Answer: D
+------------------------
+40. ------------------------
+Reasoning: To accurately determine the percentage of people from Turkey who agree that the state is run for the benefit of all the people, it is crucial to consider the methodology, sample size, and demographics of the participants in the survey conducted in 2019. Without this information, it is challenging to ascertain the reliability and validity of the data. Among the given options, 66% seems like a reasonable percentage where a majority of the population agrees that the state is run for the benefit of all the people.
+Answer: C
+------------------------
+41. ------------------------
+Reasoning: Considering the global perspective on literacy rates for individuals over 15 years old in 2015, the most accurate answer would be based on reliable sources, statistical methods, and cross-validation to ensure the accuracy of the data. 
+Answer: D
+------------------------
+42. ------------------------
+Reasoning: To ensure the accuracy and reliability of the survey results on bribery in accessing public services in China, comprehensive sampling techniques, clear definition of bribery, diverse data collection methods, and transparency in data analysis are crucial. Considering these factors, the most accurate estimate would likely be around the middle range, so the correct answer is B. 46%.
+Answer: B
+------------------------
+43. ------------------------
+Reasoning: When considering the factors that contribute to low life expectancy such as limited access to healthcare, poor sanitation, and inadequate nutrition, Iran stands out as a country that has faced challenges in these areas. Iran has struggled with healthcare access and quality, which could have led to a lower life expectancy compared to the other options.
+Answer: D
+------------------------
+44. ------------------------
+Reasoning: Accurate data on the number of deaths caused by unsafe water in 2019 is crucial for understanding the magnitude of the issue. The correct answer should reflect this accurately.
+Answer: C
+------------------------
+45. ------------------------
+Reasoning: Diarrheal diseases are one of the leading causes of death globally, especially in developing countries where access to clean water and sanitation is limited. It falls under infectious diseases, which were a significant cause of death in 2017.
+Answer: A
+------------------------
+46. ------------------------
+Reasoning: The most recent estimate for the number of people infected by HIV/AIDS in 2020 is around 38 million, as reported by reputable sources like the World Health Organization (WHO) and UNAIDS.
+Answer: C
+------------------------
+47. ------------------------
+Reasoning: The percentage of children aged 13-15 in the United States who reported being bullied at least once in the past couple of months as of 2015 should have been collected using a clear definition of bullying behaviors, a specific time frame for reporting, and a standardized survey methodology to ensure accuracy and reliability. Based on this perspective, the most accurate answer would be 26%.
+Answer: A
+------------------------
+48. ------------------------
+Reasoning: Considering the diverse religious landscape in South Korea and the influence of modernization and globalization, the percentage of South Koreans who believe it is necessary to believe in God for morality is likely lower. Therefore, the correct answer is A. 25%.
+Answer: A
+------------------------
+49. ------------------------
+Reasoning: The percentage of children aged 13-15 in Japan who reported being bullied at least once in the past couple of months as of 2015 was 36%, based on the information provided.
+Answer: C
+------------------------
+50. ------------------------
+Reasoning: Based on the perspective of potential implications of US adults believing that computer programs will always reflect human bias, a high percentage would indicate a lack of trust in technology to overcome biases. Therefore, the most fitting answer is a high percentage, which is 88%.
+Answer: D
+------------------------
+51. ------------------------
+Reasoning: Considering China's significant increase in military spending in recent years and its efforts to modernize its armed forces, the share of GDP spent on the military by China in 2017 is likely to be relatively high.
+Answer: C
+------------------------
+52. ------------------------
+Reasoning: When considering the empirical evidence supporting the "inverted U hypothesis" of inequality and development, the correct answer should be strongly supported by most studies, indicating a consensus among researchers based on statistical data, case studies from various countries, and peer-reviewed research articles.
+Answer: A
+------------------------
+53. ------------------------
+Reasoning: Considering the global trend towards increased educational opportunities for women in recent years, it is likely that women of the same age have spent more than 10 years in school. 
+Answer: A
+------------------------
+54. ------------------------
+Reasoning: Given the high suicide rate in Greenland due to various contributing factors, the correct answer should reflect a high percentage of deaths by suicide.
+Answer: D
+------------------------
+55. ------------------------
+Reasoning: Considering the conservative cultural norms, political influence, and historical perspectives in Russia that often view homosexuality negatively, the percentage of people from Russia who say homosexuality should be accepted by society is likely to be low. 
+Answer: A
+------------------------
+56. ------------------------
+Reasoning: Based on the information provided, the percentage of Americans saying the relationship between the U.S. and Germany is good in 2019 could vary depending on factors like political events, economic ties, and cultural exchanges. Given the range of influences on public perception, it is difficult to pinpoint an exact percentage. Therefore, it is best to choose an option that reflects this variability, which is option D (45%).
+Answer: D
+------------------------
+57. ------------------------
+Reasoning: A high percentage of Americans believing in the importance of free media without government/state censorship is crucial for a democratic society to thrive. Considering this, the answer should reflect a significant value.
+Answer: D
+------------------------
+58. Reasoning: Reagan was accused of withholding information regarding arms sales to Iran and the diversion of funds to Contra rebels during the Iran Contra affair in 1987, which were key elements of the scandal.
+Answer: C. 50%
+59. ------------------------
+Reasoning: Based on the economic perspective, it is evident that some countries in Sub-Saharan Africa have had relatively significant growth rates, indicating that not all nations have been stagnant or declining. 
+Answer: C
+------------------------
+60. ------------------------
+Reasoning: The cumulative income share of the bottom 60% of households in Niger can be calculated by adding up the income shares of the bottom 20%, the next 20%, and the middle 20% of households. Therefore, 7.5% + 11.8% + 15.5% = 34.8%.
+Answer: B
+------------------------
+61. ------------------------
+Reasoning: Considering the perspective of defining "work" in the context of child labor statistics for children aged 5-14, the answer should be specific about the types of work included. Given the prevalence of child labor in industries like agriculture, mining, manufacturing, and domestic work, the answer is likely to be on the higher end. 
+Answer: C
+------------------------
+62. ------------------------
+Reasoning: Considering the factors contributing to varying levels of secondary school enrollment in less developed countries, the correct answer should have a combination of government policies, economic conditions, cultural norms, and access to resources. Among the options provided, option A (Colombia, Peru, Uruguay, and Costa Rica) seems to align best with these factors as these countries have shown efforts in promoting education through various policies, economic stability, cultural value for education, and access to resources.
+Answer: A
+------------------------
+63. ------------------------
+Reasoning: Considering the cultural and societal factors in Vietnam in 2009 that may have influenced the reporting of physical punishment by children, the percentage of children reporting physical punishment by teachers is likely to be lower due to fear of repercussions and respect for authority figures like teachers.
+Answer: A
+------------------------
+64. ------------------------
+Reasoning: To accurately determine the percentage of children in India (age 8) who reported physical punishment by teachers in 2009, it is essential to consider the methodology used to collect data, the definition of physical punishment, specific regions or states where the data was collected, and any significant differences between urban and rural areas. Based on these perspectives, the answer should have reliable sources, a clear definition of physical punishment, specific regions mentioned, and data on urban versus rural areas. 
+Answer: A
+------------------------
+65. ------------------------
+Reasoning: The statement that women's happiness has increased both absolutely and relative to men is supported by empirical evidence and societal shifts that have positively impacted women's well-being and happiness levels in recent years.
+Answer: A
+------------------------
+66. ------------------------
+Reasoning: The number of deaths from terrorism in 2017 is typically higher than the number of attacks reported. Therefore, the correct answer should be significantly lower than the total number of deaths from terrorism in 2017.
+Answer: A
+------------------------
+67. ------------------------
+Reasoning: Based on the economic conditions of the Great Depression and the need for social welfare programs like the Social Security Act, the level of support among Americans in 1935 was likely high.
+Answer: A
+------------------------
+68. ------------------------
+Reasoning: The country with the highest total CO2 emissions is likely to have the highest CO2 emissions per capita as well, making it the correct answer.
+Answer: C
+------------------------
+69. ------------------------
+Reasoning: The strong influence of various religions in India, such as Hinduism, Islam, Christianity, and Sikhism, emphasizes the importance of faith in a higher power for leading a moral and virtuous life, leading to a high percentage of Indians believing in the necessity of God for morality and values.
+Answer: C
+------------------------
+70. ------------------------
+Reasoning: The percentage should be relatively low to indicate a manageable level of physical altercations among students.
+Answer: A
+------------------------
+71. ------------------------
+Reasoning: To ensure the accuracy and reliability of the data collected on the percentage of children in Ethiopia (age 8) who reported physical punishment by teachers in 2009, it is essential to have a representative sample, standardized survey tools, and clear definitions of physical punishment. This ensures that the findings are valid and can be generalized to the broader population.
+Answer: A
+------------------------
+72. ------------------------
+Reasoning: A high percentage of people in Tunisia believing that having an increasing number of people of diverse races, ethnic groups, and nationalities makes their country a better place to live indicates a positive attitude towards diversity and multiculturalism. Among the options, 54% aligns with this perspective.
+Answer: C
+------------------------
+73. ------------------------
+Reasoning: A lower fertility rate can lead to slower population growth and an aging population, which aligns with the global trend towards decreasing fertility rates due to advancements in healthcare, education, and economic development.
+Answer: A
+------------------------
+74. ------------------------
+Reasoning: The correct answer should be representative of income levels across different countries, taking into account factors such as exchange rates and purchasing power parity to accurately compare income levels on a global scale.
+Answer: C
+------------------------
+75. ------------------------
+Reasoning: The approval ratings were high because the majority of Americans supported the idea of the president running for a third term.
+Answer: D
+------------------------
+76. ------------------------
+Reasoning: Based on the information provided, the correct answer should reflect a high percentage of Italians valuing free media without government/state censorship due to the historical context of media censorship in Italy and the importance of media freedom for democracy and transparency.
+Answer: C
+------------------------
+77. ------------------------
+Reasoning: To determine the correct answer, we need to consider the scale and importance of education spending in relation to the overall economic output of the world in 2017. Based on this perspective, 4% of global GDP seems like a reasonable percentage for public spending on education.
+Answer: C
+------------------------
+78. ------------------------
+Reasoning: Considering the effectiveness of government policies and programs aimed at addressing homelessness, the country with a high per capita rate of homelessness despite implementing interventions would be the correct answer.
+Answer: A
+------------------------
+79. ------------------------
+Reasoning: The growth rate of average incomes in less developed countries between 1960 and 1995 would be influenced by social and demographic changes such as population growth, urbanization, education levels, and healthcare access. A higher population growth rate could lead to increased competition for jobs and resources, potentially affecting income growth. Urbanization can impact income growth by creating new job opportunities and increasing productivity. Higher education levels can lead to a more skilled workforce, which can contribute to economic growth and higher incomes. Improved access to healthcare can also lead to a healthier and more productive population, which can positively impact income growth. Therefore, the correct answer should reflect these social and demographic changes to provide a comprehensive understanding of the factors influencing the growth rate of average incomes in less developed countries during the specified time period.
+Answer: B
+------------------------
+80. ------------------------
+Reasoning: Considering the factors contributing to deforestation and the decrease in forested land area over time, the percentage of forested land area as of 2015 is likely lower than in previous years. 
+Answer: A
+------------------------
+81. ------------------------
+Reasoning: The greatest population growth rate is likely to have taken place in a region with high birth rates, low death rates, and significant immigration, indicating a notable increase in population size. 
+Answer: B
+------------------------
+82. ------------------------
+Reasoning: The age group with the highest HIV/AIDS death rate is likely to be 15-49 due to the prevalence of risky behaviors, lack of access to healthcare, and weakened immune systems in this age range.
+Answer: C
+------------------------
+83. ------------------------
+Reasoning: The percentage of agriculture in the total US GDP has been decreasing over the years leading up to 2015 due to the shift towards a more diverse economy. This decreasing trend is reflected in the correct answer.
+Answer: A
+------------------------
+84. ------------------------
+Reasoning: To accurately determine the percentage of Indians living in urban areas, we need to consider the total population of India as of 2017. 
+Answer: C
+------------------------
+85. ------------------------
+Reasoning: The first statement is True based on the correlation between a country's wealth and the average life satisfaction reported by its population. The second statement is False as important life events like marriage or divorce do have a significant impact on happiness in the short term, but studies show this impact fades over time.
+Answer: B
+------------------------
+86. ------------------------
+Reasoning: The approval rating in the South was significantly lower compared to the rest of the U.S. due to historical racial tensions and resistance to desegregation in that region.
+Answer: D
+------------------------
+87. ------------------------
+Reasoning: To accurately determine the share of people in the United States who think political parties are corrupt as of 2013, we need reliable, nationally representative, recent, and transparent methodology. Among the options provided, 36% seems like a plausible percentage that could reflect the perception of political party corruption based on the quality of data sources and surveys used.
+Answer: A
+------------------------
+88. ------------------------
+Reasoning: Chile had the highest investment in renewable energy as a fraction of its GDP in 2015, indicating a strong commitment to sustainability and reducing carbon emissions.
+Answer: C
+------------------------
+89. ------------------------
+Reasoning: Given the significant disparity in global wealth distribution and the factors influencing the income threshold for being in the top one percent, the income required to be among the richest one percent in the world is likely to be higher than the options provided. Among the given choices, $150,000 seems more plausible considering the global context and income distribution patterns.
+Answer: A
+------------------------
+90. ------------------------
+Reasoning: Based on the historical records and limited information available at that time, it is likely that a low percentage of Americans believed in the Holocaust in 1943.
+Answer: A
+------------------------
+91. ------------------------
+Reasoning: The country that emitted the most CO2 in 2017 would have the highest total CO2 emissions, likely coming from industrial activities, transportation, and energy production.
+Answer: B
+------------------------
+92. ------------------------
+Reasoning: Based on the information provided, India had a well-established and accessible higher education system with government support, leading to a high number of university graduates at the time of independence. On the other hand, Congo lacked the necessary resources and infrastructure for higher education, resulting in hardly any university graduates.
+Answer: A
+------------------------
+93. ------------------------
+Reasoning: Based on the information provided, the correct answer should reflect a significant percentage of people in India thinking political parties are corrupt, which aligns with the perspective of how the perception of corruption within political parties in India has changed over time, particularly leading up to 2013.
+Answer: C
+------------------------
+94. ------------------------
+Reasoning: Considering the trend of secularization in France and the decrease in religious beliefs over the years, the percentage of French people who say God plays an important role in their life is likely to be lower. Among the given options, 11% seems to align more with this trend.
+Answer: A
+------------------------
+95. ------------------------
+Reasoning: The United States is known to have one of the largest military budgets in the world, so the share of GDP spent on the military in 2017 is likely to be higher than 1%, 3%, or 6%. A percentage of 10% would reflect a significant portion of the GDP allocated to military spending.
+Answer: D
+------------------------
+96. ------------------------
+Reasoning: Given that suicide is a major public health concern globally and understanding the overall trend in global suicide rates is crucial, the answer should reflect a significant percentage of global deaths by suicide. Option D, 5.60%, aligns with this characteristic.
+Answer: D
+------------------------
+97. ------------------------
+Reasoning: The hindrances mentioned in options A, B, and C all align with the common challenges faced by countries that gained independence after World War II due to the legacy of colonialism. These hindrances include artificial political boundaries leading to ethnic conflicts, inadequate access to education and training, and control of commerce by foreign minority groups. Therefore, the correct answer is D, all of the above.
+Answer: D
+------------------------
+98. ------------------------
+Reasoning: Anxiety disorders are known to be the most common mental health condition globally, affecting a large percentage of the population across different countries and cultures.
+Answer: D
+------------------------
+99. ------------------------
+Reasoning: The number of people in the world with some access to electricity has been steadily increasing over the years due to advancements in technology, infrastructure development, and government initiatives to improve access. Therefore, the most accurate answer reflecting this progress would be D. 90%.
+Answer: D
+------------------------
+100. ------------------------
+Reasoning: Key political figures, such as members of Congress, were likely to support the idea of removing Nixon from office before his resignation due to the increasing evidence of his involvement in the Watergate scandal.
+Answer: B
+------------------------
