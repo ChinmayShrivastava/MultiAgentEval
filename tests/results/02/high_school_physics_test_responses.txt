@@ -1,0 +1,598 @@
+1. ------------------------
+Reasoning: The charge on the positive plate of a capacitor can be calculated using the formula Q = CV, where Q is the charge, C is the capacitance, and V is the potential difference. Given that the potential difference is 5 V and the capacitance is 2 mF (which is equivalent to 2 x 10^-3 F), the charge on the positive plate can be calculated as Q = (2 x 10^-3 F) x 5 V = 10 x 10^-3 C = 10 mC.
+Answer: B
+------------------------
+2. ------------------------
+Reasoning: The quantity that decreases as the inverse square of distance is governed by the inverse square law, which states that the intensity of a physical quantity (such as gravitational force or electric field) decreases with the square of the distance from the source. The electric field produced by an infinitely long charged cylinder follows this behavior, making it the correct answer.
+Answer: B
+------------------------
+3. ------------------------
+Reasoning: The non-uniform charge distribution on the surface of the metal object will result in areas with higher charge density, leading to a stronger electric field in those regions. The electric field lines will be more concentrated in areas with higher charge density, indicating that the electric field outside the object is not zero or equal to the electric field inside the object. 
+Answer: C
+------------------------
+4. ------------------------
+Reasoning: An increase in tension in the string results in an increase in wave speed, which leads to a decrease in wavelength according to the equation v = fλ.
+Answer: A
+------------------------
+5. ------------------------
+Reasoning: The capacitance of the capacitor must be the same for both capacitors because when capacitors are connected in parallel, the total capacitance of the circuit increases and the individual capacitors must have the same capacitance value to ensure equal distribution of charge and voltage.
+Answer: C
+------------------------
+6. ------------------------
+Reasoning: The kinetic energy at the bottom will be less than the block's gravitational potential energy when it was released because some of the energy is lost due to friction and work done against the rough surface of the incline.
+Answer: D
+------------------------
+7. ------------------------
+Reasoning: The addition of the small block increases the total mass of the system, leading to a decrease in the natural frequency of the spring-block oscillator. This decrease in frequency indicates that the small block is most likely to slide off when the original block is at maximum displacement from the equilibrium position.
+Answer: A
+------------------------
+8. ------------------------
+Reasoning: The energy stored in a capacitor can be calculated using the formula E = 0.5 * C * V^2, where C is the capacitance and V is the potential difference. Given C = 10 µF and V = 100 V, plugging in these values gives E = 0.5 * 10 * 10^4 = 0.5 * 10^5 = 50000 µJ = 0.05 J.
+Answer: C
+------------------------
+9. ------------------------
+Reasoning: The distance the box slides before coming to rest is directly proportional to the square of the initial speed because the kinetic friction force is proportional to the normal force, which is in turn proportional to the weight of the box, and the work done by friction is proportional to the distance traveled and the friction force.
+Answer: A
+------------------------
+10. ------------------------
+Reasoning: The total flight time of the soccer ball can be calculated by analyzing both the horizontal and vertical components of motion. The horizontal component of the initial velocity is determined by the cosine of the launch angle, which in this case is 30°. Therefore, the horizontal component of the initial velocity is 10 m/s * cos(30°) = 8.66 m/s. Since there is no horizontal acceleration, the time taken to cover the horizontal distance is determined by the horizontal component of velocity and the horizontal distance traveled. The total flight time will be the same as the time taken to cover the horizontal distance. Using the equation x = x0 + v0x * t, where x0 = 0 (initial horizontal position), v0x = 8.66 m/s, and x is the horizontal distance traveled, we can solve for t. The total flight time is 8.66 m / 10 m/s = 0.866 s, which is closest to 1 s.
+Answer: B
+------------------------
+11. ------------------------
+Reasoning: The average kinetic energy of the hydrogen gas is greater than the nitrogen gas due to the lower molecular weight of hydrogen compared to nitrogen, resulting in higher average speeds and kinetic energies.
+Answer: A
+------------------------
+12. ------------------------
+Reasoning: Moving the fulcrum to half its original distance from the boy would further imbalance the see-saw due to the unequal distribution of mass.
+Answer: D
+------------------------
+13. ------------------------
+Reasoning: The correct answer should mention that the water molecules collide with the alcohol molecules, transferring energy until the average kinetic energy of both the water and alcohol molecules are the same. This aligns with the concept that smaller molecules tend to have higher kinetic energy and can transfer heat more quickly, which is crucial in the temperature equalization process.
+Answer: D
+------------------------
+14. ------------------------
+Reasoning: The time taken for the sphere to come to rest can be calculated using the formula for rotational kinetic energy. Since the sphere is brought to rest, the initial kinetic energy is equal to the work done by the friction force. By substituting the given values into the formula, the time taken is calculated to be 10 seconds.
+Answer: A
+------------------------
+15. ------------------------
+Reasoning: The gravitational field strength at the surface of a planet is directly proportional to its mass and inversely proportional to the square of the radius. Since Mars has a smaller mass and radius compared to Earth, its gravitational field strength at the surface will be lower than that of Earth.
+Answer: D
+------------------------
+16. ------------------------
+Reasoning: The electric field above the plane points up and is equal to σ/2εo. To maintain symmetry and balance in the electric field distribution, the electric field below the plane should have the same magnitude but point in the opposite direction, which is downwards.
+Answer: A
+------------------------
+17. ------------------------
+Reasoning: The radius of the circle formed by the electron beam is determined by the balance between the magnetic force acting on the electron and the centripetal force required to keep the electron in circular motion. The magnetic force is given by the equation F = qvB, where q is the charge of the electron, v is the velocity of the electron, and B is the magnetic field strength. Since the force is directly proportional to the magnetic field strength, a weaker magnetic field will result in a larger radius for the circle formed by the electron beam.
+Answer: A
+------------------------
+18. ------------------------
+Reasoning: The image is located the same distance behind the mirror as the object is in front of it because plane mirrors create virtual images that are the same distance behind the mirror as the object is in front of it.
+Answer: B
+------------------------
+19. ------------------------
+Reasoning: The force of the horse pushing forward must be greater than the force of friction between the cart and the ground because in order for the system to accelerate from rest, there must be a net force acting in the direction of motion.
+Answer: B
+------------------------
+20. ------------------------
+Reasoning: The potential difference is related to the electric field through integration. To find the potential difference between the origin and the point (3, 4), we need to integrate the given electric field equation with respect to distance. 
+Answer: C
+------------------------
+21. ------------------------
+Reasoning: The counterclockwise direction of the cycle on the P-V diagram indicates work is being done on the gas, requiring heat input to the system. Therefore, the heat transfer during this cycle would be positive.
+Answer: A
+------------------------
+22. ------------------------
+Reasoning: The total power dissipated by the circuit will decrease because power is inversely proportional to resistance.
+Answer: C
+------------------------
+23. ------------------------
+Reasoning: Frequency and wavelength are inversely proportional in electromagnetic waves. As the wavelength of ultraviolet light decreases, its frequency increases. Since ultraviolet light has a short wavelength of about 6 × 10^-8 m, the frequency should be high.
+Answer: A
+------------------------
+24. ------------------------
+Reasoning: The isotope with the smallest mass and the largest charge would result in the largest radius for the circular path, as the radius is directly proportional to the mass and inversely proportional to the charge of the ionized isotope.
+Answer: C
+------------------------
+25. ------------------------
+Reasoning: The electric field strength at the point midway between the charges in an electric dipole is zero because the electric fields produced by the two charges cancel each other out due to their opposite nature.
+Answer: A
+------------------------
+26. ------------------------
+Reasoning: Water conducts heat away from the body much faster than air due to its higher thermal conductivity, leading to rapid heat loss and potential hypothermia and death in cold water immersion scenarios.
+Answer: D
+------------------------
+27. ------------------------
+Reasoning: The flow speed at another point in the pipe with a larger diameter will be slower than at the point with the smaller diameter because of the principle of continuity in fluid dynamics.
+Answer: B
+------------------------
+28. ------------------------
+Reasoning: The flow speed through each of the paths will increase because the total flow rate must remain constant and the total cross-sectional area of the three paths combined is greater than the original pipe.
+Answer: C
+------------------------
+29. ------------------------
+Reasoning: The interaction between a slow-moving positron and a stationary electron can result in annihilation, where the particles are destroyed, and two gamma-ray photons are created. This outcome is governed by the conservation of energy and momentum in the interaction.
+Answer: C
+------------------------
+30. ------------------------
+Reasoning: The normal force decreases as the angle of the plane increases because the component of the weight acting perpendicular to the plane decreases.
+Answer: B
+------------------------
+31. ------------------------
+Reasoning: The velocity of the small cart after the collision will be less than the initial velocity of the large cart to conserve momentum.
+Answer: B
+------------------------
+32. ------------------------
+Reasoning: The net charge on the circuit elements remains the same because the battery provides a constant voltage and the light bulb simply converts electrical energy to light and heat without changing the overall charge in the circuit.
+Answer: C
+------------------------
+33. ------------------------
+Reasoning: The Moon would move in a straight line tangent to its current orbit due to its inertia if the force of gravity between the Moon and the Earth were to stop.
+Answer: D
+------------------------
+34. ------------------------
+Reasoning: The scale reading is less than the person's usual weight because the elevator and the person are both moving upwards at a constant speed, causing a decrease in apparent weight due to the acceleration being equal to the acceleration due to gravity.
+Answer: C
+------------------------
+35. ------------------------
+Reasoning: The ball’s speed is zero at the highest point due to the change in direction. The ball’s acceleration is not zero at the highest point as gravity is still acting on it. The ball takes a longer time to travel up to the highest point than to fall back down due to air resistance.
+Answer: D
+------------------------
+36. ------------------------
+Reasoning: Impulse is defined as the product of force and time, which is equivalent to mass times velocity. Velocity is defined as length divided by time. Therefore, the dimensions of impulse should be mass * length / time.
+Answer: C
+------------------------
+37. ------------------------
+Reasoning: The speed of the proton 4 seconds after entering the magnetic field can be calculated by determining the change in velocity due to the acceleration experienced in the magnetic field. Using the Lorentz force equation and considering the angle between the velocity vector and the magnetic field, the correct answer can be calculated.
+Answer: A
+------------------------
+38. ------------------------
+Reasoning: The action-reaction force pair to the man's weight as the elevator accelerates upwards would be the force exerted by the man on the scale and the force exerted by the scale on the man. This is because as the elevator accelerates upward, the man's inertia causes him to push down on the scale with a force greater than his weight, and the scale pushes back with an equal and opposite force according to Newton's third law of motion.
+Answer: B
+------------------------
+39. ------------------------
+Reasoning: The heat transfer during an isothermal expansion is equal to the work done by the gas, which is 150 J. Therefore, the correct answer is that 150 J of heat was added to the gas.
+Answer: A
+------------------------
+40. ------------------------
+Reasoning: The charge of an electron is -1.6 x 10^-19 C, so to determine the number of excess electrons in an object with a charge of -1 C, we divide the total charge by the charge of a single electron.
+Answer: A
+------------------------
+41. ------------------------
+Reasoning: The correct method should involve measuring the distance between two consecutive points of the wave pattern on the meterstick to determine the wavelength. This aligns with the relationship between frequency and wavelength, where measuring the distance between wave crests or troughs can help calculate the wavelength accurately.
+Answer: C
+------------------------
+42. ------------------------
+Reasoning: Images produced by convex lenses can create both real and virtual images, depending on the object's position relative to the lens. This characteristic aligns with the effectiveness of images in conveying messages and creating emotional connections with viewers.
+Answer: C
+------------------------
+43. ------------------------
+Reasoning: The object would experience a gravitational force towards the center of the Earth throughout its journey because gravity pulls objects towards the center of mass. The object's velocity would gradually decrease to zero as it reaches the center of the Earth, then increase again as it moves towards the other side because of the gravitational pull. The object would be falling in a vacuum-like environment with no air resistance to slow it down. The object's acceleration would increase towards the center of the Earth, reach maximum acceleration at the center, and then decrease towards the other side due to the gravitational pull. The object would experience simple harmonic motion as it gains kinetic energy falling towards the center and converts it to potential energy moving towards the other side. The object's potential energy decreases as it descends and increases as it ascends through the Earth. The object would experience simple harmonic motion due to the gravitational force acting on it. The Earth's rotation would cause the object to oscillate back and forth within the hole. The object's motion would be unaffected by the Earth's magnetic field. 
+Answer: C
+------------------------
+44. ------------------------
+Reasoning: The total mass of the system increases when the second block falls on top of the oscillating block and they stick together. This increase in mass will result in a decrease in the amplitude of the oscillations due to the conservation of momentum principle.
+Answer: B
+------------------------
+45. ------------------------
+Reasoning: The source and detector are stationary with respect to each other, resulting in no relative motion between them, which leads to no perceived Doppler shift.
+Answer: C
+------------------------
+46. ------------------------
+Reasoning: The correct answer should reflect the relationship between the densities of the cube and the fluid, where the fraction of the cube's volume submerged is directly proportional to the ratio of the density of the cube to the density of the fluid according to Archimedes' principle.
+Answer: A
+------------------------
+47. ------------------------
+Reasoning: The normal force exerted by the floor on the person is equal in magnitude and opposite in direction to the force of gravity acting on the person, forming an action-reaction pair.
+Answer: A
+------------------------
+48. ------------------------
+Reasoning: Doubling the original velocity of the particle will result in the particle traveling twice the distance compared to its original velocity. Cutting the mass of the particle in half will not impact the distance traveled in the electric field. Therefore, the distance traveled will be doubled.
+Answer: A
+------------------------
+49. ------------------------
+Reasoning: The minimum necessary information that would allow you to determine the mass of the second object in a linear, elastic collision is the initial speed of object 1 and the final speed of object 1. By knowing the initial speed of object 1, the mass of object 1, and the final speed of object 1, one can apply the conservation of momentum principle to calculate the mass of the second object. 
+Answer: B
+------------------------
+50. ------------------------
+Reasoning: Increasing the intensity of light will result in more photons hitting the surface, leading to a greater number of photoelectrons being emitted. This is in line with the basic principle of the photoelectric effect where the energy of the photons determines whether electrons are ejected from a material.
+Answer: A
+------------------------
+51. ------------------------
+Reasoning: The displacement of the resultant wave will be between 2 cm and 10 cm because the amplitude of the resultant wave is determined by the sum of the amplitudes of the individual waves.
+Answer: A
+------------------------
+52. ------------------------
+Reasoning: Momentum is conserved in Collision A, and the carts experience the same force, time of collision, and change in linear momentum. In Collision B, the ball and the rod each experience the same torque, time of collision, and change in angular momentum.
+Answer: B
+------------------------
+53. ------------------------
+Reasoning: The net force acting on the object is 12 N (4 N + 4 N + 4 N) due to the three external forces. Since the net force is non-zero and the mass is also non-zero, the resulting acceleration cannot be zero according to Newton's second law of motion (F = ma).
+Answer: A
+------------------------
+54. ------------------------
+Reasoning: The slope of the graph represents the mass of the object because the slope is equal to the mass of the object multiplied by the acceleration due to gravity.
+Answer: A
+------------------------
+55. ------------------------
+Reasoning: The frictional force experienced by the block is directly proportional to the surface area in contact with the table. Since the new block has the same surface area in contact with the table as the original block, the frictional force it experiences would be the same.
+Answer: B
+------------------------
+56. ------------------------
+Reasoning: The focal length of a diverging mirror is always negative, and since the image is formed behind the mirror (on the same side as the object), the focal length should be negative as well. The correct answer should involve the variables of object distance, image distance, and focal length. Based on the formula for calculating the focal length of a diverging mirror, the correct answer is the one that has a negative value, which is D. 
+Answer: D
+------------------------
+57. ------------------------
+Reasoning: The acceleration of 6 meters per second squared in the negative x direction at t = 1 second will cause the body to slow down and move in the negative x direction. The initial speed of 24 meters per second does not impact the final position at t = 11 seconds. Therefore, the correct answer is negative and less than 24m.
+Answer: D
+------------------------
+58. ------------------------
+Reasoning: The pressure at Point 2 will decrease because of the increase in flow speed V.
+Answer: A
+------------------------
+59. ------------------------
+Reasoning: The maximum speed of the block in a spring-block oscillator occurs when the block is at the equilibrium position, where the potential energy is converted into kinetic energy, resulting in the highest speed. 
+Answer: A
+------------------------
+60. ------------------------
+Reasoning: The weight of the box on the moon is 1/6th of its weight on Earth because the gravitational force on the moon is weaker due to its smaller mass and radius compared to Earth.
+Answer: C
+------------------------
+61. ------------------------
+Reasoning: The weight of an object decreases with increasing altitude because the gravitational force acting on the object decreases as you move further away from the center of the Earth.
+Answer: B
+------------------------
+62. ------------------------
+Reasoning: The object will experience a decreasing acceleration as it falls due to the drag force, causing it to reach a maximum speed before hitting the ground because drag force slows down the object's acceleration as it falls, eventually reaching a point where the drag force equals the force of gravity, resulting in a constant terminal speed.
+Answer: B
+------------------------
+63. ------------------------
+Reasoning: The image formed by a bi-convex lens when the object is placed beyond the focal point is real, inverted, and magnified. The magnification is positive, indicating that the image is larger than the object. Therefore, the correct answer is A. Real, inverted, height = 1 cm.
+Answer: A
+------------------------
+64. Reasoning: The total charge of the two spheres before contact is +5e - 6e = -1e. Therefore, the net charges after contact should add up to -1e to conserve charge.
+Answer: A
+65. ------------------------
+Reasoning: The volume of the balloon, which is proportional to the circumference cubed, will expand with heat and contract with cold temperature changes. Therefore, the circumference cubed C^3 should increase with temperature for the warm oven condition and decrease with temperature for the freezer condition, while remaining relatively constant for the room temperature condition.
+Answer: A
+------------------------
+66. ------------------------
+Reasoning: The measurement that is significantly different from the other measurements and has a margin of error that is significantly larger than the possible range of values for the charge on an oil drop should be rejected as highly unlikely to be correct. This indicates a high level of uncertainty and unreliability in the measurement process.
+Answer: C
+------------------------
+67. ------------------------
+Reasoning: The proton will experience a centripetal acceleration due to the magnetic field, which can be calculated using the Lorentz force equation. The change in velocity after 4 seconds can be determined by considering this acceleration and the initial velocity vector angle with the magnetic field.
+Answer: B
+------------------------
+68. ------------------------
+Reasoning: Decreasing resistance will always result in an increase in current flow in a circuit according to Ohm's Law.
+Answer: C
+------------------------
+69. ------------------------
+Reasoning: The centripetal force is necessary to keep an object moving in a circular path at a constant speed in uniform circular motion.
+Answer: A
+------------------------
+70. ------------------------
+Reasoning: The net force acting on an object is determined by considering all the forces acting on the object, not just its motion. Knowing the velocities of the lab cart at two different times is not sufficient to determine the direction of the net force accurately.
+Answer: B
+------------------------
+71. ------------------------
+Reasoning: The tension in the cables pulling the elevator is primarily determined by the weight of the elevator and the acceleration due to gravity. Atmospheric pressure does not directly impact the tension in the cables, so knowing the weight of the elevator and the acceleration due to gravity are the key values needed to determine the tension in the cables.
+Answer: D
+------------------------
+72. ------------------------
+Reasoning: The two non-zero vectors must have equal magnitudes and be pointed in opposite directions for their sum to result in a zero vector. This is because vectors in opposite directions cancel each other out. 
+Answer: B
+------------------------
+73. ------------------------
+Reasoning: The proton will experience a force perpendicular to its velocity due to the magnetic field generated by the solenoid, causing it to move in a circular path within the solenoid.
+Answer: B
+------------------------
+74. ------------------------
+Reasoning: The speed of sound waves in a medium like air is independent of the frequency of the sound wave. Therefore, a sound wave with frequency 4f will still travel through the air at the same speed v as a sound wave with frequency f.
+Answer: B
+------------------------
+75. ------------------------
+Reasoning: The net electric flux through a closed surface is proportional to the enclosed charge when the electric field is constant in magnitude and direction over the entire surface, and the surface is symmetric with respect to the enclosed charge distribution. This condition allows for the application of Gauss's Law, which states that the net electric flux through a closed surface is equal to the enclosed charge divided by the permittivity of free space.
+Answer: B
+------------------------
+76. ------------------------
+Reasoning: The change in speed and wavelength of the monochromatic light beam entering the glass window pane from air is due to the difference in refractive indices of the two mediums, causing refraction to occur.
+Answer: B
+------------------------
+77. ------------------------
+Reasoning: The slope of the graph should be directly proportional to the volume of the gas, and the y-intercept should be at the origin because of the ideal gas law.
+Answer: A
+------------------------
+78. ------------------------
+Reasoning: The acceleration of the car will be greater than the acceleration of the truck because acceleration is inversely proportional to mass according to Newton's second law of motion. Since the toy truck's mass is double that of the toy car, the acceleration of the car will be greater.
+Answer: A
+------------------------
+79. ------------------------
+Reasoning: The sphere has the least resistance to motion on a curved surface due to its shape, allowing it to slide down the incline faster.
+Answer: A
+------------------------
+80. ------------------------
+Reasoning: The correct answer should involve the formula d = (v_i * t) + (1/2 * a * t^2) because this formula takes into account the initial velocity (v_i), final velocity, acceleration (a), and time (t) in the context of motion. This formula accounts for the fact that the car starts from rest (initial velocity is 0 m/s) and accelerates uniformly to a final speed of 20.0 m/s in a time of 15.0 s, allowing for the calculation of the distance traveled by the car during this time.
+Answer: C
+------------------------
+81. ------------------------
+Reasoning: The launch angle of 45 degrees allows for the maximum horizontal displacement (range) and maximum vertical displacement to be achieved simultaneously, resulting in the range being equal to the maximum vertical displacement.
+Answer: C
+------------------------
+82. ------------------------
+Reasoning: The range of a projectile is maximized when it is launched at a 45-degree angle, where the vertical and horizontal components of the initial velocity are equal, resulting in the maximum range achievable for a given initial velocity.
+Answer: C
+------------------------
+83. ------------------------
+Reasoning: The correct answer should not involve charges that do not follow the pattern of being equal in magnitude and opposite in sign, as this would result in a net force of 0 N between the particles. 
+Answer: C
+------------------------
+84. ------------------------
+Reasoning: The total energy of an ideal projectile remains constant throughout its motion, and the only force acting on it is gravity, which is a conservative force. This means that the total mechanical energy of the projectile is conserved, leading to a constant total energy throughout its trajectory. 
+Answer: C
+------------------------
+85. ------------------------
+Reasoning: The new electric force between the balls will remain the same because the force between two charged objects is independent of the distance between them, as long as the charges and masses remain constant.
+Answer: A
+------------------------
+86. ------------------------
+Reasoning: The correct answer should have the characteristic of equal velocities because of the principle of conservation of momentum. In a collision where the two carts stick together, the total momentum before the collision must be equal to the total momentum after the collision. Since the carts stick together and move as one system after the collision, they must have the same final velocity to conserve momentum.
+Answer: A
+------------------------
+87. ------------------------
+Reasoning: The height of the cliff can be determined by calculating the time it took for the rock to reach the ground after being dropped using the formula t = √(2h/g), where t is the time, h is the height of the cliff, and g is the acceleration due to gravity. By rearranging the formula to solve for h, we can determine the height of the cliff based on the impact velocity of the rock and the acceleration due to gravity.
+Answer: C
+------------------------
+88. ------------------------
+Reasoning: The magnitude of the car's horizontal acceleration ax is affected by the angle of incline θ because as the angle of incline increases, the component of the car's weight parallel to the incline also increases, impacting the horizontal acceleration.
+Answer: C
+------------------------
+89. ------------------------
+Reasoning: Decreasing the distance between the plates increases the capacitance of a parallel-plate capacitor.
+Answer: D
+------------------------
+90. ------------------------
+Reasoning: The man thrusts his arms out away from his body, and then quickly brings his arms back to his side again. This action changes the distribution of mass in the system, affecting the moment of inertia and consequently the angular momentum.
+Answer: C
+------------------------
+91. ------------------------
+Reasoning: According to Boyle's Law, the pressure of a gas is inversely proportional to its volume when the temperature is held constant. As the volume decreases from 20 cm^3 to 5 cm^3, the pressure inside the cylinder will increase. 
+Answer: B
+------------------------
+92. ------------------------
+Reasoning: Longer wavelengths correspond to lower frequencies in the electromagnetic spectrum.
+Answer: D
+------------------------
+93. ------------------------
+Reasoning: The power rating of the electric motor can be calculated using the formula P = V * I * Eff / 100. By plugging in the given values (V = 120V, I = 1.0 Amps, Eff = 75%), we can calculate the power output of the motor. The speed at which the motor can lift the 6 kg mass is dependent on the power output of the motor and the weight of the mass.
+Answer: B
+------------------------
+94. ------------------------
+Reasoning: The image size increases as the lens is moved closer to the coin because the closer the lens is to the object, the larger the image formed.
+Answer: A
+------------------------
+95. ------------------------
+Reasoning: Gravitational acceleration decreases with distance from the center of the Earth, so at an altitude of 300 km above the Earth's surface, the gravitational acceleration experienced by the Space Shuttle would be less than 9.8 m/s^2.
+Answer: D
+------------------------
+96. ------------------------
+Reasoning: The weight of an object is determined by the gravitational acceleration of the planet, which is a constant value. Since the planet's mass and radius are each twice that of Earth, the gravitational acceleration on the planet will also be the same as on Earth. Therefore, the astronaut will weigh the same on this planet as he does on Earth, which is 800 N.
+Answer: C
+------------------------
+97. ------------------------
+Reasoning: The acceleration of the lighter person is greater than the acceleration of the heavier person because acceleration is inversely proportional to mass according to Newton's second law of motion.
+Answer: D
+------------------------
+98. ------------------------
+Reasoning: The energy stored in a capacitor is calculated using the formula E = (1/2) * C * V^2, where C is the capacitance and V is the voltage across the capacitor. Given that the charge on each plate is 6 millicoulombs and the capacitance is 30 mF, we can calculate the energy stored in the capacitor.
+Answer: A
+------------------------
+99. ------------------------
+Reasoning: A higher voltage battery will result in a greater current flow in the circuit according to Ohm's Law (I = V/R).
+Answer: A
+------------------------
+100. ------------------------
+Reasoning: The average force exerted by the floor on the rubber ball can be calculated by considering the change in momentum during the impact. The force can be determined using the formula F = Δp / Δt, where Δp is the change in momentum and Δt is the time of impact. Since the ball rises almost to its original height after bouncing, the change in momentum is equal to 2 * mass * velocity. Given the mass of the ball, the velocity can be calculated using the equation of motion for free fall and bounce. Therefore, the correct answer is the one that corresponds to the calculated force.
+Answer: C
+------------------------
+101. ------------------------
+Reasoning: The sphere will reach the bottom of the ramp first because it has both translational and rotational kinetic energy contributing to its velocity, while the block only has translational kinetic energy. This allows the sphere to accelerate more efficiently.
+Answer: A
+------------------------
+102. ------------------------
+Reasoning: Increasing the distance between the double slits would result in wider fringes in the interference pattern on the screen, allowing for more diffraction of light.
+Answer: C
+------------------------
+103. ------------------------
+Reasoning: The stone is thrown vertically upward, so the initial velocity is against gravity. The acceleration due to gravity causes the stone's velocity to decrease over time. After 3 seconds, the velocity would be 5 m/s - (9.8 m/s^2 * 3 s) = -24.4 m/s, which is downward.
+Answer: B
+------------------------
+104. ------------------------
+Reasoning: The potential energy function U(x) = (x – 2)3 – 12x has a local minimum at x = 2, which represents a position of stable equilibrium. At a minimum point, the potential energy is at its lowest, indicating stability. 
+Answer: D
+------------------------
+105. ------------------------
+Reasoning: The radius of the circular motion of the electron in a magnetic field is determined by the formula r = (m * V) / (q * B), where m is the mass of the electron, V is the speed of the electron, q is the charge of the electron, and B is the magnetic field strength. The radius is directly proportional to the speed of the electron and inversely proportional to the strength of the magnetic field. Therefore, the correct answer is B. Counterclockwise rotation; radius of path = mv/(eB).
+Answer: B
+------------------------
+106. ------------------------
+Reasoning: Shortening the length of the string attached to the ball in a pendulum will decrease the period of the pendulum as it reduces the distance the ball has to travel back and forth, resulting in a shorter period of oscillation.
+Answer: B
+------------------------
+107. ------------------------
+Reasoning: The image changes from being real and inverted to virtual and upright because of the change in the position of the object relative to the focal point.
+Answer: D
+------------------------
+108. ------------------------
+Reasoning: The total distance traveled by a point on the rim of a rotating disk can be calculated using the formula s = rθ, where s is the distance traveled, r is the radius of the disk, and θ is the angle rotated in radians. Given that the disk has a radius of 0.1 m and undergoes an angular acceleration of 2.0 rad/s^2, we can calculate the total distance traveled by a point on the rim in 4.0 seconds by using the formula s = 0.1 * (0.5 * 2.0 * 4.0^2) = 0.8 m.
+Answer: B
+------------------------
+109. ------------------------
+Reasoning: The time it takes for the stone to strike the water is solely determined by the vertical distance it needs to cover and the acceleration due to gravity. Since air resistance is negligible, the stone is only under the influence of gravity in the vertical direction. 
+Answer: C
+------------------------
+110. ------------------------
+Reasoning: The statement in option A contradicts the fundamental principles of electromagnetism. A charge moving along the direction of a magnetic field will experience a force according to the Lorentz force law.
+Answer: A
+------------------------
+111. ------------------------
+Reasoning: The acceleration due to Earth's gravity experienced by the Space Shuttle is lower than the standard 9.8 m/s^2 at the Earth's surface because it is 300 km above the Earth's surface, resulting in a weaker gravitational force. 
+Answer: A
+------------------------
+112. ------------------------
+Reasoning: The internal energy of the ideal gas remains constant throughout the cyclical process, as the net work done on the gas is zero. This means that the energy added to the gas in the form of heat during one step is completely converted to work done by the gas during another step, resulting in no net change in internal energy.
+Answer: A
+------------------------
+113. ------------------------
+Reasoning: Gravity
+Answer: D
+------------------------
+114. ------------------------
+Reasoning: The force exerted on the block by the table is parallel to the table because it is the normal force acting on the block, which is perpendicular to the surface of the table. 
+Answer: B
+------------------------
+115. ------------------------
+Reasoning: The force of gravity is responsible for holding the wooden block on the table as it is the force of attraction between objects with mass, pulling the wooden block towards the center of the Earth.
+Answer: B
+------------------------
+116. Reasoning: The unit of measurement that is NOT equal to one tesla and is not related to magnetic field strength is 1 kg/(C*s).
+Answer: B
+117. ------------------------
+Reasoning: Variations in the surface of the ramp could create friction or other forces that impact the toy's ability to roll smoothly and consistently, leading to the observed phenomenon of the toy not going a consistent distance up the ramp in different trials.
+Answer: D
+------------------------
+118. ------------------------
+Reasoning: The acceleration due to gravity causes the object to increase its speed as it falls, leading to a greater distance covered in each subsequent second of time.
+Answer: B
+------------------------
+119. ------------------------
+Reasoning: The linear momentum of the system is conserved because the net force on the system is zero.
+Answer: D
+------------------------
+120. ------------------------
+Reasoning: The gravitational force between the Earth and the Moon is crucial in maintaining their orbits around each other. This force is directly proportional to the product of their masses and inversely proportional to the square of the distance between their centers. Therefore, a relatively large force is required to keep the Moon in its orbit around the Earth.
+Answer: B
+------------------------
+121. ------------------------
+Reasoning: The object is floating in water, which means the buoyant force acting on it is equal to the weight of the water displaced by the object. For an object to float, the buoyant force must be greater than the weight of the object. Therefore, the object's weight is less than the buoyant force acting on it. 
+Answer: A
+------------------------
+122. ------------------------
+Reasoning: Acceleration is determined by taking the second derivative of the position equation with respect to time. By calculating the second derivative of x = 2.0t^3 + 4.0t + 6.25 and evaluating it at t = 1.50 s, we can find the acceleration.
+Answer: B
+------------------------
+123. ------------------------
+Reasoning: The normal force from the floor does not do work on the man because work is defined as the product of the force applied and the displacement in the direction of the force. Since the man is standing still in the elevator as it ascends, there is no displacement in the direction of the normal force.
+Answer: D
+------------------------
+124. ------------------------
+Reasoning: The time taken for the car to cover a distance of 200 m with uniform acceleration can be calculated using the kinematic equation for uniformly accelerated motion, which is d = (1/2)at^2. By rearranging the equation to solve for time, we can find the time taken for the car to cover the given distance. 
+Answer: A
+------------------------
+125. ------------------------
+Reasoning: The vector sum of all torques on the object must equal zero and the vector sum of all forces on the object must equal zero because static equilibrium is achieved when an object is at rest and all forces and torques acting on it are balanced, resulting in no net force or torque on the object. The sum of the object’s potential and kinetic energies being zero is not a necessary condition for static equilibrium.
+Answer: D
+------------------------
+126. ------------------------
+Reasoning: The net force on the puck is zero because it has come to rest at position x = 1.2 m, indicating that there is no longer any net force acting on it. Since the puck is not accelerating at position x = 1.0 m, the net force must be zero.
+Answer: D
+------------------------
+127. ------------------------
+Reasoning: The electric field strength is directly proportional to the magnitude of the test charge. Experimenter A using a smaller test charge qo would measure a weaker electric field compared to experimenter B using a larger test charge 2qo.
+Answer: C
+------------------------
+128. ------------------------
+Reasoning: When the mass of Object A is halved, the gravitational force between objects A and B will be reduced by half due to the change in mass. However, since the charge on both objects remains the same and equal, the electrostatic force between them will also remain the same. This balance of forces will allow equilibrium to be maintained between the two objects.
+Answer: A
+------------------------
+129. ------------------------
+Reasoning: When the three 18 μF capacitors are connected in series, the total capacitance of the circuit becomes 6 μF (1/6 = 1/18 + 1/18 + 1/18). Since the total charge stored in the circuit is 600 μC, the charge stored on each capacitor will also be 600 μC. This is because charge is conserved in a closed system, so the total charge remains the same regardless of how the capacitors are arranged.
+Answer: C
+------------------------
+130. ------------------------
+Reasoning: The force acting on the particle is in the direction of the change in kinetic energy, which is negative as the kinetic energy is decreasing. Work is done by a force when it causes a change in kinetic energy, so the magnitude of the force can be determined by considering the rate of change of kinetic energy and its direction.
+Answer: D
+------------------------
+131. ------------------------
+Reasoning: The friction force between the tires and the road is directed towards the center of the circular path and provides the necessary centripetal force to keep the car in circular motion.
+Answer: A
+------------------------
+132. ------------------------
+Reasoning: The stone was thrown horizontally, so the only relevant component for determining the total speed when it enters the water is the horizontal component of the initial velocity. The stone's horizontal speed remains constant, so the total speed will be equal to the initial horizontal speed of 30 m/s.
+Answer: A
+------------------------
+133. ------------------------
+Reasoning: The force of gravitational attraction remains the same because the increase in mass is canceled out by the increase in distance, resulting in no net change in the force.
+Answer: D
+------------------------
+134. ------------------------
+Reasoning: The formula to calculate the current drawn by an electrical device is I = P/V, where I represents the current in amperes, P represents the power in watts, and V represents the voltage in volts. Substituting the given values of power (60 W) and voltage (120 V) into the formula, we get I = 60/120 = 0.5 A.
+Answer: B
+------------------------
+135. ------------------------
+Reasoning: When the volume of an ideal gas is increased by a factor of 8, according to Boyle's Law, the pressure of the gas will decrease. This is because Boyle's Law states that the pressure and volume of an ideal gas are inversely proportional - as the volume increases, the pressure decreases. Therefore, in this scenario, the pressure of the gas will decrease when the volume is increased by a factor of 8.
+Answer: A
+------------------------
+136. ------------------------
+Reasoning: The correct answer should involve a change in speed due to the difference in medium from air to glass, causing the light beam to bend or refract as it enters the glass window pane.
+Answer: C
+------------------------
+137. Reasoning: The volume of the ideal gas remains constant in an isochoric process, so the statement that the volume increases is NOT true.
+Answer: D
+138. ------------------------
+Reasoning: The speaker frequency of 60 Hz does not produce standing waves in the string because it is not a multiple of the fundamental frequency of the string, which is required for standing waves to form.
+Answer: A
+------------------------
+139. ------------------------
+Reasoning: The electric field strength due to this charge distribution is directly proportional to the distance r from the center, as indicated by the equation ρ = ar. This means that as r increases, the electric field strength also increases. Additionally, due to the spherical symmetry of the charge distribution, the electric field points radially outward from the center, regardless of the distance r.
+Answer: A
+------------------------
+140. ------------------------
+Reasoning: The frequency of the alarm will decrease as it falls from the third-floor window due to the Doppler effect.
+Answer: C
+------------------------
+141. ------------------------
+Reasoning: The rate of heat transfer along a rod is influenced by both the length and the area of the rod. The length of the rod affects the distance over which heat needs to travel, impacting the overall rate of heat transfer. Additionally, the surface area of the rod determines the amount of contact the rod has with its surroundings, allowing for more heat exchange. Therefore, both the length and area of the rod play crucial roles in determining the rate of heat transfer.
+Answer: C
+------------------------
+142. ------------------------
+Reasoning: The corrective lenses for a myopic person with a prescription of -5 diopters will create a virtual image for distant objects, allowing them to see clearly. Negative diopter values indicate concave lenses are needed to correct nearsightedness.
+Answer: B
+------------------------
+143. ------------------------
+Reasoning: The neutral conducting sphere will exhibit induced charge separation due to the presence of the nonconducting sphere with a net electric charge. The charges in the neutral sphere will redistribute themselves to minimize the electric field inside the conductor, resulting in regions of positive and negative charges. 
+Answer: A
+------------------------
+144. ------------------------
+Reasoning: The force experienced by a charged particle moving through a magnetic field is directly proportional to the charge of the particle. Doubling the charge of the new particles will result in the new force being twice the original force.
+Answer: B
+------------------------
+145. ------------------------
+Reasoning: The electric field strength at the point midway between the charges in an electric dipole is zero because the electric fields produced by the positive and negative charges cancel each other out at that point due to their equal magnitudes and opposite directions.
+Answer: A
+------------------------
+146. ------------------------
+Reasoning: The electric force between two charged particles is directly proportional to the product of their charges and inversely proportional to the square of the distance between them, as described by Coulomb's Law. Given that particle A has a net charge of 2Q and particle B has a net charge of Q, the ratio of the magnitude of the electric force on A to that on B would be 2:1 due to the difference in their charges.
+Answer: B
+------------------------
+147. ------------------------
+Reasoning: The wave's height becomes smaller as it travels towards the shore due to energy dissipation through factors like friction and dispersion. This decrease in height indicates a loss of energy, supporting the idea that the portion of the wave hitting the child's ankles carries less energy than when it was first created by the rock's impact.
+Answer: D
+------------------------
+148. ------------------------
+Reasoning: The large percent difference between the predicted velocity and the velocity measured by the photogate suggests a margin of error in the measurement device used (photogate). This discrepancy could be due to inaccuracies in the measurement process, potentially caused by human error or equipment calibration issues.
+Answer: A
+------------------------
+149. ------------------------
+Reasoning: The distance between Mercury and the sun is less than 1 AU because Mercury orbits closer to the sun than Earth. Since Mercury completes its orbit in about one-fifth of an Earth year, the distance is relatively close to the sun.
+Answer: B
+------------------------
+150. ------------------------
+Reasoning: The maximum mass a person can safely have on the Gravitron ride is determined by setting the maximum static frictional force equal to the centripetal force: μmg = mv^2/R. By rearranging this equation, we can solve for the maximum mass m = μv^2/(gR). This shows that the maximum mass a person can safely have on the ride depends on the coefficient of friction, tangential speed, gravitational acceleration, and radius of the ride.
+Answer: A
+------------------------
+151. ------------------------
+Reasoning: The satellite's new orbit will have a larger radius and a longer period due to the increase in speed from the collision with the small meteor, resulting in a higher energy state and a need for a larger orbit to maintain stability.
+Answer: C
+------------------------

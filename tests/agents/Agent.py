@@ -9,8 +9,8 @@ import random
 
 
 DEFAULT_MODEL = 'gpt-3.5-turbo'
-DEFAULT_AGENTS_TO_SPAWN = 4
-DEFAULT_BATCH_SIZE = 100
+DEFAULT_AGENTS_TO_SPAWN = 10
+DEFAULT_BATCH_SIZE = 20
 
 class MMLU(BaseModel):
 	question: str

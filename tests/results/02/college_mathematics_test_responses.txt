@@ -1,0 +1,394 @@
+1. ------------------------
+Reasoning: The equation e^x + x - 2 = 0 has at most one real solution in the interval [0, 1] due to the behavior of the function e^x in that interval. Therefore, k = 1. Since the question specifies that n is the number of real solutions that are not in [0, 1], n can be greater than or equal to 1. Hence, the correct answer is B. k = 1 and n = 0.
+Answer: B
+------------------------
+2. ------------------------
+Reasoning: The group must have elements of order 2 and 4, leading to the conclusion that the group G must be isomorphic to a direct product of cyclic groups of orders 2 and 8, or 4 and 4 to satisfy the given property x + x + x + x = 0.
+Answer: C
+------------------------
+3. ------------------------
+Reasoning: The null space n of the operator D consists of constant polynomials in P, resulting in a dimension of 1. The range r of the operator D consists of polynomials in P with degree less than or equal to 6, leading to a dimension of 6.
+Answer: D
+------------------------
+4. ------------------------
+Reasoning: The shortest distance from the curve xy = 8 to the origin can be calculated by finding the perpendicular distance from the origin to the curve. By representing the curve as y = 8/x, the distance formula can be applied to find the shortest distance. The correct answer should involve the concept of perpendicular distance.
+Answer: D
+------------------------
+5. ------------------------
+Reasoning: The correct answer should involve calculating the number of ways to choose 2 damaged suitcases out of the 5 available, as well as the total number of ways to select 3 suitcases out of 25. This is crucial in determining the probability of selecting exactly 2 damaged suitcases.
+Answer: D
+------------------------
+6. Reasoning: The false statement among the options provided should be one that does not hold true for the subset S = {0, 2, 4, 6, 8} in the ring Z_{10}.
+Answer: D
+7. ------------------------
+Reasoning: The rate at which the top end of the ladder is sliding downward is directly proportional to the length of the ladder. As the ladder is 9 meters in length, a longer ladder will result in a faster rate of change in the top end's height. 
+Answer: A. 12*sqrt(2)
+------------------------
+8. ------------------------
+Reasoning: The probability of the three smaller segments forming a triangle increases as the distance between points A and B decreases, allowing the segments to satisfy the Triangle Inequality Theorem. 
+Answer: D
+------------------------
+9. ------------------------
+Reasoning: P is either the identity transformation or the zero transformation because of the properties of idempotent linear transformations.
+Answer: D
+------------------------
+10. ------------------------
+Reasoning: Every compact space is not necessarily complete, but every complete space is compact according to the definition of completeness and compactness in topology.
+Answer: B
+------------------------
+11. ------------------------
+Reasoning: The number of edges in a complete graph with n vertices can be calculated using the formula n(n-1)/2, which results in 45 edges for a complete graph with 10 vertices.
+Answer: D
+------------------------
+12. ------------------------
+Reasoning: The probability of at least one of the variables X and Y being greater than 3 is 7/8 because the independence of X and Y means that the probabilities can be multiplied to find the joint probability.
+Answer: D
+------------------------
+13. ------------------------
+Reasoning: The dimension of the subspace V intersect W cannot be greater than 4 because the intersection of two subspaces cannot have a dimension greater than the dimension of either subspace.
+Answer: D
+------------------------
+14. ------------------------
+Reasoning: Each student dislikes three of their classmates, so to ensure that no student is on the same team as someone they dislike, each team should consist of only one student. Therefore, the number of teams should be equal to the number of students in the class.
+Answer: A
+------------------------
+15. ------------------------
+Reasoning: The probability of neither integer chosen being the square of the other can be calculated by subtracting the probability of choosing a pair of integers that are squares of each other from 1. Since there are no pairs of integers from 1 to 10 where one is the square of the other, the probability is 1.
+Answer: D
+------------------------
+16. ------------------------
+Reasoning: The correct answer is statement I, which states that if K is compact, then every continuous real-valued function defined on K is bounded, because compactness of a set in a metric space implies that the set is closed and bounded, and every continuous function on a compact set is bounded.
+Answer: A
+------------------------
+17. ------------------------
+Reasoning: The correct answer should be II. dim (U) + dim (W) = n^2 because when T is a linear transformation, the subspaces U and W are related in such a way that the sum of their dimensions equals the square of the dimension of the vector space V. This relationship is a consequence of the properties of linear transformations and the structure of the subspaces U and W.
+Answer: B
+------------------------
+18. ------------------------
+Reasoning: The work done by the force is independent of the path taken by the particle because the force is conservative. The force being parallel to the vector (-1, 0, 1) in xyz-space indicates that the work done will be the same regardless of the specific path taken. 
+Answer: C
+------------------------
+19. ------------------------
+Reasoning: Statement I is true because in a topological space, if A and C are connected and A is a proper subset of B which is a proper subset of C, then B must also be connected. This follows from the transitive property of connectedness in topological spaces, where if A is connected to C through a connected subset B, then B must also be connected.
+Answer: C
+------------------------
+20. ------------------------
+Reasoning: The sequence is defined recursively, and the assumption is that {x_n} converges. The limit of x_n as n approaches infinity exists and is a fixed value because the sequence converges. 
+Answer: C
+------------------------
+21. ------------------------
+Reasoning: In linear algebra, an eigenvector of a matrix A is a non-zero vector v such that when A is multiplied by v, the result is a scalar multiple of v, i.e., Av = λv where λ is the eigenvalue corresponding to the eigenvector v. When v is an eigenvector of A, it follows that v is also an eigenvector of A^2 because A^2v = A(Av) = A(λv) = λ(Av) = λ(λv) = λ^2v, which shows that v is also an eigenvector of A^2.
+Answer: B
+------------------------
+22. ------------------------
+Reasoning: The number of zeros at the end of k! is determined by the number of factors of 5 in its prime factorization. To have exactly 99 zeros, the value of k must be large enough to provide at least 99 factors of 5. 
+Answer: D
+------------------------
+23. ------------------------
+Reasoning: R is commutative because the definition of a right ideal involves multiplication of elements in the ring, and if R has exactly two right ideals, it implies that the ring is commutative.
+Answer: A
+------------------------
+24. ------------------------
+Reasoning: The probability of rolling a 5 on the first roll is 1/6 and the probability of rolling a 6 on the second roll is 1/6 because each roll is independent of the other. Therefore, to calculate the joint probability of both events occurring, we multiply the individual probabilities together.
+Answer: B
+------------------------
+25. ------------------------
+Reasoning: The first statement involves the concept of the limit of a product of two sequences of complex numbers, which is equal to the product of their limits. The second statement discusses the existence of a bounded sequence of real numbers with no convergent subsequence. This implies that the sequence is bounded but does not converge, showcasing the properties of bounded sequences without convergence.
+Answer: C
+------------------------
+26. ------------------------
+Reasoning: The structure is not a group because the operation is not associative, there is no identity element, and not all elements have an inverse.
+Answer: B
+------------------------
+27. ------------------------
+Reasoning: Kate takes fewer days than John to complete the practice test, and the total time taken when Kate starts is less than when John starts. When Kate and John work simultaneously, Kate's efficiency would contribute to completing the test faster. 
+Answer: A
+------------------------
+28. ------------------------
+Reasoning: The equilateral triangle is the optimal shape for maximizing the area within a given perimeter. In this case, the triangle with one vertex at the center of a circle of radius 1 and the other two vertices on the circle will have the greatest possible area when it is an equilateral triangle.
+Answer: C
+------------------------
+29. ------------------------
+Reasoning: The function f(x,y) = x^2 - 2xy + y^3 consists of a quadratic term x^2, a linear term -2xy, and a cubic term y^3. The critical points of this function can be found by taking partial derivatives with respect to x and y and setting them equal to zero. The function does not have all of its relative extrema on the line x = y or the parabola x = y^2. The critical point (0,0) is a saddle point, not a relative minimum. The absolute minimum can be found by analyzing the behavior of the function around the critical points.
+Answer: D
+------------------------
+30. ------------------------
+Reasoning: The largest order of an element in the group of permutations of 5 objects would involve a cycle of length 5, as the order of an element in a permutation group is determined by the least common multiple of the lengths of its disjoint cycles.
+Answer: A
+------------------------
+31. ------------------------
+Reasoning: The strongest conclusion that can be drawn based on the given conditions is that S(n) is not true for any n >= n0. This is because if S(n0) is not true, then all statements S(n) for n greater than or equal to n0 would also not be true, as per the conditions provided.
+Answer: D
+------------------------
+32. ------------------------
+Reasoning: The point that is closest to the origin on a plane will lie on the plane itself, and the coordinates of this point can be determined by solving the equation of the plane 2x + y + 3z = 3.
+Answer: B
+------------------------
+33. ------------------------
+Reasoning: The group of order n must be cyclic because cyclic groups are unique up to isomorphism. Prime numbers or powers of prime numbers have only one group of that order (up to isomorphism).
+Answer: B
+------------------------
+34. ------------------------
+Reasoning: The number of nonisomorphic trees with 5 vertices is 3 because a tree with n vertices has n-1 edges and there are 3 nonisomorphic trees with 5 vertices (star, path, and caterpillar trees).
+Answer: C
+------------------------
+35. ------------------------
+Reasoning: III. A^-1 and B^-1 are similar matrices because when two matrices A and B are similar, it means that there exists an invertible matrix P such that B = P^-1AP. Therefore, if we take the inverses of both sides of this equation, we get A^-1 = P^-1B^-1P. This shows that A^-1 and B^-1 are indeed similar matrices.
+Answer: C
+------------------------
+36. ------------------------
+Reasoning: The equation of a torus generated by revolving a circle around the z-axis involves the radius of the circle and the distance of the circle's center from the z-axis. The general equation for a torus in 3D space is (sqrt(x^2 + y^2) - R)^2 + z^2 = r^2, which aligns with the characteristics needed for the correct answer.
+Answer: B
+------------------------
+37. ------------------------
+Reasoning: The tangent line to the graph of y = x + e^x at x = 0 should intersect the graph at that point to accurately represent the behavior of the function. Among the given options, only D. y = x + 1 intersects the graph of y = x + e^x at x = 0.
+Answer: D
+------------------------
+38. ------------------------
+Reasoning: The dimension of the subspace kernel of T is 2 because T is onto W, and the dimension of the kernel of a linear transformation is equal to the difference between the dimension of the domain and the dimension of the codomain.
+Answer: A
+------------------------
+39. ------------------------
+Reasoning: Statement 1 is true and Statement 2 is false because rearranging the terms of a divergent series can lead to a different sum, while continuous mappings preserve closed and bounded sets in metric spaces.
+Answer: B
+------------------------
+40. ------------------------
+Reasoning: The maximum number of acute angles in a convex 10-gon is determined by the number of sides in the polygon, and in this case, it would be 8. This is because in a convex polygon, the sum of the interior angles is (n-2)*180 degrees, where n is the number of sides. To maximize the number of acute angles, we need to minimize the number of obtuse angles, which in this case would be 2. Therefore, the remaining angles must be acute, resulting in a maximum of 8 acute angles in a convex 10-gon.
+Answer: A
+------------------------
+41. ------------------------
+Reasoning: An analytic function that maps the entire finite complex plane into the real axis must have the imaginary axis mapped onto a single point on the real axis to satisfy the properties of analytic functions in complex analysis.
+Answer: B
+------------------------
+42. ------------------------
+Reasoning: The property (ab)^2 = a^2b^2 implies that the group G is commutative, meaning it satisfies the commutative property. Therefore, the correct answer is an abelian group.
+Answer: D
+------------------------
+43. ------------------------
+Reasoning: The lower bound on f'(x) being f'(x) ≥ -1 implies that the function f(x) is always increasing at a rate of at least -1. To maximize the value of f(0), the function should be increasing at the fastest rate possible, which is when f'(x) = -1. Therefore, the greatest possible value of f(0) will occur when f(x) is increasing at the fastest rate possible.
+Answer: B
+------------------------
+44. ------------------------
+Reasoning: The trace of A^2 is nonnegative because the square of any real number is nonnegative, leading to a sum of nonnegative numbers.
+Answer: A
+------------------------
+45. ------------------------
+Reasoning: The units digit of 7 raised to different powers follows a cyclical pattern with a cycle of 4. Since 25 is congruent to 1 modulo 4, the units digit of 7^25 will be the same as the units digit of 7^1, which is 7.
+Answer: D
+------------------------
+46. ------------------------
+Reasoning: The function f : X → Y is continuous and X is compact, which implies that f must be uniformly continuous. This is a fundamental property of continuous functions on compact sets. Therefore, the correct answer is A. True, True.
+Answer: A
+------------------------
+47. ------------------------
+Reasoning: The correct method for finding the volume of a solid of revolution when rotated about the y-axis is using the method of cylindrical shells. This method involves integrating the circumference of the shell multiplied by the height of the shell. Since the region in this question is being rotated about the y-axis, the correct answer should involve the cylindrical shells method.
+Answer: D
+------------------------
+48. ------------------------
+Reasoning: The parametric equations x = cos t and y = sin t represent points on the unit circle in the xy-plane. As t ranges from 0 to pi, the curve traced out by these equations will cover half of the unit circle, forming a semicircle. The length of a semicircle is half the circumference of a circle, which is pi. Therefore, the correct answer is B. pi.
+Answer: B
+------------------------
+49. ------------------------
+Reasoning: The valid intervals of convergence for a power series are typically in the form of an interval (a, b) or a union of intervals [a, a] ∪ [b, b] where a and b are real numbers, because the interval of convergence represents the range of x values for which the power series converges.
+Answer: D
+------------------------
+50. ------------------------
+Reasoning: A bounded function that is Lebesgue integrable must be continuous, which implies that it is Riemann integrable as well.
+Answer: A
+------------------------
+51. ------------------------
+Reasoning: The graph of x^(log y) = y^log x will exhibit symmetry about the line y = x due to the interchangeable nature of the exponents in the equation. This symmetry is reflected in the graph in the xy-plane.
+Answer: A
+------------------------
+52. ------------------------
+Reasoning: The norm ||x||_p can be expressed as an inner product when p = 2 because in this case, the norm is the Euclidean norm which is defined as the square root of the sum of the squares of the components of x. This aligns with the definition of an inner product, making p = 2 the correct choice.
+Answer: B
+------------------------
+53. ------------------------
+Reasoning: The weakest condition sufficient to ensure the compactness of T is that every open cover of T has a finite subcover, which is a fundamental property of compact spaces.
+Answer: A
+------------------------
+54. ------------------------
+Reasoning: The relationship between the radius of the inscribed circle and the side length of an equilateral triangle is crucial in this scenario. The side length of an equilateral triangle can be calculated using the formula s = 2r√3, where r is the radius of the inscribed circle. Given that the radius of the inscribed circle is 2, the side length of the equilateral triangle is 2 * 2 * √3 = 4√3. Using the formula for the area of an equilateral triangle, A = (s^2 * √3) / 4, where s is the side length, we can substitute s = 4√3 to find the area.
+Answer: C
+------------------------
+55. ------------------------
+Reasoning: The value of n should be a product of distinct prime powers, each raised to the first power, because abelian groups of order n are isomorphic to the direct product of cyclic groups of prime power order according to the fundamental theorem of abelian groups.
+Answer: C
+------------------------
+56. ------------------------
+Reasoning: The statement |x + y| = |x| + |y| is not always true for x, y, z ∈ R^k because it is a property of the triangle inequality in normed vector spaces, and in certain cases, it may not hold true.
+Answer: D
+------------------------
+57. ------------------------
+Reasoning: The dimension of V is 4 and the dimension of W is 2, based on the properties of real polynomials and the conditions given for W. Therefore, the sum of dim V + dim W is 4 + 2 = 6.
+Answer: C
+------------------------
+58. ------------------------
+Reasoning: The possible dimensions of the subspace V intersect W can be 0, 1, or 2 because the intersection of two subspaces is also a subspace, and its dimension can be any integer between 0 and the minimum of the dimensions of the two subspaces.
+Answer: D
+------------------------
+59. ------------------------
+Reasoning: The smallest positive value of x at which the curves intersect, denoted as a, is the first positive solution to the equation sin x + cos x = sin x - cos x. This is because a represents the point of intersection after x = 0, where the curves initially intersect.
+Answer: D
+------------------------
+60. ------------------------
+Reasoning: Linear transformations preserve scalar multiplication and addition. By breaking down f(3, 5) into f(3, 5) = f(3*1, 5*1) = 3*f(1, 1) + 5*f(-1, 0) = 3*1 + 5*2 = 8, we can see that the correct answer is 8.
+Answer: B
+------------------------
+61. ------------------------
+Reasoning: The polynomial 2x^5 + 8x - 7 has a degree of 5, a leading coefficient of 2, and a constant term of -7. The discriminant is greater than zero, indicating two distinct real roots. Therefore, the correct answer is Two.
+Answer: C
+------------------------
+62. ------------------------
+Reasoning: Since each professor can be assigned to teach any course and each course will have exactly one professor assigned to it, the total number of possible assignments is determined by the number of ways to choose 2 courses out of 20 for each professor. Therefore, the correct answer is A. 20!/2^(10).
+Answer: A
+------------------------
+63. ------------------------
+Reasoning: An ordered field is a field that is also a totally ordered set, meaning it has a total order relation that is compatible with the field operations. The complex numbers do not have a linear order relation that is compatible with the field operations of addition and multiplication, so it is not possible to place an order on C that makes it an ordered field. Therefore, option A is correct.
+Answer: A
+------------------------
+64. ------------------------
+Reasoning: The player who goes first has the advantage of being able to end the game with their toss if they get a head on their first try, giving them a higher probability of winning. 
+Answer: D
+------------------------
+65. ------------------------
+Reasoning: The nonzero real numbers under multiplication do not form a group because they do not satisfy the group properties of closure, associativity, identity element, and inverse element.
+Answer: C
+------------------------
+66. ------------------------
+Reasoning: Since 3x + 7y is divisible by 11, it implies that both 3 and 7 are multiples of 11. Therefore, any expression involving x and y with coefficients that are multiples of 11 will also be divisible by 11. Among the given options, 9x + 4y is the only expression where both coefficients are multiples of 11 (9 and 4 are not multiples of 11). Hence, 9x + 4y must also be divisible by 11.
+Answer: C
+------------------------
+67. ------------------------
+Reasoning: The minimum value of the expression x + 4z occurs when x = -2z, which satisfies the constraint x^2 + y^2 + z^2 <= 2. This relationship allows for the smallest possible value of x + 4z while adhering to the given constraint.
+Answer: B
+------------------------
+68. ------------------------
+Reasoning: The set {uv : u \in U and v \in V} is an ideal of R because it is closed under addition and multiplication, which are defining properties of ideals in a ring.
+Answer: A
+------------------------
+69. ------------------------
+Reasoning: The volume of the solid generated by rotating the region bounded by the x-axis and the function f(x) = x/(1 + x^3) around the x-axis can be calculated using the method of cylindrical shells. This involves integrating the circumference of the shell multiplied by the height of the shell. The function approaches 0 as x approaches both positive and negative infinity, indicating that the volume will be finite. The critical point of the function does not affect the volume calculation in this case. The shape of the region is continuous and smooth, allowing for a well-defined volume calculation. The choice of axis of rotation (x-axis) determines the method used, which is cylindrical shells in this case. The volume is directly related to the rate of change of the function. The presence of vertical asymptotes does not impact the volume calculation. Symmetry properties do not play a significant role in this specific case. 
+Answer: C
+------------------------
+70. ------------------------
+Reasoning: The days of the week follow a cycle of 7 days, so any large number of days from now can be simplified by finding the remainder when divided by 7. The remainder when 10^(10^(10)) is divided by 7 is 3, indicating that the day of the week will be the same as today, Wednesday.
+Answer: D
+------------------------
+71. ------------------------
+Reasoning: The rate of change of the height of the water in the cone can be expressed in terms of the rate of change of the volume of water in the cone by differentiating the volume formula V = (π/3)*r^2*h with respect to time. By relating the rate of change of the volume to the rate of water dripping out of the hole, we can determine the rate of change of the height. 
+Answer: D
+------------------------
+72. ------------------------
+Reasoning: The false statement in this context would likely involve a misunderstanding or misinterpretation of the role of determinants in determining the nature of solutions. The determinant of the coefficient matrix plays a crucial role in determining the nature of solutions to a system of linear equations. If the determinant of the coefficient matrix is non-zero, then the system has a unique solution. If the determinant is zero, then the system either has no solution or infinitely many solutions.
+Answer: B
+------------------------
+73. ------------------------
+Reasoning: The minimum value of f(x) occurs when c = 1 because the function f(x) simplifies to f(x) = e^x - x, which is a well-known function with a minimum value of 1 at x = 0. Therefore, the minimum value of f(x) occurs when c = 1.
+Answer: A
+------------------------
+74. ------------------------
+Reasoning: The determinant of A is equal to the product of its eigenvalues. The determinant of A is given as -λ^3 + 3λ^2 + λ - 3, which can be factored into (λ - 1)(λ + 1)(λ - 3). Therefore, the eigenvalues of A are -1, 1, and 3, not -3 and 1 as mentioned in option C. The correct statement is that the matrix A has eigenvalues -1 and 3.
+Answer: C
+------------------------
+75. ------------------------
+Reasoning: The correct answer should be determined by solving the differential equation with the given initial condition y = 0 when x = 1. This will provide the specific solution that can be used to find the value of f(2) at x = 2.
+Answer: C
+------------------------
+76. ------------------------
+Reasoning: The event with the greatest probability would involve an equal number of heads and tails, such as getting exactly 50 heads and 50 tails, because in a fair coin toss, the probability of getting heads or tails is 0.5 for each toss. Therefore, the event with an equal number of heads and tails has the highest probability as it is the most balanced outcome.
+Answer: A
+------------------------
+77. Reasoning: The statement is true because a local maximum of a function occurs at a point where the function takes on its highest value in a small neighborhood around that point, which implies that the derivative at that point is 0.
+Answer: A
+78. ------------------------
+Reasoning: The trace of A is the sum of its diagonal elements, and since A = A^(-1), the diagonal elements must be 1 and 1, resulting in a trace of 2.
+Answer: A
+------------------------
+79. ------------------------
+Reasoning: The correct answer should be a square shape to maximize the area of the yard with a given amount of fencing. A square shape provides the largest area for a given perimeter, making it the most efficient choice. 
+Answer: D
+------------------------
+80. ------------------------
+Reasoning: The closure of a connected set is always connected, so if set A is connected, its closure must also be connected.
+Answer: A
+------------------------
+81. ------------------------
+Reasoning: The set with the greatest number of elements will have the greatest cardinality. 
+Answer: B
+------------------------
+82. ------------------------
+Reasoning: The equation f(2n) = n^2 + f[2(n - 1)] provides a recursive relationship between the function values at different points. By substituting n=4 into the equation, we can calculate the value of f(8) step by step.
+Answer: C
+------------------------
+83. ------------------------
+Reasoning: The number of structurally distinct Abelian groups of order 72 is determined by the prime factorization of 72, which is 2^3 * 3^2, leading to a total of 4 distinct Abelian groups of order 72. This is because the number of distinct Abelian groups of a given order is determined by the number of ways the order can be expressed as a product of powers of distinct primes.
+Answer: A
+------------------------
+84. ------------------------
+Reasoning: The order of the group G must be a multiple of 7 because the subgroup of order seven must divide the order of the group by Lagrange's theorem, and the lack of elements being their own inverses restricts the possible orders of G.
+Answer: C
+------------------------
+85. Reasoning: The correct answer should involve analyzing the critical points of the function f(x, y) to determine the existence and nature of distinct points P and Q. By examining the behavior of the function at these critical points, we can identify whether they correspond to local extrema or saddle points, which will help in understanding the characteristics of points P and Q.
+
+Answer: A
+86. ------------------------
+Reasoning: A is a subset of the real line R and contains each rational number, implying that A is dense in R. If A is open, it does not necessarily mean that A equals R, as there could be other elements in R that are not in A. Therefore, option A is not a must be true statement.
+Answer: A
+------------------------
+87. ------------------------
+Reasoning: The condition that is not equivalent to any of the other four is option D. The determinant of a matrix being nonzero is a distinct property that does not directly relate to the other conditions. While the other conditions involve aspects of linear independence, unique solutions, and trivial solutions, the determinant being nonzero is a separate characteristic of the matrix that does not necessarily imply the same implications as the other conditions.
+Answer: D
+------------------------
+88. ------------------------
+Reasoning: The periodic nature of the cosine function results in multiple solutions for the equation cos(97x) = x. Since the cosine function oscillates between -1 and 1, there will be multiple values of x that satisfy the equation within each period of 2π.
+Answer: C
+------------------------
+89. ------------------------
+Reasoning: The correct answer must be a ring that is not an integral domain, allowing for zero divisors and the product of two nonzero elements to be zero. The ring {a + b * sqrt(2) : a and b are rational numbers} contains zero divisors, making it possible for the product of two nonzero elements to be zero.
+Answer: D
+------------------------
+90. ------------------------
+Reasoning: The map x -> axa^2 is a homomorphism if and only if it satisfies the homomorphism property, which means that for all elements x, y in the group G, the map must satisfy f(xy) = f(x)f(y). This property ensures that the group operation is preserved under the map.
+Answer: A
+------------------------
+91. Reasoning: The determinant of a 2 by 2 matrix is calculated by multiplying the diagonal elements and subtracting the product of the off-diagonal elements. The determinant of a 3 by 3 matrix is calculated using a specific formula involving the sum of products of diagonals. Therefore, detA + detB will involve calculating the determinants of A and B separately and then summing them up.
+
+Answer: C. 0
+92. ------------------------
+Reasoning: The correct answer should be III. f is continuous, one-to-one, and onto because if a function is continuous on an open interval, it implies that the function is also one-to-one and onto. This is because a continuous function preserves the order and completeness of the interval, ensuring that every element in the domain has a unique image in the codomain.
+Answer: D
+------------------------
+93. ------------------------
+Reasoning: The probability of x < y can be calculated by determining the area where x < y in the rectangle formed by the intervals [0, 3] and [0, 4] and dividing it by the total area of the rectangle. Since the area where x < y is 1/2 of the total area, the probability is 1/2.
+Answer: A
+------------------------
+94. ------------------------
+Reasoning: The inequality 2(x + y) > 1 can be simplified to x + y > 1/2. When visualizing this inequality in the region described by 0 < |x| + |y| < 1, it forms a triangle with vertices at (1/2, 0), (0, 1/2), and (-1/2, 0). The area of this triangle is 1/8. The total area of the region described by 0 < |x| + |y| < 1 is 1/2, which is the area of a square with side length 1. Therefore, the probability that 2(x + y) > 1 is the ratio of the area of the triangle to the total area, which is 1/8 / 1/2 = 1/4.
+Answer: B
+------------------------
+95. ------------------------
+Reasoning: The correct answer should involve both real and imaginary parts, binomial theorem, and complex conjugates, which are essential in calculating the power of a complex number raised to a positive integer exponent.
+Answer: D
+------------------------
+96. ------------------------
+Reasoning: The possible dimensions of U ∩ V can range from 0 to 3 because the intersection of two subspaces is also a subspace and its dimension can vary from 0 to the minimum of the dimensions of the two subspaces.
+Answer: D
+------------------------
+97. ------------------------
+Reasoning: S is closed because it includes all its limit points.
+Answer: A
+------------------------
+98. ------------------------
+Reasoning: The circle that intersects the parabola x^2 = y + 4 at multiple points will have the greatest number of points of intersection. 
+Answer: C
+------------------------
+99. ------------------------
+Reasoning: By setting up the equation n(n-1)(n-2)/6 = n(n-1)/2 + 14, we can solve for the number of elements in set X, which is n. Once we find the value of n, we can calculate the number of subsets of X that contain exactly 4 elements using the formula 2^n. 
+Answer: C
+------------------------
+100. ------------------------
+Reasoning: Linear transformations preserve vector addition and scalar multiplication, meaning that the mapping of a point under a linear transformation can be expressed as a linear combination of the mappings of other points. In this case, since T maps (1, 2) to (2, 3) and (-1, 2) to (2, -3), the mapping of (2, 1) should be a linear combination of these mappings.
+Answer: C
+------------------------
