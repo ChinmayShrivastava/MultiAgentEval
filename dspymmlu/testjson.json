@@ -1,0 +1,57 @@
+{
+  "prog": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "Which of the following terms describes the body's ability to maintain its normal state?",
+        "subject": "anatomy_val",
+        "a": "Anabolism",
+        "b": "Catabolism",
+        "c": "Tolerance",
+        "d": "Homeostasis",
+        "rationale": "produce the answer. Anabolism and catabolism are both metabolic processes, and tolerance refers to the body's ability to withstand the effects of a substance. Homeostasis, on the other hand, refers to the body's ability to maintain its normal state.",
+        "answer": "D"
+      },
+      {
+        "augmented": true,
+        "question": "A medical practitioner places a stethoscope over the patient's seventh right intercostal space in the mid-axillary line. The stethoscope overlies the",
+        "subject": "anatomy_val",
+        "a": "upper lobe of the lung.",
+        "b": "middle lobe of the lung.",
+        "c": "lower lobe of the lung.",
+        "d": "costo-diaphragmatic recess.",
+        "rationale": "produce the answer. We know that the seventh right intercostal space in the mid-axillary line corresponds to the lower lobe of the lung.",
+        "answer": "C"
+      },
+      {
+        "augmented": true,
+        "question": "The maxillary sinus",
+        "subject": "anatomy_val",
+        "a": "is lined by stratified squamous epithelium.",
+        "b": "drains into the superior meatus of the nasal cavities.",
+        "c": "is innervated by branches of the maxillary division of the trigeminal nerve.",
+        "d": "Receives its blood supply from the first part of the maxillary artery.",
+        "rationale": "produce the answer. We know that the maxillary sinus is innervated by branches of the maxillary division of the trigeminal nerve, so the correct answer is C.",
+        "answer": "C"
+      },
+      {
+        "augmented": true,
+        "question": "Which of the following is flexible connective tissue that is attached to bones at the joints?",
+        "subject": "anatomy_val",
+        "a": "Adipose",
+        "b": "Cartilage",
+        "c": "Epithelial",
+        "d": "Muscle",
+        "rationale": "produce the answer. We know that adipose is fat tissue, epithelial tissue lines the body's surfaces, and muscle tissue is responsible for movement. Cartilage is the only option that fits the description of flexible connective tissue attached to bones at the joints.",
+        "answer": "B"
+      }
+    ],
+    "signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "signature_prefix": "Answer:",
+    "extended_signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "extended_signature_prefix": "Answer:"
+  }
+}

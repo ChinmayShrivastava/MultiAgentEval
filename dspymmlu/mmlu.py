@@ -1,8 +1,16 @@
 import dspy
+from data import get_examples, get_subjects, get_test_data
+from dspy.teleprompt import BootstrapFewShot
 
-# CONFIGURE DEFAULT MODEL
 
+
+# CONFIGURE DEFAULTs
+
+SUBJECT = 'anatomy'
+SAVE_PATH = 'testjson.json'
 DEFAULT_MODEL_STRING = 'gpt-3.5-turbo-1106'
+
+# DEFAULT MODEL OBJECT
 
 DEFAULT_MODEL_OBJECT = dspy.OpenAI(
     model=DEFAULT_MODEL_STRING,
@@ -30,3 +38,58 @@ class QAset(dspy.Signature):
     d = dspy.InputField()
 
     answer = dspy.OutputField(desc="The alphabetical letter of the correct answer; `a`, `b`, `c` or `d`.")
+
+# METRICS
+
+def validate_answer(example, pred, trace=None):
+    return example.answer.lower() == pred.answer.lower()
+
+# TRAINSET
+
+trainset = get_examples(SUBJECT+'_val')
+
+# PROGRAM
+
+# cot = dspy.ChainOfThought(QAset)
+
+class COT(dspy.Module):
+    def __init__(self):
+        super().__init__()
+        self.prog = dspy.ChainOfThought(QAset)
+
+    def forward(self, question, subject, a, b, c, d):
+        return self.prog(
+            question=question,
+            subject=subject,
+            a=a,
+            b=b,
+            c=c,
+            d=d
+        )
+
+# OPTIMIZER
+
+config = dict(
+    max_bootstrapped_demos=4,
+    max_labeled_demos=4,
+    # num_candidate_programs=10,
+    # num_threads=4
+)
+
+teleprompter = BootstrapFewShot(
+    metric=validate_answer,
+    **config
+)
+
+optimized_program = teleprompter.compile(
+    COT(),
+    trainset=trainset
+)
+
+# while True:
+#     try:
+#         optimized_program.save(SAVE_PATH)
+#     except:
+#         SAVE_PATH = input('Enter a valid save path: ')
+
+optimized_program.save(SAVE_PATH)
