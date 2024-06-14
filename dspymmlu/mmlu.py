@@ -1,7 +1,9 @@
+import json
+
 import dspy
+import tqdm
 from datahandler import get_data
 from dspy_helpers import dispatch_optmizer
-
 
 # CONFIGURE DEFAULTs
 
@@ -121,8 +123,30 @@ class DSPYpipeline:
         # save optimized model
         optimized_model.save(self.save_path)
 
-    def test():
-        pass
+    def load(self, path):
+        p = COT()
+        p.load(path=path)
+        return p
+
+    def test(self, subject):
+        _, _, testset = get_data(subject)
+        model = self.load(self.save_path)
+        responses = {}
+        for example in tqdm.tqdm(testset):
+            answer = model.forward(
+                question=example.question,
+                subject=example.subject,
+                a=example.a,
+                b=example.b,
+                c=example.c,
+                d=example.d
+            )
+            responses[example.question] = {
+                "answer": answer['answer'],
+                "rationale": answer['rationale'],
+                "correct": validate_answer(example, answer, trace=None)
+            }
+        return responses
 
 if __name__ == '__main__':
 
@@ -136,4 +160,13 @@ if __name__ == '__main__':
         save_path=save_path,
         max_tokens=MAX_TOKENS
     )
-    pipeline.optimize(subject, optimizer=optimizer)
+    # pipeline.optimize(subject, optimizer=optimizer)
+    # test
+    responses = pipeline.test(subject)
+    # pring the score
+    correct = sum([1 for k, v in responses.items() if v['correct']])
+    total = len(responses)
+    print(f"Accuracy: {correct/total}")
+    # save responses
+    with open(f"{_save_path}{subject}_{optimizer}_responses.json", 'w') as f:
+        json.dump(responses, f)
