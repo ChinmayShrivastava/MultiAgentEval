@@ -1,5 +1,5 @@
 import dspy
-from data import get_examples, get_subjects, get_test_data
+from datahandler import get_examples, get_subjects, get_test_data
 from dspy.teleprompt import BootstrapFewShot
 
 
@@ -46,7 +46,7 @@ def validate_answer(example, pred, trace=None):
 
 # TRAINSET
 
-trainset = get_examples(SUBJECT+'_val')
+trainset = get_examples(SUBJECT)
 
 # PROGRAM
 
