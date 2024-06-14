@@ -75,7 +75,24 @@ SUBJECTS = [
 def get_subjects() -> list[str]:
     return SUBJECTS
 
-def get_examples(subject) -> list[dspy.Example]:
+def get_dev_data(subject) -> list[dspy.Example]:
+    examples = []
+    with open(f'data/dev/{subject}_dev.csv', 'r') as file:
+        reader = csv.reader(file)
+        for row in reader:
+            if row[0]:  # Ensure the question is not empty
+                examples.append(dspy.Example(
+                    question=str(row[0]),
+                    subject=subject,
+                    a=str(row[1]),
+                    b=str(row[2]),
+                    c=str(row[3]),
+                    d=str(row[4]),
+                    answer=str(row[5])
+                ).with_inputs("question", "subject", "a", "b", "c", "d"))
+    return examples
+
+def get_val_data(subject) -> list[dspy.Example]:
     examples = []
     with open(f'data/val/{subject}_val.csv', 'r') as file:
         reader = csv.reader(file)
@@ -92,14 +109,25 @@ def get_examples(subject) -> list[dspy.Example]:
                 ).with_inputs("question", "subject", "a", "b", "c", "d"))
     return examples
 
-def get_test_data(subject) -> list:
-    data = []
+def get_test_data(subject) -> list[dspy.Example]:
+    examples = []
     with open(f'data/test/{subject}_test.csv', 'r') as file:
         reader = csv.reader(file)
         for row in reader:
             if row[0]:  # Ensure the question is not empty
-                data.append([str(r) for r in row])
-    return data
+                examples.append(dspy.Example(
+                    question=str(row[0]),
+                    subject=subject,
+                    a=str(row[1]),
+                    b=str(row[2]),
+                    c=str(row[3]),
+                    d=str(row[4]),
+                    answer=str(row[5])
+                ).with_inputs("question", "subject", "a", "b", "c", "d"))
+    return examples
+
+def get_data(subject) -> tuple[list[dspy.Example], list[dspy.Example], list[dspy.Example]]:
+    return get_dev_data(subject), get_val_data(subject), get_test_data(subject)
 
 # if __name__ == '__main__':
 #     print(len(get_examples('abstract_algebra_val')))

@@ -1,7 +1,6 @@
 import dspy
-from datahandler import get_examples, get_subjects, get_test_data
-from dspy.teleprompt import BootstrapFewShot
-
+from datahandler import get_data
+from dspy_helpers import dispatch_optmizer
 
 
 # CONFIGURE DEFAULTs
@@ -9,7 +8,7 @@ from dspy.teleprompt import BootstrapFewShot
 SUBJECT = 'anatomy'
 SAVE_PATH = 'testjson.json'
 DEFAULT_MODEL_STRING = 'gpt-3.5-turbo-1106'
-
+MAX_TOKENS = 256
 # DEFAULT MODEL OBJECT
 
 DEFAULT_MODEL_OBJECT = dspy.OpenAI(
@@ -46,7 +45,7 @@ def validate_answer(example, pred, trace=None):
 
 # TRAINSET
 
-trainset = get_examples(SUBJECT)
+trainset, _, _ = get_data(SUBJECT)
 
 # PROGRAM
 
@@ -69,22 +68,22 @@ class COT(dspy.Module):
 
 # OPTIMIZER
 
-config = dict(
-    max_bootstrapped_demos=4,
-    max_labeled_demos=4,
-    # num_candidate_programs=10,
-    # num_threads=4
-)
+# config = dict(
+#     max_bootstrapped_demos=4,
+#     max_labeled_demos=4,
+#     # num_candidate_programs=10,
+#     # num_threads=4
+# )
 
-teleprompter = BootstrapFewShot(
-    metric=validate_answer,
-    **config
-)
+# teleprompter = BootstrapFewShot(
+#     metric=validate_answer,
+#     **config
+# )
 
-optimized_program = teleprompter.compile(
-    COT(),
-    trainset=trainset
-)
+# optimized_program = teleprompter.compile(
+#     COT(),
+#     trainset=trainset
+# )
 
 # while True:
 #     try:
@@ -92,4 +91,49 @@ optimized_program = teleprompter.compile(
 #     except:
 #         SAVE_PATH = input('Enter a valid save path: ')
 
-optimized_program.save(SAVE_PATH)
+# optimized_program.save(SAVE_PATH)
+
+class DSPYpipeline:
+    def __init__(
+            self,
+            model=DEFAULT_MODEL_STRING,
+            save_path=SAVE_PATH,
+            max_tokens=512
+    ):
+        self.model = model
+        self.save_path = save_path
+        self.lm = dspy.OpenAI(
+            model=model,
+            max_tokens=max_tokens
+        )
+        dspy.configure(lm=self.lm)
+
+    def optimize(self, subject, optimizer=None):
+        assert optimizer is not None
+
+        devset, valset, _ = get_data(subject)
+        optimized_model = dispatch_optmizer(optimizer)(
+            model=COT(),
+            trainset=devset,
+            metric=validate_answer,
+            valset=valset
+        )
+        # save optimized model
+        optimized_model.save(self.save_path)
+
+    def test():
+        pass
+
+if __name__ == '__main__':
+
+    optimizer = "BootstrapFewShot"
+    subject = "high_school_physics"
+
+    _save_path = "runs/"
+    save_path = _save_path+subject+"_"+optimizer+".json"
+    pipeline = DSPYpipeline(
+        model=DEFAULT_MODEL_STRING,
+        save_path=save_path,
+        max_tokens=MAX_TOKENS
+    )
+    pipeline.optimize(subject, optimizer=optimizer)

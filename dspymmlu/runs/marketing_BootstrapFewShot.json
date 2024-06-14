@@ -1,0 +1,55 @@
+{
+  "prog": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "In an organization, the group of people tasked with buying decisions is referred to as the _______________.",
+        "subject": "marketing",
+        "a": "Outsourcing unit.",
+        "b": "Procurement centre.",
+        "c": "Chief executive unit.",
+        "d": "Decision-making unit.",
+        "rationale": "produce the answer. The group of people tasked with buying decisions in an organization is commonly referred to as the decision-making unit.",
+        "answer": "D"
+      },
+      {
+        "augmented": true,
+        "question": " _____________ is a natural outcome when combining demographic and geographic variables.",
+        "subject": "marketing",
+        "a": "Geodemographics",
+        "b": "Product differentiation.",
+        "c": "ANSOFF matrix.",
+        "d": "Brand management.",
+        "rationale": "produce the answer. We know that combining demographic and geographic variables leads to the study of geodemographics, which is the analysis of people by where they live. Therefore, the correct answer is A.",
+        "answer": "A"
+      },
+      {
+        "augmented": true,
+        "question": "The single group within society that is most vulnerable to reference group influence is:",
+        "subject": "marketing",
+        "a": "The older consumer who feels somewhat left out of things.",
+        "b": "The married women, many of whom feel a need for stability in their lives.",
+        "c": "New immigrants who really want to assimilate into their new culture.",
+        "d": "Children, who base most of their buying decisions on outside influences.",
+        "rationale": "produce the answer. We know that reference groups are groups that individuals compare themselves to and use as a standard for evaluating themselves and their behavior. Children are often heavily influenced by reference groups, especially in terms of buying decisions.",
+        "answer": "D"
+      },
+      {
+        "question": " Which of the following is an assumption in Maslow's hierarchy of needs?",
+        "subject": "marketing",
+        "a": "Needs are dependent on culture and also on social class.",
+        "b": "Lower-level needs must be at least partially satisfied before higher needs can affect behaviour.",
+        "c": "Needs are not prioritized or arranged in any particular order.",
+        "d": "Satisfied needs are motivators, and new needs emerge when current needs remain unmet.",
+        "answer": "B"
+      }
+    ],
+    "signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "signature_prefix": "Answer:",
+    "extended_signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "extended_signature_prefix": "Answer:"
+  }
+}

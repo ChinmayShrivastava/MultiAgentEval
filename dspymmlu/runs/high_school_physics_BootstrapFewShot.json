@@ -1,0 +1,57 @@
+{
+  "prog": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "A photocell of work function \u03d5 = 2eV is connected to a resistor in series. Light of frequency f = 1 \u00d7 10^15 Hz hits a metal plate of the photocell. If the power of the light is P = 100 W, what is the current through the resistor?",
+        "subject": "high_school_physics",
+        "a": "2:00 AM",
+        "b": "6:00 AM",
+        "c": "12:00 AM",
+        "d": "24 A",
+        "rationale": "produce the answer. We can use the equation P = hf, where P is the power, h is Planck's constant, and f is the frequency of the light. Then we can use the equation I = P\/\u03d5, where I is the current and \u03d5 is the work function.",
+        "answer": "D"
+      },
+      {
+        "augmented": true,
+        "question": "Which of the following conditions will ensure that angular momentum is conserved? I. Conservation of linear momentum II. Zero net external force III. Zero net external torque",
+        "subject": "high_school_physics",
+        "a": "I and II only",
+        "b": "I and III only",
+        "c": "II and III only",
+        "d": "III only",
+        "rationale": "produce the answer. We know that angular momentum is conserved when there is zero net external torque acting on the system. This means that option III must be true. Therefore, the correct answer is D.",
+        "answer": "D"
+      },
+      {
+        "augmented": true,
+        "question": "A point charge, Q = +1 mC, is fixed at the origin. How much work is required to move a charge, Q = +8 \u00b5C, from the point (0, 4 meters) to the point (3 meters, 0)?",
+        "subject": "high_school_physics",
+        "a": "3.5 J",
+        "b": "6.0 J",
+        "c": "22.5 J",
+        "d": "40 J",
+        "rationale": "produce the answer. We can use the formula for the work done by an electric field on a charge: W = qEd. The electric field E at a distance r from a point charge Q is given by E = kQ\/r^2, where k is Coulomb's constant. Plugging in the given values, we find that the work done is 6.0 J.",
+        "answer": "B"
+      },
+      {
+        "augmented": true,
+        "question": "A microwave oven is connected to an outlet, 120 V, and draws a current of 2 amps. At what rate is energy being used by the microwave oven?",
+        "subject": "high_school_physics",
+        "a": "10 W",
+        "b": "30 W",
+        "c": "60 W",
+        "d": "240 W",
+        "rationale": "produce the answer. We can use the formula P = IV, where P is power, I is current, and V is voltage. Plugging in the given values, we get P = 120 V * 2 A = 240 W.",
+        "answer": "D"
+      }
+    ],
+    "signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "signature_prefix": "Answer:",
+    "extended_signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "extended_signature_prefix": "Answer:"
+  }
+}
