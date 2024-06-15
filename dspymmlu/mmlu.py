@@ -151,7 +151,7 @@ class DSPYpipeline:
 if __name__ == '__main__':
 
     optimizer = "BootstrapFewShot"
-    subject = "high_school_physics"
+    subject = "virology"
 
     _save_path = "runs/"
     save_path = _save_path+subject+"_"+optimizer+".json"
