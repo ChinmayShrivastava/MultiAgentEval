@@ -1,0 +1,164 @@
+{
+  "core_question": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "A key factor facilitating the application of nested case-control studies from the MACS was:",
+        "rationale": "produce the core question. We need to identify the main factor that enabled the use of nested case-control studies from the MACS.",
+        "core_question": "What facilitated the application of nested case-control studies from the MACS?"
+      },
+      {
+        "augmented": true,
+        "question": "The most important goal of a behavioral intervention is:",
+        "rationale": "produce the core question. We need to focus on the primary objective of a behavioral intervention.",
+        "core_question": "What is the primary goal of a behavioral intervention?"
+      },
+      {
+        "augmented": true,
+        "question": "The median survival time to AIDS and death was established by following:",
+        "rationale": "produce the core question. We need to focus on the specific information related to the median survival time for AIDS and death.",
+        "core_question": "What is the median survival time for AIDS and death?"
+      },
+      {
+        "question": "Which of the following is a morphological characteristic of the paramyxoviruses.",
+        "subject": "virology",
+        "a": "Fragile viruses often visualised with RNA spewing from the inside",
+        "b": "Elongate viruses",
+        "c": "Icosahedral viruses with envelope",
+        "d": "Very large viruses",
+        "answer": "A"
+      },
+      {
+        "question": "Why are parvoviruses a highly impactful parasite?",
+        "subject": "virology",
+        "a": "Because they have no nucleic acid",
+        "b": "They require a helper virus",
+        "c": "Only replicate in dividing cells",
+        "d": "Can integrate into host chromosomes",
+        "answer": "A"
+      }
+    ],
+    "signature_instructions": "Given a question, output a crisp and consize question free of any unnecessary information.",
+    "signature_prefix": "Core Question:",
+    "extended_signature_instructions": "Given a question, output a crisp and consize question free of any unnecessary information.",
+    "extended_signature_prefix": "Core Question:"
+  },
+  "info": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "A key factor facilitating the application of nested case-control studies from the MACS was:",
+        "rationale": "produce the info. We need to identify the key factor that facilitated the application of nested case-control studies from the MACS.",
+        "info": "- Nested case-control studies from the MACS\n- Key factor facilitating the application"
+      },
+      {
+        "augmented": true,
+        "question": "The most important goal of a behavioral intervention is:",
+        "rationale": "determine the most important goal of a behavioral intervention. We need to consider the purpose and outcomes of behavioral interventions.",
+        "info": "- The concept of a behavioral intervention\n- The potential goals of a behavioral intervention"
+      },
+      {
+        "augmented": true,
+        "question": "The median survival time to AIDS and death was established by following:",
+        "rationale": "produce the info. We need to find the median survival time for AIDS and death.",
+        "info": "- Median survival time for AIDS and death\n- Data on individuals with AIDS\n- Data on individuals who have died from AIDS"
+      },
+      {
+        "question": "Which of the following is a morphological characteristic of the paramyxoviruses.",
+        "subject": "virology",
+        "a": "Fragile viruses often visualised with RNA spewing from the inside",
+        "b": "Elongate viruses",
+        "c": "Icosahedral viruses with envelope",
+        "d": "Very large viruses",
+        "answer": "A"
+      },
+      {
+        "question": "Why are parvoviruses a highly impactful parasite?",
+        "subject": "virology",
+        "a": "Because they have no nucleic acid",
+        "b": "They require a helper virus",
+        "c": "Only replicate in dividing cells",
+        "d": "Can integrate into host chromosomes",
+        "answer": "A"
+      }
+    ],
+    "signature_instructions": "Extract and list the available information from the question that can be used to solve it",
+    "signature_prefix": "Info:",
+    "extended_signature_instructions": "Extract and list the available information from the question that can be used to solve it",
+    "extended_signature_prefix": "Info:"
+  },
+  "prog": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "A key factor facilitating the application of nested case-control studies from the MACS was:",
+        "subject": "virology",
+        "a": "Data collection",
+        "b": "Establishment of a repository of biologic specimens",
+        "c": "Participant interest",
+        "d": "Administration of the questionnaire by staff",
+        "core_question": "What facilitated the application of nested case-control studies from the MACS?",
+        "info": "- Nested case-control studies from the MACS\n- Key factor facilitating the application",
+        "rationale": "produce the answer. We need to identify the factor that made it easier to apply nested case-control studies from the MACS. The key factor mentioned in the question is the establishment of a repository of biologic specimens, which would provide the necessary data for the studies.",
+        "answer": "B"
+      },
+      {
+        "augmented": true,
+        "question": "The most important goal of a behavioral intervention is:",
+        "subject": "virology",
+        "a": "Change in behavior",
+        "b": "Comprehensive coverage",
+        "c": "Effective use of behavioral theory",
+        "d": "Sustained behavior change",
+        "core_question": "What is the primary goal of a behavioral intervention?",
+        "info": "- The concept of a behavioral intervention\n- The potential goals of a behavioral intervention",
+        "rationale": "produce the answer. We need to identify the primary goal of a behavioral intervention, which is to bring about sustained behavior change.",
+        "answer": "D"
+      },
+      {
+        "augmented": true,
+        "question": "The median survival time to AIDS and death was established by following:",
+        "subject": "virology",
+        "a": "Seroprevalent HIV-infected individuals",
+        "b": "Seronegatives",
+        "c": "Seroconverters",
+        "d": "High-risk seronegatives",
+        "core_question": "What is the median survival time for AIDS and death?",
+        "info": "- Median survival time for AIDS and death\n- Data on individuals with AIDS\n- Data on individuals who have died from AIDS",
+        "rationale": "produce the answer. We need to identify the group of individuals who were followed to establish the median survival time for AIDS and death.",
+        "answer": "C"
+      },
+      {
+        "question": "Why are parvoviruses a highly impactful parasite?",
+        "subject": "virology",
+        "a": "Because they have no nucleic acid",
+        "b": "They require a helper virus",
+        "c": "Only replicate in dividing cells",
+        "d": "Can integrate into host chromosomes",
+        "answer": "A"
+      },
+      {
+        "question": "Which of the following is a morphological characteristic of the paramyxoviruses.",
+        "subject": "virology",
+        "a": "Fragile viruses often visualised with RNA spewing from the inside",
+        "b": "Elongate viruses",
+        "c": "Icosahedral viruses with envelope",
+        "d": "Very large viruses",
+        "answer": "A"
+      }
+    ],
+    "signature_instructions": "\n    Given a multiple choice question, the subject, 4 options, and some supplemental information, return the alphabetical letter of the correct answer.\n    ",
+    "signature_prefix": "Answer:",
+    "extended_signature_instructions": "\n    Given a multiple choice question, the subject, 4 options, and some supplemental information, return the alphabetical letter of the correct answer.\n    ",
+    "extended_signature_prefix": "Answer:"
+  }
+}

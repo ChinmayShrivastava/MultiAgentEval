@@ -70,6 +70,55 @@ trainset, _, _ = get_data(SUBJECT)
 
 # cot = dspy.ChainOfThought(QAset)
 
+# RATIONALE_TYPE_1 = dspy.OutputField(
+#     prefix=("Given the question, you will answer a reasoning question from high school physics. You will have to reason by using "
+#             "high school physics concepts and then generating the step towards solving the question. You will have to think step by step in order to reach the answer. "
+#             "Reasoning: Let's think step by step in order to"),
+#     desc="${produce the answer}. We ...",
+# )
+
+# RATIONALE_TYPE_2 = dspy.OutputField(
+#     prefix="""You are given a high school physics problem. To solve it, use high school physics concepts and break down the solution step by step. Carefully analyze the problem and think through each step logically to reach the correct answer. 
+
+# For the question:    
+# 1. Identify the key concepts and quantities, if present, given in the problem.
+# 2. Recall relevant physics principles and equations.
+# 3. Apply the concepts and/or equations to the given quantities.
+# 4. Solve for the unknowns systematically.
+# 5. Double-check calculations and concepts.
+
+# Reasoning: Let's think through the problem step by step to""",
+#     desc="${produce the answer}. We ...",
+# )
+
+# RATIONALE_TYPE_3 = dspy.OutputField(
+#     prefix="""You are given a high school physics problem. To solve it, use high school physics concepts and break down the solution step by step. Carefully analyze the problem and think through each step logically to reach the correct answer. 
+
+# For the question:    
+# 1. Identify the key concepts and quantities.
+# 2. Recall relevant physics principles and equations.
+# 3. Apply the concepts and/or equations to the given quantities.
+# 4. Solve for the unknowns systematically.
+
+# Reasoning: Let's think through the problem step by step to""",
+#     desc="${produce the answer}. We ...",
+# )
+
+
+def majority_vote(p):
+    answers = p.completions.answer
+    a = max(set(answers), key=answers.count)
+    p.answer = a
+
+class MajorityVote(dspy.Module):
+    def __init__(self):
+        super().__init__()
+        self.prog = dspy.ChainOfThought("question, votes -> majorityanswer")
+
+    def forward(self, votes):
+        r = self.prog(votes=votes)
+        return r
+
 class COT(dspy.Module):
     def __init__(self):
         super().__init__()
@@ -77,10 +126,12 @@ class COT(dspy.Module):
         self.core_question = dspy.ChainOfThought(CoreQuestion)
         self.info = dspy.ChainOfThought(ProblemSolvingInfo)
 
-        self.prog = dspy.ChainOfThought(QAset)
+        # self.mv = MajorityVote()
+
+        self.prog = dspy.ChainOfThought(QAset, rationale_type=RATIONALE_TYPE)
 
     def forward(self, question, subject, a, b, c, d):
-        return self.prog(
+        r = self.prog(
             question=question,
             subject=subject,
             a=a,
@@ -90,6 +141,12 @@ class COT(dspy.Module):
             core_question=self.core_question(question=question)['core_question'],
             info=self.info(question=question)['info']
         )
+        # _votes = r.completions.answer
+        # votes = ""
+        # for i in range(len(_votes)):
+        #     votes += _votes[i] + " "
+        # r = self.mv(votes=votes)
+        return r
 
 # OPTIMIZER
 
@@ -184,7 +241,7 @@ class DSPYpipeline:
 if __name__ == '__main__':
 
     optimizer = "BootstrapFewShot"
-    subject = "college_mathematics"
+    subject = "high_school_physics"
 
     _save_path = "runs/"
     save_path = _save_path+subject+"_"+optimizer+".json"
@@ -193,8 +250,8 @@ if __name__ == '__main__':
         save_path=save_path,
         max_tokens=MAX_TOKENS
     )
-    pipeline.optimize(subject, optimizer=optimizer)
-    # test
+    # pipeline.optimize(subject, optimizer=optimizer)
+    # # test
     responses = pipeline.test(subject)
     # pring the score
     correct = sum([1 for k, v in responses.items() if v['correct']])
