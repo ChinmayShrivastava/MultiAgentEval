@@ -75,6 +75,20 @@ RATIONALE_TYPE = dspy.OutputField(
     desc="${produce the answer}. We ...",
 )
 
+def majority_vote(p):
+    answers = p.completions.answer
+    a = max(set(answers), key=answers.count)
+    p.answer = a
+
+class MajorityVote(dspy.Module):
+    def __init__(self):
+        super().__init__()
+        self.prog = dspy.ChainOfThought("question, votes -> majorityanswer")
+
+    def forward(self, votes):
+        r = self.prog(votes=votes)
+        return r
+
 class COT(dspy.Module):
     def __init__(self):
         super().__init__()
@@ -82,10 +96,12 @@ class COT(dspy.Module):
         self.core_question = dspy.ChainOfThought(CoreQuestion)
         self.info = dspy.ChainOfThought(ProblemSolvingInfo)
 
-        self.prog = dspy.ChainOfThought(QAset, rationale_type=RATIONALE_TYPE)
+        self.mv = MajorityVote()
+
+        self.prog = dspy.ChainOfThought(QAset, rationale_type=RATIONALE_TYPE, n=8)
 
     def forward(self, question, subject, a, b, c, d):
-        return self.prog(
+        r = self.prog(
             question=question,
             subject=subject,
             a=a,
@@ -95,6 +111,12 @@ class COT(dspy.Module):
             core_question=self.core_question(question=question)['core_question'],
             info=self.info(question=question)['info']
         )
+        _votes = r.completions.answer
+        votes = ""
+        for i in range(len(_votes)):
+            votes += _votes[i] + " "
+        r = self.mv(votes=votes)
+        return r
 
 # OPTIMIZER
 
@@ -188,13 +210,13 @@ if __name__ == '__main__':
         save_path=save_path,
         max_tokens=MAX_TOKENS
     )
-    pipeline.optimize(subject, optimizer=optimizer)
+    # pipeline.optimize(subject, optimizer=optimizer)
     # # test
-    # responses = pipeline.test(subject)
-    # # pring the score
-    # correct = sum([1 for k, v in responses.items() if v['correct']])
-    # total = len(responses)
-    # print(f"Accuracy: {correct/total}")
-    # # save responses
-    # with open(f"{_save_path}{subject}_{optimizer}_responses.json", 'w') as f:
-    #     json.dump(responses, f)
+    responses = pipeline.test(subject)
+    # pring the score
+    correct = sum([1 for k, v in responses.items() if v['correct']])
+    total = len(responses)
+    print(f"Accuracy: {correct/total}")
+    # save responses
+    with open(f"{_save_path}{subject}_{optimizer}_responses.json", 'w') as f:
+        json.dump(responses, f)

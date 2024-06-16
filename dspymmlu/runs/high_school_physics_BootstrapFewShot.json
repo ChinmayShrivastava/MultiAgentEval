@@ -1,0 +1,32 @@
+{
+  "core_question": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [],
+    "signature_instructions": "Given a question, output a crisp and consize question free of any unnecessary information.",
+    "signature_prefix": "Core Question:",
+    "extended_signature_instructions": "Given a question, output a crisp and consize question free of any unnecessary information.",
+    "extended_signature_prefix": "Core Question:"
+  },
+  "info": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [],
+    "signature_instructions": "Extract and list the available information from the question that can be used to solve it",
+    "signature_prefix": "Info:",
+    "extended_signature_instructions": "Extract and list the available information from the question that can be used to solve it",
+    "extended_signature_prefix": "Info:"
+  },
+  "prog": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [],
+    "signature_instructions": "\n    Given a multiple choice question, the subject, 4 options, and some supplemental information, return the alphabetical letter of the correct answer.\n    ",
+    "signature_prefix": "Answer:",
+    "extended_signature_instructions": "\n    Given a multiple choice question, the subject, 4 options, and some supplemental information, return the alphabetical letter of the correct answer.\n    ",
+    "extended_signature_prefix": "Answer:"
+  }
+}
