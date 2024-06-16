@@ -1,0 +1,139 @@
+{
+  "core_question": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "Statement 1 | Every element of a group generates a cyclic subgroup of the group. Statement 2 | The symmetric group S_10 has 10 elements.",
+        "rationale": "produce the core question. We need to identify the main question from the given statements.",
+        "core_question": "What is the relationship between the elements of a group and the cyclic subgroups they generate?"
+      },
+      {
+        "augmented": true,
+        "question": "Find all c in Z_3 such that Z_3[x]\/(x^2 + c) is a field.",
+        "rationale": "produce the core question. We need to simplify the question to its essential components.",
+        "core_question": "What values of c in Z_3 make Z_3[x]\/(x^2 + c) a field?"
+      },
+      {
+        "question": "Statement 1 | If aH is an element of a factor group, then |aH| divides |a|. Statement 2 | If H and K are subgroups of G then HK is a subgroup of G.",
+        "subject": "abstract_algebra",
+        "a": "True, True",
+        "b": "False, False",
+        "c": "True, False",
+        "d": "False, True",
+        "answer": "B"
+      },
+      {
+        "question": "Statement 1| Every function from a finite set onto itself must be one to one. Statement 2 | Every subgroup of an abelian group is abelian.",
+        "subject": "abstract_algebra",
+        "a": "True, True",
+        "b": "False, False",
+        "c": "True, False",
+        "d": "False, True",
+        "answer": "A"
+      }
+    ],
+    "signature_instructions": "Given a question, output a crisp and consize question free of any unnecessary information.",
+    "signature_prefix": "Core Question:",
+    "extended_signature_instructions": "Given a question, output a crisp and consize question free of any unnecessary information.",
+    "extended_signature_prefix": "Core Question:"
+  },
+  "info": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "Statement 1 | Every element of a group generates a cyclic subgroup of the group. Statement 2 | The symmetric group S_10 has 10 elements.",
+        "rationale": "produce the info. We need to understand the properties of cyclic subgroups and the number of elements in the symmetric group S_10.",
+        "info": "- Statement 1: Every element of a group generates a cyclic subgroup of the group.\n- Statement 2: The symmetric group S_10 has 10 elements."
+      },
+      {
+        "augmented": true,
+        "question": "Find all c in Z_3 such that Z_3[x]\/(x^2 + c) is a field.",
+        "rationale": "find all possible values of c that make Z_3[x]\/(x^2 + c) a field. We need to consider the properties of fields and the structure of the given polynomial ring.",
+        "info": "- Z_3 (the field with 3 elements)\n- x^2 + c (the polynomial in the quotient ring)\n- Field properties"
+      },
+      {
+        "question": "Statement 1 | If aH is an element of a factor group, then |aH| divides |a|. Statement 2 | If H and K are subgroups of G then HK is a subgroup of G.",
+        "subject": "abstract_algebra",
+        "a": "True, True",
+        "b": "False, False",
+        "c": "True, False",
+        "d": "False, True",
+        "answer": "B"
+      },
+      {
+        "question": "Statement 1| Every function from a finite set onto itself must be one to one. Statement 2 | Every subgroup of an abelian group is abelian.",
+        "subject": "abstract_algebra",
+        "a": "True, True",
+        "b": "False, False",
+        "c": "True, False",
+        "d": "False, True",
+        "answer": "A"
+      }
+    ],
+    "signature_instructions": "Extract and list the available information from the question that can be used to solve it",
+    "signature_prefix": "Info:",
+    "extended_signature_instructions": "Extract and list the available information from the question that can be used to solve it",
+    "extended_signature_prefix": "Info:"
+  },
+  "prog": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "Statement 1 | Every element of a group generates a cyclic subgroup of the group. Statement 2 | The symmetric group S_10 has 10 elements.",
+        "subject": "abstract_algebra",
+        "a": "True, True",
+        "b": "False, False",
+        "c": "True, False",
+        "d": "False, True",
+        "core_question": "What is the relationship between the elements of a group and the cyclic subgroups they generate?",
+        "info": "- Statement 1: Every element of a group generates a cyclic subgroup of the group.\n- Statement 2: The symmetric group S_10 has 10 elements.",
+        "rationale": "produce the answer. We know that statement 1 is true because every element of a group generates a cyclic subgroup of the group. However, statement 2 is false because the symmetric group S_10 has 10! (10 factorial) elements, not just 10. Therefore, the correct answer is C.",
+        "answer": "C"
+      },
+      {
+        "augmented": true,
+        "question": "Find all c in Z_3 such that Z_3[x]\/(x^2 + c) is a field.",
+        "subject": "abstract_algebra",
+        "a": "0",
+        "b": "1",
+        "c": "2",
+        "d": "3",
+        "core_question": "What values of c in Z_3 make Z_3[x]\/(x^2 + c) a field?",
+        "info": "- Z_3 (the field with 3 elements)\n- x^2 + c (the polynomial in the quotient ring)\n- Field properties",
+        "rationale": "find the answer. We know that Z_3 is the field with 3 elements, so c can only be 0, 1, or 2. We also know that for Z_3[x]\/(x^2 + c) to be a field, the polynomial x^2 + c must be irreducible over Z_3. By checking each value of c, we can determine which ones make the quotient ring a field.",
+        "answer": "B"
+      },
+      {
+        "question": "Statement 1| Every function from a finite set onto itself must be one to one. Statement 2 | Every subgroup of an abelian group is abelian.",
+        "subject": "abstract_algebra",
+        "a": "True, True",
+        "b": "False, False",
+        "c": "True, False",
+        "d": "False, True",
+        "answer": "A"
+      },
+      {
+        "question": "Statement 1 | If aH is an element of a factor group, then |aH| divides |a|. Statement 2 | If H and K are subgroups of G then HK is a subgroup of G.",
+        "subject": "abstract_algebra",
+        "a": "True, True",
+        "b": "False, False",
+        "c": "True, False",
+        "d": "False, True",
+        "answer": "B"
+      }
+    ],
+    "signature_instructions": "\n    Given a multiple choice question, the subject, 4 options, and some supplemental information, return the alphabetical letter of the correct answer.\n    ",
+    "signature_prefix": "Answer:",
+    "extended_signature_instructions": "\n    Given a multiple choice question, the subject, 4 options, and some supplemental information, return the alphabetical letter of the correct answer.\n    ",
+    "extended_signature_prefix": "Answer:"
+  }
+}

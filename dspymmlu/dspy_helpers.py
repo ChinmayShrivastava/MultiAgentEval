@@ -26,7 +26,7 @@ def dispatch_optmizer(
 def get_optimized_model_BootstrapFewShot(
     model, trainset, valset, metric, random_search=True
 ):
-    config_bootstrap = dict(max_bootstrapped_demos=4, max_labeled_demos=4)
+    config_bootstrap = dict(max_bootstrapped_demos=4, max_labeled_demos=10)
     if random_search:
         teleprompter = BootstrapFewShotWithRandomSearch(
             metric=metric, **config_bootstrap

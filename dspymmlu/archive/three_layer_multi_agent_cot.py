@@ -38,6 +38,21 @@ class ProblemSolvingInfo(dspy.Signature):
 
     info = dspy.OutputField(desc="The list of atomic information available in the question.")
 
+class Steps(dspy.Signature):
+    """Given a question, output the steps to solve it."""
+
+    question = dspy.InputField()
+
+    steps = dspy.OutputField(desc="The steps to solve the question. Each step is separated by a newline.")
+
+class Hint(dspy.Signature):
+    """For the given question and one of the steps from its solution, generate the hint for the step specific to the question. The hint should contain how to approach the step."""
+
+    question = dspy.InputField()
+    step = dspy.InputField()
+
+    hint = dspy.OutputField(desc="The hint for the step.")
+
 class QAset(dspy.Signature):
     """
     Given a multiple choice question, the subject, 4 options, and some supplemental information, return the alphabetical letter of the correct answer.
@@ -54,6 +69,7 @@ class QAset(dspy.Signature):
 
     core_question = dspy.InputField(desc="The one liner core question.")
     info = dspy.InputField(desc="The list of atomic information available in the question.")
+    steps = dspy.InputField(desc="The steps and hints to solve the question.")
 
     answer = dspy.OutputField(desc="The alphabetical letter of the correct answer; `a`, `b`, `c` or `d`.")
 
@@ -70,21 +86,32 @@ trainset, _, _ = get_data(SUBJECT)
 
 # cot = dspy.ChainOfThought(QAset)
 
-RATIONALE_TYPE = dspy.OutputField(
-    prefix="Reasoning: Let's think step by step in order to",
-    desc="${produce the answer}. We ...",
-)
-
 class COT(dspy.Module):
     def __init__(self):
         super().__init__()
 
         self.core_question = dspy.ChainOfThought(CoreQuestion)
         self.info = dspy.ChainOfThought(ProblemSolvingInfo)
+        self.steps = dspy.ChainOfThought(Steps)
+        self.hint = dspy.ChainOfThought(Hint)
 
-        self.prog = dspy.ChainOfThought(QAset, rationale_type=RATIONALE_TYPE)
+        self.prog = dspy.ChainOfThought(QAset)
+
+    def get_steps(self, question):
+        steps = self.steps(question=question)['steps']
+        steps = steps.split('\n')
+        return steps
+    
+    def get_hint(self, question, step):
+        return self.hint(question=question, step=step)['hint']
 
     def forward(self, question, subject, a, b, c, d):
+        core_question = self.core_question(question=question)['core_question']
+        info = self.info(question=question)['info']
+        steps = self.get_steps(question=question)
+        hints = [self.get_hint(question=question, step=step) for step in steps]
+        # join steps and hints
+        steps = [f"STEP: {step}\nHINT FOR THE STEP: {hint}" for step, hint in zip(steps, hints)]
         return self.prog(
             question=question,
             subject=subject,
@@ -92,8 +119,9 @@ class COT(dspy.Module):
             b=b,
             c=c,
             d=d,
-            core_question=self.core_question(question=question)['core_question'],
-            info=self.info(question=question)['info']
+            core_question=core_question,
+            info=info,
+            steps='\n'.join(steps)
         )
 
 # OPTIMIZER

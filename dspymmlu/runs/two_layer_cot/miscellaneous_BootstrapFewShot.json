@@ -1,0 +1,139 @@
+{
+  "core_question": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "Who is the shortest man to ever win an NBA slam dunk competition?",
+        "rationale": "produce the core question. We want to know the shortest man to win an NBA slam dunk competition.",
+        "core_question": "Who is the shortest man to win an NBA slam dunk competition?"
+      },
+      {
+        "augmented": true,
+        "question": "What is produced during photosynthesis?",
+        "rationale": "produce the core question. We need to identify the end product of photosynthesis.",
+        "core_question": "What is the end product of photosynthesis?"
+      },
+      {
+        "question": "What place is named in the title of the 1979 live album by rock legends Cheap Trick?",
+        "subject": "miscellaneous",
+        "a": "Budapest",
+        "b": "Budokan",
+        "c": "Bhutan",
+        "d": "Britain",
+        "answer": "B"
+      },
+      {
+        "question": "How many axles does a standard automobile have?",
+        "subject": "miscellaneous",
+        "a": "one",
+        "b": "two",
+        "c": "four",
+        "d": "eight",
+        "answer": "B"
+      }
+    ],
+    "signature_instructions": "Given a question, output a crisp and consize question free of any unnecessary information.",
+    "signature_prefix": "Core Question:",
+    "extended_signature_instructions": "Given a question, output a crisp and consize question free of any unnecessary information.",
+    "extended_signature_prefix": "Core Question:"
+  },
+  "info": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "Who is the shortest man to ever win an NBA slam dunk competition?",
+        "rationale": "produce the info. We need to find the shortest man who has won an NBA slam dunk competition.",
+        "info": "- NBA slam dunk competition\n- Height of the shortest man to win the competition"
+      },
+      {
+        "augmented": true,
+        "question": "What is produced during photosynthesis?",
+        "rationale": "produce the info. We know that photosynthesis is a process that occurs in plants and involves the conversion of light energy into chemical energy.",
+        "info": "- Photosynthesis\n- Process that occurs in plants\n- Conversion of light energy into chemical energy"
+      },
+      {
+        "question": "What place is named in the title of the 1979 live album by rock legends Cheap Trick?",
+        "subject": "miscellaneous",
+        "a": "Budapest",
+        "b": "Budokan",
+        "c": "Bhutan",
+        "d": "Britain",
+        "answer": "B"
+      },
+      {
+        "question": "How many axles does a standard automobile have?",
+        "subject": "miscellaneous",
+        "a": "one",
+        "b": "two",
+        "c": "four",
+        "d": "eight",
+        "answer": "B"
+      }
+    ],
+    "signature_instructions": "Extract and list the available information from the question that can be used to solve it",
+    "signature_prefix": "Info:",
+    "extended_signature_instructions": "Extract and list the available information from the question that can be used to solve it",
+    "extended_signature_prefix": "Info:"
+  },
+  "prog": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "Who is the shortest man to ever win an NBA slam dunk competition?",
+        "subject": "miscellaneous",
+        "a": "Anthony 'Spud' Webb",
+        "b": "Michael 'Air' Jordan",
+        "c": "Tyrone 'Muggsy' Bogues",
+        "d": "Julius 'Dr J' Erving",
+        "core_question": "Who is the shortest man to win an NBA slam dunk competition?",
+        "info": "- NBA slam dunk competition\n- Height of the shortest man to win the competition",
+        "rationale": "produce the answer. We know that the NBA slam dunk competition is a basketball event and that the shortest man to win it was Anthony 'Spud' Webb.",
+        "answer": "A"
+      },
+      {
+        "augmented": true,
+        "question": "What is produced during photosynthesis?",
+        "subject": "miscellaneous",
+        "a": "hydrogen",
+        "b": "nylon",
+        "c": "oxygen",
+        "d": "light",
+        "core_question": "What is the end product of photosynthesis?",
+        "info": "- Photosynthesis\n- Process that occurs in plants\n- Conversion of light energy into chemical energy",
+        "rationale": "produce the answer. We know that photosynthesis is the process that occurs in plants and it involves the conversion of light energy into chemical energy. The end product of photosynthesis is oxygen, which is released into the atmosphere.",
+        "answer": "C"
+      },
+      {
+        "question": "How many axles does a standard automobile have?",
+        "subject": "miscellaneous",
+        "a": "one",
+        "b": "two",
+        "c": "four",
+        "d": "eight",
+        "answer": "B"
+      },
+      {
+        "question": "What place is named in the title of the 1979 live album by rock legends Cheap Trick?",
+        "subject": "miscellaneous",
+        "a": "Budapest",
+        "b": "Budokan",
+        "c": "Bhutan",
+        "d": "Britain",
+        "answer": "B"
+      }
+    ],
+    "signature_instructions": "\n    Given a multiple choice question, the subject, 4 options, and some supplemental information, return the alphabetical letter of the correct answer.\n    ",
+    "signature_prefix": "Answer:",
+    "extended_signature_instructions": "\n    Given a multiple choice question, the subject, 4 options, and some supplemental information, return the alphabetical letter of the correct answer.\n    ",
+    "extended_signature_prefix": "Answer:"
+  }
+}

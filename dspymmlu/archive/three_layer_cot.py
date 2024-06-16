@@ -38,6 +38,13 @@ class ProblemSolvingInfo(dspy.Signature):
 
     info = dspy.OutputField(desc="The list of atomic information available in the question.")
 
+class Reminders(dspy.Signature):
+    """Given ther question, output three reminders that will help the user remember concepts and better answer the question."""
+
+    question = dspy.InputField()
+
+    reminders = dspy.OutputField(desc="The list of three reminders that will help the user remember concepts and better answer the question.")
+
 class QAset(dspy.Signature):
     """
     Given a multiple choice question, the subject, 4 options, and some supplemental information, return the alphabetical letter of the correct answer.
@@ -54,6 +61,7 @@ class QAset(dspy.Signature):
 
     core_question = dspy.InputField(desc="The one liner core question.")
     info = dspy.InputField(desc="The list of atomic information available in the question.")
+    reminders = dspy.InputField(desc="The list of three reminders that will help the user remember concepts and better answer the question.")
 
     answer = dspy.OutputField(desc="The alphabetical letter of the correct answer; `a`, `b`, `c` or `d`.")
 
@@ -70,19 +78,15 @@ trainset, _, _ = get_data(SUBJECT)
 
 # cot = dspy.ChainOfThought(QAset)
 
-RATIONALE_TYPE = dspy.OutputField(
-    prefix="Reasoning: Let's think step by step in order to",
-    desc="${produce the answer}. We ...",
-)
-
 class COT(dspy.Module):
     def __init__(self):
         super().__init__()
 
         self.core_question = dspy.ChainOfThought(CoreQuestion)
         self.info = dspy.ChainOfThought(ProblemSolvingInfo)
+        self.reminders = dspy.ChainOfThought(Reminders)
 
-        self.prog = dspy.ChainOfThought(QAset, rationale_type=RATIONALE_TYPE)
+        self.prog = dspy.ChainOfThought(QAset)
 
     def forward(self, question, subject, a, b, c, d):
         return self.prog(
@@ -93,7 +97,8 @@ class COT(dspy.Module):
             c=c,
             d=d,
             core_question=self.core_question(question=question)['core_question'],
-            info=self.info(question=question)['info']
+            info=self.info(question=question)['info'],
+            reminders=self.reminders(question=question)['reminders']
         )
 
 # OPTIMIZER
@@ -191,10 +196,10 @@ if __name__ == '__main__':
     pipeline.optimize(subject, optimizer=optimizer)
     # # test
     # responses = pipeline.test(subject)
-    # # pring the score
-    # correct = sum([1 for k, v in responses.items() if v['correct']])
-    # total = len(responses)
-    # print(f"Accuracy: {correct/total}")
-    # # save responses
-    # with open(f"{_save_path}{subject}_{optimizer}_responses.json", 'w') as f:
+    # pring the score
+    # # correct = sum([1 for k, v in responses.items() if v['correct']])
+    # # total = len(responses)
+    # # print(f"Accuracy: {correct/total}")
+    # # # save responses
+    # # with open(f"{_save_path}{subject}_{optimizer}_responses.json", 'w') as f:
     #     json.dump(responses, f)
