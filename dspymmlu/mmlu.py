@@ -10,7 +10,7 @@ DEFAULT_MODEL_STRING = 'gpt-3.5-turbo-1106'
 MAX_TOKENS = 256
 OPTIMIZER = "BootstrapFewShot"
 SUBJECT = "college_mathematics"
-SAVE_DIR = "runs/"
+SAVE_DIR = "runs/two_layer_cot/"
 SAVE_PATH = SAVE_DIR+SUBJECT+"_"+OPTIMIZER+".json"
 PROGRAM=COT
 
