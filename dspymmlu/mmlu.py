@@ -22,8 +22,7 @@ if not os.path.exists(SAVE_DIR):
 
 ############################################
 
-if __name__ == '__main__':
-
+def main():
     pipeline = DSPYpipeline(
         model=DEFAULT_MODEL_STRING,
         save_path=SAVE_PATH,
@@ -40,3 +39,6 @@ if __name__ == '__main__':
     # save responses
     with open(f"{SAVE_PATH}{SUBJECT}_{OPTIMIZER}_responses.json", 'w') as f:
         json.dump(responses, f)
+
+if __name__ == '__main__':
+    main()
