@@ -2,8 +2,8 @@ import json
 
 import dspy
 import tqdm
-from datahandler import get_data
-from dspy_helpers import dispatch_optmizer
+from dspymmlu.modules.datahandler.datahandler import get_data
+from dspymmlu.modules.optimizers.dspy_helpers import dispatch_optmizer
 
 # CONFIGURE DEFAULTs
 
