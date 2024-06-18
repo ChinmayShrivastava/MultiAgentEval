@@ -64,7 +64,7 @@ class DSPYpipeline:
         responses = {}
         correct_count = 0
         total_count = 0
-        progress_bar = tqdm.tqdm(enumerate(testset[:10]), total=len(testset[:10]), desc="Testing", leave=False)
+        progress_bar = tqdm.tqdm(enumerate(testset), total=len(testset), desc="Testing", leave=False)
 
         output_df = pd.DataFrame(columns=["question", "rationale", "correct_answer", "answer"])
         for i, example in progress_bar:
