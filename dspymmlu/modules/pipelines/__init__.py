@@ -1,1 +1,1 @@
-from dspypipeline import DSPYpipeline
+from .dspypipeline import DSPYpipeline

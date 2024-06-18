@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/177781381784215762/4a30f30094a94d5085f2959744caa609/artifacts
+end_time: 1718669359083
+entry_point_name: ''
+experiment_id: '177781381784215762'
+lifecycle_stage: active
+run_id: 4a30f30094a94d5085f2959744caa609
+run_name: powerful-worm-425
+run_uuid: 4a30f30094a94d5085f2959744caa609
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718669359049
+status: 4
+tags: []
+user_id: chinmayshrivastava

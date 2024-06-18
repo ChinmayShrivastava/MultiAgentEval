@@ -1,1 +1,1 @@
-from mmlu import *
+from modules.metrics.mmlumetrics import *

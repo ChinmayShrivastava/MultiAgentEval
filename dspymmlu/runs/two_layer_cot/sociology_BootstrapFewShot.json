@@ -1,0 +1,162 @@
+{
+  "core_question": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "Which of the following did the post-war welfare state of 1948 not aim to provide:",
+        "rationale": "produce the core question. We need to identify the specific aim of the post-war welfare state of 1948.",
+        "core_question": "What did the post-war welfare state of 1948 not aim to provide?"
+      },
+      {
+        "augmented": true,
+        "question": "What does Berger (1963) describe as a metaphor for social reality?",
+        "rationale": "produce the core question. We need to understand the main concept described by Berger in 1963.",
+        "core_question": "What is Berger's metaphor for social reality?"
+      },
+      {
+        "augmented": true,
+        "question": "Which of the following is not a problem associated with official statistics on strike action?",
+        "rationale": "produce the core question. We need to identify the main issue with official statistics on strike action.",
+        "core_question": "What is the main problem associated with official statistics on strike action?"
+      },
+      {
+        "augmented": true,
+        "question": "The shift from 'civil religion' to 'common religion' means that:",
+        "rationale": "produce the core question. We need to simplify the question to its essential components.",
+        "core_question": "What does the shift from 'civil religion' to 'common religion' mean?"
+      },
+      {
+        "question": "The term 'hegemony' refers to:",
+        "subject": "sociology",
+        "a": "the tendency for the working class not to realize their own interests",
+        "b": "a dominant ideology that legitimates economic, political and cultural power",
+        "c": "a form of dual consciousness based on ideology and everyday experiences",
+        "d": "a mode of payment given for outstanding topiary",
+        "answer": "B"
+      }
+    ],
+    "signature_instructions": "Given a question, output a crisp and consize question free of any unnecessary information.",
+    "signature_prefix": "Core Question:",
+    "extended_signature_instructions": "Given a question, output a crisp and consize question free of any unnecessary information.",
+    "extended_signature_prefix": "Core Question:"
+  },
+  "info": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "Which of the following did the post-war welfare state of 1948 not aim to provide:",
+        "rationale": "identify the goals of the post-war welfare state of 1948. We need to understand what the welfare state aimed to provide in order to identify what it did not aim to provide.",
+        "info": "- The time period of the post-war welfare state (1948)\n- The goals and aims of the post-war welfare state"
+      },
+      {
+        "augmented": true,
+        "question": "What does Berger (1963) describe as a metaphor for social reality?",
+        "rationale": "identify the metaphor described by Berger in 1963. We need to look for the specific work and year mentioned.",
+        "info": "Berger (1963) describes a metaphor for social reality."
+      },
+      {
+        "augmented": true,
+        "question": "Which of the following is not a problem associated with official statistics on strike action?",
+        "rationale": "identify the problem associated with official statistics on strike action. We need to consider the potential issues with collecting and reporting this data.",
+        "info": "- Official statistics on strike action\n- Potential problems with collecting and reporting data"
+      },
+      {
+        "augmented": true,
+        "question": "The shift from 'civil religion' to 'common religion' means that:",
+        "rationale": "understand the implications of this shift. We need to consider the differences between 'civil religion' and 'common religion' and how this shift might impact society and culture.",
+        "info": "- The concept of 'civil religion'\n- The concept of 'common religion'\n- The implications of the shift from 'civil religion' to 'common religion'"
+      },
+      {
+        "question": "The term 'hegemony' refers to:",
+        "subject": "sociology",
+        "a": "the tendency for the working class not to realize their own interests",
+        "b": "a dominant ideology that legitimates economic, political and cultural power",
+        "c": "a form of dual consciousness based on ideology and everyday experiences",
+        "d": "a mode of payment given for outstanding topiary",
+        "answer": "B"
+      }
+    ],
+    "signature_instructions": "Extract and list the available information from the question that can be used to solve it",
+    "signature_prefix": "Info:",
+    "extended_signature_instructions": "Extract and list the available information from the question that can be used to solve it",
+    "extended_signature_prefix": "Info:"
+  },
+  "prog": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "Which of the following did the post-war welfare state of 1948 not aim to provide:",
+        "subject": "sociology",
+        "a": "free health care and education for all",
+        "b": "a minimum wage",
+        "c": "full employment",
+        "d": "universal welfare",
+        "core_question": "What did the post-war welfare state of 1948 not aim to provide?",
+        "info": "- The time period of the post-war welfare state (1948)\n- The goals and aims of the post-war welfare state",
+        "rationale": "produce the answer. We know that the post-war welfare state of 1948 aimed to provide free health care and education for all, full employment, and universal welfare. However, it did not aim to provide a minimum wage.",
+        "answer": "B"
+      },
+      {
+        "augmented": true,
+        "question": "What does Berger (1963) describe as a metaphor for social reality?",
+        "subject": "sociology",
+        "a": "a fairground ride",
+        "b": "a circus",
+        "c": "a puppet theatre",
+        "d": "a ballet",
+        "core_question": "What is Berger's metaphor for social reality?",
+        "info": "Berger (1963) describes a metaphor for social reality.",
+        "rationale": "produce the answer. We know that Berger (1963) describes a metaphor for social reality, and we need to identify which metaphor he uses.",
+        "answer": "C"
+      },
+      {
+        "augmented": true,
+        "question": "Which of the following is not a problem associated with official statistics on strike action?",
+        "subject": "sociology",
+        "a": "most strikes go unnoticed by employers and the mass media",
+        "b": "not all industrial disputes will be reported by the employer",
+        "c": "the definition of strikes excludes those that involve fewer than ten workers or last less than one day",
+        "d": "it is hard to compare strikes that were measured in different ways",
+        "core_question": "What is the main problem associated with official statistics on strike action?",
+        "info": "- Official statistics on strike action\n- Potential problems with collecting and reporting data",
+        "rationale": "produce the answer. We need to identify the main problem associated with official statistics on strike action. The options provide different potential problems with collecting and reporting data on strikes.",
+        "answer": "A"
+      },
+      {
+        "augmented": true,
+        "question": "The shift from 'civil religion' to 'common religion' means that:",
+        "subject": "sociology",
+        "a": "the increasing bureaucracy of the state has made religion only a marginal part of our lives",
+        "b": "despite the weakening of traditional authority, our everyday lives and 'common sense' remain shaped by religious beliefs and values",
+        "c": "religious participation in collective worship may have declined, but people still practise their faiths in private",
+        "d": "people are much more likely to discuss their religious beliefs in public, informal settings",
+        "core_question": "What does the shift from 'civil religion' to 'common religion' mean?",
+        "info": "- The concept of 'civil religion'\n- The concept of 'common religion'\n- The implications of the shift from 'civil religion' to 'common religion'",
+        "rationale": "produce the answer. We need to understand the difference between 'civil religion' and 'common religion' and how the shift from one to the other impacts society.",
+        "answer": "B"
+      },
+      {
+        "question": "The term 'hegemony' refers to:",
+        "subject": "sociology",
+        "a": "the tendency for the working class not to realize their own interests",
+        "b": "a dominant ideology that legitimates economic, political and cultural power",
+        "c": "a form of dual consciousness based on ideology and everyday experiences",
+        "d": "a mode of payment given for outstanding topiary",
+        "answer": "B"
+      }
+    ],
+    "signature_instructions": "\n    Given a multiple choice question, the subject, 4 options, and some supplemental information, return the alphabetical letter of the correct answer.\n    ",
+    "signature_prefix": "Answer:",
+    "extended_signature_instructions": "\n    Given a multiple choice question, the subject, 4 options, and some supplemental information, return the alphabetical letter of the correct answer.\n    ",
+    "extended_signature_prefix": "Answer:"
+  }
+}

@@ -1,7 +1,7 @@
 import json
 import os
 
-from modules.pipelines import DSPYpipeline
+from modules.pipelines.dspypipeline import DSPYpipeline
 from modules.programs.two_layer_cot import COT
 
 ################ Constants #################
@@ -9,7 +9,7 @@ from modules.programs.two_layer_cot import COT
 DEFAULT_MODEL_STRING = 'gpt-3.5-turbo-1106'
 MAX_TOKENS = 256
 OPTIMIZER = "BootstrapFewShot"
-SUBJECT = "college_mathematics"
+SUBJECT = "sociology"
 PROGRAM_NAME = "two_layer_cot"
 SAVE_DIR = "runs/"+PROGRAM_NAME
 SAVE_PATH = SAVE_DIR+"/"+SUBJECT+"_"+OPTIMIZER+".json"
@@ -38,16 +38,16 @@ def main():
         mlflow_tracking_uri=MLFLOW_TRACKING_URI,
         mlflow_experiment_name=MLFLOW_EXPERIMENT_NAME
     )
-    pipeline.optimize(SUBJECT, optimizer=OPTIMIZER)
+    # pipeline.optimize(SUBJECT, optimizer=OPTIMIZER)
     # test
     responses = pipeline.test(SUBJECT)
     # pring the score
     correct = sum([1 for k, v in responses.items() if v['correct']])
     total = len(responses)
     print(f"Accuracy: {correct/total}")
-    # save responses
-    with open(f"{SAVE_PATH}{SUBJECT}_{OPTIMIZER}_responses.json", 'w') as f:
-        json.dump(responses, f)
+    # # save responses
+    # with open(f"{SAVE_PATH}{SUBJECT}_{OPTIMIZER}_responses.json", 'w') as f:
+    #     json.dump(responses, f)
 
 if __name__ == '__main__':
     main()

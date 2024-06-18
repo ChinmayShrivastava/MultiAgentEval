@@ -62,9 +62,9 @@ class DSPYpipeline:
         responses = {}
         correct_count = 0
         total_count = 0
-        progress_bar = tqdm.tqdm(enumerate(testset), total=len(testset), desc="Testing", leave=False)
+        progress_bar = tqdm.tqdm(enumerate(testset[:10]), total=len(testset[:10]), desc="Testing", leave=False)
 
-        output_df = pd.DataFrame(columns=["qid", "rationale", "correct_answer", "answer"])
+        output_df = pd.DataFrame(columns=["question", "rationale", "correct_answer", "answer"])
         for i, example in progress_bar:
             answer = model.forward(
                 question=example.question,
@@ -75,12 +75,13 @@ class DSPYpipeline:
                 d=example.d
             )
             
-            output_df = output_df.append({
+            new_index = len(output_df)
+            output_df.loc[new_index] = {
                 "question": example.question,
                 "rationale": answer['rationale'],
-                "correct_answer": example.correct, 
+                "correct_answer": example.answer, 
                 "answer": answer['answer']
-            }, ignore_index=True)
+            }
 
             correct = validate_answer(example, answer, trace=None)
             if correct:

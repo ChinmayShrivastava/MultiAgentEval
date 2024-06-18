@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/177781381784215762/8bbe0fc13d63440ca04d40b85b54e39c/artifacts
+end_time: 1718669444483
+entry_point_name: ''
+experiment_id: '177781381784215762'
+lifecycle_stage: active
+run_id: 8bbe0fc13d63440ca04d40b85b54e39c
+run_name: awesome-crane-281
+run_uuid: 8bbe0fc13d63440ca04d40b85b54e39c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718669444398
+status: 3
+tags: []
+user_id: chinmayshrivastava
