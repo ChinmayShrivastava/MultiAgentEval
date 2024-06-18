@@ -2,15 +2,15 @@ import json
 import os
 
 from modules.pipelines.dspypipeline import DSPYpipeline
-from modules.programs.one_layer_cot import COT
+from modules.programs.two_layer_cot import COT
 
 ################ Constants #################
 
-DEFAULT_MODEL_STRING = 'gpt-3.5-turbo-1106'
+DEFAULT_MODEL_STRING = 'gpt-4o'
 MAX_TOKENS = 256
 OPTIMIZER = "BootstrapFewShot"
 SUBJECT = "high_school_physics"
-PROGRAM_NAME = "vanilla_cot"
+PROGRAM_NAME = "two_layer_cot"
 SAVE_DIR = "runs/"+PROGRAM_NAME
 SAVE_PATH = SAVE_DIR+"/"+SUBJECT+"_"+OPTIMIZER+".json"
 PROGRAM=COT
@@ -38,7 +38,8 @@ def main():
         mlflow_tracking_uri=MLFLOW_TRACKING_URI,
         mlflow_experiment_name=MLFLOW_EXPERIMENT_NAME
     )
-    pipeline.optimize(SUBJECT, optimizer=OPTIMIZER)
+    # # optimize
+    # pipeline.optimize(SUBJECT, optimizer=OPTIMIZER)
     # test
     pipeline.test(SUBJECT)
 
