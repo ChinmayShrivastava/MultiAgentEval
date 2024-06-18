@@ -38,16 +38,9 @@ def main():
         mlflow_tracking_uri=MLFLOW_TRACKING_URI,
         mlflow_experiment_name=MLFLOW_EXPERIMENT_NAME
     )
-    # pipeline.optimize(SUBJECT, optimizer=OPTIMIZER)
+    pipeline.optimize(SUBJECT, optimizer=OPTIMIZER)
     # test
-    responses = pipeline.test(SUBJECT)
-    # pring the score
-    correct = sum([1 for k, v in responses.items() if v['correct']])
-    total = len(responses)
-    print(f"Accuracy: {correct/total}")
-    # # save responses
-    # with open(f"{SAVE_PATH}{SUBJECT}_{OPTIMIZER}_responses.json", 'w') as f:
-    #     json.dump(responses, f)
+    pipeline.test(SUBJECT)
 
 if __name__ == '__main__':
     main()

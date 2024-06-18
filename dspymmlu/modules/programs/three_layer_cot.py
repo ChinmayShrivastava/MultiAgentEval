@@ -12,13 +12,13 @@ def parseTuple(input_string):
 def formatTopTwoOptions(a, b, c, d, top_two_options: tuple):
     cleaned_options = ""
     for option in top_two_options:
-        if option == 'a':
+        if option.lower() == 'a':
             cleaned_options += f"a. {a}\n"
-        elif option == 'b':
+        elif option.lower() == 'b':
             cleaned_options += f"b. {b}\n"
-        elif option == 'c':
+        elif option.lower() == 'c':
             cleaned_options += f"c. {c}\n"
-        elif option == 'd':
+        elif option.lower() == 'd':
             cleaned_options += f"d. {d}\n"
     return cleaned_options
 
@@ -64,6 +64,7 @@ class COT(dspy.Module):
                 "question": question,
                 "core_question": self._core_question,
                 "info": self._info,
+                "formattedtoptwooptions": formatTopTwoOptions(a, b, c, d, self._toptwooptions),
                 "twooptionsrationale": self._twooptionsrationale,
                 "toptwooptions": str(self._toptwooptions),
                 "rationale": self._answer['rationale'],

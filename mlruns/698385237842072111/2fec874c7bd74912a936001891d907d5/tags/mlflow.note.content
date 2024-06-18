@@ -1,0 +1,2 @@
+Errors in observation:
+The tuples output aren't consistent (lowercase and uppercase, and the toptwo options passing in seem to be incorrect, A and B every single time)
