@@ -22,13 +22,25 @@ def formatTopTwoOptions(a, b, c, d, top_two_options: tuple):
             cleaned_options += f"d. {d}\n"
     return cleaned_options
 
+TOP_TWO_OPTIONS_RATIONALE_TYPE = dspy.OutputField(
+    prefix=("Given the question, think step by step. For each option, reason out why it might be the answer. "
+    "Then, compare the two most likely options and return the top two most likely options. Let's think step by step to"),
+    desc="${produce the answer}. We ...",
+)
+
+FINAL_ANSWER_RATIONALE_TYPE = dspy.OutputField(
+    prefix=("Given the question, and the two most likely options, let's think step by step to find the correct answer. "
+    "Let's think step by step to"),
+    desc="${produce the answer}. We ...",
+)
+
 class COT(dspy.Module):
     def __init__(self):
         super().__init__()
 
         self.core_question = dspy.ChainOfThought(CoreQuestion)
         self.info = dspy.ChainOfThought(ProblemSolvingInfo)
-        self.toptwooptions = dspy.ChainOfThought(TopTwoOptions)
+        self.toptwooptions = dspy.ChainOfThought(TopTwoOptions, rationale_type=TOP_TWO_OPTIONS_RATIONALE_TYPE)
 
         self.prog = dspy.ChainOfThought(AnswerQuestion)
 

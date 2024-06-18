@@ -29,7 +29,7 @@ def get_optimized_model_BootstrapFewShot(
     config_bootstrap = dict(max_bootstrapped_demos=4, max_labeled_demos=10)
     if random_search:
         teleprompter = BootstrapFewShotWithRandomSearch(
-            metric=metric, num_candidate_programs=4, **config_bootstrap
+            metric=metric, num_candidate_programs=2, **config_bootstrap
         )
     else:
         teleprompter = BootstrapFewShot(metric=metric, **config_bootstrap)
