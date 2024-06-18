@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/177781381784215762/21b241517fd94275a92ad793e0775845/artifacts
+end_time: 1718669713634
+entry_point_name: ''
+experiment_id: '177781381784215762'
+lifecycle_stage: active
+run_id: 21b241517fd94275a92ad793e0775845
+run_name: sociology+3a58b77a-aa2d-46b7-8327-d331d555e1a2
+run_uuid: 21b241517fd94275a92ad793e0775845
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718669713421
+status: 3
+tags: []
+user_id: chinmayshrivastava

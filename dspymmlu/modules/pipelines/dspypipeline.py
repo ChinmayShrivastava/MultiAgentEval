@@ -1,3 +1,5 @@
+import uuid
+
 import dspy
 import mlflow
 import pandas as pd
@@ -96,7 +98,7 @@ class DSPYpipeline:
                 "correct": validate_answer(example, answer, trace=None)
             }
 
-        with mlflow.start_run():
+        with mlflow.start_run(run_name=f"{subject}+{uuid.uuid4()}") as run:
             # Log metrics and parameters to mlflow
             mlflow.log_metric("accuracy", correct_count / total_count)
             mlflow.log_param("total_count", total_count)
