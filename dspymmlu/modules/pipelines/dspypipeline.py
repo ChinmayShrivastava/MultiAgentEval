@@ -7,7 +7,7 @@ import tqdm
 from modules.datahandler import get_data
 from modules.metrics import validate_answer
 from modules.optimizers import dispatch_optmizer
-from modules.programs.two_layer_cot import COT
+from modules.programs.one_layer_cot import COT
 
 
 class DSPYpipeline:
@@ -91,6 +91,9 @@ class DSPYpipeline:
             dict_to_table = {}
             for key, _ in model.responses[0].items():
                 dict_to_table[key] = [r[key] for r in model.responses]
+
+            # add a correct_answer column
+            dict_to_table["correct_answer"] = [i.answer for i in testset[:10]]
 
             mlflow.log_table(data=dict_to_table, artifact_file="eval_results.json")
 
