@@ -11,14 +11,29 @@ class COT(dspy.Module):
 
         self.prog = dspy.ChainOfThought(QAset)
 
+        self.responses = []
+
     def forward(self, question, subject, a, b, c, d):
-        return self.prog(
+        self._core_question = self.core_question(question=question)['core_question']
+        self._info = self.info(question=question)['info']
+
+        self._answer = self.prog(
             question=question,
             subject=subject,
             a=a,
             b=b,
             c=c,
             d=d,
-            core_question=self.core_question(question=question)['core_question'],
-            info=self.info(question=question)['info']
+            core_question=self._core_question,
+            info=self._info
         )
+
+        self.responses.append({
+            "question": question,
+            "core_question": self._core_question,
+            "info": self._info,
+            "rationale": self._answer['rationale'],
+            "answer": self._answer['answer']
+        })
+
+        return self._answer

@@ -61,13 +61,11 @@ class DSPYpipeline:
     def test(self, subject):
         _, _, testset = get_data(subject)
         model = self.load(self.save_path)
-        responses = {}
         correct_count = 0
         total_count = 0
-        progress_bar = tqdm.tqdm(enumerate(testset), total=len(testset), desc="Testing", leave=False)
+        progress_bar = tqdm.tqdm(enumerate(testset[:10]), total=len(testset[:10]), desc="Testing", leave=False)
 
-        output_df = pd.DataFrame(columns=["question", "rationale", "correct_answer", "answer"])
-        for i, example in progress_bar:
+        for _, example in progress_bar:
             answer = model.forward(
                 question=example.question,
                 subject=example.subject,
@@ -76,14 +74,6 @@ class DSPYpipeline:
                 c=example.c,
                 d=example.d
             )
-            
-            new_index = len(output_df)
-            output_df.loc[new_index] = {
-                "question": example.question,
-                "rationale": answer['rationale'],
-                "correct_answer": example.answer, 
-                "answer": answer['answer']
-            }
 
             correct = validate_answer(example, answer, trace=None)
             if correct:
@@ -92,23 +82,16 @@ class DSPYpipeline:
             progress_bar.set_postfix({
                 "accuracy": correct_count / total_count
             })
-            responses[example.question] = {
-                "answer": answer['answer'],
-                "rationale": answer['rationale'],
-                "correct": validate_answer(example, answer, trace=None)
-            }
 
-        with mlflow.start_run(run_name=f"{subject}+{uuid.uuid4()}") as run:
+        with mlflow.start_run(run_name=f"{subject}+{uuid.uuid4()}") as _:
             # Log metrics and parameters to mlflow
             mlflow.log_metric("accuracy", correct_count / total_count)
             mlflow.log_param("total_count", total_count)
 
-            dict_to_table = {
-                "question": [x for x in output_df["question"]],
-                "rationale": [x for x in output_df["rationale"]],
-                "correct_answer": [x for x in output_df["correct_answer"]],
-                "answer": [x for x in output_df["answer"]]
-            }
+            dict_to_table = {}
+            for key, _ in model.responses[0].items():
+                dict_to_table[key] = [r[key] for r in model.responses]
+
             mlflow.log_table(data=dict_to_table, artifact_file="eval_results.json")
 
-        return responses
+        print(f"Accuracy: {correct_count / total_count}")

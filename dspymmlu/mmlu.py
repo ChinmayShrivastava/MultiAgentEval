@@ -2,15 +2,15 @@ import json
 import os
 
 from modules.pipelines.dspypipeline import DSPYpipeline
-from modules.programs.two_layer_cot import COT
+from modules.programs.three_layer_cot import COT
 
 ################ Constants #################
 
 DEFAULT_MODEL_STRING = 'gpt-3.5-turbo-1106'
 MAX_TOKENS = 256
 OPTIMIZER = "BootstrapFewShot"
-SUBJECT = "sociology"
-PROGRAM_NAME = "two_layer_cot"
+SUBJECT = "high_school_physics"
+PROGRAM_NAME = "three_layer_cot_with_halving"
 SAVE_DIR = "runs/"+PROGRAM_NAME
 SAVE_PATH = SAVE_DIR+"/"+SUBJECT+"_"+OPTIMIZER+".json"
 PROGRAM=COT

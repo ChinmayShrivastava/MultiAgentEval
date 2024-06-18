@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/698385237842072111/17103809d2b1434da6e275b1eb0b6d2f/artifacts
+end_time: 1718679006224
+entry_point_name: ''
+experiment_id: '698385237842072111'
+lifecycle_stage: active
+run_id: 17103809d2b1434da6e275b1eb0b6d2f
+run_name: high_school_physics+204e967d-0923-4e04-a4e8-e75b762e8b6c
+run_uuid: 17103809d2b1434da6e275b1eb0b6d2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718679006123
+status: 3
+tags: []
+user_id: chinmayshrivastava
