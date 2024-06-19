@@ -8,7 +8,8 @@ from DUPagent import MMLU, arun_eval
 
 MLFLOW_TRACKING_URI = "http://127.0.0.1:5000"
 MLFLOW_EXPERIMENT_NAME = "DUP"
-SUBJECT="hogh_school_physics"
+SUBJECT="high_school_physics"
+SPLIT="val"
 
 def getdf(path):
 	return pd.read_csv(path, names=['question', 'A', 'B', 'C', 'D', 'answer'])
@@ -23,8 +24,8 @@ async def eval(path):
 		except:
 			print(f"Error in question: {question}")
 			raise Exception
-	reasons, answers = await arun_eval(questions)
-	return questions, reasons, answers
+	reasons, answers, hints = await arun_eval(questions)
+	return questions, reasons, answers, hints
 
 async def main(path, filename):
     
@@ -32,12 +33,13 @@ async def main(path, filename):
 	mlflow.set_tracking_uri(MLFLOW_TRACKING_URI)
 	mlflow.set_experiment(MLFLOW_EXPERIMENT_NAME)
 
-	questions, reasons, answers = await eval(path)
+	questions, reasons, answers, hints = await eval(path)
 	with mlflow.start_run(run_name=f"{SUBJECT}_{uuid.uuid4()}") as _:
 		accuracy = sum([1 for question, answer in zip(questions, answers) if question.correct.lower() == answer.lower()]) / len(questions)
 		mlflow.log_param("accuracy", accuracy)
 		dict_to_table = {
 			"question": [question.question for question in questions],
+			"hints": [hint for hint in hints],
 			"reason": [reason for reason in reasons],
 			"answer": [answer for answer in answers],
 			"correct": [question.correct for question in questions],
@@ -51,12 +53,12 @@ if __name__ == "__main__":
 
 	import os
 
-	for i, filename in enumerate(os.listdir('data/test')):
+	for i, filename in enumerate(os.listdir(f'data/{SPLIT}')):
 		if SUBJECT not in filename:
 			continue
 		if filename.endswith('.csv'):
-			print(f"Processing {filename} - {100*(i+1)/len(os.listdir('data/test')):.2f}%")
-			path = f"data/test/{filename}"
+			print(f"Processing {filename} - {100*(i+1)/len(os.listdir(f'data/{SPLIT}')):.2f}%")
+			path = f"data/{SPLIT}/{filename}"
 			asyncio.run(main(path, filename[:-4]))
 			print(f"Finished {filename}")
 			break
