@@ -139,7 +139,6 @@ weighted_subjects = [subject for subject in subject_totals for _ in range(subjec
 
 def get_random_data_point() -> tuple[str, dspy.Example]:
     import random
-    print(weighted_subjects)
     # Select a random subject from the weighted list
     subject = random.choice(weighted_subjects)
     data = get_test_data(subject)
