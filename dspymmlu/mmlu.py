@@ -4,7 +4,7 @@ from concurrent.futures import ThreadPoolExecutor
 
 from modules.datahandler.datahandler import SUBJECTS
 from modules.pipelines.dspypipeline import DSPYpipeline
-from modules.programs.one_layer_cot import COT
+from modules.programs.two_layer_cot_improved_dup import COT
 
 ################ Constants #################
 
@@ -12,7 +12,7 @@ DEFAULT_MODEL_STRING = 'gpt-3.5-turbo'
 MAX_TOKENS = 256
 OPTIMIZER = "BootstrapFewShot"
 SUBJECT = "high_school_physics"
-PROGRAM_NAME = "final_vainlla_cot"
+PROGRAM_NAME = "two_layer_cot_improved_dup"
 SAVE_DIR = "runs/"+PROGRAM_NAME
 SAVE_PATH = SAVE_DIR+"/"+SUBJECT+"_"+OPTIMIZER+".json"
 PROGRAM=COT
@@ -34,6 +34,9 @@ if not os.path.exists(SAVE_DIR):
 def main():
     pipeline = DSPYpipeline(
         model=DEFAULT_MODEL_STRING,
+        save_dir=SAVE_DIR,
+        subject=SUBJECT,
+        optimizer=OPTIMIZER,
         save_path=SAVE_PATH,
         program=PROGRAM,
         max_tokens=MAX_TOKENS,
@@ -118,7 +121,7 @@ def test_n_random(n):
 #             executor.submit(gen_optimizers_for_subject, subject, i, total)
 
 if __name__ == '__main__':
-    # main()
+    main()
     # gen_optimizers_for_all_subjects()
     # test_all_subjects()
-    test_n_random(10)
+    # test_n_random(1000)

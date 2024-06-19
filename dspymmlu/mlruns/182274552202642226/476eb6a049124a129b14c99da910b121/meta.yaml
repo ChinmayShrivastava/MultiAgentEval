@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/182274552202642226/476eb6a049124a129b14c99da910b121/artifacts
+end_time: 1718819672436
+entry_point_name: ''
+experiment_id: '182274552202642226'
+lifecycle_stage: active
+run_id: 476eb6a049124a129b14c99da910b121
+run_name: 1000_random_eda3c965-eab0-4eae-9c14-a4486f9111ee
+run_uuid: 476eb6a049124a129b14c99da910b121
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718819672281
+status: 3
+tags: []
+user_id: chinmayshrivastava

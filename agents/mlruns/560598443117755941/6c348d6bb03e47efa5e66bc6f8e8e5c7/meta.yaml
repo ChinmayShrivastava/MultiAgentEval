@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/560598443117755941/6c348d6bb03e47efa5e66bc6f8e8e5c7/artifacts
+end_time: 1718829351614
+entry_point_name: ''
+experiment_id: '560598443117755941'
+lifecycle_stage: active
+run_id: 6c348d6bb03e47efa5e66bc6f8e8e5c7
+run_name: DUP_c0b1851a-3330-4aae-85aa-a8ac6665cefb
+run_uuid: 6c348d6bb03e47efa5e66bc6f8e8e5c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718829351535
+status: 3
+tags: []
+user_id: chinmayshrivastava

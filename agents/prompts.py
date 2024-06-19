@@ -64,3 +64,68 @@ DEFAULT_ANSWER_PROMPT = (
 	# print(DEFAULT_AGENT_PROMPT)
 	# print(DEFAULT_AGENT_SPAWN_PROMPT)
 	# print(DEFAULT_AGENT_GENERATED_REASON)
+    
+GENERATE_HINTS = """Extract and list the essential information needed to solve the given question using the following structure. Ensure the information is concise and to the point. Handle missing or incomplete data by noting its absence only if it impacts the solution. Simplify formulas and steps to focus on the key elements.
+
+Template:
+
+Task Statement:
+
+[Explicit statement of the task or question to be solved]
+Key Details:
+
+[Bullet points of essential information]
+[Include relevant context]
+Relevant Formulas:
+
+[Simplified formulas needed for the solution]
+Steps to Solve:
+
+[Concise steps highlighting the essential information]
+Missing Data:
+
+[Note any missing or incomplete data and its impact on the solution, if applicable]
+Example:
+
+Task Statement:
+
+Calculate the area of a triangle given its base and height.
+Key Details:
+
+Base (b): 5 cm
+Height (h): 10 cm
+Relevant Formulas:
+
+Area = 0.5 * base * height
+Steps to Solve:
+
+Substitute the values into the formula: Area = 0.5 * 5 cm * 10 cm
+Calculate the result: Area = 25 cm²
+Missing Data:
+
+None
+
+
+Now, generate the essential information needed to solve the following question:
+Question:
+{question}
+
+Output:"""
+
+DUP_GENERATE_ANSWER = (
+    "As an advanced language model, you are required to answer a multiple-choice question.\n"
+    "Please use the question, four possible answers, and hints provided to determine the correct answer.\n"
+    "Reason step by step to produce the correct answer.\n"
+    "Return the letter corresponding to the correct answer `a`, `b`, `c`, or `d`.\n"
+    "QUESTION:\n"
+    "{question}\n"
+    "OPTION:\n"
+    "{options}\n"
+    "HINT:\n"
+    "{hints}\n"
+    "Based on the information reason and provide the correct answer.\n"
+    "Use the following format:\n"
+    "REASONING:reasoning\n"
+    "ANSWER:answer\n"
+    "Output:"
+)
