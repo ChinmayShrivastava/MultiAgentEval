@@ -1,0 +1,60 @@
+{
+  "prog": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "A high school science teacher fills a 1 liter bottle with pure nitrogen and seals the lid. The pressure is 1.70 atm, and the room temperature is 25\u00b0C. Which two variables will both increase the pressure of the system, if all other variables are held constant?",
+        "subject": "college_medicine",
+        "a": "Increasing temperature, increasing moles of gas",
+        "b": "Increasing temperature, increasing volume",
+        "c": "Decreasing volume, decreasing temperature",
+        "d": "Decreasing moles of gas, increasing volume",
+        "rationale": "produce the answer. We know that pressure is directly proportional to temperature and moles of gas, according to the ideal gas law. Therefore, increasing temperature and increasing moles of gas will both increase the pressure of the system.",
+        "answer": "A"
+      },
+      {
+        "question": "An expected side effect of creatine supplementation is:",
+        "subject": "college_medicine",
+        "a": "muscle weakness.",
+        "b": "gain in body mass.",
+        "c": "muscle cramps.",
+        "d": "loss of electrolytes.",
+        "answer": "B"
+      },
+      {
+        "question": "In a genetic test of a newborn, a rare genetic disorder is found that has X-linked recessive transmission. Which of the following statements is likely true regarding the pedigree of this disorder?",
+        "subject": "college_medicine",
+        "a": "All descendants on the maternal side will have the disorder.",
+        "b": "Females will be approximately twice as affected as males in this family.",
+        "c": "All daughters of an affected male will be affected.",
+        "d": "There will be equal distribution of males and females affected.",
+        "answer": "C"
+      },
+      {
+        "question": "Glucose is transported into the muscle cell:",
+        "subject": "college_medicine",
+        "a": "via protein transporters called GLUT4.",
+        "b": "only in the presence of insulin.",
+        "c": "via hexokinase.",
+        "d": "via monocarbylic acid transporters.",
+        "answer": "A"
+      },
+      {
+        "question": "Which of the following is not a true statement?",
+        "subject": "college_medicine",
+        "a": "Muscle glycogen is broken down enzymatically to glucose-1-phosphate",
+        "b": "Elite endurance runners have a high proportion of Type I fibres in their leg muscles",
+        "c": "Liver glycogen is important in the maintenance of the blood glucose concentration",
+        "d": "Insulin promotes glucose uptake by all tissues in the body",
+        "answer": "D"
+      }
+    ],
+    "signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "signature_prefix": "Answer:",
+    "extended_signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "extended_signature_prefix": "Answer:"
+  }
+}

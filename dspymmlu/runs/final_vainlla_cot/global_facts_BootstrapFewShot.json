@@ -1,0 +1,58 @@
+{
+  "prog": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "question": "As of 2019, about what percentage of Russians say it is very important to have free media in our country without government\/state censorship?",
+        "subject": "global_facts",
+        "a": "38%",
+        "b": "53%",
+        "c": "68%",
+        "d": "83%",
+        "answer": "A"
+      },
+      {
+        "question": "As of 2017, how many of the world\u2019s 1-year-old children today have been vaccinated against some disease? *",
+        "subject": "global_facts",
+        "a": "80%",
+        "b": "60%",
+        "c": "40%",
+        "d": "20%",
+        "answer": "A"
+      },
+      {
+        "question": "Which of the following pairs of statements are both true (as of 2019)?",
+        "subject": "global_facts",
+        "a": "People tend to be optimistic about their own future and the future of their nation or the world.",
+        "b": "People tend to be optimistic about their own future but pessimistic about the future of their nation or the world.",
+        "c": "People tend to be pessimistic about their own future but optimistic about the future of their nation or the world.",
+        "d": "People tend to be pessimistic about their own future and the future of their nation or the world.",
+        "answer": "B"
+      },
+      {
+        "question": "As of 2019, about what percentage of Americans agree that the state is run for the benefit of all the people?",
+        "subject": "global_facts",
+        "a": "31%",
+        "b": "46%",
+        "c": "61%",
+        "d": "76%",
+        "answer": "B"
+      },
+      {
+        "question": "As of 2015, since 1990 forests have ____ in Europe and have ____ in Africa and the Americas.",
+        "subject": "global_facts",
+        "a": "increased, increased",
+        "b": "increased, decreased",
+        "c": "decreased, increased",
+        "d": "decreased, decreased",
+        "answer": "B"
+      }
+    ],
+    "signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "signature_prefix": "Answer:",
+    "extended_signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "extended_signature_prefix": "Answer:"
+  }
+}

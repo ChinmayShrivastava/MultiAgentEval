@@ -1,0 +1,62 @@
+{
+  "prog": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "To achieve an 0\/1 loss estimate that is less than 1 percent of the true 0\/1 loss (with probability 95%), according to Hoeffding's inequality the IID test set must have how many examples?",
+        "subject": "machine_learning",
+        "a": "around 10 examples",
+        "b": "around 100 examples",
+        "c": "between 100 and 500 examples",
+        "d": "more than 1000 examples",
+        "rationale": "produce the answer. We know that Hoeffding's inequality gives us a bound on the probability that the empirical mean deviates from the true mean. To achieve an 0\/1 loss estimate that is less than 1 percent of the true 0\/1 loss with probability 95%, we need to consider the confidence level and the acceptable error. The more examples we have, the tighter the bound becomes. Therefore, we need a significant number of examples to achieve this level of accuracy.",
+        "answer": "D"
+      },
+      {
+        "augmented": true,
+        "question": "Traditionally, when we have a real-valued input attribute during decision-tree learning we consider a binary split according to whether the attribute is above or below some threshold. Pat suggests that instead we should just have a multiway split with one branch for each of the distinct values of the attribute. From the list below choose the single biggest problem with Pat\u2019s suggestion:",
+        "subject": "machine_learning",
+        "a": "It is too computationally expensive.",
+        "b": "It would probably result in a decision tree that scores badly on the training set and a testset.",
+        "c": "It would probably result in a decision tree that scores well on the training set but badly on a testset.",
+        "d": "It would probably result in a decision tree that scores well on a testset but badly on a training set.",
+        "rationale": "produce the answer. We know that having a branch for each distinct value of the attribute would lead to overfitting, as the decision tree would memorize the training data instead of learning general patterns. This would result in a decision tree that scores well on the training set but badly on a test set.",
+        "answer": "C"
+      },
+      {
+        "question": "Which image data augmentation is most common for natural images?",
+        "subject": "machine_learning",
+        "a": "random crop and horizontal flip",
+        "b": "random crop and vertical flip",
+        "c": "posterization",
+        "d": "dithering",
+        "answer": "A"
+      },
+      {
+        "question": "You are reviewing papers for the World\u2019s Fanciest Machine Learning Conference, and you see submissions with the following claims. Which ones would you consider accepting? ",
+        "subject": "machine_learning",
+        "a": "My method achieves a training error lower than all previous methods!",
+        "b": "My method achieves a test error lower than all previous methods! (Footnote: When regularisation parameter \u03bb is chosen so as to minimise test error.)",
+        "c": "My method achieves a test error lower than all previous methods! (Footnote: When regularisation parameter \u03bb is chosen so as to minimise cross-validaton error.)",
+        "d": "My method achieves a cross-validation error lower than all previous methods! (Footnote: When regularisation parameter \u03bb is chosen so as to minimise cross-validaton error.)",
+        "answer": "C"
+      },
+      {
+        "question": "A 6-sided die is rolled 15 times and the results are: side 1 comes up 0 times; side 2: 1 time; side 3: 2 times; side 4: 3 times; side 5: 4 times; side 6: 5 times. Based on these results, what is the probability of side 3 coming up when using Add-1 Smoothing?",
+        "subject": "machine_learning",
+        "a": "2.0\/15",
+        "b": "1.0\/7",
+        "c": "3.0\/16",
+        "d": "1.0\/5",
+        "answer": "B"
+      }
+    ],
+    "signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "signature_prefix": "Answer:",
+    "extended_signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "extended_signature_prefix": "Answer:"
+  }
+}

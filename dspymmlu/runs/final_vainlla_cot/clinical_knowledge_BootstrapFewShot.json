@@ -1,0 +1,66 @@
+{
+  "prog": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "In the assessment of the hand function which of the following is true?",
+        "subject": "clinical_knowledge",
+        "a": "Abduction of the thumb is supplied by spinal root T2",
+        "b": "Opposition of the thumb by opponens policis is supplied by spinal root T1",
+        "c": "Finger adduction is supplied by the median nerve",
+        "d": "Finger abduction is mediated by the palmar interossei",
+        "rationale": "produce the answer. We know that the opposition of the thumb is a key function in hand function and is primarily controlled by the opponens pollicis muscle. This muscle is innervated by the median nerve, which arises from spinal roots C8-T1. Therefore, the correct answer is B.",
+        "answer": "B"
+      },
+      {
+        "augmented": true,
+        "question": "The energy for all forms of muscle contraction is provided by:",
+        "subject": "clinical_knowledge",
+        "a": "ATP.",
+        "b": "ADP.",
+        "c": "phosphocreatine.",
+        "d": "oxidative phosphorylation.",
+        "rationale": "produce the answer. We know that muscle contraction requires energy, and the primary source of energy for muscle contraction is ATP. Therefore, the correct answer is ATP.",
+        "answer": "A"
+      },
+      {
+        "augmented": true,
+        "question": "Glycolysis is the name given to the pathway involving the conversion of:",
+        "subject": "clinical_knowledge",
+        "a": "glycogen to glucose-1-phosphate.",
+        "b": "glycogen or glucose to fructose.",
+        "c": "glycogen or glucose to pyruvate or lactate.",
+        "d": "glycogen or glucose to pyruvate or acetyl CoA.",
+        "rationale": "produce the answer. Glycolysis is the process of breaking down glucose into pyruvate or lactate.",
+        "answer": "C"
+      },
+      {
+        "augmented": true,
+        "question": "How many attempts should you make to cannulate a patient before passing the job on to a senior colleague, according to the medical knowledge of 2020?",
+        "subject": "clinical_knowledge",
+        "a": "4",
+        "b": "3",
+        "c": "2",
+        "d": "1",
+        "rationale": "produce the answer. We need to prioritize patient safety and avoid causing unnecessary harm. If after 2 attempts, we are unable to cannulate the patient successfully, it is best to pass the task on to a more experienced colleague to prevent any complications.",
+        "answer": "C"
+      },
+      {
+        "question": "What is the difference between a male and a female catheter?",
+        "subject": "clinical_knowledge",
+        "a": "Male and female catheters are different colours.",
+        "b": "Male catheters are longer than female catheters.",
+        "c": "Male catheters are bigger than female catheters.",
+        "d": "Female catheters are longer than male catheters.",
+        "answer": "B"
+      }
+    ],
+    "signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "signature_prefix": "Answer:",
+    "extended_signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "extended_signature_prefix": "Answer:"
+  }
+}

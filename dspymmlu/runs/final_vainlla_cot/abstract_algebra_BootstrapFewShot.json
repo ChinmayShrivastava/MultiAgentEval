@@ -1,0 +1,60 @@
+{
+  "prog": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "Statement 1 | Every element of a group generates a cyclic subgroup of the group. Statement 2 | The symmetric group S_10 has 10 elements.",
+        "subject": "abstract_algebra",
+        "a": "True, True",
+        "b": "False, False",
+        "c": "True, False",
+        "d": "False, True",
+        "rationale": "produce the answer. For statement 1, this is true by definition of a cyclic subgroup. For statement 2, the symmetric group S_10 has 10! elements, not just 10.",
+        "answer": "C"
+      },
+      {
+        "question": "Find the characteristic of the ring 2Z.",
+        "subject": "abstract_algebra",
+        "a": "0",
+        "b": "3",
+        "c": "12",
+        "d": "30",
+        "answer": "A"
+      },
+      {
+        "question": "Statement 1| Every function from a finite set onto itself must be one to one. Statement 2 | Every subgroup of an abelian group is abelian.",
+        "subject": "abstract_algebra",
+        "a": "True, True",
+        "b": "False, False",
+        "c": "True, False",
+        "d": "False, True",
+        "answer": "A"
+      },
+      {
+        "question": "Find all c in Z_3 such that Z_3[x]\/(x^2 + c) is a field.",
+        "subject": "abstract_algebra",
+        "a": "0",
+        "b": "1",
+        "c": "2",
+        "d": "3",
+        "answer": "B"
+      },
+      {
+        "question": "Statement 1 | If aH is an element of a factor group, then |aH| divides |a|. Statement 2 | If H and K are subgroups of G then HK is a subgroup of G.",
+        "subject": "abstract_algebra",
+        "a": "True, True",
+        "b": "False, False",
+        "c": "True, False",
+        "d": "False, True",
+        "answer": "B"
+      }
+    ],
+    "signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "signature_prefix": "Answer:",
+    "extended_signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "extended_signature_prefix": "Answer:"
+  }
+}

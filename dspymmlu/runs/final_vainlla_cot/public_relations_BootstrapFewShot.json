@@ -1,0 +1,62 @@
+{
+  "prog": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "Earth Hour was a campaign launched by which organization?",
+        "subject": "public_relations",
+        "a": "Greenpeace",
+        "b": "The UN",
+        "c": "Oxfam",
+        "d": "World Wildlife Fund",
+        "rationale": "produce the answer. Earth Hour is a campaign that focuses on environmental conservation and sustainability. Among the options provided, the organization most closely associated with these goals is the World Wildlife Fund.",
+        "answer": "D"
+      },
+      {
+        "augmented": true,
+        "question": "What should a public relations media practitioner do if she does not know the answer to a reporter's question?",
+        "subject": "public_relations",
+        "a": "Give the reporter other information she is certain is correct.",
+        "b": "Say that the information is 'off the record' and will be disseminated later.",
+        "c": "Say 'I don't know' and promise to provide the information later.",
+        "d": "Say 'no comment,' rather than appear uninformed.",
+        "rationale": "produce the answer. We should always prioritize honesty and transparency in public relations. It is best to admit when we do not know the answer and promise to provide the information later, rather than giving incorrect information or avoiding the question.",
+        "answer": "C"
+      },
+      {
+        "question": "In issues management, what is the most proactive approach to addressing negative or misleading information posted online about your organization?",
+        "subject": "public_relations",
+        "a": "Buy domain names that could be used by opposition groups.",
+        "b": "Post anonymous comments on blogs to combat this information.",
+        "c": "Prepare a news release that discredits the inaccurate information.",
+        "d": "Make policy changes to address complaints highlighted on these sites.",
+        "answer": "D"
+      },
+      {
+        "question": "At which stage in the planning process would a situation analysis be carried out?",
+        "subject": "public_relations",
+        "a": "Defining the program",
+        "b": "Planning the program",
+        "c": "Taking action and implementing ideas",
+        "d": "Evaluation of the program",
+        "answer": "A"
+      },
+      {
+        "question": "Which of these statements is true of the Vatican in 2010 at the time of the accusations of child abuse cover-ups?",
+        "subject": "public_relations",
+        "a": "There was a coordinated media response.",
+        "b": "Consistent messages were communicated.",
+        "c": "Criticisms were taken as attacks on the Catholic Church.",
+        "d": "The credibility of the Vatican was upheld.",
+        "answer": "C"
+      }
+    ],
+    "signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "signature_prefix": "Answer:",
+    "extended_signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "extended_signature_prefix": "Answer:"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "prog": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "How do Defensive Realism and Offensive Realism differ in their explanation of state behaviour?",
+        "subject": "us_foreign_policy",
+        "a": "Defensive realists place greater emphasis on the role of international institutions",
+        "b": "Defensive realists place less emphasis on geographical factors",
+        "c": "Offensive realists give more priority to the national interest than Defensive realists.",
+        "d": "Defensive realists believe states are security maximizers, while Offensive realists believe states to be power maximizers",
+        "rationale": "produce the answer. Defensive Realism and Offensive Realism are two different theories within the realm of international relations. Defensive Realists believe that states are primarily concerned with security and survival, while Offensive Realists believe that states are primarily concerned with maximizing their power and influence. Therefore, the correct answer is that Defensive Realists believe states are security maximizers, while Offensive Realists believe states to be power maximizers.",
+        "answer": "D"
+      },
+      {
+        "augmented": true,
+        "question": "How did the 2008 financial crisis affect America's international reputation?",
+        "subject": "us_foreign_policy",
+        "a": "It damaged support for the US model of political economy and capitalism",
+        "b": "It created anger at the United States for exaggerating the crisis",
+        "c": "It increased support for American global leadership under President Obama",
+        "d": "It reduced global use of the US dollar",
+        "rationale": "produce the answer. We know that the 2008 financial crisis had a significant impact on the global economy and the perception of the United States. Option A seems to align with the negative consequences of the crisis on America's international reputation, as it suggests that the crisis damaged support for the US model of political economy and capitalism.",
+        "answer": "A"
+      },
+      {
+        "question": "How did NSC-68 change U.S. strategy?",
+        "subject": "us_foreign_policy",
+        "a": "It globalized containment.",
+        "b": "It militarized containment.",
+        "c": "It called for the development of the hydrogen bomb.",
+        "d": "All of the above",
+        "answer": "D"
+      },
+      {
+        "question": "The realm of policy decisions concerned primarily with relations between the United States and the rest of the world is known as",
+        "subject": "us_foreign_policy",
+        "a": "terrorism policy.",
+        "b": "economic policy.",
+        "c": "foreign policy.",
+        "d": "international policy.",
+        "answer": "C"
+      },
+      {
+        "question": "How did Donald Trump attack globalization in the 2016 campaign?",
+        "subject": "us_foreign_policy",
+        "a": "Globalization had made men like him too rich",
+        "b": "Globalization only benefited certain American states, such as New York",
+        "c": "Liberal elites had encouraged globalization, while 'ordinary Americans' lost jobs because of it",
+        "d": "Globalization encouraged damaging trade wars",
+        "answer": "C"
+      }
+    ],
+    "signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "signature_prefix": "Answer:",
+    "extended_signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "extended_signature_prefix": "Answer:"
+  }
+}

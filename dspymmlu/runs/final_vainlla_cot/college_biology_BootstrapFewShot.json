@@ -1,0 +1,66 @@
+{
+  "prog": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "Which of the following represents an accurate statement concerning arthropods?",
+        "subject": "college_biology",
+        "a": "They possess an exoskeleton composed primarily of peptidoglycan.",
+        "b": "They possess an open circulatory system with a dorsal heart.",
+        "c": "They are members of a biologically unsuccessful phylum incapable of exploiting diverse habitats and nutrition sources.",
+        "d": "They lack paired, jointed appendages.",
+        "rationale": "produce the answer. Arthropods are known for their exoskeleton composed primarily of chitin, not peptidoglycan. They also have a dorsal heart and an open circulatory system. Therefore, option B is the correct statement.",
+        "answer": "B"
+      },
+      {
+        "augmented": true,
+        "question": "In a given population, 1 out of every 400 people has a cancer caused by a completely recessive allele, b. Assuming the population is in Hardy-Weinberg equilibrium, which of the following is the expected proportion of individuals who carry the b allele but are not expected to develop the cancer?",
+        "subject": "college_biology",
+        "a": "1\/400",
+        "b": "19\/400",
+        "c": "20\/400",
+        "d": "38\/400",
+        "rationale": "produce the answer. We know that the frequency of the recessive allele (q) can be calculated as the square root of the frequency of the recessive phenotype (1\/400). Therefore, q = \u221a(1\/400) = 1\/20. The frequency of carriers (2pq) can be calculated as 2 * (1\/20) * (19\/20) = 38\/400.",
+        "answer": "D"
+      },
+      {
+        "augmented": true,
+        "question": "The presence of homologous structures in two different organisms, such as the humerus in the front limb of a human and a bird, indicates that",
+        "subject": "college_biology",
+        "a": "the human and bird are polyphyletic species",
+        "b": "a human's and bird's evolution is convergent",
+        "c": "the human and bird belong to a clade",
+        "d": "the human and bird developed by analogy",
+        "rationale": "produce the answer. We know that homologous structures are similar structures in different species that share a common ancestor. Therefore, the presence of homologous structures in two different organisms, such as the humerus in the front limb of a human and a bird, indicates that they belong to a clade.",
+        "answer": "C"
+      },
+      {
+        "augmented": true,
+        "question": "According to the pressure-flow model of movement of phloem contents, photosynthate movement from source to sink is driven by",
+        "subject": "college_biology",
+        "a": "an ATP-dependent pressure-flow pump",
+        "b": "a water-pressure potential gradient",
+        "c": "transpiration",
+        "d": "apoplastic diffusion",
+        "rationale": "produce the answer. We know that the pressure-flow model of movement of phloem contents involves the movement of photosynthate from source to sink. This movement is driven by a pressure gradient created by the loading of sugars at the source and unloading at the sink. This pressure gradient is what drives the flow of photosynthate through the phloem.",
+        "answer": "B"
+      },
+      {
+        "question": "Which of the following contain DNA sequences required for the segregation of chromosomes in mitosis and meiosis?",
+        "subject": "college_biology",
+        "a": "Telomeres",
+        "b": "Centromeres",
+        "c": "Nucleosomes",
+        "d": "Spliceosomes",
+        "answer": "B"
+      }
+    ],
+    "signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "signature_prefix": "Answer:",
+    "extended_signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "extended_signature_prefix": "Answer:"
+  }
+}

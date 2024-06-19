@@ -1,0 +1,62 @@
+{
+  "prog": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "Carl Jung believed that a client's transference:",
+        "subject": "professional_psychology",
+        "a": "is a fantasy that distracts the client from reality.",
+        "b": "represents \u201cmixed feelings\u201d toward the therapist. ",
+        "c": "\"is a form of \"\"acting out.\"\"\"",
+        "d": "reflects the client\u2019s personal and collective unconscious.",
+        "rationale": "produce the answer. We know that Carl Jung was a Swiss psychiatrist and psychoanalyst who founded analytical psychology. Based on his beliefs and theories, we can conclude that the correct answer is...",
+        "answer": "D"
+      },
+      {
+        "augmented": true,
+        "question": "In the construction of a multiple regression equation for purposes of prediction, the optimal combination of measures is one in which the predictors",
+        "subject": "professional_psychology",
+        "a": "are uncorrelated with each other but are moderately correlated with the criterion",
+        "b": "have low correlations with each other and low correlations with the criterion",
+        "c": "are highly intercorrelated with each other and moderately correlated with the criterion",
+        "d": "have low correlations with the criterion bur are moderately correlated with each other",
+        "rationale": "produce the answer. We want the predictors to have some correlation with the criterion in order to make accurate predictions, but we also want them to be uncorrelated with each other to avoid issues of multicollinearity.",
+        "answer": "A"
+      },
+      {
+        "question": "There are three ways to measure the Central Tendency: the Mean, the Median and the Mode. From your knowledge about them, what is the mode?",
+        "subject": "professional_psychology",
+        "a": "less sensitive to extreme scores than the mean",
+        "b": "more useful for skewed distributions",
+        "c": "sensitive to extreme values and highly skewed distributions",
+        "d": "the most frequently occurring number",
+        "answer": "D"
+      },
+      {
+        "question": "In terms of Hofstede\u2019s (1980) five cultural dimensions, the United States scores at the top of the scale on:",
+        "subject": "professional_psychology",
+        "a": "individualism.",
+        "b": "individualism and power distance.",
+        "c": "power distance and masculinity.",
+        "d": "uncertainty avoidance.",
+        "answer": "A"
+      },
+      {
+        "question": "One of your therapy clients asks your advice about a good weight- reduction program. You have investigated the programs in the community and are enrolled in the one you consider the best. This program offers a $50 bonus to its patrons for each new person they bring into the program. Under these circumstances, your most appropriate response would be to",
+        "subject": "professional_psychology",
+        "a": "tell your client the pros and cons of each program you know about except for the one in which you are enrolled",
+        "b": "recommend to your client the program in which you are enrolled and explain the $50 bonus you will receive",
+        "c": "recommend to your client the program in which you are enrolled and offer to have the $50 bonus credited to your client's account in the program",
+        "d": "tell your client the pros and cons of each program you know about, but do not claim the $50 bonus if your client enrolls in your program",
+        "answer": "D"
+      }
+    ],
+    "signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "signature_prefix": "Answer:",
+    "extended_signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "extended_signature_prefix": "Answer:"
+  }
+}

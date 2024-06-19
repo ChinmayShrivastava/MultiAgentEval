@@ -61,7 +61,7 @@ class DSPYpipeline:
         model = self.load(self.save_path)
         correct_count = 0
         total_count = 0
-        progress_bar = tqdm.tqdm(enumerate(testset[:25]), total=len(testset[:25]), desc="Testing", leave=False)
+        progress_bar = tqdm.tqdm(enumerate(testset[:20]), total=len(testset[:20]), desc="Testing", leave=False)
 
         for _, example in progress_bar:
             answer = model.forward(

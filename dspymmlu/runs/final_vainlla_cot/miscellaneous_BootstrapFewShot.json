@@ -1,0 +1,60 @@
+{
+  "prog": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "Who is the shortest man to ever win an NBA slam dunk competition?",
+        "subject": "miscellaneous",
+        "a": "Anthony 'Spud' Webb",
+        "b": "Michael 'Air' Jordan",
+        "c": "Tyrone 'Muggsy' Bogues",
+        "d": "Julius 'Dr J' Erving",
+        "rationale": "produce the answer. We know that Spud Webb is the shortest player to ever win an NBA slam dunk competition, so the correct answer is A.",
+        "answer": "A"
+      },
+      {
+        "question": "How many axles does a standard automobile have?",
+        "subject": "miscellaneous",
+        "a": "one",
+        "b": "two",
+        "c": "four",
+        "d": "eight",
+        "answer": "B"
+      },
+      {
+        "question": "What place is named in the title of the 1979 live album by rock legends Cheap Trick?",
+        "subject": "miscellaneous",
+        "a": "Budapest",
+        "b": "Budokan",
+        "c": "Bhutan",
+        "d": "Britain",
+        "answer": "B"
+      },
+      {
+        "question": "Which of these songs was a Top 10 hit for the rock band The Police?",
+        "subject": "miscellaneous",
+        "a": "'Radio Ga-Ga'",
+        "b": "'Ob-la-di Ob-la-da'",
+        "c": "'De Do Do Do De Da Da Da'",
+        "d": "'In-a-Gadda-Da-Vida'",
+        "answer": "C"
+      },
+      {
+        "question": "What is produced during photosynthesis?",
+        "subject": "miscellaneous",
+        "a": "hydrogen",
+        "b": "nylon",
+        "c": "oxygen",
+        "d": "light",
+        "answer": "C"
+      }
+    ],
+    "signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "signature_prefix": "Answer:",
+    "extended_signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "extended_signature_prefix": "Answer:"
+  }
+}

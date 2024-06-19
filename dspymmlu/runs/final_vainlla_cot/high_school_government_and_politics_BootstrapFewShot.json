@@ -1,0 +1,64 @@
+{
+  "prog": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "Uncertainty over the limits to presidential power is caused primarily by the fact that",
+        "subject": "high_school_government_and_politics",
+        "a": "the constitutional definition of those powers is broad and unspecific",
+        "b": "most people agree that the Constitution places too many limits on presidential power",
+        "c": "the Supreme Court consistently refuses to rule on cases concerning presidential powers",
+        "d": "constitutional amendments have greatly increased presidential powers",
+        "rationale": "produce the answer. We know that the Constitution outlines the powers of the president, but it can be vague and open to interpretation. This lack of specificity can lead to uncertainty over the limits of presidential power.",
+        "answer": "A"
+      },
+      {
+        "augmented": true,
+        "question": "The term \"budget deficit\" refers to the",
+        "subject": "high_school_government_and_politics",
+        "a": "annual increase in federal spending on the military",
+        "b": "amount of interest on the national debt",
+        "c": "difference between the initial budget proposals made by the president and Congress",
+        "d": "amount the government spends in excess of its revenues",
+        "rationale": "produce the answer. We know that a budget deficit occurs when the government spends more money than it brings in through revenue. This is not specific to any particular area of spending, such as military spending, interest on the national debt, or differences in budget proposals.",
+        "answer": "D"
+      },
+      {
+        "augmented": true,
+        "question": "Which of the following cases established the precedent that a defendant must be informed of the right to remain silent, the right to a lawyer, and protection from self-incrimination?",
+        "subject": "high_school_government_and_politics",
+        "a": "Weeks v. United States",
+        "b": "Betts v. Brady",
+        "c": "Mapp v. Ohio",
+        "d": "Miranda v. Arizona",
+        "rationale": "produce the answer. The correct answer is the case that established the Miranda rights, which include the right to remain silent, the right to a lawyer, and protection from self-incrimination.",
+        "answer": "D"
+      },
+      {
+        "question": "Which of the following statements about cabinet departments is FALSE?",
+        "subject": "high_school_government_and_politics",
+        "a": "They are established by the legislative branch.",
+        "b": "Their members often don't have much influence over presidential decisions.",
+        "c": "They cannot all be run by leaders who belong to the same political party the president does.",
+        "d": "Not every federal agency is a cabinet department.",
+        "answer": "C"
+      },
+      {
+        "question": "Which of the following best states an argument made by James Madison in The Federalist number 10?",
+        "subject": "high_school_government_and_politics",
+        "a": "Honest politicians can prevent factions from developing.",
+        "b": "Factions are more likely to occur in large republics than in small ones.",
+        "c": "The negative effects of factionalism can be reduced by a republican government.",
+        "d": "Free elections are the people's best defense against factionalism.",
+        "answer": "C"
+      }
+    ],
+    "signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "signature_prefix": "Answer:",
+    "extended_signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "extended_signature_prefix": "Answer:"
+  }
+}

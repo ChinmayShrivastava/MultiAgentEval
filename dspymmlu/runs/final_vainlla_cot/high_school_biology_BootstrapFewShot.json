@@ -1,0 +1,64 @@
+{
+  "prog": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "Which of the following is not a way to form recombinant DNA?",
+        "subject": "high_school_biology",
+        "a": "Translation",
+        "b": "Conjugation",
+        "c": "Specialized transduction",
+        "d": "Transformation",
+        "rationale": "produce the answer. Recombinant DNA is formed by combining DNA from different sources. Translation is the process of protein synthesis and does not involve DNA manipulation. Conjugation, specialized transduction, and transformation are all methods used to introduce foreign DNA into a host cell.",
+        "answer": "A"
+      },
+      {
+        "augmented": true,
+        "question": "A mutation in a bacterial enzyme changed a previously polar amino acid into a nonpolar amino acid. This amino acid was located at a site distant from the enzyme\u2019s active site. How might this mutation alter the enzyme\u2019s substrate specificity?",
+        "subject": "high_school_biology",
+        "a": "By changing the enzyme\u2019s pH optimum",
+        "b": "By changing the enzyme\u2019s location in the cell",
+        "c": "By changing the shape of the protein",
+        "d": "An amino acid change away from the active site cannot alter the enzyme\u2019s substrate specificity.",
+        "rationale": "produce the answer. We know that the mutation occurred at a site distant from the enzyme's active site, so it is unlikely to directly affect the enzyme's substrate specificity. Therefore, the most likely answer is that the mutation changed the shape of the protein, which could indirectly affect the enzyme's substrate specificity.",
+        "answer": "C"
+      },
+      {
+        "augmented": true,
+        "question": "Which of the following is not known to be involved in the control of cell division?",
+        "subject": "high_school_biology",
+        "a": "Cyclins",
+        "b": "Protein kinases",
+        "c": "Checkpoints",
+        "d": "Fibroblast cells",
+        "rationale": "produce the answer. We know that cyclins, protein kinases, and checkpoints are all involved in the control of cell division. Fibroblast cells, on the other hand, are not directly involved in the regulation of cell division.",
+        "answer": "D"
+      },
+      {
+        "question": "Homologous structures are often cited as evidence for the process of natural selection. All of the following are examples of homologous structures EXCEPT",
+        "subject": "high_school_biology",
+        "a": "the wings of a bird and the wings of a bat",
+        "b": "the flippers of a whale and the arms of a man",
+        "c": "the pectoral fins of a porpoise and the flippers of a seal",
+        "d": "the forelegs of an insect and the forelimbs of a dog",
+        "answer": "D"
+      },
+      {
+        "question": "In animal cells, which of the following represents the most likely pathway that a secretory protein takes as it is synthesized in a cell?",
+        "subject": "high_school_biology",
+        "a": "Plasma membrane\u2013Golgi apparatus\u2013ribosome\u2013secretory vesicle\u2013rough ER",
+        "b": "Ribosome\u2013Golgi apparatus\u2013rough ER\u2013secretory vesicle\u2013plasma membrane",
+        "c": "Plasma membrane\u2013Golgi apparatus\u2013ribosome\u2013secretory vesicle\u2013rough ER",
+        "d": "Ribosome\u2013rough ER\u2013Golgi apparatus\u2013secretory vesicle\u2013plasma membrane",
+        "answer": "D"
+      }
+    ],
+    "signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "signature_prefix": "Answer:",
+    "extended_signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "extended_signature_prefix": "Answer:"
+  }
+}

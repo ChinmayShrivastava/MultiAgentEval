@@ -1,0 +1,60 @@
+{
+  "prog": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "The muon decays with a characteristic lifetime of about 10^-6 second into an electron, a muon neutrino, and an electron antineutrino. The muon is forbidden from decaying into an electron and just a single neutrino by the law of conservation of",
+        "subject": "college_physics",
+        "a": "charge",
+        "b": "mass",
+        "c": "energy and momentum",
+        "d": "lepton number",
+        "rationale": "produce the answer. The law of conservation of lepton number states that the total lepton number must remain constant in any particle reaction. Since the muon has a lepton number of 1 and the electron has a lepton number of 1, the total lepton number is conserved in this decay process.",
+        "answer": "D"
+      },
+      {
+        "question": "For which of the following thermodynamic processes is the increase in the internal energy of an ideal gas equal to the heat added to the gas?",
+        "subject": "college_physics",
+        "a": "Constant temperature",
+        "b": "Constant volume",
+        "c": "Constant pressure",
+        "d": "Adiabatic",
+        "answer": "B"
+      },
+      {
+        "question": "A refracting telescope consists of two converging lenses separated by 100 cm. The eye-piece lens has a focal length of 20 cm. The angular magnification of the telescope is",
+        "subject": "college_physics",
+        "a": "4",
+        "b": "5",
+        "c": "6",
+        "d": "20",
+        "answer": "A"
+      },
+      {
+        "question": "A refracting telescope consists of two converging lenses separated by 100 cm. The eye-piece lens has a focal length of 20 cm. The angular magnification of the telescope is",
+        "subject": "college_physics",
+        "a": "4",
+        "b": "5",
+        "c": "6",
+        "d": "20",
+        "answer": "A"
+      },
+      {
+        "question": "One end of a Nichrome wire of length 2L and cross-sectional area A is attached to an end of another Nichrome wire of length L and cross- sectional area 2A. If the free end of the longer wire is at an electric potential of 8.0 volts, and the free end of the shorter wire is at an electric potential of 1.0 volt, the potential at the junction of the two wires is most nearly equal to",
+        "subject": "college_physics",
+        "a": "2.4 V",
+        "b": "3.3 V",
+        "c": "4.5 V",
+        "d": "5.7 V",
+        "answer": "A"
+      }
+    ],
+    "signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "signature_prefix": "Answer:",
+    "extended_signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "extended_signature_prefix": "Answer:"
+  }
+}

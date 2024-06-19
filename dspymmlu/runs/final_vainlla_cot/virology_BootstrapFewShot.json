@@ -1,0 +1,60 @@
+{
+  "prog": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "The most important goal of a behavioral intervention is:",
+        "subject": "virology",
+        "a": "Change in behavior",
+        "b": "Comprehensive coverage",
+        "c": "Effective use of behavioral theory",
+        "d": "Sustained behavior change",
+        "rationale": "produce the answer. We need to consider what the ultimate objective of a behavioral intervention is and which option aligns with that goal.",
+        "answer": "D"
+      },
+      {
+        "question": "The median survival time to AIDS and death was established by following:",
+        "subject": "virology",
+        "a": "Seroprevalent HIV-infected individuals",
+        "b": "Seronegatives",
+        "c": "Seroconverters",
+        "d": "High-risk seronegatives",
+        "answer": "C"
+      },
+      {
+        "question": "A key factor facilitating the application of nested case-control studies from the MACS was:",
+        "subject": "virology",
+        "a": "Data collection",
+        "b": "Establishment of a repository of biologic specimens",
+        "c": "Participant interest",
+        "d": "Administration of the questionnaire by staff",
+        "answer": "B"
+      },
+      {
+        "question": "Why are parvoviruses a highly impactful parasite?",
+        "subject": "virology",
+        "a": "Because they have no nucleic acid",
+        "b": "They require a helper virus",
+        "c": "Only replicate in dividing cells",
+        "d": "Can integrate into host chromosomes",
+        "answer": "A"
+      },
+      {
+        "question": "Which of the following is a morphological characteristic of the paramyxoviruses.",
+        "subject": "virology",
+        "a": "Fragile viruses often visualised with RNA spewing from the inside",
+        "b": "Elongate viruses",
+        "c": "Icosahedral viruses with envelope",
+        "d": "Very large viruses",
+        "answer": "A"
+      }
+    ],
+    "signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "signature_prefix": "Answer:",
+    "extended_signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "extended_signature_prefix": "Answer:"
+  }
+}

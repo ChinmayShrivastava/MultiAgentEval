@@ -42,7 +42,7 @@ class COT(dspy.Module):
         self.info = dspy.ChainOfThought(ProblemSolvingInfo)
         self.toptwooptions = dspy.ChainOfThought(TopTwoOptions, rationale_type=TOP_TWO_OPTIONS_RATIONALE_TYPE)
 
-        self.prog = dspy.ChainOfThought(AnswerQuestion)
+        self.prog = dspy.ChainOfThought(AnswerQuestion, rationale_type=FINAL_ANSWER_RATIONALE_TYPE)
 
         self.responses = []
 

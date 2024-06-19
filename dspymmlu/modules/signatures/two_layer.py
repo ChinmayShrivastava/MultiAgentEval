@@ -1,14 +1,14 @@
 import dspy
 
 class CoreQuestion(dspy.Signature):
-    """Given a question, output a crisp and consize question free of any unnecessary information."""
+    """Given a question, output a crisp and consize question; free of any unnecessary information."""
 
     question = dspy.InputField()
 
     core_question = dspy.OutputField(desc="The one liner core question.")
 
 class ProblemSolvingInfo(dspy.Signature):
-    """Extract and list the available information from the question that can be used to solve it"""
+    """Extract and list the available information from the question that can be used to solve it."""
 
     question = dspy.InputField()
 

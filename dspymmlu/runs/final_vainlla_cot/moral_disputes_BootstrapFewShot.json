@@ -1,0 +1,66 @@
+{
+  "prog": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "Which of the following is an intrinsic good, according to Singer?",
+        "subject": "moral_disputes",
+        "a": "being in the upper class",
+        "b": "the ability to learn and solve problems",
+        "c": "being more beautiful than most of the population",
+        "d": "being shorter than average",
+        "rationale": "produce the answer. We know that Singer focuses on the well-being of sentient beings and their capacity to experience pleasure and pain. Therefore, the ability to learn and solve problems would be considered an intrinsic good.",
+        "answer": "B"
+      },
+      {
+        "augmented": true,
+        "question": "A fertilized ovum is also known as",
+        "subject": "moral_disputes",
+        "a": "a zygote.",
+        "b": "an embryo.",
+        "c": "a viability.",
+        "d": "a blastocyst.",
+        "rationale": "produce the answer. A fertilized ovum is the initial stage of a developing organism after fertilization, which is called a zygote.",
+        "answer": "A"
+      },
+      {
+        "augmented": true,
+        "question": "Baron admits that the versions of the ticking bomb hypothetical she discusses are \"stunningly stupid,\" but she claims this is actually evidence of",
+        "subject": "moral_disputes",
+        "a": "the stupidity of most traditional philosophical examples.",
+        "b": "a general lack of intelligence among people with advanced degrees.",
+        "c": "the wrongness of torture.",
+        "d": "the readiness on the part of many intelligent people to see torture as the best solution to deal with terrorism.",
+        "rationale": "produce the answer. We need to consider why Baron believes the \"stunningly stupid\" versions of the ticking bomb hypothetical are actually evidence of something. She argues that this is evidence of the readiness on the part of many intelligent people to see torture as the best solution to deal with terrorism.",
+        "answer": "D"
+      },
+      {
+        "augmented": true,
+        "question": "Pence compares six different cases of reproduction, from natural twinning to SCNT. What conclusion does he draw from this comparison?",
+        "subject": "moral_disputes",
+        "a": "SCNT is not a different kind of reproduction because there are no morally relevant differences between it and other permissible means of reproduction.",
+        "b": "Because there is a low risk of harm for natural twinning, there will be a low risk of harm for SCNT.",
+        "c": "both A and B",
+        "d": "neither A nor B",
+        "rationale": "produce the answer. Pence compares six different cases of reproduction to show that SCNT is not a different kind of reproduction because there are no morally relevant differences between it and other permissible means of reproduction.",
+        "answer": "A"
+      },
+      {
+        "question": "According to Metz, what is wrong with consequentialist arguments against capital punishment based on African values?",
+        "subject": "moral_disputes",
+        "a": "It is unclear as of yet whether or not capital punishment deters harm to the community.",
+        "b": "It is unclear as of yet whether or not capital punishment deters harm to any individuals.",
+        "c": "Consequentialism is not supported by African values.",
+        "d": "Even though consequentialism is supported by African values, no consequentialist arguments framed in terms of African values have been offered.",
+        "answer": "A"
+      }
+    ],
+    "signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "signature_prefix": "Answer:",
+    "extended_signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "extended_signature_prefix": "Answer:"
+  }
+}

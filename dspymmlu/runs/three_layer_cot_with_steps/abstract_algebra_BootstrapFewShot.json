@@ -1,0 +1,229 @@
+{
+  "core_question": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "Find all c in Z_3 such that Z_3[x]\/(x^2 + c) is a field.",
+        "rationale": "produce the core question. We need to determine the values of c in Z_3 that make the polynomial x^2 + c irreducible in Z_3[x].",
+        "core_question": "What values of c in Z_3 make the polynomial x^2 + c irreducible in Z_3[x]?"
+      },
+      {
+        "question": "Find the characteristic of the ring 2Z.",
+        "subject": "abstract_algebra",
+        "a": "0",
+        "b": "3",
+        "c": "12",
+        "d": "30",
+        "answer": "A"
+      },
+      {
+        "question": "Statement 1| Every function from a finite set onto itself must be one to one. Statement 2 | Every subgroup of an abelian group is abelian.",
+        "subject": "abstract_algebra",
+        "a": "True, True",
+        "b": "False, False",
+        "c": "True, False",
+        "d": "False, True",
+        "answer": "A"
+      },
+      {
+        "question": "Statement 1 | If aH is an element of a factor group, then |aH| divides |a|. Statement 2 | If H and K are subgroups of G then HK is a subgroup of G.",
+        "subject": "abstract_algebra",
+        "a": "True, True",
+        "b": "False, False",
+        "c": "True, False",
+        "d": "False, True",
+        "answer": "B"
+      },
+      {
+        "question": "Statement 1 | Every element of a group generates a cyclic subgroup of the group. Statement 2 | The symmetric group S_10 has 10 elements.",
+        "subject": "abstract_algebra",
+        "a": "True, True",
+        "b": "False, False",
+        "c": "True, False",
+        "d": "False, True",
+        "answer": "C"
+      }
+    ],
+    "signature_instructions": "Given a question, output a crisp and consize question free of any unnecessary information.",
+    "signature_prefix": "Core Question:",
+    "extended_signature_instructions": "Given a question, output a crisp and consize question free of any unnecessary information.",
+    "extended_signature_prefix": "Core Question:"
+  },
+  "info": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "Find all c in Z_3 such that Z_3[x]\/(x^2 + c) is a field.",
+        "rationale": "determine the values of c that make Z_3[x]\/(x^2 + c) a field. We need to consider the conditions for a polynomial ring modulo an irreducible polynomial to be a field.",
+        "info": "- We are working in Z_3, the field of integers modulo 3.\n- We are looking for values of c in Z_3 such that Z_3[x]\/(x^2 + c) is a field."
+      },
+      {
+        "question": "Statement 1 | Every element of a group generates a cyclic subgroup of the group. Statement 2 | The symmetric group S_10 has 10 elements.",
+        "subject": "abstract_algebra",
+        "a": "True, True",
+        "b": "False, False",
+        "c": "True, False",
+        "d": "False, True",
+        "answer": "C"
+      },
+      {
+        "question": "Statement 1| Every function from a finite set onto itself must be one to one. Statement 2 | Every subgroup of an abelian group is abelian.",
+        "subject": "abstract_algebra",
+        "a": "True, True",
+        "b": "False, False",
+        "c": "True, False",
+        "d": "False, True",
+        "answer": "A"
+      },
+      {
+        "question": "Statement 1 | If aH is an element of a factor group, then |aH| divides |a|. Statement 2 | If H and K are subgroups of G then HK is a subgroup of G.",
+        "subject": "abstract_algebra",
+        "a": "True, True",
+        "b": "False, False",
+        "c": "True, False",
+        "d": "False, True",
+        "answer": "B"
+      },
+      {
+        "question": "Find the characteristic of the ring 2Z.",
+        "subject": "abstract_algebra",
+        "a": "0",
+        "b": "3",
+        "c": "12",
+        "d": "30",
+        "answer": "A"
+      }
+    ],
+    "signature_instructions": "Extract and list the available information from the question that can be used to solve it",
+    "signature_prefix": "Info:",
+    "extended_signature_instructions": "Extract and list the available information from the question that can be used to solve it",
+    "extended_signature_prefix": "Info:"
+  },
+  "steps": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "Find all c in Z_3 such that Z_3[x]\/(x^2 + c) is a field.",
+        "subject": "abstract_algebra",
+        "a": "0",
+        "b": "1",
+        "c": "2",
+        "d": "3",
+        "core_question": "What values of c in Z_3 make the polynomial x^2 + c irreducible in Z_3[x]?",
+        "info": "- We are working in Z_3, the field of integers modulo 3.\n- We are looking for values of c in Z_3 such that Z_3[x]\/(x^2 + c) is a field.",
+        "rationale": "help solve the question. We need to find the values of c in Z_3 that make the polynomial x^2 + c irreducible in Z_3[x].",
+        "steps": "1. Recall that a polynomial is irreducible in a field if it cannot be factored into a product of two non-constant polynomials.\n2. In Z_3, we have three elements: 0, 1, and 2.\n3. Substitute each value of c (0, 1, 2) into the polynomial x^2 + c and check if it is irreducible in Z_3[x].\n4. For c = 0, we have x^2. This polynomial is reducible as x^2 = x * x. Therefore, c = 0 does not make x^2 + c irreducible.\n5. For c = 1, we have x^2 + 1. This polynomial is irreducible in Z_3[x] as it cannot be factored into two non-constant polynomials.\n6. For c = 2, we have x^2 + 2. This polynomial is reducible as x^2 + 2 = (x + 1)(x + 2). Therefore,"
+      },
+      {
+        "question": "Statement 1 | If aH is an element of a factor group, then |aH| divides |a|. Statement 2 | If H and K are subgroups of G then HK is a subgroup of G.",
+        "subject": "abstract_algebra",
+        "a": "True, True",
+        "b": "False, False",
+        "c": "True, False",
+        "d": "False, True",
+        "answer": "B"
+      },
+      {
+        "question": "Find the characteristic of the ring 2Z.",
+        "subject": "abstract_algebra",
+        "a": "0",
+        "b": "3",
+        "c": "12",
+        "d": "30",
+        "answer": "A"
+      },
+      {
+        "question": "Statement 1 | Every element of a group generates a cyclic subgroup of the group. Statement 2 | The symmetric group S_10 has 10 elements.",
+        "subject": "abstract_algebra",
+        "a": "True, True",
+        "b": "False, False",
+        "c": "True, False",
+        "d": "False, True",
+        "answer": "C"
+      },
+      {
+        "question": "Statement 1| Every function from a finite set onto itself must be one to one. Statement 2 | Every subgroup of an abelian group is abelian.",
+        "subject": "abstract_algebra",
+        "a": "True, True",
+        "b": "False, False",
+        "c": "True, False",
+        "d": "False, True",
+        "answer": "A"
+      }
+    ],
+    "signature_instructions": "\n    Given a multiple choice question, the subject, 4 answer choices, and some supplemental information, generate a step by step guide to solving the question.\n    ",
+    "signature_prefix": "Steps:",
+    "extended_signature_instructions": "\n    Given a multiple choice question, the subject, 4 answer choices, and some supplemental information, generate a step by step guide to solving the question.\n    ",
+    "extended_signature_prefix": "Steps:"
+  },
+  "prog": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "Find all c in Z_3 such that Z_3[x]\/(x^2 + c) is a field.",
+        "subject": "abstract_algebra",
+        "a": "0",
+        "b": "1",
+        "c": "2",
+        "d": "3",
+        "core_question": "What values of c in Z_3 make the polynomial x^2 + c irreducible in Z_3[x]?",
+        "info": "- We are working in Z_3, the field of integers modulo 3.\n- We are looking for values of c in Z_3 such that Z_3[x]\/(x^2 + c) is a field.",
+        "steps": "1. Recall that a polynomial is irreducible in a field if it cannot be factored into a product of two non-constant polynomials.\n2. In Z_3, we have three elements: 0, 1, and 2.\n3. Substitute each value of c (0, 1, 2) into the polynomial x^2 + c and check if it is irreducible in Z_3[x].\n4. For c = 0, we have x^2. This polynomial is reducible as x^2 = x * x. Therefore, c = 0 does not make x^2 + c irreducible.\n5. For c = 1, we have x^2 + 1. This polynomial is irreducible in Z_3[x] as it cannot be factored into two non-constant polynomials.\n6. For c = 2, we have x^2 + 2. This polynomial is reducible as x^2 + 2 = (x + 1)(x + 2). Therefore,",
+        "rationale": "find the answer. We check each value of c in Z_3 to see if the polynomial x^2 + c is irreducible. The correct answer is the value of c that makes the polynomial irreducible.",
+        "answer": "B"
+      },
+      {
+        "question": "Statement 1 | Every element of a group generates a cyclic subgroup of the group. Statement 2 | The symmetric group S_10 has 10 elements.",
+        "subject": "abstract_algebra",
+        "a": "True, True",
+        "b": "False, False",
+        "c": "True, False",
+        "d": "False, True",
+        "answer": "C"
+      },
+      {
+        "question": "Statement 1 | If aH is an element of a factor group, then |aH| divides |a|. Statement 2 | If H and K are subgroups of G then HK is a subgroup of G.",
+        "subject": "abstract_algebra",
+        "a": "True, True",
+        "b": "False, False",
+        "c": "True, False",
+        "d": "False, True",
+        "answer": "B"
+      },
+      {
+        "question": "Statement 1| Every function from a finite set onto itself must be one to one. Statement 2 | Every subgroup of an abelian group is abelian.",
+        "subject": "abstract_algebra",
+        "a": "True, True",
+        "b": "False, False",
+        "c": "True, False",
+        "d": "False, True",
+        "answer": "A"
+      },
+      {
+        "question": "Find the characteristic of the ring 2Z.",
+        "subject": "abstract_algebra",
+        "a": "0",
+        "b": "3",
+        "c": "12",
+        "d": "30",
+        "answer": "A"
+      }
+    ],
+    "signature_instructions": "\n    Given a multiple choice question, the subject, 4 answer choices, the core question, the list of atomic information available in the question, and the step by step guide to solving the question, generate the correct answer.\n    ",
+    "signature_prefix": "Answer:",
+    "extended_signature_instructions": "\n    Given a multiple choice question, the subject, 4 answer choices, the core question, the list of atomic information available in the question, and the step by step guide to solving the question, generate the correct answer.\n    ",
+    "extended_signature_prefix": "Answer:"
+  }
+}

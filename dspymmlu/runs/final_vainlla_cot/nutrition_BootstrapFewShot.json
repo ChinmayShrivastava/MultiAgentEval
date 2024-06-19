@@ -1,0 +1,60 @@
+{
+  "prog": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "Which of the following is the most plausible explanation for the protective effect of dietary fibre against cancer of the colon, as of 2020?\n",
+        "subject": "nutrition",
+        "a": "Propionic acid, formed during colonic fibre fermentation inhibits liver fatty acid synthesis",
+        "b": "Butyric acid, formed during colonic fibre fermentation stimulates \"silencing\" of the SLC5A8 tumour suppressor gene",
+        "c": "None of these options are correct",
+        "d": "Butyric acid, formed during colonic fibre fermentation stimulates anti-oxidant defences in the colon",
+        "rationale": "produce the answer. We know that butyric acid, formed during colonic fibre fermentation, has been shown to have anti-cancer effects in the colon. This is because butyric acid can stimulate apoptosis (cell death) in cancer cells and inhibit their growth. Therefore, option D is the most plausible explanation for the protective effect of dietary fibre against colon cancer.",
+        "answer": "D"
+      },
+      {
+        "question": "In a cohort study, the risk ratio of developing diabetes was 0.86 when comparing consumers of tea (the exposed) to those who did not drink tea (the unexposed). Which one statement is correct (according to knowledge in 2020)?\n",
+        "subject": "nutrition",
+        "a": "The tea drinkers have lower risk of developing diabetes.",
+        "b": "The tea drinkers have higher risk of developing diabetes.",
+        "c": "Based on the information given we cannot tell if the observed difference in disease risk is the result of chance.",
+        "d": "The risk ratio is close to the value one, so there is no difference in disease risk between the two groups.",
+        "answer": "C"
+      },
+      {
+        "question": "Which of the following statements is correct (according to knowledge in 2020)?\n",
+        "subject": "nutrition",
+        "a": "Consumers with phenylketonuria must avoid the consumption of the sweetener aspartame",
+        "b": "Consumers with phenylketonuria must avoid the consumption of the sweetener saccharin",
+        "c": "Consumers with phenylketonuria must avoid the consumption of the sweetener sucralose",
+        "d": "Consumers with phenylketonuria must avoid the consumption of the sweetener acesulfame K",
+        "answer": "A"
+      },
+      {
+        "question": "What is the first-line drug for patients with type 2 diabetes and obesity, as of 2020?\n",
+        "subject": "nutrition",
+        "a": "Acarbose",
+        "b": "Metformin",
+        "c": "Sulphonylureas",
+        "d": "Insulin",
+        "answer": "B"
+      },
+      {
+        "question": "Which of the following statements about iodine is correct, as of 2020?\n",
+        "subject": "nutrition",
+        "a": "50% of adults consume iodine at levels below the RNI",
+        "b": "Dairy products are a poor source of iodine",
+        "c": "The iodine content of organic milk is generally lower that the level in non-organic milk",
+        "d": "UK dietary reference values recommend an increase in iodine intake in pregnancy",
+        "answer": "C"
+      }
+    ],
+    "signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "signature_prefix": "Answer:",
+    "extended_signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "extended_signature_prefix": "Answer:"
+  }
+}

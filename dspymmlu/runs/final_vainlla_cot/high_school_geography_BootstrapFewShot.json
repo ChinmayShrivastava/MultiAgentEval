@@ -1,0 +1,60 @@
+{
+  "prog": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "Which of the following statements is NOT accurate regarding the services provided by local governments in the United States?",
+        "subject": "high_school_geography",
+        "a": "Duplication of efforts occurs often.",
+        "b": "Social problems of the central city spill over into the surrounding residential suburbs.",
+        "c": "Inefficiency in providing services occurs often.",
+        "d": "One neighborhood's efforts to reduce pollution are always supported by neighboring communities.",
+        "rationale": "produce the answer. We need to identify the statement that does not accurately describe the services provided by local governments in the United States.",
+        "answer": "D"
+      },
+      {
+        "question": "The rate of natural increase of a population is found by subtracting the",
+        "subject": "high_school_geography",
+        "a": "crude death rate from the crude birth date.",
+        "b": "crude birth rate from the crude death rate.",
+        "c": "doubling time from the crude birth rate.",
+        "d": "fertility rate from the crude death rate.",
+        "answer": "A"
+      },
+      {
+        "question": "During the third stage of the demographic transition model, which of the following is true?",
+        "subject": "high_school_geography",
+        "a": "Birth rates increase and population growth rate is less rapid.",
+        "b": "Birth rates decline and population growth rate is less rapid.",
+        "c": "Birth rates increase and population growth rate increases.",
+        "d": "Birth rates decrease and population growth rate increases.",
+        "answer": "B"
+      },
+      {
+        "question": "Which one of the following items is an example of nonmaterial culture?",
+        "subject": "high_school_geography",
+        "a": "Dove soap",
+        "b": "Dove candy bar",
+        "c": "Dove symbol",
+        "d": "A dove (bird)",
+        "answer": "C"
+      },
+      {
+        "question": "The practice of hiring a foreign third-party service provider to run an operation is called",
+        "subject": "high_school_geography",
+        "a": "outsourcing.",
+        "b": "offshoring.",
+        "c": "maquiladoras.",
+        "d": "locational interdependence.",
+        "answer": "B"
+      }
+    ],
+    "signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "signature_prefix": "Answer:",
+    "extended_signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "extended_signature_prefix": "Answer:"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "prog": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "Why isn't there a planet where the asteroid belt is located?",
+        "subject": "astronomy",
+        "a": "A planet once formed here but it was broken apart by a catastrophic collision.",
+        "b": "There was not enough material in this part of the solar nebula to form a planet.",
+        "c": "There was too much rocky material to form a terrestrial planet but not enough gaseous material to form a jovian planet.",
+        "d": "Resonance with Jupiter prevented material from collecting together to form a planet.",
+        "rationale": "produce the answer. We know that the asteroid belt is located between Mars and Jupiter, where a planet could have formed. However, due to the gravitational influence of Jupiter, the material in this region was not able to come together to form a planet.",
+        "answer": "D"
+      },
+      {
+        "augmented": true,
+        "question": "Why is Mars red?",
+        "subject": "astronomy",
+        "a": "Because the surface is covered with heavily oxidized (\"rusted\") minerals.",
+        "b": "Because the atmosphere scatters more light at bluer wavelengths transmitting mostly red light.",
+        "c": "Because Mars is covered with ancient lava flows which are red in color.",
+        "d": "Because flowing water on Mars's surface altered the surface minerals several billion years ago.",
+        "rationale": "produce the answer. We know that Mars appears red due to the presence of iron oxide, also known as rust, on its surface. This heavily oxidized mineral gives Mars its distinctive red color.",
+        "answer": "A"
+      },
+      {
+        "question": "Where do most short-period comets come from and how do we know?",
+        "subject": "astronomy",
+        "a": "The Kuiper belt; short period comets tend to be in the plane of the solar system just like the Kuiper belt.",
+        "b": "The Kuiper belt; short period comets tend to come from random directions indicating a spherical distribution of comets called the Kuiper belt.",
+        "c": "The asteroid belt; short period comets have orbital periods similar to asteroids like Vesta and are found in the plane of the solar system just like the asteroid belt.",
+        "d": "The Oort cloud; short period comets tend to be in the plane of the solar system just like the Oort cloud.",
+        "answer": "A"
+      },
+      {
+        "question": "Say the pupil of your eye has a diameter of 5 mm and you have a telescope with an aperture of 50 cm. How much more light can the telescope gather than your eye?",
+        "subject": "astronomy",
+        "a": "10000 times more",
+        "b": "100 times more",
+        "c": "1000 times more",
+        "d": "10 times more",
+        "answer": "A"
+      },
+      {
+        "question": "You are pushing a truck along a road. Would it be easier to accelerate this truck on Mars? Why? (Assume there is no friction)",
+        "subject": "astronomy",
+        "a": "It would be harder since the truck is heavier on Mars.",
+        "b": "It would be easier since the truck is lighter on Mars.",
+        "c": "It would be harder since the truck is lighter on Mars.",
+        "d": "It would be the same no matter where you are.",
+        "answer": "D"
+      }
+    ],
+    "signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "signature_prefix": "Answer:",
+    "extended_signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "extended_signature_prefix": "Answer:"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "prog": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "Large triplet repeat expansions can be detected by:",
+        "subject": "medical_genetics",
+        "a": "polymerase chain reaction.",
+        "b": "single strand conformational polymorphism analysis.",
+        "c": "Southern blotting.",
+        "d": "Western blotting.",
+        "rationale": "produce the answer. We know that large triplet repeat expansions are a type of mutation that involves the repetition of three nucleotides in a gene. Among the options provided, the technique commonly used to detect such expansions is Southern blotting, which involves the detection of specific DNA sequences.",
+        "answer": "C"
+      },
+      {
+        "augmented": true,
+        "question": "DNA ligase is",
+        "subject": "medical_genetics",
+        "a": "an enzyme that joins fragments in normal DNA replication",
+        "b": "an enzyme of bacterial origin which cuts DNA at defined base sequences",
+        "c": "an enzyme that facilitates transcription of specific genes",
+        "d": "an enzyme which limits the level to which a particular nutrient reaches",
+        "rationale": "produce the answer. DNA ligase is responsible for joining Okazaki fragments during DNA replication, so it is an enzyme that joins fragments in normal DNA replication.",
+        "answer": "A"
+      },
+      {
+        "augmented": true,
+        "question": "A gene showing codominance",
+        "subject": "medical_genetics",
+        "a": "has both alleles independently expressed in the heterozygote",
+        "b": "has one allele dominant to the other",
+        "c": "has alleles tightly linked on the same chromosome",
+        "d": "has alleles expressed at the same time in development",
+        "rationale": "produce the answer. We know that codominance occurs when both alleles are independently expressed in the heterozygote, meaning that neither allele is dominant over the other.",
+        "answer": "A"
+      },
+      {
+        "augmented": true,
+        "question": "Which of the following conditions does not show multifactorial inheritance?",
+        "subject": "medical_genetics",
+        "a": "Pyloric stenosis",
+        "b": "Schizophrenia",
+        "c": "Spina bifida (neural tube defects)",
+        "d": "Marfan syndrome",
+        "rationale": "produce the answer. We know that multifactorial inheritance involves both genetic and environmental factors contributing to the phenotype. Pyloric stenosis, schizophrenia, and spina bifida are all examples of conditions that have been shown to have multifactorial inheritance patterns. However, Marfan syndrome is a genetic disorder caused by mutations in the FBN1 gene on chromosome 15 and does not have multifactorial inheritance.",
+        "answer": "D"
+      },
+      {
+        "question": "The stage of meiosis in which chromosomes pair and cross over is:",
+        "subject": "medical_genetics",
+        "a": "prophase I",
+        "b": "metaphase I",
+        "c": "prophase II",
+        "d": "metaphase II",
+        "answer": "A"
+      }
+    ],
+    "signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "signature_prefix": "Answer:",
+    "extended_signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "extended_signature_prefix": "Answer:"
+  }
+}

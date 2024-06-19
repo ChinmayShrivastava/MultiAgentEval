@@ -1,0 +1,62 @@
+{
+  "prog": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "The nature of homosexual activities that occur during preadolescence include all but which of the following?",
+        "subject": "human_sexuality",
+        "a": "sexual intercourse",
+        "b": "circle jerks",
+        "c": "exhibitionism",
+        "d": "touching each other's genitals",
+        "rationale": "produce the answer. We know that preadolescence refers to the period before adolescence, typically ranging from age 9 to 12. Given this age range, engaging in sexual intercourse would be highly unlikely and inappropriate. Therefore, the correct answer is A.",
+        "answer": "A"
+      },
+      {
+        "augmented": true,
+        "question": "Morning sickness is typically a problem:",
+        "subject": "human_sexuality",
+        "a": "during the first trimester",
+        "b": "during the second trimester",
+        "c": "during the third trimester",
+        "d": "all through the pregnancy",
+        "rationale": "produce the answer. Morning sickness is most commonly experienced during the first trimester of pregnancy due to hormonal changes and increased sensitivity to smells.",
+        "answer": "A"
+      },
+      {
+        "question": "A woman who knows she has active herpes and untreated syphilis but continues to have sex without informing her partners of her condition has, in psychoanalytic terms:",
+        "subject": "human_sexuality",
+        "a": "a strong ego",
+        "b": "a weak superego",
+        "c": "a weak id",
+        "d": "a strong superego",
+        "answer": "B"
+      },
+      {
+        "question": "Women's ability to have multiple orgasms is primarily due to:",
+        "subject": "human_sexuality",
+        "a": "the fact that they do not have a refractory period.",
+        "b": "the response of the inner layers of the vagina.",
+        "c": "having alternating orgasms in different locations.",
+        "d": "the G-Spot.",
+        "answer": "A"
+      },
+      {
+        "question": "The most common disorder among men who seek sexual therapy is:",
+        "subject": "human_sexuality",
+        "a": "premature ejaculation",
+        "b": "inhibited ejaculation",
+        "c": "erectile disorder",
+        "d": "ejaculatory disorder",
+        "answer": "C"
+      }
+    ],
+    "signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "signature_prefix": "Answer:",
+    "extended_signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "extended_signature_prefix": "Answer:"
+  }
+}

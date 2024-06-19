@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/314481674283831289
+creation_time: 1718756288465
+experiment_id: '314481674283831289'
+last_update_time: 1718756288465
+lifecycle_stage: active
+name: three_layer_cot_with_steps

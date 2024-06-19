@@ -1,0 +1,64 @@
+{
+  "prog": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "The pleura",
+        "subject": "anatomy",
+        "a": "have no sensory innervation.",
+        "b": "are separated by a 2 mm space.",
+        "c": "extend into the neck.",
+        "d": "are composed of respiratory epithelium.",
+        "rationale": "produce the answer. The pleura are innervated by the intercostal nerves and the phrenic nerve, providing sensory innervation. The pleural cavity is a potential space that contains a small amount of pleural fluid to lubricate the pleural surfaces, not a 2 mm space. The pleura extend into the neck, known as the cervical pleura. The pleura are composed of simple squamous epithelium, not respiratory epithelium.",
+        "answer": "C"
+      },
+      {
+        "augmented": true,
+        "question": "Which of these branches of the trigeminal nerve contain somatic motor processes?",
+        "subject": "anatomy",
+        "a": "The supraorbital nerve",
+        "b": "The infraorbital nerve",
+        "c": "The mental nerve",
+        "d": "None of the above",
+        "rationale": "produce the answer. The trigeminal nerve has three main branches - ophthalmic, maxillary, and mandibular. The ophthalmic branch contains only sensory processes, while the maxillary and mandibular branches contain both sensory and motor processes. The supraorbital, infraorbital, and mental nerves are all branches of the maxillary division, which means they contain somatic motor processes.",
+        "answer": "D"
+      },
+      {
+        "augmented": true,
+        "question": "Which of the following is the body cavity that contains the pituitary gland?",
+        "subject": "anatomy",
+        "a": "Abdominal",
+        "b": "Cranial",
+        "c": "Pleural",
+        "d": "Spinal",
+        "rationale": "produce the answer. The pituitary gland is located in the cranial cavity, specifically in the sella turcica of the sphenoid bone.",
+        "answer": "B"
+      },
+      {
+        "question": "In Angle's Class II Div 2 occlusion there is",
+        "subject": "anatomy",
+        "a": "excess overbite of the upper lateral incisors.",
+        "b": "negative overjet of the upper central incisors.",
+        "c": "excess overjet of the upper lateral incisors.",
+        "d": "excess overjet of the upper central incisors.",
+        "answer": "C"
+      },
+      {
+        "question": "What is the embryological origin of the hyoid bone?",
+        "subject": "anatomy",
+        "a": "The first pharyngeal arch",
+        "b": "The first and second pharyngeal arches",
+        "c": "The second pharyngeal arch",
+        "d": "The second and third pharyngeal arches",
+        "answer": "D"
+      }
+    ],
+    "signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "signature_prefix": "Answer:",
+    "extended_signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "extended_signature_prefix": "Answer:"
+  }
+}

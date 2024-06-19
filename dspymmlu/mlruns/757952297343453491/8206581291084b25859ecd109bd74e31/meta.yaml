@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/757952297343453491/8206581291084b25859ecd109bd74e31/artifacts
+end_time: 1718756280106
+entry_point_name: ''
+experiment_id: '757952297343453491'
+lifecycle_stage: active
+run_id: 8206581291084b25859ecd109bd74e31
+run_name: abstract_algebra+5574788c-0900-4923-8bd5-00503592297d
+run_uuid: 8206581291084b25859ecd109bd74e31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718756279893
+status: 3
+tags: []
+user_id: chinmayshrivastava

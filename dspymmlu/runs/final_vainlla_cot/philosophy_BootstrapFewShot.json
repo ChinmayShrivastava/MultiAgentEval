@@ -1,0 +1,64 @@
+{
+  "prog": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "Psychological egoism is:",
+        "subject": "philosophy",
+        "a": "an ethical theory about how we ought to behave.",
+        "b": "a generalization concerning the way people tend to behave.",
+        "c": "a claim about human nature and the ways people are capable of behaving.",
+        "d": "none of the above.",
+        "rationale": "produce the answer. Psychological egoism is a claim about human nature stating that people are always motivated by self-interest.",
+        "answer": "C"
+      },
+      {
+        "augmented": true,
+        "question": "Before Tolstoy's Christian conversion, what was his perspective on the meaning of life?",
+        "subject": "philosophy",
+        "a": "optimist",
+        "b": "satisfied",
+        "c": "nominally religious",
+        "d": "pessimist",
+        "rationale": "produce the answer. We know that Tolstoy's perspective on the meaning of life changed after his Christian conversion, so before that, he was likely not optimistic or satisfied. He was also not fully religious at that time. Therefore, the most fitting option would be that he was a pessimist.",
+        "answer": "D"
+      },
+      {
+        "augmented": true,
+        "question": "According to d'Holbach, people always act according to _____.",
+        "subject": "philosophy",
+        "a": "free choices",
+        "b": "dictates of the soul",
+        "c": "necessary natural laws",
+        "d": "undetermined will",
+        "rationale": "produce the answer. We know that d'Holbach was a determinist, believing that everything is governed by natural laws. Therefore, the correct answer is C.",
+        "answer": "C"
+      },
+      {
+        "question": "The study of reality in the broadest sense, an inquiry into the elemental nature of the universe and the things in it, is known as _____.",
+        "subject": "philosophy",
+        "a": "metaphysics",
+        "b": "epistemology",
+        "c": "quantum physics",
+        "d": "axiology",
+        "answer": "A"
+      },
+      {
+        "question": "According to Moore\u2019s \u201cideal utilitarianism,\u201d the right action is the one that brings about the greatest amount of:",
+        "subject": "philosophy",
+        "a": "pleasure.",
+        "b": "happiness.",
+        "c": "good.",
+        "d": "virtue.",
+        "answer": "C"
+      }
+    ],
+    "signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "signature_prefix": "Answer:",
+    "extended_signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "extended_signature_prefix": "Answer:"
+  }
+}
