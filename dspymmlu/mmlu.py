@@ -63,9 +63,14 @@ def gen_optimizers_for_all_subjects():
 
 def test_all_subjects():
     for i, subject in enumerate(SUBJECTS):
+        if not os.path.exists(SAVE_DIR+"/"+subject+"_"+OPTIMIZER+".json"):
+            continue
         print(f"Testing for subject: {subject} - {i+1}/{len(SUBJECTS)}")
         pipeline = DSPYpipeline(
             model=DEFAULT_MODEL_STRING,
+            save_dir=SAVE_DIR,
+            subject=subject,
+            optimizer=OPTIMIZER,
             save_path=SAVE_DIR+"/"+subject+"_"+OPTIMIZER+".json",
             program=PROGRAM,
             max_tokens=MAX_TOKENS,
@@ -74,6 +79,22 @@ def test_all_subjects():
         )
         # test
         pipeline.test(subject)
+
+def test_n_random(n):
+    pipeline = DSPYpipeline(
+            model=DEFAULT_MODEL_STRING,
+            save_dir=SAVE_DIR,
+            optimizer=OPTIMIZER,
+            save_path=SAVE_DIR+"/"+""+"_"+OPTIMIZER+".json",
+            program=PROGRAM,
+            max_tokens=MAX_TOKENS,
+            mlflow_tracking_uri=MLFLOW_TRACKING_URI,
+            mlflow_experiment_name=MLFLOW_EXPERIMENT_NAME
+        )
+    # test
+    pipeline.test_n_random(n)
+
+    
 
 # def gen_optimizers_for_subject(subject, i, total):
 #     print(f"Optimizing for subject: {subject} - {i+1}/{total}")
@@ -98,4 +119,6 @@ def test_all_subjects():
 
 if __name__ == '__main__':
     # main()
-    gen_optimizers_for_all_subjects()
+    # gen_optimizers_for_all_subjects()
+    # test_all_subjects()
+    test_n_random(10)

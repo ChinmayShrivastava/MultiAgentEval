@@ -131,3 +131,22 @@ def get_data(subject) -> tuple[list[dspy.Example], list[dspy.Example], list[dspy
 
 # if __name__ == '__main__':
 #     print(len(get_examples('abstract_algebra_val')))
+
+# Calculate total number of questions for each subject
+subject_totals = {subject: len(get_test_data(subject)) for subject in SUBJECTS}
+# Create a weighted list of subjects
+weighted_subjects = [subject for subject in subject_totals for _ in range(subject_totals[subject])]
+
+def get_random_data_point() -> tuple[str, dspy.Example]:
+    import random
+    print(weighted_subjects)
+    # Select a random subject from the weighted list
+    subject = random.choice(weighted_subjects)
+    data = get_test_data(subject)
+    return subject, random.choice(data)
+
+def get_n_random_data_points(n: int) -> list[tuple[str, dspy.Example]]:
+    data_points = []
+    for _ in range(n):
+        data_points.append(get_random_data_point())
+    return data_points
