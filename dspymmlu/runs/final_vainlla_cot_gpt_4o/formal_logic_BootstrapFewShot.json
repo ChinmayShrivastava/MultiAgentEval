@@ -1,0 +1,60 @@
+{
+  "prog": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": " Select the best English interpretation of the given arguments in predicate logic.\nDm\n(\u2200x)(Wx \u2283 ~Dx)\n(\u2200x)Wx \u2228 Ag\t\/ (\u2203x)Ax",
+        "subject": "formal_logic",
+        "a": "Marina is a dancer. Some weaklings are not dancers. Either everything is a weakling or Georgia plays volleyball. So something plays volleyball.",
+        "b": "Marina is a dancer. No weakling is a dancer. Everything is either a weakling or plays volleyball. So something plays volleyball.",
+        "c": "Marina is a dancer. Some weaklings are not dancers. Everything is either a weakling or plays volleyball. So something plays volleyball.",
+        "d": "Marina is a dancer. No weakling is a dancer. Either everything is a weakling or Georgia plays volleyball. So something plays volleyball.",
+        "rationale": "produce the answer. We need to translate the given predicate logic statements into English and match them with the provided options.\n\n1. Dm: Marina is a dancer.\n2. (\u2200x)(Wx \u2283 ~Dx): For all x, if x is a weakling, then x is not a dancer. This means no weakling is a dancer.\n3. (\u2200x)Wx \u2228 Ag: Everything is a weakling or Georgia plays volleyball.\n4. \/ (\u2203x)Ax: Therefore, something plays volleyball.\n\nNow, let's match these translations with the given options:\n\nA: Marina is a dancer. Some weaklings are not dancers. Either everything is a weakling or Georgia plays volleyball. So something plays volleyball.\n- This is incorrect because it says \"Some weaklings are not dancers\" instead of \"No weakling is a dancer.\"\n\nB: Marina is a dancer. No weakling is a dancer. Everything is either a weakling or plays volleyball. So something plays volleyball.\n- This is incorrect because it says \"Everything is either a weakling or plays volleyball\" instead of \"Everything is a weakling or Georgia plays volleyball.\"\n\nC: Marina is a dancer. Some weaklings are not dancers. Everything is either a weakling",
+        "answer": "D"
+      },
+      {
+        "question": "Select the best translation into predicate logic.George borrows Hector's lawnmower. (g: George; h: Hector; l: Hector's lawnmower; Bxyx: x borrows y from z)",
+        "subject": "formal_logic",
+        "a": "Blgh",
+        "b": "Bhlg",
+        "c": "Bglh",
+        "d": "Bghl",
+        "answer": "C"
+      },
+      {
+        "question": " Which of the given formulas of PL is the best symbolization of the following sentence?\nTurtles live long lives and are happy creatures, unless they are injured.",
+        "subject": "formal_logic",
+        "a": "(L \u2022 H) \u2261 I",
+        "b": "(L \u2022 H) \u2228 I",
+        "c": "L \u2022 (H \u2228 I)",
+        "d": "L \u2022 (H \u2283 R)",
+        "answer": "B"
+      },
+      {
+        "question": " Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whether the statements are logically equivalent or contradictory. If neither, determine whether they are consistent or inconsistent. Justify your answers.\nE \u2283 (F \u00b7 E) and ~E \u00b7 F",
+        "subject": "formal_logic",
+        "a": "Logically equivalent",
+        "b": "Contradictory",
+        "c": "Neither logically equivalent nor contradictory, but consistent",
+        "d": "Inconsistent",
+        "answer": "C"
+      },
+      {
+        "question": " Select the best translation into predicate logic: No people drive on Mars.",
+        "subject": "formal_logic",
+        "a": "~Pd",
+        "b": "(\u2200x)(Px \u2228 ~Dx)",
+        "c": "(\u2200x)(Px \u2283 ~Dx)",
+        "d": "~Dp",
+        "answer": "C"
+      }
+    ],
+    "signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "signature_prefix": "Answer:",
+    "extended_signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "extended_signature_prefix": "Answer:"
+  }
+}

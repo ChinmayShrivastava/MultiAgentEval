@@ -1,0 +1,60 @@
+{
+  "prog": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "Large triplet repeat expansions can be detected by:",
+        "subject": "medical_genetics",
+        "a": "polymerase chain reaction.",
+        "b": "single strand conformational polymorphism analysis.",
+        "c": "Southern blotting.",
+        "d": "Western blotting.",
+        "rationale": "produce the answer. We need to identify the method that is most suitable for detecting large triplet repeat expansions. \n\n1. Polymerase chain reaction (PCR) is typically used for amplifying small segments of DNA, but it may not be effective for very large repeat expansions.\n2. Single strand conformational polymorphism (SSCP) analysis is used to detect small changes in DNA sequence, not large expansions.\n3. Southern blotting is a technique that can detect large DNA fragments and is commonly used to identify large triplet repeat expansions.\n4. Western blotting is used to detect proteins, not DNA.\n\nBased on this reasoning, the correct answer is:",
+        "answer": "C"
+      },
+      {
+        "question": "DNA ligase is",
+        "subject": "medical_genetics",
+        "a": "an enzyme that joins fragments in normal DNA replication",
+        "b": "an enzyme of bacterial origin which cuts DNA at defined base sequences",
+        "c": "an enzyme that facilitates transcription of specific genes",
+        "d": "an enzyme which limits the level to which a particular nutrient reaches",
+        "answer": "A"
+      },
+      {
+        "question": "A gene showing codominance",
+        "subject": "medical_genetics",
+        "a": "has both alleles independently expressed in the heterozygote",
+        "b": "has one allele dominant to the other",
+        "c": "has alleles tightly linked on the same chromosome",
+        "d": "has alleles expressed at the same time in development",
+        "answer": "A"
+      },
+      {
+        "question": "The stage of meiosis in which chromosomes pair and cross over is:",
+        "subject": "medical_genetics",
+        "a": "prophase I",
+        "b": "metaphase I",
+        "c": "prophase II",
+        "d": "metaphase II",
+        "answer": "A"
+      },
+      {
+        "question": "Which of the following conditions does not show multifactorial inheritance?",
+        "subject": "medical_genetics",
+        "a": "Pyloric stenosis",
+        "b": "Schizophrenia",
+        "c": "Spina bifida (neural tube defects)",
+        "d": "Marfan syndrome",
+        "answer": "D"
+      }
+    ],
+    "signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "signature_prefix": "Answer:",
+    "extended_signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "extended_signature_prefix": "Answer:"
+  }
+}

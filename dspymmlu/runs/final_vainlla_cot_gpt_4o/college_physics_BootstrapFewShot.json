@@ -1,0 +1,60 @@
+{
+  "prog": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "For which of the following thermodynamic processes is the increase in the internal energy of an ideal gas equal to the heat added to the gas?",
+        "subject": "college_physics",
+        "a": "Constant temperature",
+        "b": "Constant volume",
+        "c": "Constant pressure",
+        "d": "Adiabatic",
+        "rationale": "produce the answer. We need to consider the first law of thermodynamics, which states that the change in internal energy (\u0394U) of a system is equal to the heat added to the system (Q) minus the work done by the system (W). Mathematically, this is expressed as \u0394U = Q - W.\n\n- For a constant temperature process (isothermal), the internal energy of an ideal gas does not change (\u0394U = 0), so the heat added is equal to the work done by the gas (Q = W).\n- For a constant volume process (isochoric), no work is done by the gas (W = 0), so the change in internal energy is equal to the heat added (\u0394U = Q).\n- For a constant pressure process (isobaric), the work done by the gas is not zero, so the heat added is not equal to the change in internal energy (Q \u2260 \u0394U).\n- For an adiabatic process, no heat is added or removed (Q = 0), so the change in internal energy is equal to the negative of the work done by the gas (\u0394U = -W).\n\nTherefore, the correct answer is the process where the increase in internal energy is equal",
+        "answer": "b"
+      },
+      {
+        "question": "One end of a Nichrome wire of length 2L and cross-sectional area A is attached to an end of another Nichrome wire of length L and cross- sectional area 2A. If the free end of the longer wire is at an electric potential of 8.0 volts, and the free end of the shorter wire is at an electric potential of 1.0 volt, the potential at the junction of the two wires is most nearly equal to",
+        "subject": "college_physics",
+        "a": "2.4 V",
+        "b": "3.3 V",
+        "c": "4.5 V",
+        "d": "5.7 V",
+        "answer": "A"
+      },
+      {
+        "question": "A refracting telescope consists of two converging lenses separated by 100 cm. The eye-piece lens has a focal length of 20 cm. The angular magnification of the telescope is",
+        "subject": "college_physics",
+        "a": "4",
+        "b": "5",
+        "c": "6",
+        "d": "20",
+        "answer": "A"
+      },
+      {
+        "question": "A refracting telescope consists of two converging lenses separated by 100 cm. The eye-piece lens has a focal length of 20 cm. The angular magnification of the telescope is",
+        "subject": "college_physics",
+        "a": "4",
+        "b": "5",
+        "c": "6",
+        "d": "20",
+        "answer": "A"
+      },
+      {
+        "question": "The muon decays with a characteristic lifetime of about 10^-6 second into an electron, a muon neutrino, and an electron antineutrino. The muon is forbidden from decaying into an electron and just a single neutrino by the law of conservation of",
+        "subject": "college_physics",
+        "a": "charge",
+        "b": "mass",
+        "c": "energy and momentum",
+        "d": "lepton number",
+        "answer": "D"
+      }
+    ],
+    "signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "signature_prefix": "Answer:",
+    "extended_signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "extended_signature_prefix": "Answer:"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "prog": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "question": "_______ is the direct attempt to formally or informally manage ethical issues or problems, through specific policies, practices and programmes.",
+        "subject": "business_ethics",
+        "a": "Corporate social responsibility",
+        "b": "Business ethics management",
+        "c": "Sustainability",
+        "d": "Environmental management",
+        "answer": "B"
+      },
+      {
+        "question": "To ensure the independence of the non-executive board members, they are a number of steps which can be taken, which include non-executives being drawn from _______ the company, being appointed for a _________ time period as well as being appointed _________.",
+        "subject": "business_ethics",
+        "a": "Outside, Limited, Independently",
+        "b": "Inside, Limited, Intermittently",
+        "c": "Outside, Unlimited, Intermittently",
+        "d": "Inside, Unlimited, Independently",
+        "answer": "A"
+      },
+      {
+        "question": "Beyond the business case for engaging in CSR there are a number of moral arguments relating to: negative _______, the _______that corporations possess and the ________ of business and society.",
+        "subject": "business_ethics",
+        "a": "Externalities, Power, Independence",
+        "b": "Publicity, Insubstantial resources, Mutual dependence",
+        "c": "Publicity, Power, Independence",
+        "d": "Externalities, Power, Mutual dependence",
+        "answer": "D"
+      },
+      {
+        "question": "In contrast to _______, _______ aim to reward favourable behaviour by companies. The success of such campaigns have been heightened through the use of ___________, which allow campaigns to facilitate the company in achieving _________ .",
+        "subject": "business_ethics",
+        "a": "Buycotts, Boycotts, Blockchain technology, Charitable donations",
+        "b": "Buycotts, Boycotts, Digital technology, Increased Sales",
+        "c": "Boycotts, Buyalls, Blockchain technology, Charitable donations",
+        "d": "Boycotts, Buycotts, Digital technology, Increased Sales",
+        "answer": "D"
+      },
+      {
+        "question": "Three contrasting tactics that CSO's can engage in to meet their aims are ________ which typically involves research and communication, ________, which may involve physically attacking a company's operations or ________, often involving some form of _______.",
+        "subject": "business_ethics",
+        "a": "Non-violent direct action, Violent direct action, Indirect action, Boycott",
+        "b": "Indirect action, Instrumental action, Non-violent direct action, Information campaign",
+        "c": "Indirect action, Violent direct action, Non-violent direct-action Boycott",
+        "d": "Non-violent direct action, Instrumental action, Indirect action, Information campaign",
+        "answer": "C"
+      }
+    ],
+    "signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "signature_prefix": "Answer:",
+    "extended_signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "extended_signature_prefix": "Answer:"
+  }
+}

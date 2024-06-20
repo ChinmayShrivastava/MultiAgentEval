@@ -1,0 +1,58 @@
+{
+  "prog": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "question": "Which of these branches of the trigeminal nerve contain somatic motor processes?",
+        "subject": "anatomy",
+        "a": "The supraorbital nerve",
+        "b": "The infraorbital nerve",
+        "c": "The mental nerve",
+        "d": "None of the above",
+        "answer": "D"
+      },
+      {
+        "question": "What is the embryological origin of the hyoid bone?",
+        "subject": "anatomy",
+        "a": "The first pharyngeal arch",
+        "b": "The first and second pharyngeal arches",
+        "c": "The second pharyngeal arch",
+        "d": "The second and third pharyngeal arches",
+        "answer": "D"
+      },
+      {
+        "question": "Which of the following is the body cavity that contains the pituitary gland?",
+        "subject": "anatomy",
+        "a": "Abdominal",
+        "b": "Cranial",
+        "c": "Pleural",
+        "d": "Spinal",
+        "answer": "B"
+      },
+      {
+        "question": "In Angle's Class II Div 2 occlusion there is",
+        "subject": "anatomy",
+        "a": "excess overbite of the upper lateral incisors.",
+        "b": "negative overjet of the upper central incisors.",
+        "c": "excess overjet of the upper lateral incisors.",
+        "d": "excess overjet of the upper central incisors.",
+        "answer": "C"
+      },
+      {
+        "question": "The pleura",
+        "subject": "anatomy",
+        "a": "have no sensory innervation.",
+        "b": "are separated by a 2 mm space.",
+        "c": "extend into the neck.",
+        "d": "are composed of respiratory epithelium.",
+        "answer": "C"
+      }
+    ],
+    "signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "signature_prefix": "Answer:",
+    "extended_signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "extended_signature_prefix": "Answer:"
+  }
+}

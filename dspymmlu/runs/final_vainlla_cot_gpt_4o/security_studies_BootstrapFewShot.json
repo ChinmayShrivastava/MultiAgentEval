@@ -1,0 +1,62 @@
+{
+  "prog": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "What are the frameworks of analysis within which terrorism has been considered (as of 2020)?",
+        "subject": "security_studies",
+        "a": "Competition between larger nations has resulted in some countries actively supporting terrorist groups to undermine the strength of rival states. Terrorist networks are extended patronage clubs maintained and paid for by their donor states and are conceptualised as being like state actors, to be dealt with using military force.",
+        "b": "Globalization has enabled the internationalization of terrorist activities by opening up their operational space, although coordination is still managed from a geographical base. This suggests that terrorist groups are nationally structured which means that terrorism cannot be considered in terms of a war to be defeated militarily without having serious implications on the indigenous population.",
+        "c": "Terrorism can be viewed as a problem to be resolved by military means (war on terrorism), by normal police techniques (terrorism as crime), or as a medical problem with underlying causes and symptoms (terrorism as disease).",
+        "d": "Terrorism is viewed as a criminal problem. The criminalization of terrorism has two important implications. Firstly, it suggests that terrorism can be eradicated - terrorists can be caught and brought to trial by normal judicial proceedings thereby removing the threat from society - and secondly, it suggests that preventative crime techniques are applicable to prevent its development.",
+        "rationale": "produce the answer. We need to identify the frameworks of analysis within which terrorism has been considered. \n\n- Option A discusses the competition between nations and the support of terrorist groups by states, but it does not provide a broad framework of analysis.\n- Option B talks about globalization and the national structure of terrorist groups, but it also does not provide a comprehensive framework of analysis.\n- Option C mentions three distinct frameworks: military means (war on terrorism), police techniques (terrorism as crime), and medical problem (terrorism as disease). This option clearly outlines multiple frameworks of analysis.\n- Option D focuses solely on the criminalization of terrorism, which is just one framework.\n\nTherefore, the correct answer is the one that provides multiple frameworks of analysis, which is Option C.",
+        "answer": "C"
+      },
+      {
+        "augmented": true,
+        "question": "What distinguishes coercive diplomacy from military force?",
+        "subject": "security_studies",
+        "a": "Compellence is another term for coercive diplomacy, but covering a narrower set of criteria; compellence covers those threats aimed at initiating adversary action. A threat to coerce a state to give up part of its territory would count as coercive diplomacy, as long as that threat proactively initiates action before reactive diplomacy is taken.",
+        "b": "Coercive diplomacy constitutes the threats of limited force to induce adversary's incentive to comply with the coercer's demands. It is an influence strategy that is intended to obtain compliance: the use of force to defeat an opponent first does not count. It leaves an element of choice with the target to comply, or to continue.",
+        "c": "Military force, or the threat of military force, utilises fear to achieve strategic objectives. Coercive diplomacy is differentiated from this approach, because it does not use fear as a tool for coercing an adversary.",
+        "d": "Coercive diplomacy is employed to use force but to limit its effects on the international community. Coercive diplomacy is an aggressive strategy that is intended to obtain compliance through defeat. It does not leave an element of choice with the target, the target either being forced to comply or engage in conflict. It seeks to control by imposing compliance by removing any opportunity for negotiation or concession.",
+        "rationale": "produce the answer. We need to identify the key differences between coercive diplomacy and military force. \n\n- Option A discusses compellence, which is related but not directly addressing the distinction between coercive diplomacy and military force.\n- Option B states that coercive diplomacy involves threats of limited force and leaves an element of choice with the target, which aligns with the concept of coercive diplomacy.\n- Option C mentions that coercive diplomacy does not use fear, which is not accurate as coercive diplomacy can involve the threat of force.\n- Option D describes coercive diplomacy as an aggressive strategy that does not leave an element of choice, which contradicts the definition of coercive diplomacy.\n\nTherefore, the correct answer is:",
+        "answer": "B"
+      },
+      {
+        "question": "Which of the following is the best lens through which to investigate the role of child soldiers?",
+        "subject": "security_studies",
+        "a": "Child soldiers are victims of combat that need re-education and rehabilitation.",
+        "b": "Children and their mothers are not active subjects in warfare and are best considered as subjects in the private sphere.",
+        "c": "Children are most often innocent bystanders in war and are best used as signifiers of peace.",
+        "d": "Children have political subjecthood that is missed when they are considered as passive victims of warfare.",
+        "answer": "D"
+      },
+      {
+        "question": "How can we best describe the relationship between the state-centric approach and the concept of human security?",
+        "subject": "security_studies",
+        "a": "There are such wide divisions within the human security framework regarding the nature of threats and referent objects that no widely applicable comparisons between state-centric approaches and human security can be drawn.",
+        "b": "By adopting the framework of human security, the limitations of the realist state-centric approach become evident. Whilst human security defines the referent object as the person or population, state-centric approaches prioritise the security of the state, de-prioritizing the pursuit of human security.",
+        "c": "The state-centric approach to security is a faction of human security, usually defined within the broad school of human security. By being state-centric this approach prioritises the individual as the referent object in security studies.",
+        "d": "Both the state-centric and human-centric approaches to security are mutually exclusive and offer a sufficient analytic framework with which to understand the international security system. It is therefore the role of security analysts to determine which of these substantial concepts is correct, and which should be discarded.",
+        "answer": "B"
+      },
+      {
+        "question": "In order to become securitized, a threat must be presented in which of these ways?",
+        "subject": "security_studies",
+        "a": "As an existential threat that requires immediate and extraordinary action, posing a threat to the survival of the state or to societal security.",
+        "b": "As requiring immediate and extraordinary action by the state, threatening the survival of a referent object and therefore warranting the use of measures not normally employed in the political realm.",
+        "c": "As an urgent threat to the survival of the referent object, so serious that it legitimises the employment of extraordinary action in response.",
+        "d": "As an urgent threat to the survival of the audience that requires extraordinary or emergency measures.",
+        "answer": "C"
+      }
+    ],
+    "signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "signature_prefix": "Answer:",
+    "extended_signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "extended_signature_prefix": "Answer:"
+  }
+}

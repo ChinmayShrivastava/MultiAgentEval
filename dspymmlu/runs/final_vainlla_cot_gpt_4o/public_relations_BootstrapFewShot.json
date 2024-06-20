@@ -1,0 +1,58 @@
+{
+  "prog": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "question": "At which stage in the planning process would a situation analysis be carried out?",
+        "subject": "public_relations",
+        "a": "Defining the program",
+        "b": "Planning the program",
+        "c": "Taking action and implementing ideas",
+        "d": "Evaluation of the program",
+        "answer": "A"
+      },
+      {
+        "question": "Earth Hour was a campaign launched by which organization?",
+        "subject": "public_relations",
+        "a": "Greenpeace",
+        "b": "The UN",
+        "c": "Oxfam",
+        "d": "World Wildlife Fund",
+        "answer": "D"
+      },
+      {
+        "question": "What should a public relations media practitioner do if she does not know the answer to a reporter's question?",
+        "subject": "public_relations",
+        "a": "Give the reporter other information she is certain is correct.",
+        "b": "Say that the information is 'off the record' and will be disseminated later.",
+        "c": "Say 'I don't know' and promise to provide the information later.",
+        "d": "Say 'no comment,' rather than appear uninformed.",
+        "answer": "C"
+      },
+      {
+        "question": "In issues management, what is the most proactive approach to addressing negative or misleading information posted online about your organization?",
+        "subject": "public_relations",
+        "a": "Buy domain names that could be used by opposition groups.",
+        "b": "Post anonymous comments on blogs to combat this information.",
+        "c": "Prepare a news release that discredits the inaccurate information.",
+        "d": "Make policy changes to address complaints highlighted on these sites.",
+        "answer": "D"
+      },
+      {
+        "question": "Which of these statements is true of the Vatican in 2010 at the time of the accusations of child abuse cover-ups?",
+        "subject": "public_relations",
+        "a": "There was a coordinated media response.",
+        "b": "Consistent messages were communicated.",
+        "c": "Criticisms were taken as attacks on the Catholic Church.",
+        "d": "The credibility of the Vatican was upheld.",
+        "answer": "C"
+      }
+    ],
+    "signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "signature_prefix": "Answer:",
+    "extended_signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "extended_signature_prefix": "Answer:"
+  }
+}

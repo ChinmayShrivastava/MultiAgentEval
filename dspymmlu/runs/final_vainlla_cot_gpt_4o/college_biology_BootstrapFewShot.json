@@ -1,0 +1,60 @@
+{
+  "prog": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "According to the pressure-flow model of movement of phloem contents, photosynthate movement from source to sink is driven by",
+        "subject": "college_biology",
+        "a": "an ATP-dependent pressure-flow pump",
+        "b": "a water-pressure potential gradient",
+        "c": "transpiration",
+        "d": "apoplastic diffusion",
+        "rationale": "produce the answer. We need to understand the pressure-flow model of phloem transport. This model suggests that the movement of photosynthates (sugars) from source (where they are produced, like leaves) to sink (where they are used or stored, like roots) is driven by a pressure gradient. This pressure gradient is created by the movement of water into the phloem at the source, which increases the pressure and pushes the contents towards the sink. Therefore, the correct answer is related to a water-pressure potential gradient.",
+        "answer": "B"
+      },
+      {
+        "question": "Which of the following contain DNA sequences required for the segregation of chromosomes in mitosis and meiosis?",
+        "subject": "college_biology",
+        "a": "Telomeres",
+        "b": "Centromeres",
+        "c": "Nucleosomes",
+        "d": "Spliceosomes",
+        "answer": "B"
+      },
+      {
+        "question": "The presence of homologous structures in two different organisms, such as the humerus in the front limb of a human and a bird, indicates that",
+        "subject": "college_biology",
+        "a": "the human and bird are polyphyletic species",
+        "b": "a human's and bird's evolution is convergent",
+        "c": "the human and bird belong to a clade",
+        "d": "the human and bird developed by analogy",
+        "answer": "C"
+      },
+      {
+        "question": "Which of the following represents an accurate statement concerning arthropods?",
+        "subject": "college_biology",
+        "a": "They possess an exoskeleton composed primarily of peptidoglycan.",
+        "b": "They possess an open circulatory system with a dorsal heart.",
+        "c": "They are members of a biologically unsuccessful phylum incapable of exploiting diverse habitats and nutrition sources.",
+        "d": "They lack paired, jointed appendages.",
+        "answer": "B"
+      },
+      {
+        "question": "In a given population, 1 out of every 400 people has a cancer caused by a completely recessive allele, b. Assuming the population is in Hardy-Weinberg equilibrium, which of the following is the expected proportion of individuals who carry the b allele but are not expected to develop the cancer?",
+        "subject": "college_biology",
+        "a": "1\/400",
+        "b": "19\/400",
+        "c": "20\/400",
+        "d": "38\/400",
+        "answer": "D"
+      }
+    ],
+    "signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "signature_prefix": "Answer:",
+    "extended_signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "extended_signature_prefix": "Answer:"
+  }
+}

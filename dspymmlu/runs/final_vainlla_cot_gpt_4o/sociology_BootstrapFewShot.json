@@ -1,0 +1,58 @@
+{
+  "prog": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "question": "The shift from 'civil religion' to 'common religion' means that:",
+        "subject": "sociology",
+        "a": "the increasing bureaucracy of the state has made religion only a marginal part of our lives",
+        "b": "despite the weakening of traditional authority, our everyday lives and 'common sense' remain shaped by religious beliefs and values",
+        "c": "religious participation in collective worship may have declined, but people still practise their faiths in private",
+        "d": "people are much more likely to discuss their religious beliefs in public, informal settings",
+        "answer": "B"
+      },
+      {
+        "question": "What does Berger (1963) describe as a metaphor for social reality?",
+        "subject": "sociology",
+        "a": "a fairground ride",
+        "b": "a circus",
+        "c": "a puppet theatre",
+        "d": "a ballet",
+        "answer": "C"
+      },
+      {
+        "question": "The term 'hegemony' refers to:",
+        "subject": "sociology",
+        "a": "the tendency for the working class not to realize their own interests",
+        "b": "a dominant ideology that legitimates economic, political and cultural power",
+        "c": "a form of dual consciousness based on ideology and everyday experiences",
+        "d": "a mode of payment given for outstanding topiary",
+        "answer": "B"
+      },
+      {
+        "question": "Which of the following did the post-war welfare state of 1948 not aim to provide:",
+        "subject": "sociology",
+        "a": "free health care and education for all",
+        "b": "a minimum wage",
+        "c": "full employment",
+        "d": "universal welfare",
+        "answer": "B"
+      },
+      {
+        "question": "Which of the following is not a problem associated with official statistics on strike action?",
+        "subject": "sociology",
+        "a": "most strikes go unnoticed by employers and the mass media",
+        "b": "not all industrial disputes will be reported by the employer",
+        "c": "the definition of strikes excludes those that involve fewer than ten workers or last less than one day",
+        "d": "it is hard to compare strikes that were measured in different ways",
+        "answer": "A"
+      }
+    ],
+    "signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "signature_prefix": "Answer:",
+    "extended_signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "extended_signature_prefix": "Answer:"
+  }
+}

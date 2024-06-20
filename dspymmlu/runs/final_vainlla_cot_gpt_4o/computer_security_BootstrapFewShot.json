@@ -1,0 +1,60 @@
+{
+  "prog": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "_____________ can modify data on your system \u2013 so that your system doesn\u2019t run correctly or you can no longer access specific data, or it may even ask for ransom in order to give your access.",
+        "subject": "computer_security",
+        "a": "IM \u2013 Trojans",
+        "b": "Backdoor Trojans",
+        "c": "Trojan-Downloader",
+        "d": "Ransom Trojan",
+        "rationale": "produce the answer. We need to identify which type of Trojan can modify data on your system and potentially ask for ransom. \n\n- IM \u2013 Trojans are typically used for instant messaging attacks.\n- Backdoor Trojans allow unauthorized access to the system.\n- Trojan-Downloader is used to download other malicious software.\n- Ransom Trojan, also known as ransomware, is specifically designed to modify data and ask for ransom.\n\nThe correct answer is D: Ransom Trojan.",
+        "answer": "D"
+      },
+      {
+        "question": "The ____________ is anything which your search engine cannot search.",
+        "subject": "computer_security",
+        "a": "Haunted web",
+        "b": "World Wide Web",
+        "c": "Surface web",
+        "d": "Deep Web",
+        "answer": "D"
+      },
+      {
+        "question": "SHA-1 has a message digest of",
+        "subject": "computer_security",
+        "a": "160 bits",
+        "b": "512 bits",
+        "c": "628 bits",
+        "d": "820 bits",
+        "answer": "A"
+      },
+      {
+        "question": "Exploitation of the Heartbleed bug permits",
+        "subject": "computer_security",
+        "a": "overwriting cryptographic keys in memory",
+        "b": "a kind of code injection",
+        "c": "a read outside bounds of a buffer",
+        "d": "a format string attack",
+        "answer": "C"
+      },
+      {
+        "question": "What is ethical hacking?",
+        "subject": "computer_security",
+        "a": "\"Hacking\" ethics so they justify unintended selfish behavior",
+        "b": "Hacking systems (e.g., during penetration testing) to expose vulnerabilities so they can be fixed, rather than exploited",
+        "c": "Hacking into systems run by those whose ethics you disagree with",
+        "d": "A slang term for rapid software development, e.g., as part of hackathons",
+        "answer": "B"
+      }
+    ],
+    "signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "signature_prefix": "Answer:",
+    "extended_signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "extended_signature_prefix": "Answer:"
+  }
+}

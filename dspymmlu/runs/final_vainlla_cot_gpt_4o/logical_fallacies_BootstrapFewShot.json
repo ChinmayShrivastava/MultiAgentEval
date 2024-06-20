@@ -1,0 +1,60 @@
+{
+  "prog": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "Which of the following is true of a valid categorical syllogism?",
+        "subject": "logical_fallacies",
+        "a": "The minor premise must deny the antecedent",
+        "b": "The major premise must affirm the consequent",
+        "c": "The middle term must be used in at least one premise in a universal or unqualified sense",
+        "d": "All of the above",
+        "rationale": "produce the answer. We need to identify the correct characteristic of a valid categorical syllogism. \n\n1. Option A states that the minor premise must deny the antecedent. This is incorrect because in a valid categorical syllogism, the minor premise does not necessarily deny the antecedent.\n2. Option B states that the major premise must affirm the consequent. This is also incorrect because the major premise does not necessarily affirm the consequent in a valid categorical syllogism.\n3. Option C states that the middle term must be used in at least one premise in a universal or unqualified sense. This is correct because for a categorical syllogism to be valid, the middle term must be distributed at least once.\n4. Option D states \"All of the above,\" which cannot be correct because both A and B are incorrect.\n\nTherefore, the correct answer is C.",
+        "answer": "C"
+      },
+      {
+        "question": "The complex question fallacy consists of",
+        "subject": "logical_fallacies",
+        "a": "arguing something is inferior just because it doesn't do something it was never intended to do.",
+        "b": "including more than one claim in the proposition and treating proof for one claim as proof for all the claims.",
+        "c": "drawing a conclusion before examining the evidence, and only considering evidence that supports that conclusion.",
+        "d": "asking a question that includes either an unproven assumption or more than one question, thus making a straightforward yes or no answer meaningless.",
+        "answer": "D"
+      },
+      {
+        "question": "Arguing that what is true of the parts must be true of the whole is the fallacy of...",
+        "subject": "logical_fallacies",
+        "a": "Division",
+        "b": "Composition",
+        "c": "Appeal to the person",
+        "d": "Appeal to ignorance",
+        "answer": "B"
+      },
+      {
+        "question": "If someone attacks the character of an opposing arguer, instead of responding to that opponent's arguments, the first person has probably committed which of the following fallacies?",
+        "subject": "logical_fallacies",
+        "a": "tu quoque",
+        "b": "horse laugh",
+        "c": "argument against the person",
+        "d": "ignoratio elenchi",
+        "answer": "C"
+      },
+      {
+        "question": "When an arguer causes confusion during refutation because of real or feigned lack of an ability to engage in refutation, that arguer may have committed the fallacy of",
+        "subject": "logical_fallacies",
+        "a": "poor sportsmanship",
+        "b": "appeal to compassion",
+        "c": "argument against the person",
+        "d": "ignorance of refutation",
+        "answer": "D"
+      }
+    ],
+    "signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "signature_prefix": "Answer:",
+    "extended_signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "extended_signature_prefix": "Answer:"
+  }
+}

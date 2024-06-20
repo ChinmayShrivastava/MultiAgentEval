@@ -1,0 +1,58 @@
+{
+  "prog": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "question": "What are the two main dimensions of the Ohio Studies into leadership?",
+        "subject": "management",
+        "a": "Starting position and end position",
+        "b": "Initial environment and changed environment",
+        "c": "Organisational structure and conditioning",
+        "d": "Initiating structure and considerations",
+        "answer": "D"
+      },
+      {
+        "question": "How can organisational structures that are characterised by democratic and inclusive styles of management be described?",
+        "subject": "management",
+        "a": "Hierarchical",
+        "b": "Bureaucratic",
+        "c": "Flat",
+        "d": "Functional",
+        "answer": "C"
+      },
+      {
+        "question": "What characteristic is not a key feature of the 'open systems' model of management?",
+        "subject": "management",
+        "a": "Morale",
+        "b": "Innovation",
+        "c": "Growth resource",
+        "d": "Adaptation",
+        "answer": "A"
+      },
+      {
+        "question": "Hygiene factors are associated with which writer?",
+        "subject": "management",
+        "a": "Frederick Hertzberg",
+        "b": "D.C. McClelland",
+        "c": "Abraham Maslow",
+        "d": "Douglas McGregor",
+        "answer": "A"
+      },
+      {
+        "question": "Which element of the cultural web forms regalia?",
+        "subject": "management",
+        "a": "Symbols",
+        "b": "Rituals and routines",
+        "c": "Power structures",
+        "d": "Control systems",
+        "answer": "A"
+      }
+    ],
+    "signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "signature_prefix": "Answer:",
+    "extended_signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "extended_signature_prefix": "Answer:"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "prog": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "Two long parallel conductors carry 100 A. If the conductors are separated by 20 mm, the force per meter of length of each conductor will be",
+        "subject": "electrical_engineering",
+        "a": "100 N.",
+        "b": "0.1 N.",
+        "c": "1 N.",
+        "d": "0.01 N.",
+        "rationale": "produce the answer. We need to use the formula for the force per unit length between two parallel conductors carrying current, which is given by:\n\n\\[ F = \\frac{\\mu_0 I_1 I_2}{2 \\pi d} \\]\n\nwhere:\n- \\( \\mu_0 \\) is the permeability of free space (\\( 4\\pi \\times 10^{-7} \\, \\text{H\/m} \\)),\n- \\( I_1 \\) and \\( I_2 \\) are the currents in the conductors (both 100 A in this case),\n- \\( d \\) is the distance between the conductors (20 mm or 0.02 m).\n\nSubstituting the values into the formula:\n\n\\[ F = \\frac{4\\pi \\times 10^{-7} \\times 100 \\times 100}{2 \\pi \\times 0.02} \\]\n\nSimplifying the expression:\n\n\\[ F = \\frac{4 \\times 10^{-7} \\times 10000}{0.04} \\]\n\n\\[ F = \\frac{4 \\times 10^{-3}}{0.04} \\]\n\n\\[ F = 0.1 \\, \\text{N} \\",
+        "answer": "B"
+      },
+      {
+        "question": "A point pole has a strength of 4\u03c0 * 10^-4 weber. The force in newtons on a point pole of 4\u03c0 * 1.5 * 10^-4 weber placed at a distance of 10 cm from it will be",
+        "subject": "electrical_engineering",
+        "a": "15 N.",
+        "b": "20 N.",
+        "c": "7.5 N.",
+        "d": "3.75 N.",
+        "answer": "A"
+      },
+      {
+        "question": "The coil of a moving coil meter has 100 turns, is 40 mm long and 30 mm wide. The control torque is 240*10-6 N-m on full scale. If magnetic flux density is 1Wb\/m2 range of meter is",
+        "subject": "electrical_engineering",
+        "a": "1 mA.",
+        "b": "2 mA.",
+        "c": "3 mA.",
+        "d": "4 mA.",
+        "answer": "B"
+      },
+      {
+        "question": "In an SR latch built from NOR gates, which condition is not allowed",
+        "subject": "electrical_engineering",
+        "a": "S=0, R=0",
+        "b": "S=0, R=1",
+        "c": "S=1, R=0",
+        "d": "S=1, R=1",
+        "answer": "D"
+      },
+      {
+        "question": "In a 2 pole lap winding dc machine , the resistance of one conductor is 2\u03a9 and total number of conductors is 100. Find the total resistance",
+        "subject": "electrical_engineering",
+        "a": "200\u03a9",
+        "b": "100\u03a9",
+        "c": "50\u03a9",
+        "d": "10\u03a9",
+        "answer": "C"
+      }
+    ],
+    "signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "signature_prefix": "Answer:",
+    "extended_signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "extended_signature_prefix": "Answer:"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "prog": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "Would a reservation to the definition of torture in the ICCPR be acceptable in contemporary practice?",
+        "subject": "international_law",
+        "a": "This is an acceptable reservation if the reserving country's legislation employs a different definition",
+        "b": "This is an unacceptable reservation because it contravenes the object and purpose of the ICCPR",
+        "c": "This is an unacceptable reservation because the definition of torture in the ICCPR is consistent with customary international law",
+        "d": "This is an acceptable reservation because under general international law States have the right to enter reservations to treaties",
+        "rationale": "produce the answer. We need to determine whether a reservation to the definition of torture in the ICCPR would be acceptable. The ICCPR (International Covenant on Civil and Political Rights) has specific provisions and purposes, and reservations that contravene its object and purpose are generally not acceptable. The definition of torture in the ICCPR is also consistent with customary international law, which further supports the idea that reservations altering this definition would be unacceptable. Therefore, the correct answer is:",
+        "answer": "B"
+      },
+      {
+        "question": "When 'consent' can serve as a circumstance precluding the wrongfulness of a State conduct?",
+        "subject": "international_law",
+        "a": "Consent can serve as a circumstance precluding the wrongfulness whenever it is given",
+        "b": "Consent can never serve as a circumstance precluding wrongfulness",
+        "c": "Consent can serve as a circumstance precluding wrongfulness, provided the consent is valid and to the extent that the conduct remains within the limits of the consent given",
+        "d": "Consent can always serve as a circumstance precluding wrongfulness, no matter which organ of the State gives it",
+        "answer": "C"
+      },
+      {
+        "question": "What is the judge ad hoc?",
+        "subject": "international_law",
+        "a": "If a party to a contentious case before the ICJ does not have a national sitting as judge, it is entitled to nominate someone as a judge solely for that case, with the title of judge ad hoc",
+        "b": "Judge ad hoc is the member of the bench of the ICJ with a casting vote",
+        "c": "Judge ad hoc is a surrogate judge, in case a judge is disqualified or passes away",
+        "d": "Judge ad hoc is the judge that each party will always nominate in every contentious case",
+        "answer": "A"
+      },
+      {
+        "question": "How the consent to be bound of a State may be expressed?",
+        "subject": "international_law",
+        "a": "The consent of a State to be bound is expressed only by ratification",
+        "b": "The consent of a state to be bound by a treaty may be expressed by signature, ratification, acceptance, approval or accession",
+        "c": "The consent of a State to be bound is expressed by signature",
+        "d": "The consent of a State to be bound is expressed by whatever means they choose",
+        "answer": "B"
+      },
+      {
+        "question": "What types of force does Article 2(4) of the UN Charter prohibit?",
+        "subject": "international_law",
+        "a": "Article 2(4) encompasses only armed force",
+        "b": "Article 2(4) encompasses all types of force, including sanctions",
+        "c": "Article 2(4) encompasses all interference in the domestic affairs of States",
+        "d": "Article 2(4) encompasses force directed only against a State's territorial integrity",
+        "answer": "A"
+      }
+    ],
+    "signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "signature_prefix": "Answer:",
+    "extended_signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "extended_signature_prefix": "Answer:"
+  }
+}

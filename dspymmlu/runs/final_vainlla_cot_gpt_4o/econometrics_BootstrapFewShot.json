@@ -1,0 +1,58 @@
+{
+  "prog": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "question": "For a stationary autoregressive process, shocks will",
+        "subject": "econometrics",
+        "a": "Eventually die away",
+        "b": "Persist indefinitely",
+        "c": "Grow exponentially",
+        "d": "Never occur",
+        "answer": "A"
+      },
+      {
+        "question": "Suppose now that a researcher wishes to use information criteria to determine the optimal lag length for a VAR. 500 observations are available for the bi-variate VAR, and the values of the determinant of the variance-covariance matrix of residuals are 0.0336, 0.0169, 0.0084, and 0.0062 for 1, 2, 3, and 4 lags respectively. What is the optimal model order according to Akaike's information criterion?",
+        "subject": "econometrics",
+        "a": "1 lag",
+        "b": "2 lags",
+        "c": "3 lags",
+        "d": "4 lags",
+        "answer": "C"
+      },
+      {
+        "question": "What would be then consequences for the OLS estimator if heteroscedasticity is present in a regression model but ignored?",
+        "subject": "econometrics",
+        "a": "It will be biased",
+        "b": "It will be inconsistent",
+        "c": "It will be inefficient",
+        "d": "All of (a), (b) and (c) will be true.",
+        "answer": "C"
+      },
+      {
+        "question": "Consider the following AR(1) model with the disturbances having zero mean and unit variance\n\nyt = 0.2 + 0.4 yt-1 + ut\n\nThe (unconditional) mean of y will be given by",
+        "subject": "econometrics",
+        "a": "0.2",
+        "b": "0.4",
+        "c": "0.5",
+        "d": "0.33",
+        "answer": "D"
+      },
+      {
+        "question": "Suppose that a test statistic has associated with it a p-value of 0.08. Which one of the following statements is true?\n\n(i) If the size of the test were exactly 8%, we would be indifferent between rejecting and not rejecting the null hypothesis\n\n(ii) The null would be rejected if a 10% size of test were used\n\n(iii) The null would not be rejected if a 1% size of test were used\n\n(iv) The null would be rejected if a 5% size of test were used.",
+        "subject": "econometrics",
+        "a": "(ii) and (iv) only",
+        "b": "(i) and (iii) only",
+        "c": "(i), (ii), and (iii) only",
+        "d": "(i), (ii), (iii), and (iv)",
+        "answer": "C"
+      }
+    ],
+    "signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "signature_prefix": "Answer:",
+    "extended_signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "extended_signature_prefix": "Answer:"
+  }
+}

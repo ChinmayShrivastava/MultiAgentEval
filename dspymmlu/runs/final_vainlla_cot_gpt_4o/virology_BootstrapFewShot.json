@@ -1,0 +1,62 @@
+{
+  "prog": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "The most important goal of a behavioral intervention is:",
+        "subject": "virology",
+        "a": "Change in behavior",
+        "b": "Comprehensive coverage",
+        "c": "Effective use of behavioral theory",
+        "d": "Sustained behavior change",
+        "rationale": "produce the answer. We need to identify the primary objective of a behavioral intervention. The options provided are:\n\n- Change in behavior\n- Comprehensive coverage\n- Effective use of behavioral theory\n- Sustained behavior change\n\nThe most important goal of a behavioral intervention is not just to change behavior temporarily but to ensure that the change is maintained over time. Therefore, the correct answer is \"Sustained behavior change.\"",
+        "answer": "D"
+      },
+      {
+        "augmented": true,
+        "question": "The median survival time to AIDS and death was established by following:",
+        "subject": "virology",
+        "a": "Seroprevalent HIV-infected individuals",
+        "b": "Seronegatives",
+        "c": "Seroconverters",
+        "d": "High-risk seronegatives",
+        "rationale": "produce the answer. We need to determine which group was followed to establish the median survival time to AIDS and death. \n\n- Seroprevalent HIV-infected individuals are those who are already infected with HIV.\n- Seronegatives are individuals who do not have HIV.\n- Seroconverters are individuals who have recently converted from HIV-negative to HIV-positive.\n- High-risk seronegatives are individuals who are at high risk of contracting HIV but are currently HIV-negative.\n\nTo establish the median survival time to AIDS and death, it would be most logical to follow individuals who have recently become HIV-positive, as this allows for tracking the progression from the point of infection. Therefore, the correct answer is:",
+        "answer": "C"
+      },
+      {
+        "question": "Which of the following is a morphological characteristic of the paramyxoviruses.",
+        "subject": "virology",
+        "a": "Fragile viruses often visualised with RNA spewing from the inside",
+        "b": "Elongate viruses",
+        "c": "Icosahedral viruses with envelope",
+        "d": "Very large viruses",
+        "answer": "A"
+      },
+      {
+        "question": "A key factor facilitating the application of nested case-control studies from the MACS was:",
+        "subject": "virology",
+        "a": "Data collection",
+        "b": "Establishment of a repository of biologic specimens",
+        "c": "Participant interest",
+        "d": "Administration of the questionnaire by staff",
+        "answer": "B"
+      },
+      {
+        "question": "Why are parvoviruses a highly impactful parasite?",
+        "subject": "virology",
+        "a": "Because they have no nucleic acid",
+        "b": "They require a helper virus",
+        "c": "Only replicate in dividing cells",
+        "d": "Can integrate into host chromosomes",
+        "answer": "A"
+      }
+    ],
+    "signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "signature_prefix": "Answer:",
+    "extended_signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "extended_signature_prefix": "Answer:"
+  }
+}

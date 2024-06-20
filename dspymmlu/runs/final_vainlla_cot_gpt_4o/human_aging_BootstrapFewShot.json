@@ -1,0 +1,60 @@
+{
+  "prog": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "All other things being equal, which of the following persons is more likely to show osteoporosis?",
+        "subject": "human_aging",
+        "a": "An older Hispanic American woman",
+        "b": "An older African American woman",
+        "c": "An older Asian American woman",
+        "d": "An older Native American woman",
+        "rationale": "produce the answer. We need to consider the prevalence of osteoporosis among different ethnic groups. Research indicates that osteoporosis is more common among Asian American women compared to other ethnic groups. Therefore, the correct answer is:",
+        "answer": "C"
+      },
+      {
+        "question": "The finding that adults tend to remember events from their adolescence better than from other periods in their lives is referred to as the",
+        "subject": "human_aging",
+        "a": "Adolescence advantage",
+        "b": "Reminiscence bump",
+        "c": "Memorial memorial",
+        "d": "Quadratic retrieval spike",
+        "answer": "B"
+      },
+      {
+        "question": "Which of the following persons is more likely to remain at home alone, as of 2019?",
+        "subject": "human_aging",
+        "a": "An Asian man or woman",
+        "b": "A Hispanic man",
+        "c": "An African American woman",
+        "d": "A white man or woman",
+        "answer": "C"
+      },
+      {
+        "question": "Which element in tobacco smoke is responsible for cancers?",
+        "subject": "human_aging",
+        "a": "Nicotine",
+        "b": "Tar",
+        "c": "Carbon monoxide",
+        "d": "Smoke particles",
+        "answer": "B"
+      },
+      {
+        "question": "When older adults move to a new state after retirement, which of the following is the more likely destination?",
+        "subject": "human_aging",
+        "a": "Texas",
+        "b": "California",
+        "c": "Hawaii",
+        "d": "Vermont",
+        "answer": "A"
+      }
+    ],
+    "signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "signature_prefix": "Answer:",
+    "extended_signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "extended_signature_prefix": "Answer:"
+  }
+}

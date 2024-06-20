@@ -1,0 +1,60 @@
+{
+  "prog": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": " What is the sign of the covenant for Jewish males?",
+        "subject": "world_religions",
+        "a": "The rainbow",
+        "b": "Circumcision",
+        "c": "A son",
+        "d": "Bar mitzvah",
+        "rationale": "produce the answer. We need to identify the traditional sign of the covenant for Jewish males. The options provided are:\n\nA: The rainbow - This is associated with the Noahic covenant, not specifically for Jewish males.\nB: Circumcision - This is the traditional sign of the covenant given to Abraham and his descendants.\nC: A son - This is not a sign of the covenant.\nD: Bar mitzvah - This is a coming-of-age ceremony, not a sign of the covenant.\n\nThe correct answer is B: Circumcision.",
+        "answer": "B"
+      },
+      {
+        "question": "How can the Upanishads be characterized?",
+        "subject": "world_religions",
+        "a": "Ritual texts",
+        "b": "Philosophical texts",
+        "c": "Hymns",
+        "d": "Origin stories",
+        "answer": "B"
+      },
+      {
+        "question": " Which Japanese government promoted a kind of national cult based on the emperor and his associations with kami?",
+        "subject": "world_religions",
+        "a": "Honen",
+        "b": "Tanaka",
+        "c": "Tokugawa",
+        "d": "Meiji",
+        "answer": "D"
+      },
+      {
+        "question": "What is the Second Gem in Buddhism?",
+        "subject": "world_religions",
+        "a": "The Dharma",
+        "b": "The Sangha",
+        "c": "The Buddha",
+        "d": "The Bodhisattva",
+        "answer": "A"
+      },
+      {
+        "question": " In which dynasty was the \"Mandate of Heaven\" developed to legitimatize the new rulers?",
+        "subject": "world_religions",
+        "a": "Shang",
+        "b": "Zhou",
+        "c": "Han",
+        "d": "Xia",
+        "answer": "B"
+      }
+    ],
+    "signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "signature_prefix": "Answer:",
+    "extended_signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "extended_signature_prefix": "Answer:"
+  }
+}

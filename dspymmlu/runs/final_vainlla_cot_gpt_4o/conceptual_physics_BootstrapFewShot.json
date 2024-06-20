@@ -1,0 +1,60 @@
+{
+  "prog": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "Things that are equivalent according to the equivalence principle are",
+        "subject": "conceptual_physics",
+        "a": "space and time.",
+        "b": "a traveling twin and a stay-at-home twin.",
+        "c": "gravity and acceleration.",
+        "d": "mass and energy.",
+        "rationale": "produce the answer. We need to understand the equivalence principle, which is a key concept in general relatation. The equivalence principle states that the effects of gravity are indistinguishable from the effects of acceleration. Therefore, the correct answer is:",
+        "answer": "C"
+      },
+      {
+        "question": "Compared with the mass of a uranium atom undergoing fission, the combined masses of the products after fission are",
+        "subject": "conceptual_physics",
+        "a": "less",
+        "b": "more",
+        "c": "the same",
+        "d": "zero",
+        "answer": "A"
+      },
+      {
+        "question": "Colors in a soap bubble result from light",
+        "subject": "conceptual_physics",
+        "a": "converted to a different frequency",
+        "b": "deflection",
+        "c": "interference",
+        "d": "polarization",
+        "answer": "C"
+      },
+      {
+        "question": "Which of these three elements has the most mass per nucleon?",
+        "subject": "conceptual_physics",
+        "a": "Hydrogen",
+        "b": "Iron",
+        "c": "Uranium",
+        "d": "Same in each",
+        "answer": "A"
+      },
+      {
+        "question": "A model airplane flies slower when flying into the wind and faster with wind at its back. When launched at right angles to the wind a cross wind its groundspeed compared with flying in still air is",
+        "subject": "conceptual_physics",
+        "a": "the same",
+        "b": "greater",
+        "c": "less",
+        "d": "either greater or less depending on wind speed",
+        "answer": "B"
+      }
+    ],
+    "signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "signature_prefix": "Answer:",
+    "extended_signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "extended_signature_prefix": "Answer:"
+  }
+}

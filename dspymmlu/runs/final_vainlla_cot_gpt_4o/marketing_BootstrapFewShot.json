@@ -1,0 +1,58 @@
+{
+  "prog": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "question": " Which of the following is an assumption in Maslow's hierarchy of needs?",
+        "subject": "marketing",
+        "a": "Needs are dependent on culture and also on social class.",
+        "b": "Lower-level needs must be at least partially satisfied before higher needs can affect behaviour.",
+        "c": "Needs are not prioritized or arranged in any particular order.",
+        "d": "Satisfied needs are motivators, and new needs emerge when current needs remain unmet.",
+        "answer": "B"
+      },
+      {
+        "question": "In an organization, the group of people tasked with buying decisions is referred to as the _______________.",
+        "subject": "marketing",
+        "a": "Outsourcing unit.",
+        "b": "Procurement centre.",
+        "c": "Chief executive unit.",
+        "d": "Decision-making unit.",
+        "answer": "D"
+      },
+      {
+        "question": "The single group within society that is most vulnerable to reference group influence is:",
+        "subject": "marketing",
+        "a": "The older consumer who feels somewhat left out of things.",
+        "b": "The married women, many of whom feel a need for stability in their lives.",
+        "c": "New immigrants who really want to assimilate into their new culture.",
+        "d": "Children, who base most of their buying decisions on outside influences.",
+        "answer": "D"
+      },
+      {
+        "question": " _____________ is a natural outcome when combining demographic and geographic variables.",
+        "subject": "marketing",
+        "a": "Geodemographics",
+        "b": "Product differentiation.",
+        "c": "ANSOFF matrix.",
+        "d": "Brand management.",
+        "answer": "A"
+      },
+      {
+        "question": "Although the content and quality can be as controlled as direct mail, response rates of this medium are lower because of the lack of a personal address mechanism. This media format is known as:",
+        "subject": "marketing",
+        "a": "Care lines.",
+        "b": "Direct mail.",
+        "c": "Inserts.",
+        "d": "Door to door.",
+        "answer": "D"
+      }
+    ],
+    "signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "signature_prefix": "Answer:",
+    "extended_signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "extended_signature_prefix": "Answer:"
+  }
+}

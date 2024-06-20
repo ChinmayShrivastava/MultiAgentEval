@@ -1,0 +1,58 @@
+{
+  "prog": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "question": "The concentration ratio for a monopoly is",
+        "subject": "high_school_microeconomics",
+        "a": "0",
+        "b": "5",
+        "c": "10",
+        "d": "100",
+        "answer": "D"
+      },
+      {
+        "question": "If the government subsidizes producers in a perfectly competitive market, then",
+        "subject": "high_school_microeconomics",
+        "a": "the demand for the product will increase",
+        "b": "the demand for the product will decrease",
+        "c": "the consumer surplus will increase",
+        "d": "the consumer surplus will decrease",
+        "answer": "C"
+      },
+      {
+        "question": "Which of the following is true of a price floor?",
+        "subject": "high_school_microeconomics",
+        "a": "The price floor shifts the demand curve to the left.",
+        "b": "An effective floor creates a shortage of the good.",
+        "c": "The price floor shifts the supply curve of the good to the right.",
+        "d": "To be an effective floor, it must be set above the equilibrium price.",
+        "answer": "D"
+      },
+      {
+        "question": "In a competitive labor market for housepainters, which of the following would increase the demand for housepainters?",
+        "subject": "high_school_microeconomics",
+        "a": "An effective minimum wage imposed on this labor market.",
+        "b": "An increase in the price of gallons of paint.",
+        "c": "An increase in the construction of new houses.",
+        "d": "An increase in the price of mechanical painters so long as the output effect exceeds the substitution effect.",
+        "answer": "C"
+      },
+      {
+        "question": "Which of the following is necessarily a characteristic of oligopoly?",
+        "subject": "high_school_microeconomics",
+        "a": "Free entry into and exit from the market",
+        "b": "A few large producers",
+        "c": "One producer of a good with no close substitutes",
+        "d": "A homogenous product",
+        "answer": "B"
+      }
+    ],
+    "signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "signature_prefix": "Answer:",
+    "extended_signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "extended_signature_prefix": "Answer:"
+  }
+}

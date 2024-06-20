@@ -1,0 +1,60 @@
+{
+  "prog": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "Which of these songs was a Top 10 hit for the rock band The Police?",
+        "subject": "miscellaneous",
+        "a": "'Radio Ga-Ga'",
+        "b": "'Ob-la-di Ob-la-da'",
+        "c": "'De Do Do Do De Da Da Da'",
+        "d": "'In-a-Gadda-Da-Vida'",
+        "rationale": "produce the answer. We need to identify which song was a Top 10 hit for The Police. \n\n- 'Radio Ga-Ga' is a song by Queen.\n- 'Ob-la-di Ob-la-da' is a song by The Beatles.\n- 'De Do Do Do De Da Da Da' is a song by The Police.\n- 'In-a-Gadda-Da-Vida' is a song by Iron Butterfly.\n\nTherefore, the correct answer is 'De Do Do Do De Da Da Da' by The Police.",
+        "answer": "C"
+      },
+      {
+        "question": "What is produced during photosynthesis?",
+        "subject": "miscellaneous",
+        "a": "hydrogen",
+        "b": "nylon",
+        "c": "oxygen",
+        "d": "light",
+        "answer": "C"
+      },
+      {
+        "question": "Who is the shortest man to ever win an NBA slam dunk competition?",
+        "subject": "miscellaneous",
+        "a": "Anthony 'Spud' Webb",
+        "b": "Michael 'Air' Jordan",
+        "c": "Tyrone 'Muggsy' Bogues",
+        "d": "Julius 'Dr J' Erving",
+        "answer": "A"
+      },
+      {
+        "question": "What place is named in the title of the 1979 live album by rock legends Cheap Trick?",
+        "subject": "miscellaneous",
+        "a": "Budapest",
+        "b": "Budokan",
+        "c": "Bhutan",
+        "d": "Britain",
+        "answer": "B"
+      },
+      {
+        "question": "How many axles does a standard automobile have?",
+        "subject": "miscellaneous",
+        "a": "one",
+        "b": "two",
+        "c": "four",
+        "d": "eight",
+        "answer": "B"
+      }
+    ],
+    "signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "signature_prefix": "Answer:",
+    "extended_signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "extended_signature_prefix": "Answer:"
+  }
+}

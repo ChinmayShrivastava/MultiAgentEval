@@ -1,0 +1,60 @@
+{
+  "prog": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "question": "Which of the following policies best describes supply-side fiscal policy?",
+        "subject": "high_school_macroeconomics",
+        "a": "An increase in the money supply",
+        "b": "Increased government spending",
+        "c": "Lower taxes on research and development of new technology",
+        "d": "Higher taxes on household income",
+        "rationale": "produce the answer. We need to identify which policy is most aligned with supply-side fiscal policy. Supply-side fiscal policy focuses on increasing the productive capacity of the economy by improving the supply of goods and services. This is typically achieved through measures that incentivize production, investment, and innovation.\n\n- Option A: An increase in the money supply is a monetary policy, not a fiscal policy.\n- Option B: Increased government spending is generally associated with demand-side fiscal policy.\n- Option C: Lower taxes on research and development of new technology would incentivize innovation and investment, which aligns with supply-side fiscal policy.\n- Option D: Higher taxes on household income would likely reduce disposable income and consumption, which does not align with supply-side fiscal policy.\n\nTherefore, the correct answer is:",
+        "answer": "C"
+      },
+      {
+        "question": "A federal deficit occurs when",
+        "subject": "high_school_macroeconomics",
+        "a": "exports exceed imports.",
+        "b": "imports exceed exports.",
+        "c": "federal tax collections exceed spending.",
+        "d": "federal spending exceeds federal tax revenues.",
+        "answer": "D"
+      },
+      {
+        "question": "Which of the following is not included in the U.S. GDP?",
+        "subject": "high_school_macroeconomics",
+        "a": "The U.S. military opens a new base in a foreign country with 1000 U.S. personnel.",
+        "b": "Japanese consumers buy thousands of CDs produced in the United States.",
+        "c": "An American pop singer performs a sold-out concert in Paris.",
+        "d": "A French theatrical production tours dozens of American cities.",
+        "answer": "C"
+      },
+      {
+        "question": "Holding all else equal which of the following monetary policies would be used to boost U.S. exports?",
+        "subject": "high_school_macroeconomics",
+        "a": "Increasing the discount rate",
+        "b": "Increasing the reserve ratio",
+        "c": "Buying government securities",
+        "d": "Lowering tariffs",
+        "answer": "C"
+      },
+      {
+        "question": "The short-run Phillips curve indicates a",
+        "subject": "high_school_macroeconomics",
+        "a": "direct relation between unemployment and inflation",
+        "b": "direct relation between price and quantity demanded",
+        "c": "inverse relation between price and quantity demanded",
+        "d": "inverse relation between unemployment and inflation",
+        "answer": "D"
+      }
+    ],
+    "signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "signature_prefix": "Answer:",
+    "extended_signature_instructions": "\n    Given a multiple choice question, the subject, and 4 options, return the alphabetical letter of the correct answer.\n    ",
+    "extended_signature_prefix": "Answer:"
+  }
+}
