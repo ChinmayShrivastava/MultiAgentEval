@@ -8,8 +8,8 @@ from DUPagent import MMLU, arun_eval
 
 MLFLOW_TRACKING_URI = "http://127.0.0.1:5000"
 MLFLOW_EXPERIMENT_NAME = "DUP"
-SUBJECT="high_school_physics"
-SPLIT="val"
+SUBJECT="nutrition"
+SPLIT="test"
 
 def getdf(path):
 	return pd.read_csv(path, names=['question', 'A', 'B', 'C', 'D', 'answer'])

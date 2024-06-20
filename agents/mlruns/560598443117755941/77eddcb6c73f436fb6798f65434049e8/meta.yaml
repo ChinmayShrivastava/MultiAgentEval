@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/560598443117755941/77eddcb6c73f436fb6798f65434049e8/artifacts
+end_time: 1718856421612
+entry_point_name: ''
+experiment_id: '560598443117755941'
+lifecycle_stage: active
+run_id: 77eddcb6c73f436fb6798f65434049e8
+run_name: nutrition_225bad47-3e8d-4279-b053-8f3889b40539
+run_uuid: 77eddcb6c73f436fb6798f65434049e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718856421531
+status: 3
+tags: []
+user_id: chinmayshrivastava

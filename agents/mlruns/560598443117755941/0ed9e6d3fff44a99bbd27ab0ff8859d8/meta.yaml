@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/560598443117755941/0ed9e6d3fff44a99bbd27ab0ff8859d8/artifacts
+end_time: 1718856300329
+entry_point_name: ''
+experiment_id: '560598443117755941'
+lifecycle_stage: active
+run_id: 0ed9e6d3fff44a99bbd27ab0ff8859d8
+run_name: astronomy_1bd8b350-55aa-4149-b8c0-3891282d36ea
+run_uuid: 0ed9e6d3fff44a99bbd27ab0ff8859d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718856300261
+status: 3
+tags: []
+user_id: chinmayshrivastava

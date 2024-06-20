@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/560598443117755941/85dc49d378e74a7f8e8657a35e7e9660/artifacts
+end_time: 1718855460500
+entry_point_name: ''
+experiment_id: '560598443117755941'
+lifecycle_stage: active
+run_id: 85dc49d378e74a7f8e8657a35e7e9660
+run_name: clinical_knowledge_80f13df2-7b1a-4b2a-b990-d9632d5225f8
+run_uuid: 85dc49d378e74a7f8e8657a35e7e9660
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718855460381
+status: 3
+tags: []
+user_id: chinmayshrivastava

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/560598443117755941/4ddab91190eb44b390e3ab33e9506501/artifacts
+end_time: 1718842917613
+entry_point_name: ''
+experiment_id: '560598443117755941'
+lifecycle_stage: active
+run_id: 4ddab91190eb44b390e3ab33e9506501
+run_name: college_mathematics_0adc9bdc-4def-4f25-a96c-557fbb6d60f2
+run_uuid: 4ddab91190eb44b390e3ab33e9506501
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718842917520
+status: 3
+tags: []
+user_id: chinmayshrivastava
