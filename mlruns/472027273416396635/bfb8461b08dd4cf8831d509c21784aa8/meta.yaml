@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/472027273416396635/bfb8461b08dd4cf8831d509c21784aa8/artifacts
+deleted_time: 1718982686689
+end_time: 1718939537226
+entry_point_name: ''
+experiment_id: '472027273416396635'
+lifecycle_stage: deleted
+run_id: bfb8461b08dd4cf8831d509c21784aa8
+run_name: 4o_moral_scenarios_test.csv_7b9284a4-97d9-49db-8a03-c8ea2f551655
+run_uuid: bfb8461b08dd4cf8831d509c21784aa8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718939537190
+status: 3
+tags: []
+user_id: anthonyhumay

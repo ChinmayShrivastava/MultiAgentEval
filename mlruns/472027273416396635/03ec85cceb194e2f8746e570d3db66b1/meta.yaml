@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/472027273416396635/03ec85cceb194e2f8746e570d3db66b1/artifacts
+end_time: 1718980008464
+entry_point_name: ''
+experiment_id: '472027273416396635'
+lifecycle_stage: active
+run_id: 03ec85cceb194e2f8746e570d3db66b1
+run_name: 4o_college_mathematics_test.csv_9f8f4897-8816-4e95-ba08-fb258a783c85
+run_uuid: 03ec85cceb194e2f8746e570d3db66b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718980008412
+status: 3
+tags: []
+user_id: anthonyhumay

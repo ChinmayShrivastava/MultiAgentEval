@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/472027273416396635/b1aaf924178644fc81d55370a7d622d3/artifacts
+end_time: 1718943071313
+entry_point_name: ''
+experiment_id: '472027273416396635'
+lifecycle_stage: active
+run_id: b1aaf924178644fc81d55370a7d622d3
+run_name: 4o_high_school_microeconomics_test.csv_96f5a62a-97a1-4b2a-a283-519add3ade8e
+run_uuid: b1aaf924178644fc81d55370a7d622d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718943071251
+status: 3
+tags: []
+user_id: anthonyhumay

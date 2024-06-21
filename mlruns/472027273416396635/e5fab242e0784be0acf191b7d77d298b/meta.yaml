@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/472027273416396635/e5fab242e0784be0acf191b7d77d298b/artifacts
+end_time: 1718941591974
+entry_point_name: ''
+experiment_id: '472027273416396635'
+lifecycle_stage: active
+run_id: e5fab242e0784be0acf191b7d77d298b
+run_name: 4o_international_law_test.csv_60438358-3692-4636-a5bf-44566029b3fc
+run_uuid: e5fab242e0784be0acf191b7d77d298b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718941591913
+status: 3
+tags: []
+user_id: anthonyhumay

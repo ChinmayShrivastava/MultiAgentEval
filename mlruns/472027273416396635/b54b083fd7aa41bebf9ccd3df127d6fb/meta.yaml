@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/472027273416396635/b54b083fd7aa41bebf9ccd3df127d6fb/artifacts
+end_time: 1718942712310
+entry_point_name: ''
+experiment_id: '472027273416396635'
+lifecycle_stage: active
+run_id: b54b083fd7aa41bebf9ccd3df127d6fb
+run_name: 4o_high_school_european_history_test.csv_f37c9530-5208-44a0-83f7-f56fa4d704c4
+run_uuid: b54b083fd7aa41bebf9ccd3df127d6fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718942712261
+status: 3
+tags: []
+user_id: anthonyhumay

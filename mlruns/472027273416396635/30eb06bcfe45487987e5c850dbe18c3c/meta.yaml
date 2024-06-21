@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/472027273416396635/30eb06bcfe45487987e5c850dbe18c3c/artifacts
+end_time: 1718978619698
+entry_point_name: ''
+experiment_id: '472027273416396635'
+lifecycle_stage: active
+run_id: 30eb06bcfe45487987e5c850dbe18c3c
+run_name: 4o_nutrition_test.csv_e85eb420-026e-4510-b304-a79e7311009b
+run_uuid: 30eb06bcfe45487987e5c850dbe18c3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718978619641
+status: 3
+tags: []
+user_id: anthonyhumay

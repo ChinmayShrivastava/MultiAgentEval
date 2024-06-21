@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/472027273416396635/899763450afe4f9abe0d33a3cd93fbba/artifacts
+end_time: 1718940564759
+entry_point_name: ''
+experiment_id: '472027273416396635'
+lifecycle_stage: active
+run_id: 899763450afe4f9abe0d33a3cd93fbba
+run_name: 4o_astronomy_test.csv_5fdb8437-13f6-46b2-b0b4-921baf0aa972
+run_uuid: 899763450afe4f9abe0d33a3cd93fbba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718940564698
+status: 3
+tags: []
+user_id: anthonyhumay

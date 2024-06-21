@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/472027273416396635/52f0b114ea6f47aebe2ef8c2b7dca799/artifacts
+end_time: 1718976971091
+entry_point_name: ''
+experiment_id: '472027273416396635'
+lifecycle_stage: active
+run_id: 52f0b114ea6f47aebe2ef8c2b7dca799
+run_name: 4o_high_school_government_and_politics_test.csv_c2365ac1-7f21-4f09-9767-41aca7108054
+run_uuid: 52f0b114ea6f47aebe2ef8c2b7dca799
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718976971037
+status: 3
+tags: []
+user_id: anthonyhumay

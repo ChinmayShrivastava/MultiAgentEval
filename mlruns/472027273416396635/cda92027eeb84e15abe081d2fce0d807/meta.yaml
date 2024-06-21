@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/472027273416396635/cda92027eeb84e15abe081d2fce0d807/artifacts
+end_time: 1718976867359
+entry_point_name: ''
+experiment_id: '472027273416396635'
+lifecycle_stage: active
+run_id: cda92027eeb84e15abe081d2fce0d807
+run_name: 4o_high_school_geography_test.csv_cd9df65e-cedb-4362-998b-3fa3bc3bccdb
+run_uuid: cda92027eeb84e15abe081d2fce0d807
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718976867307
+status: 3
+tags: []
+user_id: anthonyhumay

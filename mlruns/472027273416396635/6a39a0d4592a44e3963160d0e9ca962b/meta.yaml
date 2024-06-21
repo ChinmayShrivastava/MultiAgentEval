@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/472027273416396635/6a39a0d4592a44e3963160d0e9ca962b/artifacts
+end_time: 1718976708327
+entry_point_name: ''
+experiment_id: '472027273416396635'
+lifecycle_stage: active
+run_id: 6a39a0d4592a44e3963160d0e9ca962b
+run_name: 4o_human_aging_test.csv_98401c06-ca54-4e82-8a6b-7f3a52ef4e78
+run_uuid: 6a39a0d4592a44e3963160d0e9ca962b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718976708278
+status: 3
+tags: []
+user_id: anthonyhumay
