@@ -7,6 +7,7 @@ import tqdm
 from llama_index.llms.openai import OpenAI
 from prompts import DUP_GENERATE_ANSWER, GENERATE_HINTS
 from pydantic import BaseModel
+import dspy 
 
 DEFAULT_MODEL = 'gpt-3.5-turbo'
 BATCH_SIZE = 100
@@ -55,7 +56,30 @@ class DUPagent:
         res = await self.llm.acomplete(_prompt)
         reason, answer = self.parse_response(res.text)
         return reason, answer
-    
+
+    async def generate_answer_majority_vote(
+        self,
+        question: str,
+        answers: list[str],
+        hints: str,
+    ) -> str:
+        _answers = ""
+        for i, answer in enumerate(answers):
+            _answers += f"{chr(65+i)}. {answer}\n"
+        _prompt = DUP_GENERATE_ANSWER.format(question=question, options=_answers, hints=hints)
+        completions = []
+        for _ in range(5):
+            res = await self.llm.acomplete(_prompt)
+            reason, answer = self.parse_response(res.text)
+            data = {
+                "rationale": reason,
+                "answer": answer
+            }
+            completions.append(data)
+        ensemble = dspy.majority(dspy.Completions(completions))
+
+        return ensemble.rationale, ensemble.answer
+
     def parse_response(self, response: str) -> str:
         try:
             r = re.search(r"(?s)REASONING:\s*(.*?)ANSWER", response).group(1)
