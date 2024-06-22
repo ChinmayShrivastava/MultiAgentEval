@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/560598443117755941/96e6f329b2ff44d4a64c2024bb74a777/artifacts
+end_time: 1719022982818
+entry_point_name: ''
+experiment_id: '560598443117755941'
+lifecycle_stage: active
+run_id: 96e6f329b2ff44d4a64c2024bb74a777
+run_name: majority_vote_machine_learning_827c0609-fb9b-470a-b56b-94d183511fb2
+run_uuid: 96e6f329b2ff44d4a64c2024bb74a777
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719022982800
+status: 3
+tags: []
+user_id: chinmay

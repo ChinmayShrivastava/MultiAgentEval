@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/560598443117755941/3c090ea4f9dc429db404749054d8a8a3/artifacts
+end_time: 1719023116994
+entry_point_name: ''
+experiment_id: '560598443117755941'
+lifecycle_stage: active
+run_id: 3c090ea4f9dc429db404749054d8a8a3
+run_name: majority_vote_high_school_statistics_179a66fb-29c6-48d3-bcf2-d6d4f938439a
+run_uuid: 3c090ea4f9dc429db404749054d8a8a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719023116976
+status: 3
+tags: []
+user_id: chinmay

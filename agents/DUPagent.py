@@ -9,7 +9,7 @@ from prompts import DUP_GENERATE_ANSWER, GENERATE_HINTS
 from pydantic import BaseModel
 import dspy 
 
-DEFAULT_MODEL = 'gpt-3.5-turbo'
+DEFAULT_MODEL = 'gpt-4o'
 BATCH_SIZE = 100
 
 class MMLU(BaseModel):

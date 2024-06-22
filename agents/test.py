@@ -8,8 +8,10 @@ from DUPagent import MMLU, arun_eval
 
 MLFLOW_TRACKING_URI = "http://127.0.0.1:5000"
 MLFLOW_EXPERIMENT_NAME = "DUP"
-SUBJECT="nutrition"
+SUBJECT="high_school_physics"
+PREFIX = "majority_vote"
 SPLIT="test"
+TOTAL_RUNS=5
 
 def getdf(path):
 	return pd.read_csv(path, names=['question', 'A', 'B', 'C', 'D', 'answer'])
@@ -27,14 +29,42 @@ async def eval(path):
 	reasons, answers, hints = await arun_eval(questions)
 	return questions, reasons, answers, hints
 
-async def main(path, filename):
+async def main(path, filename, total_runs=1):
     
     # set up mlflow
 	mlflow.set_tracking_uri(MLFLOW_TRACKING_URI)
 	mlflow.set_experiment(MLFLOW_EXPERIMENT_NAME)
 
-	questions, reasons, answers, hints = await eval(path)
-	with mlflow.start_run(run_name=f"{SUBJECT}_{uuid.uuid4()}") as _:
+	asnyc_runs = []
+	# questions, reasons, answers, hints = await eval(path)
+
+	for runs in range(total_runs):
+		asnyc_runs.append(asyncio.create_task(eval(path)))
+	
+	await asyncio.gather(*asnyc_runs)
+
+	questions = asnyc_runs[0].result()[0]
+	reasons = asnyc_runs[0].result()[1]
+	hints = asnyc_runs[0].result()[3]
+
+	all_answers = []
+
+	# for _, _, answers, _ in asnyc_runs:
+		# all_answers.append(answers)
+
+	for run in asnyc_runs:
+		_, _, answers, _ = run.result()
+		all_answers.append(answers)
+
+	# for answer, take a majority vote and make it the final answer, e.g. if 3/5 say A, then A is the final answer
+	answers = []
+	for i in range(len(all_answers[0])):
+		_answer = []
+		for j in range(len(all_answers)):
+			_answer.append(all_answers[j][i])
+		answers.append(max(set(_answer), key=_answer.count))
+
+	with mlflow.start_run(run_name=f"{PREFIX}_{SUBJECT}_{uuid.uuid4()}") as _:
 		accuracy = sum([1 for question, answer in zip(questions, answers) if question.correct.lower() == answer.lower()]) / len(questions)
 		mlflow.log_param("accuracy", accuracy)
 		dict_to_table = {
@@ -59,7 +89,7 @@ if __name__ == "__main__":
 		if filename.endswith('.csv'):
 			print(f"Processing {filename} - {100*(i+1)/len(os.listdir(f'data/{SPLIT}')):.2f}%")
 			path = f"data/{SPLIT}/{filename}"
-			asyncio.run(main(path, filename[:-4]))
+			asyncio.run(main(path, filename[:-4], total_runs=TOTAL_RUNS))
 			print(f"Finished {filename}")
 			break
 

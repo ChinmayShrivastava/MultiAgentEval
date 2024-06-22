@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/560598443117755941/795e7a5b3dcc4656b6fa9a52776805da/artifacts
+end_time: 1719022831083
+entry_point_name: ''
+experiment_id: '560598443117755941'
+lifecycle_stage: active
+run_id: 795e7a5b3dcc4656b6fa9a52776805da
+run_name: virology_9452f9cf-0e37-47ae-990c-c6825501e50b
+run_uuid: 795e7a5b3dcc4656b6fa9a52776805da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719022831066
+status: 3
+tags: []
+user_id: chinmay
