@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/472027273416396635/8f353251fb4a4ff8a40e3b13136547cb/artifacts
+deleted_time: 1719056463212
+end_time: 1719033470543
+entry_point_name: ''
+experiment_id: '472027273416396635'
+lifecycle_stage: deleted
+run_id: 8f353251fb4a4ff8a40e3b13136547cb
+run_name: majority_vote_high_school_physics_a59cfd51-42e5-4eb0-ab85-674b5a0811d5
+run_uuid: 8f353251fb4a4ff8a40e3b13136547cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719033470503
+status: 3
+tags: []
+user_id: anthonyhumay

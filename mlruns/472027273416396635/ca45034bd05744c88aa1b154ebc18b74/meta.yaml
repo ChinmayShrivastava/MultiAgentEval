@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/472027273416396635/ca45034bd05744c88aa1b154ebc18b74/artifacts
+end_time: 1719061756306
+entry_point_name: ''
+experiment_id: '472027273416396635'
+lifecycle_stage: active
+run_id: ca45034bd05744c88aa1b154ebc18b74
+run_name: majority_vote_college_chemistry_5d87d95c-684c-4439-94a1-ecc58cef2c3b
+run_uuid: ca45034bd05744c88aa1b154ebc18b74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719061756252
+status: 3
+tags: []
+user_id: anthonyhumay

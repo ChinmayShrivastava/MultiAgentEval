@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/472027273416396635/ee67eb2d2f5e4fd09bb83c0c9e0aba66/artifacts
+end_time: 1719057589193
+entry_point_name: ''
+experiment_id: '472027273416396635'
+lifecycle_stage: active
+run_id: ee67eb2d2f5e4fd09bb83c0c9e0aba66
+run_name: majority_vote_abstract_algebra_84244037-1aaa-4011-9d27-d97f3e5e9add
+run_uuid: ee67eb2d2f5e4fd09bb83c0c9e0aba66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719057589135
+status: 3
+tags: []
+user_id: anthonyhumay

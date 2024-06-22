@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/472027273416396635/c843137dd0de422eb0bb02ed8955c013/artifacts
+end_time: 1719057073164
+entry_point_name: ''
+experiment_id: '472027273416396635'
+lifecycle_stage: active
+run_id: c843137dd0de422eb0bb02ed8955c013
+run_name: majority_vote_electrical_engineering_b1b10deb-bddd-4398-bab2-f28e44e20a03
+run_uuid: c843137dd0de422eb0bb02ed8955c013
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719057073099
+status: 3
+tags: []
+user_id: anthonyhumay
