@@ -5,12 +5,13 @@ import uuid
 import mlflow
 import tqdm
 from llama_index.llms.openai import OpenAI
+from llama_index.llms.anthropic import Anthropic
 from prompts import DUP_GENERATE_ANSWER, GENERATE_HINTS
 from pydantic import BaseModel
 import dspy 
 
-DEFAULT_MODEL = 'gpt-4o'
-BATCH_SIZE = 100
+DEFAULT_MODEL = 'claude-3-5-sonnet-20240620'
+BATCH_SIZE = 1
 
 class MMLU(BaseModel):
     question: str
@@ -22,7 +23,7 @@ class DUPagent:
         self,
         llm: OpenAI = None,
     ):
-        self.llm = llm or OpenAI(model=DEFAULT_MODEL)
+        self.llm = llm or Anthropic(model=DEFAULT_MODEL)
 
         self._question = None
 
@@ -68,7 +69,7 @@ class DUPagent:
             _answers += f"{chr(65+i)}. {answer}\n"
         _prompt = DUP_GENERATE_ANSWER.format(question=question, options=_answers, hints=hints)
         completions = []
-        for _ in range(5):
+        for _ in range(3):
             res = await self.llm.acomplete(_prompt)
             reason, answer = self.parse_response(res.text)
             data = {

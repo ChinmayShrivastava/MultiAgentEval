@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/472027273416396635/eb8242cc1ea842a1a4b0a42269c8cd40/artifacts
+deleted_time: 1719177810887
+end_time: 1719087809747
+entry_point_name: ''
+experiment_id: '472027273416396635'
+lifecycle_stage: deleted
+run_id: eb8242cc1ea842a1a4b0a42269c8cd40
+run_name: claude-3-5-sonnet-majority_vote_global_facts_test_88f28ef0-9d7d-488d-b1b9-12c7540ff0bb
+run_uuid: eb8242cc1ea842a1a4b0a42269c8cd40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719087809702
+status: 3
+tags: []
+user_id: anthonyhumay

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/472027273416396635/b120ff4d17d04d6497305a0ce4f0f057/artifacts
+end_time: 1719174446395
+entry_point_name: ''
+experiment_id: '472027273416396635'
+lifecycle_stage: active
+run_id: b120ff4d17d04d6497305a0ce4f0f057
+run_name: claude-3-5-sonnet-majority_vote_virology_test_f7163b23-6dbf-49b9-80ba-bb240437af52
+run_uuid: b120ff4d17d04d6497305a0ce4f0f057
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719174446323
+status: 3
+tags: []
+user_id: anthonyhumay

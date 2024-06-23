@@ -9,9 +9,9 @@ from DUPagent import MMLU, arun_eval
 MLFLOW_TRACKING_URI = "http://127.0.0.1:5000"
 MLFLOW_EXPERIMENT_NAME = "DUP"
 SUBJECT="high_school_physics"
-PREFIX = "majority_vote"
+PREFIX = "claude-3-5-sonnet-majority_vote"
 SPLIT="test"
-TOTAL_RUNS=5
+TOTAL_RUNS=1
 
 def getdf(path):
 	return pd.read_csv(path, names=['question', 'A', 'B', 'C', 'D', 'answer'])
@@ -64,7 +64,7 @@ async def main(path, filename, total_runs=1):
 			_answer.append(all_answers[j][i])
 		answers.append(max(set(_answer), key=_answer.count))
 
-	with mlflow.start_run(run_name=f"{PREFIX}_{SUBJECT}_{uuid.uuid4()}") as _:
+	with mlflow.start_run(run_name=f"{PREFIX}_{filename}_{uuid.uuid4()}") as _:
 		accuracy = sum([1 for question, answer in zip(questions, answers) if question.correct.lower() == answer.lower()]) / len(questions)
 		mlflow.log_param("accuracy", accuracy)
 		dict_to_table = {
@@ -84,14 +84,12 @@ if __name__ == "__main__":
 	import os
 
 	for i, filename in enumerate(os.listdir(f'data/{SPLIT}')):
-		if SUBJECT not in filename:
-			continue
-		if filename.endswith('.csv'):
+		# if filename in ["college_mathematics_test.csv", "machine_learning_test.csv", "college_computer_science_test.csv", "elementary_mathematics_test.csv", "security_studies_test.csv", "virology_test.csv", "global_facts_test.csv", "abstract_algebra_test.csv", "formal_logic_test.csv", "professional_law_test.csv", "college_chemistry_test.csv", "econometrics_test.csv", "high_school_statistics_test.csv", "electrical_engineering_test.csv"]:
+		if filename in ["college_mathematics_test.csv", "machine_learning_test.csv", "college_computer_science_test.csv", "elementary_mathematics_test.csv", "security_studies_test.csv", "college_chemistry_test.csv", "econometrics_test.csv", "high_school_statistics_test.csv"]:
 			print(f"Processing {filename} - {100*(i+1)/len(os.listdir(f'data/{SPLIT}')):.2f}%")
 			path = f"data/{SPLIT}/{filename}"
 			asyncio.run(main(path, filename[:-4], total_runs=TOTAL_RUNS))
 			print(f"Finished {filename}")
-			break
 
 	# async def process_file(filename):
 	# 	if filename.endswith('.csv') and not check_file_processed(filename[:-4]):

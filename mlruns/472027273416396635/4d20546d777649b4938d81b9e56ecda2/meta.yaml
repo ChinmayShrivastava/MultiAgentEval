@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/472027273416396635/4d20546d777649b4938d81b9e56ecda2/artifacts
+end_time: 1719172925041
+entry_point_name: ''
+experiment_id: '472027273416396635'
+lifecycle_stage: active
+run_id: 4d20546d777649b4938d81b9e56ecda2
+run_name: claude-3-5-sonnet-majority_vote_electrical_engineering_test_5b5901db-43a1-4f43-b037-c16003e081b7
+run_uuid: 4d20546d777649b4938d81b9e56ecda2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719172925003
+status: 3
+tags: []
+user_id: anthonyhumay
