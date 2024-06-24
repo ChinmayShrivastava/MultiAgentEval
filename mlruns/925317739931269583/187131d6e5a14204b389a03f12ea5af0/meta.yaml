@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/925317739931269583/187131d6e5a14204b389a03f12ea5af0/artifacts
+end_time: 1719206437262
+entry_point_name: ''
+experiment_id: '925317739931269583'
+lifecycle_stage: active
+run_id: 187131d6e5a14204b389a03f12ea5af0
+run_name: base_4o_human_sexuality_test_bd78494c-b643-465a-830a-9f8e0522c389
+run_uuid: 187131d6e5a14204b389a03f12ea5af0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719206437204
+status: 3
+tags: []
+user_id: anthonyhumay

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/925317739931269583/b7eef4f2ae49486f86b1fb8b86527e0d/artifacts
+end_time: 1719192059605
+entry_point_name: ''
+experiment_id: '925317739931269583'
+lifecycle_stage: active
+run_id: b7eef4f2ae49486f86b1fb8b86527e0d
+run_name: base_4o_college_medicine_test_44c62424-bc7b-45c6-845d-3c5df474371a
+run_uuid: b7eef4f2ae49486f86b1fb8b86527e0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719192059547
+status: 3
+tags: []
+user_id: anthonyhumay

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/925317739931269583/51b881c7840f4aa7815460cbcbb6fb77/artifacts
+end_time: 1719194617841
+entry_point_name: ''
+experiment_id: '925317739931269583'
+lifecycle_stage: active
+run_id: 51b881c7840f4aa7815460cbcbb6fb77
+run_name: base_4o_world_religions_test_06c16967-bc54-4cbb-9497-07e5f79d4d8c
+run_uuid: 51b881c7840f4aa7815460cbcbb6fb77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719194617778
+status: 3
+tags: []
+user_id: anthonyhumay

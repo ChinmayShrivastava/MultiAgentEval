@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/925317739931269583/afeb2fb4207c43faa358708d70485e5b/artifacts
+end_time: 1719198804846
+entry_point_name: ''
+experiment_id: '925317739931269583'
+lifecycle_stage: active
+run_id: afeb2fb4207c43faa358708d70485e5b
+run_name: base_4o_medical_genetics_test_b6808f96-f9f5-464e-a4c8-ba6ed747a090
+run_uuid: afeb2fb4207c43faa358708d70485e5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719198804784
+status: 3
+tags: []
+user_id: anthonyhumay

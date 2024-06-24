@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/925317739931269583/f45884894a0542d99c64837aacaace74/artifacts
+end_time: 1719212260674
+entry_point_name: ''
+experiment_id: '925317739931269583'
+lifecycle_stage: active
+run_id: f45884894a0542d99c64837aacaace74
+run_name: base_4o_high_school_psychology_test_8db1c10d-a85f-454f-8351-20254d1f60c5
+run_uuid: f45884894a0542d99c64837aacaace74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719212260604
+status: 3
+tags: []
+user_id: anthonyhumay

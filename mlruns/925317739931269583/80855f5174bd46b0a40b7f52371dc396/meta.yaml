@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/925317739931269583/80855f5174bd46b0a40b7f52371dc396/artifacts
+end_time: 1719198094341
+entry_point_name: ''
+experiment_id: '925317739931269583'
+lifecycle_stage: active
+run_id: 80855f5174bd46b0a40b7f52371dc396
+run_name: base_4o_professional_law_test_4c109655-6ac6-4109-9f76-028d2767f869
+run_uuid: 80855f5174bd46b0a40b7f52371dc396
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719198094244
+status: 3
+tags: []
+user_id: anthonyhumay

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/925317739931269583/7aaa787835134eea8c865ec7cad4dfc5/artifacts
+end_time: 1719193318367
+entry_point_name: ''
+experiment_id: '925317739931269583'
+lifecycle_stage: active
+run_id: 7aaa787835134eea8c865ec7cad4dfc5
+run_name: base_4o_moral_disputes_test_982bdaed-eead-4c96-8dd2-ea2187e77269
+run_uuid: 7aaa787835134eea8c865ec7cad4dfc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719193318297
+status: 3
+tags: []
+user_id: anthonyhumay
