@@ -8,7 +8,7 @@ from DUPagent import MMLU, arun_eval
 
 MLFLOW_TRACKING_URI = "http://127.0.0.1:5000"
 MLFLOW_EXPERIMENT_NAME = "DUP"
-SUBJECT="high_school_physics"
+SUBJECT="virology"
 PREFIX = "majority_vote"
 SPLIT="test"
 TOTAL_RUNS=5
