@@ -27,8 +27,9 @@ EVALUATE_PROMPT_RESPONSE=(
 )
 
 UPDATE_PROMPT_FROM_EVALUATION=(
-	"Based on the feedback provided, update the prompt to improve the robustness of the prompt. \n"
-	"Please make sure to address all the feedback provided. \n"
+	"Based on the feedback generated for the prompt and the response it generated, update the prompt to improve the robustness and performance of the prompt. \n"
+	"Please make sure to address and incorporate all the feedback provided. \n"
+    "Ensure that the prompt is also configured to output reasoning as well as a letter for an answer, not the answer itself. \n"
 	"Initial Prompt:\n"
 	"{prompt}\n"
 	"Feedback:\n"

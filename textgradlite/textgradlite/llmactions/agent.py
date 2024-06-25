@@ -91,7 +91,7 @@ class TextGradLiteAgent():
             self
         ) -> str:
         assert self._current_feedback, "Feedback is not set"
-        return self.llm.complete(UPDATE_PROMPT_FROM_EVALUATION.format(
+        return self.evaluator.complete(UPDATE_PROMPT_FROM_EVALUATION.format(
             prompt=self._current_prompt,
             feedback=self._current_feedback
         )).text
@@ -100,7 +100,7 @@ class TextGradLiteAgent():
             self
         ) -> str:
         assert self._current_feedback, "Feedback is not set"
-        res = await self.llm.acomplete(UPDATE_PROMPT_FROM_EVALUATION.format(
+        res = await self.evaluator.acomplete(UPDATE_PROMPT_FROM_EVALUATION.format(
             prompt=self._current_prompt,
             feedback=self._current_feedback
         ))
