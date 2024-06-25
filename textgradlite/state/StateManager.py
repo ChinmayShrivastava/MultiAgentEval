@@ -7,9 +7,9 @@ import json
 class StateManager:
     def __init__(
         self,
-        state
+        state = None
     ):
-        self.state = state
+        self.state = state if state else eg_state
 
         self._current_iteration = 0
 
@@ -36,11 +36,32 @@ class StateManager:
     
     @property
     def current_iteration(self):
-        return self._current_iteration
+        if self._current_iteration in self.state["iterations"]:
+            return self.state["iterations"][self._current_iteration]
+        else:
+            self.add_iteration(None, None)
+            return self.state["iterations"][self._current_iteration]
     
-    def add_iteration(self, output, evaluation):
+    def add_iteration(self):
         self.state["iterations"][self._current_iteration] = {
-            "output": output,
-            "evaluation": evaluation
+            "initial_prompt": "",
+            "response": "",
+            "feedback": "",
+            "updated_prompt": "",
         }
+
+    def add_initial_prompt(self, prompt):
+        self.state["iterations"][self._current_iteration]["initial_prompt"] = prompt
+
+    def add_response(self, response):
+        self.state["iterations"][self._current_iteration]["response"] = response
+
+    def add_feedback(self, feedback):
+        self.state["iterations"][self._current_iteration]["feedback"] = feedback
+
+    def add_updated_prompt(self, prompt):
+        self.state["iterations"][self._current_iteration]["updated_prompt"] = prompt
+
+    def next_iteration(self):
         self._current_iteration += 1
+        return self.current_iteration

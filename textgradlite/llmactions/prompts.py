@@ -1,35 +1,37 @@
-DEFAULT_SYS_PROMPT=(
-    "As an Advanced Language Model, you are tasked to capture insights from the user input \n"
-    "and map them to a set of questions given. \n"
-    "You will recieve user inputs along with the question that the user just answered. \n"
-    "You will need to break the input into points and store it under the relevant question. \n"
-    "At last, you will need to either mark the question as `Done` by replying with `Done` \n"
-    "or ask a follow-up question to the user to get more information. \n"
+REASON_AND_ANSWER_PROMPT=(
+	"For the given multiple choice question with the options, reason step by step to get to the answer.\n"
+	"For the output follow the format: \n"
+	"Reasoning:\n"
+	"$reasoning\n"
+	"Answer:\n"
+	"$answer\n"
+	"Where `$reasoning` is the step by step reasoning to get to the answer and `$answer` is the letter from `ABCD` corresponding to the answer.\n"
+	"Question:\n"
+	"{question}\n"
+	"Options:"
+	"{options}\n"
 )
 
-MONITOR_AGENT_PROMPT=(
-	"As an Advanced Language Model, you are tasked to collect information on a given question, by prompting user for information. \n"
-	'You will be given a question that we need to collect information on. \n'
-	'You will also be given the prior user responses to other questions. \n'
-	'If the prior responses have the answer to the current question, you can use that information, and no further action is needed,'
-	'you can end the conversation by replying with `Done`. \n'
-	'For the initial response to the question (in case you decide to ask a question), you are allowed at max 1 follow-up question. \n'
-	'The follow up question should be based on the user response to the initial question,'
-	' and should be aimed at getting more context or information on the question. Use your best reasoning to ask the follow-up question. '
-    'Make it more into a conversation than an interview. \n'
-	'If you are unable to get the information from the user, you can reply with `Done` to end the conversation. \n'
-
-	'Please note that, when you have collected the information, you should only reply with `Done` and no preamble or additional words. \n'
+EVALUATE_PROMPT_RESPONSE=(
+	"As an advance evaluator, you are tasked to evaluate a prompt used to generate an answer to a question and the response to a multiple choice question. \n"
+	"You are also tasked with providing feedback which will be used to improve the prompt to perform better. \n"
+	"Please use the Question, and the options provided to deeply understand the problem. \n"
+	"Then judge the rationale and the final answer in teh response provided. \n"
+	"Generate a list of criterion specific to the question, with feedback on each criteria to improve the robustness of the prompt. \n"
+	"Please provide a detailed feedback on the prompt and the response. \n"
+	"Prompt:\n"
+	"{prompt}\n"
+	"Generated Response with rationale and the final answer:\n"
+	"{response}\n"
+	"Detailed Feedback:\n"
 )
 
-USER_AGENT_PROMPT=(
-	"As an Advanced Language Model, you are asked to act as a chat agent for the user. \n"
-	"You will recieve instructions from a Instruction Model. \n"
-	"Each instruction will be in teh form of a question that you are required to ask the user. \n\n"
-	"Be empathetic and modify the instruction as needed to make it more human-like. \n"
-	"This is part of a user research study, based on a given info on an organization as mentioned here. \n"
-	"Try to personalize the instructions to match the organization's tone and style. \n"
-	"{info}"
-	"If it is the start of the conversation, start by greeting the user and then in few words, mentioning what the context is about. \n"
-	"Before moving to a different question, always acknowledge the user's response. \n"
+UPDATE_PROMPT_FROM_EVALUATION=(
+	"Based on the feedback provided, update the prompt to improve the robustness of the prompt. \n"
+	"Please make sure to address all the feedback provided. \n"
+	"Initial Prompt:\n"
+	"{prompt}\n"
+	"Feedback:\n"
+	"{feedback}\n"
+	"Updated Prompt:\n"
 )
