@@ -8,8 +8,8 @@ REASON_AND_ANSWER_PROMPT=(
 	"Where `$reasoning` is the step by step reasoning to get to the answer and `$answer` is the letter from `ABCD` corresponding to the answer.\n"
 	"Question:\n"
 	"{question}\n"
-	"Options:"
-	"{options}\n"
+	"Options:\n"
+	"{options}"
 )
 
 EVALUATE_PROMPT_RESPONSE=(

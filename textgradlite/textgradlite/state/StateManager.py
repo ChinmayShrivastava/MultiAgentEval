@@ -39,7 +39,7 @@ class StateManager:
         if self._current_iteration in self.state["iterations"]:
             return self.state["iterations"][self._current_iteration]
         else:
-            self.add_iteration(None, None)
+            self.add_iteration()
             return self.state["iterations"][self._current_iteration]
     
     def add_iteration(self):
@@ -51,6 +51,8 @@ class StateManager:
         }
 
     def add_initial_prompt(self, prompt):
+        if self._current_iteration not in self.state["iterations"]:
+            self.add_iteration()
         self.state["iterations"][self._current_iteration]["initial_prompt"] = prompt
 
     def add_response(self, response):

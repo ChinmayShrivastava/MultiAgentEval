@@ -5,6 +5,7 @@ from textgradlite.state.StateManager import StateManager
 from textgradlite.DEFAULTS import DEFAULT_OPENAI_MODEL, DEFAULT_EVALUATOR_MODEL, MAX_USER_AGENT_ITERATIONS
 
 from pydantic import BaseModel
+import logging
 
 class MMLU(BaseModel):
 	question: str
@@ -37,13 +38,16 @@ class TextGradLiteAgent():
         self._question = question.question
         self._answers = question.answers
         self._correct = question.correct
-        self.state_manager.add_initial_prompt(REASON_AND_ANSWER_PROMPT.format(
+        self._current_prompt = REASON_AND_ANSWER_PROMPT.format(
             question=question.question,
             options=self._parse_options(question.answers)
-        ))
-        self._current_prompt = self.state_manager.current_iteration["initial_prompt"]
+        )
         self._current_response = None
         self._current_feedback = None
+
+        if self.verbose:
+            logging.basicConfig(level=logging.INFO)
+            logging.info(f"Initalized TextGradLiteAgent with question: {self._question[:50]}...")
 
     def _parse_options(
             self, 
@@ -105,6 +109,7 @@ class TextGradLiteAgent():
     def iterate(
             self
         ) -> dict:
+        self.state_manager.add_initial_prompt(self._current_prompt)
         self._current_response = self.generate_response()
         self.state_manager.add_response(self._current_response)
         self._current_feedback = self.evaluate_response()
@@ -116,6 +121,7 @@ class TextGradLiteAgent():
     async def aiterate(
             self
         ) -> dict:
+        self.state_manager.add_initial_prompt(self._current_prompt)
         self._current_response = await self.agenerate_response()
         self.state_manager.add_response(self._current_response)
         self._current_feedback = await self.aevaluate_response(self._current_response)
@@ -127,9 +133,11 @@ class TextGradLiteAgent():
     def run(
             self
         ) -> dict:
+        if self.verbose:
+            logging.info("Running TextGradLiteAgent")
         for i in range(self.max_iterations):
             if self.verbose:
-                print(f"Iteration {i}")
+                logging.info(f"Iteration: {i+1}")
             self.iterate()
             if i == self.max_iterations - 1:
                 break
