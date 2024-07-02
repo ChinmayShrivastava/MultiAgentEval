@@ -20,7 +20,7 @@ async def eval(path):
 	df = getdf(path)
 	# questions = [MMLU(question=question, answers=[A, B, C, D], correct=answer) for question, A, B, C, D, answer in df.values]
 	questions = []
-	for question, A, B, C, D, answer in df.values:
+	for question, A, B, C, D, answer in df.values[:500]:
 		try:
 			questions.append(MMLU(question=str(question), answers=[str(A), str(B), str(C), str(D)], correct=str(answer)))
 		except:
@@ -84,7 +84,7 @@ if __name__ == "__main__":
 	import os
 
 	for i, filename in enumerate(os.listdir(f'data/{SPLIT}')):
-		if filename in ["security_studies_test.csv", "college_chemistry_test.csv", "econometrics_test.csv"]: #"professional_law_test.csv"
+		if filename in ["professional_law_test.csv"]: #"professional_law_test.csv"
 			print(f"Processing {filename} - {100*(i+1)/len(os.listdir(f'data/{SPLIT}')):.2f}%")
 			path = f"data/{SPLIT}/{filename}"
 			asyncio.run(main(path, filename[:-4], total_runs=TOTAL_RUNS))
