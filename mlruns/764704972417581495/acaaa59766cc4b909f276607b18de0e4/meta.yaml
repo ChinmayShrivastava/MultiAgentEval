@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/764704972417581495/acaaa59766cc4b909f276607b18de0e4/artifacts
+end_time: 1719889583154
+entry_point_name: ''
+experiment_id: '764704972417581495'
+lifecycle_stage: active
+run_id: acaaa59766cc4b909f276607b18de0e4
+run_name: _virology_96f8852c-a0c5-414c-8ddf-5be71c31c768
+run_uuid: acaaa59766cc4b909f276607b18de0e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719889583120
+status: 3
+tags: []
+user_id: anthonyhumay

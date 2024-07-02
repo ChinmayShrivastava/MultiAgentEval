@@ -5,12 +5,19 @@ import uuid
 import mlflow
 import tqdm
 from llama_index.llms.openai import OpenAI
-from prompts import DUP_GENERATE_ANSWER, GENERATE_HINTS
+from prompts import DEFAULT_ANSWER_PROMPT
 from pydantic import BaseModel
 import dspy 
+from openai import OpenAI
+import os
 
 DEFAULT_MODEL = 'gpt-4o'
-BATCH_SIZE = 100
+BATCH_SIZE = 1
+
+client = OpenAI(
+    api_key=os.environ.get("MARTIAN_API_KEY"),  # defaults to os.environ.get("OPENAI_API_KEY")
+    base_url="https://withmartian.com/api/openai/v1",
+)
 
 class MMLU(BaseModel):
     question: str
@@ -20,9 +27,9 @@ class MMLU(BaseModel):
 class DUPagent:
     def __init__(
         self,
-        llm: OpenAI = None,
+        # llm: OpenAI = None,
     ):
-        self.llm = llm or OpenAI(model=DEFAULT_MODEL)
+        # self.llm = llm or OpenAI(model=DEFAULT_MODEL)
 
         self._question = None
 
@@ -38,47 +45,55 @@ class DUPagent:
     def question(self, question: MMLU):
         self._question = question
     
-    async def generate_hints(self, question: MMLU) -> str:
-        _prompt = GENERATE_HINTS.format(question=question.question)
-        res = await self.llm.acomplete(_prompt)
-        return res.text
+    # async def generate_hints(self, question: MMLU) -> str:
+    #     _prompt = GENERATE_HINTS.format(question=question.question)
+    #     res = await self.llm.acomplete(_prompt)
+    #     return res.text
     
     async def generate_answer(
         self,
         question: str,
         answers: list[str],
-        hints: str,
     ) -> str:
         _answers = ""
         for i, answer in enumerate(answers):
             _answers += f"{chr(65+i)}. {answer}\n"
-        _prompt = DUP_GENERATE_ANSWER.format(question=question, options=_answers, hints=hints)
-        res = await self.llm.acomplete(_prompt)
-        reason, answer = self.parse_response(res.text)
+        _prompt = DEFAULT_ANSWER_PROMPT.format(question=question, options=_answers)
+        # res = await self.llm.acomplete(_prompt)
+        res = client.chat.completions.create(
+            model="router",
+            messages=[
+                {
+                    "role": "system",
+                    "content": _prompt,
+                }
+            ],
+        )
+        reason, answer = self.parse_response(res.choices[0].message.content)
         return reason, answer
 
-    async def generate_answer_majority_vote(
-        self,
-        question: str,
-        answers: list[str],
-        hints: str,
-    ) -> str:
-        _answers = ""
-        for i, answer in enumerate(answers):
-            _answers += f"{chr(65+i)}. {answer}\n"
-        _prompt = DUP_GENERATE_ANSWER.format(question=question, options=_answers, hints=hints)
-        completions = []
-        for _ in range(5):
-            res = await self.llm.acomplete(_prompt)
-            reason, answer = self.parse_response(res.text)
-            data = {
-                "rationale": reason,
-                "answer": answer
-            }
-            completions.append(data)
-        ensemble = dspy.majority(dspy.Completions(completions))
+    # async def generate_answer_majority_vote(
+    #     self,
+    #     question: str,
+    #     answers: list[str],
+    #     hints: str,
+    # ) -> str:
+    #     _answers = ""
+    #     for i, answer in enumerate(answers):
+    #         _answers += f"{chr(65+i)}. {answer}\n"
+    #     _prompt = DUP_GENERATE_ANSWER.format(question=question, options=_answers, hints=hints)
+    #     completions = []
+    #     for _ in range(5):
+    #         res = await self.llm.acomplete(_prompt)
+    #         reason, answer = self.parse_response(res.text)
+    #         data = {
+    #             "rationale": reason,
+    #             "answer": answer
+    #         }
+    #         completions.append(data)
+    #     ensemble = dspy.majority(dspy.Completions(completions))
 
-        return ensemble.rationale, ensemble.answer
+    #     return ensemble.rationale, ensemble.answer
 
     def parse_response(self, response: str) -> str:
         try:
@@ -106,16 +121,9 @@ Alphabet for the correct Answer:""").text
         return r, a
     
     async def get_answer(self, question: MMLU) -> str:
-        hints = await self.generate_hints(question)
-        reason, answer = await self.generate_answer(question.question, question.answers, hints)
-        # with mlflow.start_run(run_name=f"random_{uuid.uuid4()}") as _:
-        #     mlflow.log_param("question", question.question)
-        #     mlflow.log_param("answers", question.answers)
-        #     mlflow.log_param("hints", hints)
-        #     mlflow.log_param("correct", question.correct)
-        #     mlflow.log_param("reason", reason)
-        #     mlflow.log_param("answer", answer)
-        return reason, answer, hints
+        # hints = await self.generate_hints(question)
+        reason, answer = await self.generate_answer(question.question, question.answers)
+        return reason, answer, ""
     
     async def generate_answers(self, questions: list[MMLU], batch=BATCH_SIZE) -> tuple[list[str], list[str]]:
         answers = []
